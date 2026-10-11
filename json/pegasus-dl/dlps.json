@@ -3,6 +3,220 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA26012",
+      "title": "Abiotic Factor",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/E1x3AWDnXGyk/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/iXMrQ"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1023/857950e3d659c14025f00df668cc9d853edaa3e0ae592e94.png?w=260",
+      "description": "Region: EUR\nRelease note: Dump &amp; backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/abiotic-factor-ps5/"
+    },
+    {
+      "titleId": "PPSA27623",
+      "title": "ASTRONEER",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/k0embbqLymVb/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/MFDBw"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202112/2003/nbujA0GRPoK5H6SXWKVuPMsQ.png?w=260",
+      "description": "Region: EUR\nRelease note: Dump &amp; backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/astroneer-ps5/"
+    },
+    {
+      "titleId": "PPSA38272",
+      "title": "Onimusha Dawn of Dreams",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/N2p3DPw283Ma/file"
+        },
+        {
+          "name": "USA 4.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/qLQ36qLREm19/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/ucvNw"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/23HJHk"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/3004/d6b6f2ee4bdb5db2a32928b998f7f26e55e21f8f1b447345.png?w=260",
+      "description": "Region: USA\nRelease note: Dump &amp; backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/onimusha-dawn-of-dreams-ps5/"
+    },
+    {
+      "titleId": "PPSA17456",
+      "title": "Firefighting Simulator Ignite",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/0rpmvpPvJzRg/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/gXeGOAk2N3Aa/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/27JA9I"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/yemFU"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1911/44718863baaf28732bac7f9914aa06a1d7251364d3393f0d.png?w=260",
+      "description": "Region: EUR\nRelease note: Dump &amp; backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/firefighting-simulator-ignite-ps5/"
+    },
+    {
+      "titleId": "PPSA03706",
+      "title": "My Friend Peppa Pig",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/Pbe3PaRp2zlX/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/QH43U"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1209/6fe8fb982c26a8360ba1ea3f9bc5e6d46eb1a386dbd49a93.png?w=260",
+      "description": "Region: EUR\nRelease note: Dump &amp; backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/my-friend-peppa-pig-ps5/"
+    },
+    {
+      "titleId": "PPSA35154",
+      "title": "Hello Neighbor",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/rk9zKWjxyz0l/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1rBkh6"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA10960_00/2/i_5f3957cbc83bf8a4755784e61f44bad551dbcb6890cc3e1b1ce93fe3deae2427/i/icon0.png?w=260",
+      "description": "Region: EUR\nRelease note: Dump &amp; backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/hello-neighbor-ps5/"
+    },
+    {
+      "titleId": "PPSA14431",
+      "title": "Ratchet Clank Size Matters",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/qPez44XnpzOY/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/mZDeq"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/2123/c261a0f006b6c663003a793fcccd2903ffc77732d283ea49.png?w=260",
+      "description": "Region: USA\nRelease note: Dump &amp; backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/ratchet-clank-size-matters-ps5/"
+    },
+    {
+      "titleId": "PPSA14382",
+      "title": "Disney Pixar Buzz Lightyear of Star Command",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/1RgzR9ZbX3bp/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/eVVzs"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA14382_70544a7db90b0bb091103246d5eb1dd45f5725445f39409dfd040567bda57393/icon0.webp",
+      "description": "Region: EUR\nRelease note: Dump &amp; backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/disney-pixar-buzz-lightyear-of-star-command-ps5/"
+    },
+    {
+      "titleId": "PPSA14325",
+      "title": "Jak and Daxter The Lost Frontier",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/XkrzoKlLPzBO/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1vDbYe"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0921/75a933107cc6ba3447e87e42034e823d9cb45643641f0c9f.png?w=260",
+      "description": "Region: USA\nRelease note: Dump &amp; backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/jak-and-daxter-the-lost-frontier-ps5/"
+    },
+    {
+      "titleId": "PPSA09695",
+      "title": "Daxter",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/Y2xm0o9nKGRO/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/qb4WO"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0521/d1a30651f70e8bbf7057e36ee40955cc215e450df3c80586.png?w=260",
+      "description": "Region: USA\nRelease note: Dump &amp; backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/daxter-ps5/"
+    },
+    {
+      "titleId": "PPSA02429",
+      "title": "Human Fall Flat",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/0Kezk7vLpzD1/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1n9tpY"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2414/cee9b1f4c4e68b0a6a0579eec34888a69a1082194b109a42.png?w=260",
+      "description": "Region: EUR\nRelease note: Dump by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/human-fall-flat-ps5/"
+    },
+    {
       "titleId": "PPSA25025",
       "title": "POOLS",
       "downloadLinks": [
@@ -259,400 +473,6 @@
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2509/b304ac4fea73474605efb22161edd7943565533ec3dab802.png?w=260",
       "description": "Region: EUR\nRelease note: Works on 12.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/hot-wheels-infinite-rush-deluxe-edition-ps5/"
-    },
-    {
-      "titleId": "PPSA16342",
-      "title": "Cricket 24",
-      "downloadLinks": [
-        {
-          "name": "EUR 7.xx Base - Akirabox part 1",
-          "url": "https://akirabox.com/LJlGn70qlm15/file"
-        },
-        {
-          "name": "EUR 7.xx Base - Akirabox part 2",
-          "url": "https://akirabox.com/0PdzyXaWM3eA/file"
-        },
-        {
-          "name": "EUR 7.xx Base - Akirabox part 3",
-          "url": "https://akirabox.com/wgWGq78qx34o/file"
-        },
-        {
-          "name": "EUR 7.xx Base - Akirabox part 4",
-          "url": "https://akirabox.com/9AqGQZaj8mMn/file"
-        },
-        {
-          "name": "EUR 7.xx Base - Akirabox part 5",
-          "url": "https://akirabox.com/0PdzyXaBM3eA/file"
-        },
-        {
-          "name": "EUR 7.xx Base - Akirabox part 6",
-          "url": "https://akirabox.com/0JgG75JB53oY/file"
-        },
-        {
-          "name": "EUR 7.xx Base - Akirabox part 7",
-          "url": "https://akirabox.com/APVmabjl03Xo/file"
-        },
-        {
-          "name": "EUR 7.xx Base - Rootz part 1",
-          "url": "https://www.rootz.so/d/OByC"
-        },
-        {
-          "name": "EUR 7.xx Base - Rootz part 2",
-          "url": "https://www.rootz.so/d/2Hgxhg"
-        },
-        {
-          "name": "EUR 7.xx Base - Rootz part 3",
-          "url": "https://www.rootz.so/d/1D4QfQ"
-        },
-        {
-          "name": "EUR 7.xx Base - Rootz part 4",
-          "url": "https://www.rootz.so/d/1H6HWy"
-        },
-        {
-          "name": "EUR 7.xx Base - Rootz part 5",
-          "url": "https://www.rootz.so/d/eQmdU"
-        },
-        {
-          "name": "EUR 7.xx Base - Rootz part 6",
-          "url": "https://www.rootz.so/d/1r71Ki"
-        },
-        {
-          "name": "EUR 7.xx Base - Rootz part 7",
-          "url": "https://www.rootz.so/d/aOvlw"
-        },
-        {
-          "name": "EUR 7.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/HIVoaDCxwo"
-        },
-        {
-          "name": "EUR 7.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/KkOem4q0A4"
-        },
-        {
-          "name": "EUR 7.xx Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/NqB7yaix09"
-        },
-        {
-          "name": "EUR 7.xx Base - Vikingfile part 4",
-          "url": "https://vikingfile.com/f/9bt3uhaa6n"
-        },
-        {
-          "name": "EUR 7.xx Base - Vikingfile part 5",
-          "url": "https://vikingfile.com/f/Ool71xK18f"
-        },
-        {
-          "name": "EUR 7.xx Base - Vikingfile part 6",
-          "url": "https://vikingfile.com/f/QPWXP9CMRm"
-        },
-        {
-          "name": "EUR 7.xx Base - Vikingfile part 7",
-          "url": "https://vikingfile.com/f/wkp6jS8uxP"
-        },
-        {
-          "name": "EUR 7.xx Base - 1fichier part 1",
-          "url": "https://1fichier.com/?b9c5ir4t4no3ghw4c760"
-        },
-        {
-          "name": "EUR 7.xx Base - 1fichier part 2",
-          "url": "https://1fichier.com/?sc60ml6l82wzbqwhhic8"
-        },
-        {
-          "name": "EUR 7.xx Base - 1fichier part 3",
-          "url": "https://1fichier.com/?rm01qjd97kwhzkhsq500"
-        },
-        {
-          "name": "EUR 7.xx Base - 1fichier part 4",
-          "url": "https://1fichier.com/?hirwwepe2hv0cirih3hv"
-        },
-        {
-          "name": "EUR 7.xx Base - 1fichier part 5",
-          "url": "https://1fichier.com/?i6nfxu5s6rs24w6n7rc7"
-        },
-        {
-          "name": "EUR 7.xx Base - 1fichier part 6",
-          "url": "https://1fichier.com/?0vvb6mepm9jfgv6y013k"
-        },
-        {
-          "name": "EUR 7.xx Base - 1fichier part 7",
-          "url": "https://1fichier.com/?hcnufr0hliwria64mdbe"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0813/81ab4b5e5fc8aeba84d3ce3fb7aeede9f00bbab93d9c9c60.png?w=260",
-      "description": "Region: EUR\nRelease note: Works on 7.xx and higher\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/cricket-24-ps5/"
-    },
-    {
-      "titleId": "PPSA28824",
-      "title": "Valheim",
-      "downloadLinks": [
-        {
-          "name": "EUR 13.xx Base - Akirabox",
-          "url": "https://akirabox.com/0JgG75JON3oY/file"
-        },
-        {
-          "name": "EUR 13.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/1hAM9w"
-        },
-        {
-          "name": "EUR 13.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/i1GNJxkCBR"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1907/8ab5523289d5a56fd58daf51637fab4eb130e2d32a38dab1.png?w=260",
-      "description": "Region: EUR\nRelease note: Works on 13.xx and higher\nContributor: @SyrenRemix and DLPS Team\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/valheim-ps5/"
-    },
-    {
-      "titleId": "PPSA21703",
-      "title": "Vampire Survivors",
-      "downloadLinks": [
-        {
-          "name": "EUR 9.xx Base - Akirabox",
-          "url": "https://akirabox.com/5pVzNANrp37w/file"
-        },
-        {
-          "name": "EUR 9.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/YVyG8"
-        },
-        {
-          "name": "EUR 9.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/tCWitVYNbW"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1109/a331284fd9dc56ec526e49afd7ee41d7aafa697e947816cf.png?w=260",
-      "description": "Region: EUR\nRelease note: Works on 9.xx and higher\nContributor: @SyrenRemix and DLPS Team\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/vampire-survivors-ps5/"
-    },
-    {
-      "titleId": "PPSA25642",
-      "title": "Clive Barkers Hellraiser Revival Deluxe Edition (DLC)",
-      "downloadLinks": [
-        {
-          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Akirabox part 1",
-          "url": "https://akirabox.com/Y2xm0ol4nGRO/file"
-        },
-        {
-          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Akirabox part 2",
-          "url": "https://akirabox.com/E9Qz9XZLK3OL/file"
-        },
-        {
-          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Akirabox part 3",
-          "url": "https://akirabox.com/LK0G1bdowm91/file"
-        },
-        {
-          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Akirabox part 4",
-          "url": "https://akirabox.com/XkrzoKnP2zBO/file"
-        },
-        {
-          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Rootz part 1",
-          "url": "https://www.rootz.so/d/12Lxqa"
-        },
-        {
-          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Rootz part 2",
-          "url": "https://www.rootz.so/d/16Noi8"
-        },
-        {
-          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Rootz part 3",
-          "url": "https://www.rootz.so/d/2J43TU"
-        },
-        {
-          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Rootz part 4",
-          "url": "https://www.rootz.so/d/1lHk0"
-        },
-        {
-          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/OFqU1yhSw5"
-        },
-        {
-          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/BNcfBDuBDi"
-        },
-        {
-          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/M77dnANBVr"
-        },
-        {
-          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Vikingfile part 4",
-          "url": "https://vikingfile.com/f/uFCE2Du0wY"
-        }
-      ],
-      "category": "dlc",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1809/519956b48e154b9614439f012e7a7bb05130ddbdabf600e7.png?w=260",
-      "description": "Region: EUR\nRelease note: Works on 12.xx and higher This release includes Deluxe Edition content and the following DLC: Here\nContributor: @DUPLEX\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/clive-barkers-hellraiser-revival-deluxe-edition-ps5/"
-    },
-    {
-      "titleId": "PPSA24249",
-      "title": "1348 Ex Voto",
-      "downloadLinks": [
-        {
-          "name": "EUR 11.xx Base - Akirabox part 1",
-          "url": "https://akirabox.com/ex5z25jd83Kq/file"
-        },
-        {
-          "name": "EUR 11.xx Base - Akirabox part 2",
-          "url": "https://akirabox.com/jJD3VDBjOGa5/file"
-        },
-        {
-          "name": "EUR 11.xx Base - Rootz part 1",
-          "url": "https://www.rootz.so/d/2KR9FI"
-        },
-        {
-          "name": "EUR 11.xx Base - Rootz part 2",
-          "url": "https://www.rootz.so/d/1BmlLU"
-        },
-        {
-          "name": "EUR 11.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/oHRbIymQ3l"
-        },
-        {
-          "name": "EUR 11.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/bqgMDc0imM"
-        },
-        {
-          "name": "EUR 11.xx Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/qEUnd3gind#1348"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA24249_16f6978ace1bb1247be8ebd750ee6f0ef9cb2c4f9b76cb0a25d9033cd5700ca2/icon0.webp",
-      "description": "Region: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/1348-ex-voto-ps5/"
-    },
-    {
-      "titleId": "PPSA28603",
-      "title": "Crisol Theater of Idols",
-      "downloadLinks": [
-        {
-          "name": "USA 11.xx Base - Akirabox",
-          "url": "https://akirabox.com/N2p3DPXYk3Ma/file"
-        },
-        {
-          "name": "USA 11.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/2CNRWC"
-        },
-        {
-          "name": "USA 11.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/k9ZZ0CAHcA"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28603_e818c8493ec82cfd12454666aba02cd2a040f5aca1d115a3eb62800d2b0e9fd4/icon0.webp",
-      "description": "Region: USA\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/crisol-theater-of-idols-ps5/"
-    },
-    {
-      "titleId": "PPSA28503",
-      "title": "AILA",
-      "downloadLinks": [
-        {
-          "name": "USA 10.xx Base - Akirabox",
-          "url": "https://akirabox.com/QN9mEq51xm6d/file"
-        },
-        {
-          "name": "USA 10.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/1wG288"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/4ipo7UFGJ3"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28503_c5fa63c9b30c2d53233c1fc22eb7f504fe306e678cb910e1e5e61d17eedf287a/icon0.webp",
-      "description": "Region: USA\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/aila-ps5/"
-    },
-    {
-      "titleId": "PPSA19068",
-      "title": "Crow Country",
-      "downloadLinks": [
-        {
-          "name": "EUR 9.xx Base - Akirabox",
-          "url": "https://akirabox.com/Zvqzl75La3aD/file"
-        },
-        {
-          "name": "EUR 9.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/1sEBGa"
-        },
-        {
-          "name": "EUR 9.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/ygWiwj9oUK"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA19068_fcaae64d6c8edbf274b0d32d1d472071c28a64bd98eded64b839025abfc75174/icon0.webp",
-      "description": "Region: EUR\nRelease note: Works on 9.xx and higher",
-      "downloadSource": "https://dlpsgame.com/crow-country-ps5/"
-    },
-    {
-      "titleId": "PPSA29802",
-      "title": "Plants vs Zombies Replanted",
-      "downloadLinks": [
-        {
-          "name": "USA 13.xx Base - Akirabox",
-          "url": "https://akirabox.com/jJD3VDBJ5Ga5/file"
-        },
-        {
-          "name": "USA 13.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/1i1aBk"
-        },
-        {
-          "name": "USA 13.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/TqPtqHG8RK"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA29802_8a2ba380c37d5be7546e0954a43884e0395b498f4e0ba58a5a1f9db446b57ce3/icon0.webp",
-      "description": "Region: USA\nRelease note: Working 13.xx to 10.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/plants-vs-zombies-replanted-ps5/"
-    },
-    {
-      "titleId": "PPSA30937",
-      "title": "Gunsmith Simulator",
-      "downloadLinks": [
-        {
-          "name": "EUR 13.xx Base - Akirabox",
-          "url": "https://akirabox.com/0JgG75Rpn3oY/file"
-        },
-        {
-          "name": "EUR 13.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/jZnMm"
-        },
-        {
-          "name": "EUR 13.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/i16pJixad3"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA30937_7502021e988ab27e9e12e013fa0c4e9268141bc387eb8b2e8bc2c61a27fb7df0/icon0.webp",
-      "description": "Region: EUR\nRelease note: Working 13.xx to 10.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/gunsmith-simulator-ps5/"
-    },
-    {
-      "titleId": "PPSA21185",
-      "title": "Motorcycle Mechanic Simulator",
-      "downloadLinks": [
-        {
-          "name": "USA 13.xx Base - Akirabox",
-          "url": "https://akirabox.com/M2BGwPvMRmj4/file"
-        },
-        {
-          "name": "USA 13.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/13yzWS"
-        },
-        {
-          "name": "USA 13.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/EyOaJMN81z"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1620/0b0c536695895c3a010b874a83c1e1e4a8f568006fa6a410.png?w=260",
-      "description": "Region: USA\nRelease note: working 13.xx to 8.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM",
-      "downloadSource": "https://dlpsgame.com/motorcycle-mechanic-simulator-2021-ps5/"
     },
     {
       "titleId": "PPSA36581",
@@ -1412,6 +1232,10 @@
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiU0QvZmVNN1Ywc3RUd0xwdmNGY2pIU2k4NlFFbmVMS1k1WUdFZ1BGa0c3MnRoZ3N0eVV3U0NiV0dEbVFKWG1GeEoyUDhZYm1RME9ORithV0FYdSsvR3N5U1JncXYyT2VsQUFFUzZYbW0xQT09IiwiaSI6ImtWVTJaeDRVNmFIVEF5bHciLCJuIjoiRGF0YSJ9"
         },
         {
+          "name": "EUR exFAT 01.000.027 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMmM0b2xlUFM3YWlBS2RXdktTVFJQSjk5MC9Zem5NWHhFUFBPTlNVaTc4cHdKbTNSdER6N0dxcm9MYkM4N1ltS2pIWTAzMDIxdnVjV3g3T05IcWZiL1ZLVEdScW55S0lYR1Z1TEwyTEgiLCJpIjoiSlNwUC9IOERXNjB3eVdqbSIsIm4iOiJBa2lhIn0="
+        },
+        {
           "name": "EUR exFAT 01.000.027 Base - VIKI (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUWZMRlRMQng5WEVlYlVOWGluWVFKQzdWb1c2RTkwYXM2bjZCMG9abmRkdGdQRkNHL1hFK1NRU2pURVhieWxUcEJTR0J0Ri9Cd0l3bnFObnJBM1FFaUVHOGVUOXBaWjNyZTF6RHUydVg4WWI4IiwiaSI6IlN4ZDFheHd2blRBRFVXbk0iLCJuIjoiTXVsdGlQYXJ0cyJ9"
         }
@@ -1580,6 +1404,400 @@
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0212/20c0c83fa588e0cb240362718248e2c27a6d2fdf90016e27.png?w=260",
       "description": "Region: EUR\nRelease note: Working 13.xx to 10.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/carx-street-ps5/"
+    },
+    {
+      "titleId": "PPSA16342",
+      "title": "Cricket 24",
+      "downloadLinks": [
+        {
+          "name": "EUR 7.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/LJlGn70qlm15/file"
+        },
+        {
+          "name": "EUR 7.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/0PdzyXaWM3eA/file"
+        },
+        {
+          "name": "EUR 7.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/wgWGq78qx34o/file"
+        },
+        {
+          "name": "EUR 7.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/9AqGQZaj8mMn/file"
+        },
+        {
+          "name": "EUR 7.xx Base - Akirabox part 5",
+          "url": "https://akirabox.com/0PdzyXaBM3eA/file"
+        },
+        {
+          "name": "EUR 7.xx Base - Akirabox part 6",
+          "url": "https://akirabox.com/0JgG75JB53oY/file"
+        },
+        {
+          "name": "EUR 7.xx Base - Akirabox part 7",
+          "url": "https://akirabox.com/APVmabjl03Xo/file"
+        },
+        {
+          "name": "EUR 7.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/OByC"
+        },
+        {
+          "name": "EUR 7.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/2Hgxhg"
+        },
+        {
+          "name": "EUR 7.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/1D4QfQ"
+        },
+        {
+          "name": "EUR 7.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/1H6HWy"
+        },
+        {
+          "name": "EUR 7.xx Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/eQmdU"
+        },
+        {
+          "name": "EUR 7.xx Base - Rootz part 6",
+          "url": "https://www.rootz.so/d/1r71Ki"
+        },
+        {
+          "name": "EUR 7.xx Base - Rootz part 7",
+          "url": "https://www.rootz.so/d/aOvlw"
+        },
+        {
+          "name": "EUR 7.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/HIVoaDCxwo"
+        },
+        {
+          "name": "EUR 7.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/KkOem4q0A4"
+        },
+        {
+          "name": "EUR 7.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/NqB7yaix09"
+        },
+        {
+          "name": "EUR 7.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/9bt3uhaa6n"
+        },
+        {
+          "name": "EUR 7.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/Ool71xK18f"
+        },
+        {
+          "name": "EUR 7.xx Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/QPWXP9CMRm"
+        },
+        {
+          "name": "EUR 7.xx Base - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/wkp6jS8uxP"
+        },
+        {
+          "name": "EUR 7.xx Base - 1fichier part 1",
+          "url": "https://1fichier.com/?b9c5ir4t4no3ghw4c760"
+        },
+        {
+          "name": "EUR 7.xx Base - 1fichier part 2",
+          "url": "https://1fichier.com/?sc60ml6l82wzbqwhhic8"
+        },
+        {
+          "name": "EUR 7.xx Base - 1fichier part 3",
+          "url": "https://1fichier.com/?rm01qjd97kwhzkhsq500"
+        },
+        {
+          "name": "EUR 7.xx Base - 1fichier part 4",
+          "url": "https://1fichier.com/?hirwwepe2hv0cirih3hv"
+        },
+        {
+          "name": "EUR 7.xx Base - 1fichier part 5",
+          "url": "https://1fichier.com/?i6nfxu5s6rs24w6n7rc7"
+        },
+        {
+          "name": "EUR 7.xx Base - 1fichier part 6",
+          "url": "https://1fichier.com/?0vvb6mepm9jfgv6y013k"
+        },
+        {
+          "name": "EUR 7.xx Base - 1fichier part 7",
+          "url": "https://1fichier.com/?hcnufr0hliwria64mdbe"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0813/81ab4b5e5fc8aeba84d3ce3fb7aeede9f00bbab93d9c9c60.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 7.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/cricket-24-ps5/"
+    },
+    {
+      "titleId": "PPSA28824",
+      "title": "Valheim",
+      "downloadLinks": [
+        {
+          "name": "EUR 13.xx Base - Akirabox",
+          "url": "https://akirabox.com/0JgG75JON3oY/file"
+        },
+        {
+          "name": "EUR 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1hAM9w"
+        },
+        {
+          "name": "EUR 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/i1GNJxkCBR"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1907/8ab5523289d5a56fd58daf51637fab4eb130e2d32a38dab1.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 13.xx and higher\nContributor: @SyrenRemix and DLPS Team\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/valheim-ps5/"
+    },
+    {
+      "titleId": "PPSA21703",
+      "title": "Vampire Survivors",
+      "downloadLinks": [
+        {
+          "name": "EUR 9.xx Base - Akirabox",
+          "url": "https://akirabox.com/5pVzNANrp37w/file"
+        },
+        {
+          "name": "EUR 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/YVyG8"
+        },
+        {
+          "name": "EUR 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/tCWitVYNbW"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1109/a331284fd9dc56ec526e49afd7ee41d7aafa697e947816cf.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 9.xx and higher\nContributor: @SyrenRemix and DLPS Team\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/vampire-survivors-ps5/"
+    },
+    {
+      "titleId": "PPSA25642",
+      "title": "Clive Barkers Hellraiser Revival Deluxe Edition (DLC)",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Akirabox part 1",
+          "url": "https://akirabox.com/Y2xm0ol4nGRO/file"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Akirabox part 2",
+          "url": "https://akirabox.com/E9Qz9XZLK3OL/file"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Akirabox part 3",
+          "url": "https://akirabox.com/LK0G1bdowm91/file"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Akirabox part 4",
+          "url": "https://akirabox.com/XkrzoKnP2zBO/file"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Rootz part 1",
+          "url": "https://www.rootz.so/d/12Lxqa"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Rootz part 2",
+          "url": "https://www.rootz.so/d/16Noi8"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Rootz part 3",
+          "url": "https://www.rootz.so/d/2J43TU"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Rootz part 4",
+          "url": "https://www.rootz.so/d/1lHk0"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/OFqU1yhSw5"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/BNcfBDuBDi"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/M77dnANBVr"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/uFCE2Du0wY"
+        }
+      ],
+      "category": "dlc",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1809/519956b48e154b9614439f012e7a7bb05130ddbdabf600e7.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 12.xx and higher This release includes Deluxe Edition content and the following DLC: Here\nContributor: @DUPLEX\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/clive-barkers-hellraiser-revival-deluxe-edition-ps5/"
+    },
+    {
+      "titleId": "PPSA24249",
+      "title": "1348 Ex Voto",
+      "downloadLinks": [
+        {
+          "name": "EUR 11.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/ex5z25jd83Kq/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/jJD3VDBjOGa5/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/2KR9FI"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1BmlLU"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/oHRbIymQ3l"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/bqgMDc0imM"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/qEUnd3gind#1348"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA24249_16f6978ace1bb1247be8ebd750ee6f0ef9cb2c4f9b76cb0a25d9033cd5700ca2/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/1348-ex-voto-ps5/"
+    },
+    {
+      "titleId": "PPSA28603",
+      "title": "Crisol Theater of Idols",
+      "downloadLinks": [
+        {
+          "name": "USA 11.xx Base - Akirabox",
+          "url": "https://akirabox.com/N2p3DPXYk3Ma/file"
+        },
+        {
+          "name": "USA 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2CNRWC"
+        },
+        {
+          "name": "USA 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/k9ZZ0CAHcA"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28603_e818c8493ec82cfd12454666aba02cd2a040f5aca1d115a3eb62800d2b0e9fd4/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/crisol-theater-of-idols-ps5/"
+    },
+    {
+      "titleId": "PPSA28503",
+      "title": "AILA",
+      "downloadLinks": [
+        {
+          "name": "USA 10.xx Base - Akirabox",
+          "url": "https://akirabox.com/QN9mEq51xm6d/file"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1wG288"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/4ipo7UFGJ3"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28503_c5fa63c9b30c2d53233c1fc22eb7f504fe306e678cb910e1e5e61d17eedf287a/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/aila-ps5/"
+    },
+    {
+      "titleId": "PPSA19068",
+      "title": "Crow Country",
+      "downloadLinks": [
+        {
+          "name": "EUR 9.xx Base - Akirabox",
+          "url": "https://akirabox.com/Zvqzl75La3aD/file"
+        },
+        {
+          "name": "EUR 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1sEBGa"
+        },
+        {
+          "name": "EUR 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ygWiwj9oUK"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA19068_fcaae64d6c8edbf274b0d32d1d472071c28a64bd98eded64b839025abfc75174/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/crow-country-ps5/"
+    },
+    {
+      "titleId": "PPSA29802",
+      "title": "Plants vs Zombies Replanted",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox",
+          "url": "https://akirabox.com/jJD3VDBJ5Ga5/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1i1aBk"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/TqPtqHG8RK"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA29802_8a2ba380c37d5be7546e0954a43884e0395b498f4e0ba58a5a1f9db446b57ce3/icon0.webp",
+      "description": "Region: USA\nRelease note: Working 13.xx to 10.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/plants-vs-zombies-replanted-ps5/"
+    },
+    {
+      "titleId": "PPSA30937",
+      "title": "Gunsmith Simulator",
+      "downloadLinks": [
+        {
+          "name": "EUR 13.xx Base - Akirabox",
+          "url": "https://akirabox.com/0JgG75Rpn3oY/file"
+        },
+        {
+          "name": "EUR 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/jZnMm"
+        },
+        {
+          "name": "EUR 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/i16pJixad3"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA30937_7502021e988ab27e9e12e013fa0c4e9268141bc387eb8b2e8bc2c61a27fb7df0/icon0.webp",
+      "description": "Region: EUR\nRelease note: Working 13.xx to 10.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/gunsmith-simulator-ps5/"
+    },
+    {
+      "titleId": "PPSA21185",
+      "title": "Motorcycle Mechanic Simulator",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox",
+          "url": "https://akirabox.com/M2BGwPvMRmj4/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/13yzWS"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/EyOaJMN81z"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1620/0b0c536695895c3a010b874a83c1e1e4a8f568006fa6a410.png?w=260",
+      "description": "Region: USA\nRelease note: working 13.xx to 8.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/motorcycle-mechanic-simulator-2021-ps5/"
     },
     {
       "titleId": "PPSA01649",
@@ -83138,6 +83356,14 @@
         {
           "name": "EUR 6.xx BackPort 4.xx - Rootz part 2",
           "url": "https://www.rootz.so/d/1tkQFM"
+        },
+        {
+          "name": "EUR 6.xx BackPort 4.xx - Mediafire part 3",
+          "url": "https://www.mediafire.com/file/zv2e4kf4yp3n38z/Backport+4.XX+PPSA06359+%E2%80%93+EUR+Jumping+Flash++By+BADERLINK-[DLPSGAME.COM].zip/file"
+        },
+        {
+          "name": "EUR 6.xx BackPort 4.xx - Mediafire part 4",
+          "url": "https://www.mediafire.com/file/9lgen9bp50r974m/Backport+5.XX+PPSA06359+%E2%80%93+EUR+Jumping+Flash++By+BADERLINK-[DLPSGAME.COM].zip/file"
         },
         {
           "name": "Release 2 Base - Rapidgator",

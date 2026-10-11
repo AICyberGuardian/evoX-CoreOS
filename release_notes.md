@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.11-0353)
+### 🚀 Synthèse de la mise à jour (v2026.10.11-1209)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -53,7 +53,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-server_v1.11.elf`
-  * `ps5upload_v7.0.1.elf`
+  * `ps5upload_v7.0.8.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `PS_Game_State_Lib_v0.1.elf`
@@ -193,10 +193,9 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `EmuStore-PS5-v0.4.0.zip`
   * `SpectrumLibrary_1.0.4.zip`
   * `flycast-ps5-2026.10.06.zip`
-  * `Kinect-Phone.zip`
   * `PPSA50011.zip`
   * `PS5X360-AutoLog-v1.0.9-preview.elf`
-  * `PS5X360-source-0.5.9-fix1.zip`
+  * `PS5X360-source-0.6.0-changes.zip`
   * `helper.elf`
   * `PPSA97358.zip`
   * `Porpoise-3.0.zip`

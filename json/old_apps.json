@@ -4,11 +4,11 @@
         {
             "name": "Ppsa99004",
             "filename": "PPSA99004.zip",
-            "url": "https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.003.000/PPSA99004.zip",
-            "local_path": "apps/ProsperoAI/01.003.000/PPSA99004.zip",
+            "url": "https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.004.000/PPSA99004.zip",
+            "local_path": "apps/ProsperoAI/01.004.000/PPSA99004.zip",
             "description": "Private, local generative AI for PlayStation 5 homebrew",
-            "version": "01.003.000",
-            "checksum": "a47c7f3385f03fe93a3c0635ff2ec7f02aa2e6dee2e33a356a533b9cf3d58727",
+            "version": "01.004.000",
+            "checksum": "aa3cedfd44d2c789204595aba5df163e94ab1cdff1aac682d068fe69cf6d398b",
             "category": "Applications"
         },
         {
@@ -112,43 +112,33 @@
             "category": "Applications"
         },
         {
-            "name": "Kinect-Phone",
-            "filename": "Kinect-Phone.zip",
-            "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.9-fix1/Kinect-Phone.zip",
-            "local_path": "apps/PS5X360/v0.5.9-fix1/Kinect-Phone.zip",
-            "description": "x360 emu for ps5, you need xpsemu_tools.elf",
-            "version": "v0.5.9-fix1",
-            "checksum": "ca0d59ede35b918aa78f19b4f67fce9f28f54e0462f49c3a045c6d39f183f8b8",
-            "category": "Applications"
-        },
-        {
             "name": "Ppsa50011",
             "filename": "PPSA50011.zip",
-            "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.9-fix1/PPSA50011.zip",
-            "local_path": "apps/PS5X360/v0.5.9-fix1/PPSA50011.zip",
+            "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.6.0/PPSA50011.zip",
+            "local_path": "apps/PS5X360/v0.6.0/PPSA50011.zip",
             "description": "x360 emu for ps5, you need xpsemu_tools.elf",
-            "version": "v0.5.9-fix1",
-            "checksum": "94363157754a577c53596932b90c7f70d0266ab29016894d805585f55d31048a",
+            "version": "v0.6.0",
+            "checksum": "b2bf7a7d242428cfa002ec557210dc885403580b58bda8d67a436a2550b67dd2",
             "category": "Applications"
         },
         {
             "name": "Ps5X360-Autolog-V1.0.9-Preview",
             "filename": "PS5X360-AutoLog-v1.0.9-preview.elf",
-            "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.9-fix1/PS5X360-AutoLog-v1.0.9-preview.elf",
-            "local_path": "apps/PS5X360/v0.5.9-fix1/PS5X360-AutoLog-v1.0.9-preview.elf",
+            "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.6.0/PS5X360-AutoLog-v1.0.9-preview.elf",
+            "local_path": "apps/PS5X360/v0.6.0/PS5X360-AutoLog-v1.0.9-preview.elf",
             "description": "x360 emu for ps5, you need xpsemu_tools.elf",
-            "version": "v0.5.9-fix1",
+            "version": "v0.6.0",
             "checksum": "5da64c23263e6868696aa0f8b1bfd0eb97581bae73124d08066b507652adfbfb",
             "category": "Applications"
         },
         {
-            "name": "Ps5X360-Source-0.5.9-Fix1",
-            "filename": "PS5X360-source-0.5.9-fix1.zip",
-            "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.9-fix1/PS5X360-source-0.5.9-fix1.zip",
-            "local_path": "apps/PS5X360/v0.5.9-fix1/PS5X360-source-0.5.9-fix1.zip",
+            "name": "Ps5X360-Source-0.6.0-Changes",
+            "filename": "PS5X360-source-0.6.0-changes.zip",
+            "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.6.0/PS5X360-source-0.6.0-changes.zip",
+            "local_path": "apps/PS5X360/v0.6.0/PS5X360-source-0.6.0-changes.zip",
             "description": "x360 emu for ps5, you need xpsemu_tools.elf",
-            "version": "v0.5.9-fix1",
-            "checksum": "56de622c2596116812c5136b5f9b765c4ac18d015d71a8a3c9bb28138fdf948d",
+            "version": "v0.6.0",
+            "checksum": "315a9df892995511403d2198e95058b850e470d6879d6c31d9e3397746412a93",
             "category": "Applications"
         },
         {
