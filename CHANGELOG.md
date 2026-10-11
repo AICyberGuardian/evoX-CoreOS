@@ -1,5 +1,16 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 11/10/2026 à 03:53
+* **PAYLOADS**
+  * `Ps5Upload V7.0.1` (v7.0.1) - *Nouveau*
+  * `Orbit Store` (v1.1.0) - *Mise à jour (Précédent: v1.0.5)*
+  * `Pkg-Manager V1.5.1` (v1.5.1) - *Nouveau*
+  * `Cheatrunner V0.18` (v0.18) - *Nouveau*
+  * `Shadowmountplus` (1.7beta5) - *Mise à jour (Précédent: 1.7beta4)*
+* **APPS**
+  * `Porpoise-3.0` (v3.0) - *Nouveau*
+  * `Prospero-Win-V0.2.0` (v0.2.0) - *Nouveau*
+
 ## Build du 10/10/2026 à 11:57
 * **PAYLOADS**
   * `Ps5Upload V6.7.4` (v6.7.4) - *Nouveau*

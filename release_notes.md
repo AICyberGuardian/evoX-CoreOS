@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.10-1157)
+### 🚀 Synthèse de la mise à jour (v2026.10.11-0353)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -53,7 +53,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-server_v1.11.elf`
-  * `ps5upload_v6.7.4.elf`
+  * `ps5upload_v7.0.1.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `PS_Game_State_Lib_v0.1.elf`
@@ -74,7 +74,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `svtplay_v0.3.elf`
   * `PS-Play_v2.1.elf`
   * `Nuvio-PS5_v1.7.3.elf`
-  * `pkg-manager_v1.5.0.elf`
+  * `pkg-manager_v1.5.1.elf`
   * `pkg-receiver_v1.2.9.elf`
   * `etaHEN_v2.5B.bin`
   * `PS5_Unified_Autoloader_v0.1.5-915a65e.elf`
@@ -124,7 +124,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-remoteplay-get-pin_v0.1.1.elf`
   * `MemDBG_vnightly-20260930-g6e493c9.elf`
   * `ps5-hwinfo_v0.1.elf`
-  * `CheatRunner_v0.17.2.elf`
+  * `CheatRunner_v0.18.elf`
   * `kylin-core_v2.0.0-community-lite.elf`
   * `kstuff_EchoStretch_v1.6.7.elf`
   * `kstuff-lite_EchoStretch_v1.11.elf`
@@ -199,11 +199,11 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5X360-source-0.5.9-fix1.zip`
   * `helper.elf`
   * `PPSA97358.zip`
-  * `Porpoise-2.7.zip`
+  * `Porpoise-3.0.zip`
   * `PPSA19111.zip`
   * `PPSA99666.zip`
   * `PPSA99808.zip`
-  * `prospero-win-v0.1.1.zip`
+  * `prospero-win-v0.2.0.zip`
   * `PPSA99300.zip`
   * `Markus_PHU-EmuPack_PS1-Tool.PS5.rar`
   * `Markus_PHU-EmuPack-Nes.PS5.rar`

@@ -3,6 +3,250 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA20946",
+      "title": "The Relic First Guardian",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/aXPrQoAG#DataNodes"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/aXPrQoAG#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/aXPrQoAG#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/aXPrQoAG#VikikngFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/E1X4E4Lk#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/E1X4E4Lk#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/E1X4E4Lk#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/E1X4E4Lk#FileDitch"
+        }
+      ],
+      "version": "v01.000.027",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1909/b43f1dcdb2458ac9e058a8b115553aba3d73e20be3a9d939.png?w=260",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA20946, v01.000.027, EUR, 4.xx BackPort\nSize: 58GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG &amp; Dump are 11.xx, separated BackPort PKG for 4.xx Only &amp; 5.xx+ included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 62277025792
+    },
+    {
+      "titleId": "PPSA36257",
+      "title": "Luna Abyss",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/ZwnGmEnq#DataNodes"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/ZwnGmEnq#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/ZwnGmEnq#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/ZwnGmEnq#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/3P9ISikT#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/3P9ISikT#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/3P9ISikT#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/3P9ISikT#FileDitch"
+        }
+      ],
+      "version": "v01.00.005",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1714/5f724656385b54f0c9497fd38c28fc6b08a63fb58be04df8.png?w=260",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA36257, v01.00.005, JPN, 4.xx BackPort\nSize: 16GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG &amp; Dump are 11.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 17179869184
+    },
+    {
+      "titleId": "PPSA30839",
+      "title": "MXGP 26 The Official Game",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/ENOLPyW2#DataNodes"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/ENOLPyW2#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/ENOLPyW2#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/ENOLPyW2#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/d_hQkVGb#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/d_hQkVGb#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/d_hQkVGb#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/d_hQkVGb#FileDitch"
+        }
+      ],
+      "version": "v01.003",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1014/3d8f163859e7f3d6ed0fa8cd48696c8b93f39a1a7bdd05eb.png?w=260",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA30839, v01.003, EUR, 5.xx BackPort + 4.xx BackPort\nSize: 21GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG &amp; Dump are 12.xx, separated BackPort PKG for 4.xx Only &amp; 5.xx+ included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 22548578304
+    },
+    {
+      "titleId": "PPSA26223",
+      "title": "The Mound Omen of Cthulhu",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/MnCbLZLg#DataNodes"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/MnCbLZLg#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/MnCbLZLg#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/MnCbLZLg#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/B5TsAJ09#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/B5TsAJ09#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/B5TsAJ09#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/B5TsAJ09#FileDitch"
+        }
+      ],
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/534efd914eb9f889e13e6090781eb26bf6ad76f208aca86b.png?w=260",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA26223, v01.000, EUR, 5.xx BackPort + 4.xx BackPort\nSize: 26GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG &amp; Dump are 12.xx, separated BackPort PKG for 4.xx Only &amp; 5.xx+ included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 27917287424
+    },
+    {
+      "titleId": "PPSA01317",
+      "title": "Gran Turismo 7",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/oeSJ8lHw#DataNodes"
+        },
+        {
+          "name": "Dump - Filek",
+          "url": "https://link-vault.org/c/oeSJ8lHw#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/oeSJ8lHw#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/oeSJ8lHw#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/oeSJ8lHw#VikingFile"
+        },
+        {
+          "name": "Fpkg Backport - AkiraBox",
+          "url": "https://link-vault.org/c/ZxDgLz5g#AkiraBox"
+        },
+        {
+          "name": "Fpkg Backport - VikingFile",
+          "url": "https://link-vault.org/c/ZxDgLz5g#VikingFile"
+        },
+        {
+          "name": "Fpkg Backport - DataNodes",
+          "url": "https://link-vault.org/c/ZxDgLz5g#DataNodes"
+        },
+        {
+          "name": "Fpkg Backport - Filek",
+          "url": "https://link-vault.org/c/ZxDgLz5g#FileKeeper"
+        },
+        {
+          "name": "Fpkg Standard - AkiraBox",
+          "url": "https://link-vault.org/c/9F6JZjjy#AkiraBox"
+        },
+        {
+          "name": "Fpkg Standard - VikingFile",
+          "url": "https://link-vault.org/c/9F6JZjjy#VikingFile"
+        },
+        {
+          "name": "Fpkg Standard - DataNodes",
+          "url": "https://link-vault.org/c/9F6JZjjy#DataNodes"
+        },
+        {
+          "name": "Fpkg Standard - Filek",
+          "url": "https://link-vault.org/c/9F6JZjjy#FileKeeper"
+        },
+        {
+          "name": "Fpkg Standard - Filed",
+          "url": "https://link-vault.org/c/9F6JZjjy#FileDitch"
+        }
+      ],
+      "version": "v01.710",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/1321/yZ7dpmjtHr1olhutHT57IFRh.png?w=260",
+      "description": "Builds: Dump, Fpkg Backport, Fpkg Standard\nTags: PPSA01317, v01.710, USA to EUR Langs, DLCs Merged, Standard (5.xx) + 4.xx BackPort\nSize: 285GB\nCredits: Files: High-Speed007 &amp; PSVIETHOA; Backport: DecKerr97; DLC: High-Speed007 &amp; PSVIETHOA\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG &amp; Dump are 12.xx, separated BackPort PKG for 4.xx+ included, use FPKG BackPort Ver for 4.xx FW. Dump work 4.xx to 13.xx+. All cars add in Garage and also Debug Settings added.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 306016419840
+    },
+    {
       "titleId": "PPSA35889",
       "title": "NBA 2K27",
       "downloadLinks": [
@@ -523,7 +767,7 @@
       "sizeBytes": 207232172032
     },
     {
-      "id": 5203454,
+      "id": 5250475,
       "catalogSlug": "",
       "titleId": "PPSA99902",
       "title": "Sonic Unleashed Recompiled Unofficial Port",
@@ -595,58 +839,6 @@
         }
       ],
       "sizeBytes": 9663676416
-    },
-    {
-      "titleId": "PPSA01317",
-      "title": "Gran Turismo 7",
-      "downloadLinks": [
-        {
-          "name": "Dump - DataNodes",
-          "url": "https://link-vault.org/c/oeSJ8lHw#DataNodes"
-        },
-        {
-          "name": "Dump - Filek",
-          "url": "https://link-vault.org/c/oeSJ8lHw#FileKeeper"
-        },
-        {
-          "name": "Dump - AkiraBox",
-          "url": "https://link-vault.org/c/oeSJ8lHw#AkiraBox"
-        },
-        {
-          "name": "Dump - Filed",
-          "url": "https://link-vault.org/c/oeSJ8lHw#FileDitch"
-        },
-        {
-          "name": "Dump - VikingFile",
-          "url": "https://link-vault.org/c/oeSJ8lHw#VikingFile"
-        },
-        {
-          "name": "Fpkg - AkiraBox",
-          "url": "https://link-vault.org/c/9F6JZjjy#AkiraBox"
-        },
-        {
-          "name": "Fpkg - VikingFile",
-          "url": "https://link-vault.org/c/9F6JZjjy#VikingFile"
-        },
-        {
-          "name": "Fpkg - DataNodes",
-          "url": "https://link-vault.org/c/9F6JZjjy#DataNodes"
-        },
-        {
-          "name": "Fpkg - Filek",
-          "url": "https://link-vault.org/c/9F6JZjjy#FileKeeper"
-        },
-        {
-          "name": "Fpkg - Filed",
-          "url": "https://link-vault.org/c/9F6JZjjy#FileDitch"
-        }
-      ],
-      "version": "v01.710",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/1321/yZ7dpmjtHr1olhutHT57IFRh.png?w=260",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA01317, v01.710, USA to EUR Langs, DLCs Merged, 4.xx BackPort\nSize: 285GB\nCredits: Files: High-Speed007 &amp; PSVIETHOA; Backport: DecKerr97; DLC: High-Speed007 &amp; PSVIETHOA\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG &amp; Dump are 12.xx, separated BackPort PKG for 4.xx+ included. All cars add in Garage and also Debug Settings added.",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "sizeBytes": 306016419840
     },
     {
       "titleId": "PPSA03671",
@@ -11089,7 +11281,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 5203722,
+      "id": 5250742,
       "catalogSlug": "",
       "titleId": "PPSA22711",
       "title": "Ed 0 Zombie Uprising",
@@ -14655,7 +14847,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 5203825,
+      "id": 5250845,
       "catalogSlug": "",
       "titleId": "PPSA16387",
       "title": "Hitman World of Assassination Deluxe Edition",

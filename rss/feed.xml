@@ -191,10 +191,10 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V6.7.4</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.7.4/ps5upload_v6.7.4.elf</link>
+      <title>[Payloads] Ps5Upload V7.0.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.0.1/ps5upload_v7.0.1.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v6.7.4</pubDate>
+      <pubDate>v7.0.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -264,9 +264,9 @@
     </item>
     <item>
       <title>[Payloads] Orbit Store</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.0.5/orbit_store.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.1.0/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.0.5</pubDate>
+      <pubDate>v1.1.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Phstore Vphstore</title>
@@ -317,10 +317,10 @@
       <pubDate>v1.7.3</pubDate>
     </item>
     <item>
-      <title>[Payloads] Pkg-Manager V1.5.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.5.0/pkg-manager_v1.5.0.elf</link>
+      <title>[Payloads] Pkg-Manager V1.5.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.5.1/pkg-manager_v1.5.1.elf</link>
       <description>A clean and intuitive package manager for PlayStation 5</description>
-      <pubDate>v1.5.0</pubDate>
+      <pubDate>v1.5.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Pkg-Receiver V1.2.9</title>
@@ -617,10 +617,10 @@
       <pubDate>0.1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Cheatrunner V0.17.2</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.17.2/CheatRunner_v0.17.2.elf</link>
+      <title>[Payloads] Cheatrunner V0.18</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.18/CheatRunner_v0.18.elf</link>
       <description>CheatRunner.</description>
-      <pubDate>v0.17.2</pubDate>
+      <pubDate>v0.18</pubDate>
     </item>
     <item>
       <title>[Payloads] Kylin-Core V2.0.0-Community-Lite</title>
@@ -678,9 +678,9 @@
     </item>
     <item>
       <title>[Payloads] Shadowmountplus</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta4/shadowmountplus.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta5/shadowmountplus.elf</link>
       <description>ShadowMountPlus payload for game mounting.</description>
-      <pubDate>1.7beta4</pubDate>
+      <pubDate>1.7beta5</pubDate>
     </item>
     <item>
       <title>[Payloads] Backpork V0.1</title>
@@ -941,10 +941,10 @@
       <pubDate>Alpha-2.1</pubDate>
     </item>
     <item>
-      <title>[Applications] Porpoise-2.7</title>
-      <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.7/Porpoise-2.7.zip</link>
+      <title>[Applications] Porpoise-3.0</title>
+      <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v3.0/Porpoise-3.0.zip</link>
       <description>GameCube and Wii Dolphin emu for ps5</description>
-      <pubDate>v2.7</pubDate>
+      <pubDate>v3.0</pubDate>
     </item>
     <item>
       <title>[Applications] Ppsa19111</title>
@@ -965,10 +965,10 @@
       <pubDate>v0.1.2</pubDate>
     </item>
     <item>
-      <title>[Applications] Prospero-Win-V0.1.1</title>
-      <link>https://github.com/mpereiraesaa/prospero-win/releases/download/v0.1.1/prospero-win-v0.1.1.zip</link>
+      <title>[Applications] Prospero-Win-V0.2.0</title>
+      <link>https://github.com/mpereiraesaa/prospero-win/releases/download/v0.2.0/prospero-win-v0.2.0.zip</link>
       <description>Wine for PS5</description>
-      <pubDate>v0.1.1</pubDate>
+      <pubDate>v0.2.0</pubDate>
     </item>
     <item>
       <title>[Applications] Ppsa99300</title>

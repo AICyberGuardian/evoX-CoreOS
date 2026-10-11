@@ -3,6 +3,70 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA16645",
+      "title": "7 Days to Die Console Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/oYi7tJJEwn"
+        }
+      ],
+      "version": "01.320.002",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1216/9023747aeb28e119f8a8fe3272a67ae5f5e19ba0f658aacd.png?w=260",
+      "description": "This game is still under development. It is subject to future planned updates before its release as a finished product. Please purchase only if you are comfortable with the game in its current state. For a list of known issues visit: https://community.7daystodie.com/ How long will you survive? With over 18 million copies sold, 7 Days has defined the survival genre, with unrivaled crafting and world-building content. Set in a post-apocalyptic world overrun by the undead, 7 Days is an open-world game that is a unique combination of first-person shooter, survival horror, tower defense, and role-playing games. It presents combat, crafting, looting, mining, exploration, and character growth, in a way that has seen a rapturous response from fans worldwide. Play the definitive zombie survival sandbox RPG that came first. Navezgane awaits! GAME FEATURES * Explore – Huge, rich environments, with unique biomes and worlds up to 100 square kilometers in size. * Craft – Handcraft and repair weapons, clothes, armor, tools, vehicles, with hundreds of recipes and schematics. * Build – Design your fort with traps, electricity, auto turrets, and gadgets to survive in a fully destructible and moldable world. * Cooperate or Compete – Work together to build settlements or against each other in a wasteland where zombies and outlaws rule the land. * Create – Unleash your creativity with over 800 in-game items, 1,300 building blocks and a painting system that offers infinite possibilities. * Improve – Increase skills with a multitude of perks and attributes. Gain additional skills by reading over 100 books in the only real survival RPG. * Choose – Play the campaign or randomly-generated worlds with cities, towns, lakes, mountains, valleys, roads, caves and over 700 locations. * Combat – Encounter nearly 60 unique zombie archetypes with unique behaviors progressing in difficulty to provide an infinite challenge. * Survive – Experience hardcore survival mechanics with nearly 50 buffs, boosts and ailments that can both challenge and aid your survival. * Destroy – Buildings and terrain formations can collapse from structural damage or poor building design with real structural stability. * Loot – Scavenge the best weapons, tools, and armor with 6 quality ranges providing thousands of permutations and a multitude of mods. * Quest – Meet Trader NPCs who buy and sell goods and offer quests. Enjoy many unique quest types supported by over 700 unique locations. * Customize – Create your own character and customize your look with a huge selection of clothing and armor you can craft or loot in the world. * Drive – Scavenge for parts, learn recipes, craft and customize bicycles, minibikes, motorcycles, 4x4s or gyrocopters and ride with friends. * Farm or Hunt – Plant gardens for sustainable resources or head out to the wilderness and hunt over a dozen unique animals.\nRegion: USA\nFirmware: 4.xx+\nCredits: Oussama\nUpdated: 2026-10-10T23:12:22.315Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 14925011354
+    },
+    {
+      "titleId": "PPSA34501",
+      "title": "Call of Duty Black Ops",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/bML6o4dawh"
+        }
+      ],
+      "version": "01.008",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2618/ee7d4a20243804f08a3c4a4eb1b4346dbe29dbce0fb59751.png?w=260",
+      "description": "Experience the original Call of Duty®: Black Ops, first released in 2010, now available on PS4® and PS5® for the first time. Call of Duty®: Black Ops will take you behind enemy lines as a member of an elite special forces unit engaging in covert warfare, classified operations and explosive conflicts across the globe. With access to exclusive weaponry and equipment, your actions will tip the balance during the most dangerous time period mankind has ever known. Call of Duty®: Black Ops features a cinematic single-player campaign, signature Multiplayer and hordes of the undead in Zombies.\nRegion: USA\nFirmware: 4.xx+\nUpdated: 2026-10-10T14:45:29.740Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 20036022436
+    },
+    {
+      "titleId": "PPSA13526",
+      "title": "GYLT",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/vNQ6i7XaAi"
+        }
+      ],
+      "version": "02.000.052",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2514/f4c25b71a2e57079cd67db2fdf593b4b20d56c91e4453065.png?w=260",
+      "description": "Set in a creepy and melancholic world, GYLT is an eerie story mixing fantasy and reality in a surrealist place where your nightmares become reality. Hide from terrible creatures or confront them as you find your way through the challenges of this wicked world. · GYLT is a narrative adventure game with puzzles, stealth and action, set in a fictional old mining town in the state of Maine. · After being chased by a group of bullies, Sally is dragged into a twisted version of her town where her fears and worse memories are presented in a wicked and very real way. · Get to understand the world surrounding and discover the mystery behind Emily’s disappearance. · You can avoid being detected by creatures, you can build strategies to distract them, through sound or visual lures or by attracting them. · Decide to either face the creatures or hide from them, in the same way you’d face or hide your fears. · Music by Cris Velasco.\nRegion: EUR\nFirmware: 4.xx+\nCredits: Oussama\nUpdated: 2026-10-10T14:03:01.383Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 4359391805
+    },
+    {
+      "titleId": "PPSA29343",
+      "title": "Beast of Reincarnation Digital Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/mN7miV7EaA"
+        }
+      ],
+      "version": "01.000",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2622/90ec8c84dd460708d922d6693ef8c61b3b0443db0b636b23.png?w=260",
+      "description": "Beast of Reincarnation Digital Deluxe Edition The Digital Deluxe Edition includes Black and Brown Shiba Skins for Koo, “Oni’s Hat” for Emma, Emma’s sword “Big Dipper”, 100,000 Amber (in-game currency), plus a number of vegetable seedlings! Set in a post-apocalyptic Japan, humanity’s only hope lies with Emma, an outcast shunned from society for her affliction, and Koo, the blighted dog. Together, they embark on this expansive adventure in this one-person, one-dog action RPG. Experience a journey where you feel moments of loneliness, and also the reliability and comfort of your companion. Savor a world of impermanence, where forests suddenly burst forth amidst the wasteland. As Emma and Koo travel through this beautiful yet harsh world, their bond and abilities blossom. Customize your playstyle with unique skill trees, gear, and spirit stones to survive this beautiful yet brutal world. Define your own playstyle through your preferred loadout, including ranged, stealthy, and aggressive combat. In this world ravaged by blight… What will you find at the end of your journey? Key Features: Emma and Koo’s Synergy Emma and Koo create a revolutionary action RPG experience. Fight as a unit, using Emma’s sword abilities while giving Koo commands to unleash various techniques in a hybrid combat system that combines elements of action and turn-based RPGs. Japan: Year 4026 Travel through a beautiful yet harsh post-apocalyptic world. Experience the ever-changing scenery, in the blighted forest, and the Bosses that rule this world. Emma and Koo, who met in the far east, are tasked with battling Bosses from all over the world and capturing their powers in order to defeat the Beast of Reincarnation. A story filled with secrets Dive into a brutal narrative where every character hides a dangerous truth. Uncover the intertwined fates of Emma and Koo in this profound story.\nRegion: USA\nFirmware: 4.xx+\nCredits: Oussama\nUpdated: 2026-10-10T11:39:03.428Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 30064771072
+    },
+    {
       "titleId": "PPSA16603",
       "title": "Granblue Fantasy Versus: Rising",
       "downloadLinks": [

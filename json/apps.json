@@ -172,13 +172,13 @@
       "category": "Applications"
     },
     {
-      "name": "Porpoise-2.7",
-      "filename": "Porpoise-2.7.zip",
-      "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.7/Porpoise-2.7.zip",
-      "local_path": "apps/Porpoise/v2.7/Porpoise-2.7.zip",
+      "name": "Porpoise-3.0",
+      "filename": "Porpoise-3.0.zip",
+      "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v3.0/Porpoise-3.0.zip",
+      "local_path": "apps/Porpoise/v3.0/Porpoise-3.0.zip",
       "description": "GameCube and Wii Dolphin emu for ps5",
-      "version": "v2.7",
-      "checksum": "dbb895934d84a2445dc36cbcabdc0c299359aa76ddb540c8b4791da5e400891c",
+      "version": "v3.0",
+      "checksum": "889bc738624c1c1abe5be304e3e78604f5cd66068473b5eeaef6c77e7677513e",
       "category": "Applications"
     },
     {
@@ -212,13 +212,13 @@
       "category": "Applications"
     },
     {
-      "name": "Prospero-Win-V0.1.1",
-      "filename": "prospero-win-v0.1.1.zip",
-      "url": "https://github.com/mpereiraesaa/prospero-win/releases/download/v0.1.1/prospero-win-v0.1.1.zip",
-      "local_path": "apps/prospero-win/v0.1.1/prospero-win-v0.1.1.zip",
+      "name": "Prospero-Win-V0.2.0",
+      "filename": "prospero-win-v0.2.0.zip",
+      "url": "https://github.com/mpereiraesaa/prospero-win/releases/download/v0.2.0/prospero-win-v0.2.0.zip",
+      "local_path": "apps/prospero-win/v0.2.0/prospero-win-v0.2.0.zip",
       "description": "Wine for PS5",
-      "version": "v0.1.1",
-      "checksum": "fdfa016cd60979aae08040e61d70929c8759c9bf66c16001c6db8178a4d6c162",
+      "version": "v0.2.0",
+      "checksum": "7585efc624c2f8077c0d579a045ef808129a7b0bc525a9dd9c5c6db0c51626ca",
       "category": "Applications"
     },
     {
