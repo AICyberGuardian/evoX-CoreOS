@@ -36,6 +36,6 @@
     <outline text="Phu-Sandbox.Exit V1.0" title="Phu-Sandbox.Exit V1.0" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/PHU-Sandbox.Exit_v1.0.elf" description="EmuPack_Mame.PS5"/>
     <outline text="Markus Phu-Emupack-Neogeo.Ps5" title="Markus Phu-Emupack-Neogeo.Ps5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-NeoGeo.PS5.rar" description="EmuPack-NeoGeo.PS5"/>
     <outline text="Ppsa42674" title="Ppsa42674" type="rss" xmlUrl="https://github.com/dmzebro/PS5_RPCS3/releases/download/release/PPSA42674.zip" description="RPCS3 for PS5"/>
-    <outline text="Ppsa99131" title="Ppsa99131" type="rss" xmlUrl="https://github.com/tsuramatsu1/psp5/releases/download/v1.000.000/PPSA99131.zip" description="ppsspp for PS5"/>
+    <outline text="Ppsa99131" title="Ppsa99131" type="rss" xmlUrl="https://github.com/tsuramatsu1/psp5/releases/download/v1.000.100/PPSA99131.zip" description="ppsspp for PS5"/>
   </body>
 </opml>

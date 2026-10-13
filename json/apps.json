@@ -324,11 +324,11 @@
     {
       "name": "Ppsa99131",
       "filename": "PPSA99131.zip",
-      "url": "https://github.com/tsuramatsu1/psp5/releases/download/v1.000.000/PPSA99131.zip",
-      "local_path": "apps/psp5/v1.000.000/PPSA99131.zip",
+      "url": "https://github.com/tsuramatsu1/psp5/releases/download/v1.000.100/PPSA99131.zip",
+      "local_path": "apps/psp5/v1.000.100/PPSA99131.zip",
       "description": "ppsspp for PS5",
-      "version": "v1.000.000",
-      "checksum": "ea950568598bc4f45af1891d01022b72759cebdc2cb8a0d97d665066023f2343",
+      "version": "v1.000.100",
+      "checksum": "7944efe11211fe0299d4c68234fe3739e0f43f5ef076ee02c55c314828762c97",
       "category": "Applications"
     }
   ]

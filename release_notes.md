@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.12-1428)
+### 🚀 Synthèse de la mise à jour (v2026.10.13-0015)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
