@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 14/10/2026 à 21:22
+* **PAYLOADS**
+  * `Pldmgr V0.6.1` (v0.6.1) - *Nouveau*
+
 ## Build du 14/10/2026 à 16:33
 * **APPS**
   * `Ppsa99004` (01.006.000) - *Mise à jour (Précédent: 01.005.000)*
