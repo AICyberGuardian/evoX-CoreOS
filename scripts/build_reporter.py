@@ -1,9 +1,7 @@
 # /scripts/build_reporter.py
 import os
-import json
 import urllib.request
 from datetime import datetime
-from scripts.config_rules import PATHS
 
 def generate_build_reports(data_store_flat):
     print("📊 [Bonus] Génération des rapports de build (Build-Report)...")
@@ -49,13 +47,11 @@ def generate_build_reports(data_store_flat):
     status_content += "| Source / Dépôt | URL | Statut | Type |\n"
     status_content += "| :--- | :--- | :--- | :--- |\n"
     
-    # Liste des sources clés à tester
     urls_to_test = [
         ("Homebrew.page Catalog", "https://homebrew.page/catalog/v1.json", "Catalog API"),
         ("GitHub - evoX-CoreOS", "https://github.com/nexgen999/evoX-CoreOS", "Dépôt Principal"),
     ]
     
-    # Ajout de quelques liens d'échantillons des items pour vérifier leur accessibilité
     for cat_key, cat_info in data_store_flat.items():
         items = cat_info.get("items", [])
         if items and isinstance(items[0], dict):
@@ -65,7 +61,6 @@ def generate_build_reports(data_store_flat):
                 name = sample_item.get("name", "Sample Item")
                 urls_to_test.append((f"[{cat_key}] {name}", sample_url, "Artefact / Source"))
 
-    # Test rapide des URLs
     for name, url, kind in urls_to_test:
         status_badge = "❌ Inaccessible"
         try:
@@ -78,7 +73,7 @@ def generate_build_reports(data_store_flat):
                     status_badge = "✅ Valide (200 OK)"
                 else:
                     status_badge = f"⚠️ Erreur ({response.status})"
-        except Exception as e:
+        except Exception:
             status_badge = "❌ Hors ligne / Erreur"
             
         status_content += f"| {name} | [{url}]({url}) | {status_badge} | {kind} |\n"
