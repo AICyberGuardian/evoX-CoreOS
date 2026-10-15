@@ -1,5 +1,18 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 15/10/2026 à 19:56
+* **HOMEBREW_PAGE**
+  * `Rush 2 Recompiled` (00.002.000) - *Mise à jour (Précédent: 00.001.000)*
+  * `Wave Race 64 Recompiled` (00.001.000) - *Nouveau*
+  * `CD Player` (1.1.0) - *Mise à jour (Précédent: 1.0.0)*
+  * `SwanStationPS5` (1.3.4) - *Mise à jour (Précédent: 1.3.3)*
+  * `ProsperoLight` (01.000.110) - *Mise à jour (Précédent: 01.000.100)*
+  * `RetroArch` (2.0.0-beta-2) - *Mise à jour (Précédent: 1.0.0-beta.1)*
+  * `Spider-Man: Edge of Time` (v1.0.0) - *Nouveau*
+  * `Mario 64` (1.0.1) - *Mise à jour (Précédent: 1.0)*
+  * `PS5CEMU-HAR` (4.0.1) - *Mise à jour (Précédent: 3.5.0)*
+  * `PSBox Cloud Gaming` (0.9.7) - *Mise à jour (Précédent: 0.9.6)*
+
 ## Build du 15/10/2026 à 18:17
 * **HOMEBREW_PAGE**
   * `OliSe Player` (02.001.000) - *Nouveau*

@@ -68,6 +68,12 @@
       <title>Rush 2 Recompiled</title>
       <link>https://github.com/Marice/rush2-ps5</link>
       <description>Native PS5 port of Rush 2 Recompiled, the N64 racer recompiled with 4K output and 60 fps; needs your own Rush 2: Extreme Racing USA (USA) ROM.</description>
+      <pubDate>00.002.000</pubDate>
+    </item>
+    <item>
+      <title>Wave Race 64 Recompiled</title>
+      <link>https://github.com/Marice/wave-race-64-ps5</link>
+      <description>Native PS5 port of Wave Race 64: Recompiled, the N64 jet ski racer recompiled with 4K output, 60 fps and a modern water renderer; needs your own Wave Race 64 (USA) (Rev A) ROM.</description>
       <pubDate>00.001.000</pubDate>
     </item>
     <item>
@@ -134,13 +140,13 @@
       <title>CD Player</title>
       <link>https://github.com/LoZazaMastro/CD-Player</link>
       <description>Rediscover your audio CDs and fall in love with your music again: a native PS5 player with USB drive support, album art and reactive visuals.</description>
-      <pubDate>1.0.0</pubDate>
+      <pubDate>1.1.0</pubDate>
     </item>
     <item>
       <title>SwanStationPS5</title>
       <link>https://github.com/darkxex/SwanStationPS5</link>
       <description>SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.</description>
-      <pubDate>1.3.3</pubDate>
+      <pubDate>1.3.4</pubDate>
     </item>
     <item>
       <title>DriftCheck</title>
@@ -164,7 +170,7 @@
       <title>ProsperoLight</title>
       <link>https://github.com/blackbearreloaded/ProsperoLight</link>
       <description>Unofficial Moonlight game streaming port for PS5.</description>
-      <pubDate>01.000.100</pubDate>
+      <pubDate>01.000.110</pubDate>
     </item>
     <item>
       <title>ProsperoTV</title>
@@ -272,7 +278,7 @@
       <title>RetroArch</title>
       <link>https://github.com/mihawk-99/PS5_RetroArch</link>
       <description>Native RetroArch port for PS5 with cores for NES, SNES, GBA, Genesis, arcade, PSP, GameCube/Wii and PS2.</description>
-      <pubDate>1.0.0-beta.1</pubDate>
+      <pubDate>2.0.0-beta-2</pubDate>
     </item>
     <item>
       <title>PS5VR</title>
@@ -299,6 +305,12 @@
       <pubDate>0.5.23-native-experimental</pubDate>
     </item>
     <item>
+      <title>Spider-Man: Edge of Time</title>
+      <link>https://github.com/KongaTime/PS5_EdgeOfTimeTitle</link>
+      <description>Unofficial native PS5 port of Spider-Man: Edge of Time. Requires game files from your own copy.</description>
+      <pubDate>v1.0.0</pubDate>
+    </item>
+    <item>
       <title>Quake3e</title>
       <link>https://github.com/griches/PS5_Quake3e</link>
       <description>Native PS5 port of Quake3e, the improved Quake III Arena engine, drawing with Vulkan at up to 4K with DualSense or USB mouse and keyboard input. Needs your own Quake III Arena game data.</description>
@@ -320,7 +332,7 @@
       <title>Mario 64</title>
       <link>https://github.com/griches/PS5_Ghostship</link>
       <description>Super Mario 64 for PlayStation 5: a homebrew port of Ghostship (libultraship) on RADV, 4K at 60 fps, with the ROM converted on the console. Bring your own ROM.</description>
-      <pubDate>1.0</pubDate>
+      <pubDate>1.0.1</pubDate>
     </item>
     <item>
       <title>Super Mario Sunshine</title>
@@ -350,7 +362,7 @@
       <title>PS5CEMU-HAR</title>
       <link>https://github.com/premohq/PS5CEMU-HAR</link>
       <description>Wii U and 3DS emulation for jailbroken PS5, built on Cemu and Azahar, with one launcher for both.</description>
-      <pubDate>3.5.0</pubDate>
+      <pubDate>4.0.1</pubDate>
     </item>
     <item>
       <title>PS5MC</title>
@@ -470,7 +482,7 @@
       <title>PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>0.9.6</pubDate>
+      <pubDate>0.9.7</pubDate>
     </item>
     <item>
       <title>Prospero Vibrate</title>

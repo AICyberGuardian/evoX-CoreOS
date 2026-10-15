@@ -4,7 +4,7 @@
     {
       "name": "ScreenTester5",
       "filename": "PPSA69420.zip",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/tool/PPSA69420/01.000.000/PPSA69420.zip",
+      "url": "https://github.com/Marice/ScreenTester5/releases/download/01.000.000/PPSA69420.zip",
       "local_path": "downloads/apps/homebrew_page/tool/PPSA69420/01.000.000/PPSA69420.zip",
       "description": "Screen tester: solid colours and test patterns to find dead or stuck pixels, check uniformity and geometry, and run stuck-pixel recovery.",
       "version": "01.000.000",
@@ -18,7 +18,7 @@
     {
       "name": "DriftCheck",
       "filename": "PPSA98766.zip",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/tool/PPSA98766/01.000.000/PPSA98766.zip",
+      "url": "https://github.com/felipemelchior/driftcheck5/releases/download/01.000.000/PPSA98766.zip",
       "local_path": "downloads/apps/homebrew_page/tool/PPSA98766/01.000.000/PPSA98766.zip",
       "description": "Controller tester: live sticks with circularity, a rest test that measures stick drift and suggests a deadzone, triggers, buttons, touchpad and motion sensors.",
       "version": "01.000.000",
@@ -32,7 +32,7 @@
     {
       "name": "Prospero Explorer",
       "filename": "PPSA99109.zip",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/tool/PPSA99109/1.0/PPSA99109.zip",
+      "url": "https://github.com/SvenGDK/Prospero-Explorer/releases/download/v1.0/ProsperoExplorer-v1.zip",
       "local_path": "downloads/apps/homebrew_page/tool/PPSA99109/1.0/PPSA99109.zip",
       "description": "File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network.",
       "version": "1.0",
@@ -46,7 +46,7 @@
     {
       "name": "Prospero Multi Tools",
       "filename": "PPSA99110.zip",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/tool/PPSA99110/1/PPSA99110.zip",
+      "url": "https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/ProsperoMultiTools.zip",
       "local_path": "downloads/apps/homebrew_page/tool/PPSA99110/1/PPSA99110.zip",
       "description": "Backup manager for PS5: browse and edit PS1 to PS5, PSP and PS Vita backups, install packages and launch PS1/PS2/PSP titles. Needs the unjail payload.",
       "version": "1",
@@ -60,7 +60,7 @@
     {
       "name": "GyroAim",
       "filename": "PPSA99510.zip",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/tool/PPSA99510/1.0.2/PPSA99510.zip",
+      "url": "https://github.com/jmelovich/ps5-gyroaim/releases/download/v1.0.2/PPSA99510.zip",
       "local_path": "downloads/apps/homebrew_page/tool/PPSA99510/1.0.2/PPSA99510.zip",
       "description": "Gyro aiming in any game: the controller's gyroscope drives the stick, tuned from your phone while you play.",
       "version": "1.0.2",
@@ -74,7 +74,7 @@
     {
       "name": "Forwarder Manager",
       "filename": "PPSA99930.zip",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/tool/PPSA99930/00.001.004/PPSA99930.zip",
+      "url": "https://github.com/heydemoura/ps5-forwarder-manager/releases/download/00.001.004/PPSA99930.zip",
       "local_path": "downloads/apps/homebrew_page/tool/PPSA99930/00.001.004/PPSA99930.zip",
       "description": "Create and edit home-screen forwarders that launch emulators and other apps with custom art, music and arguments.",
       "version": "00.001.004",
