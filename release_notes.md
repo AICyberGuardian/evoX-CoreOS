@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.15-1453)
+### 🚀 Synthèse de la mise à jour (v2026.10.15-1532)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -13,6 +13,15 @@ Le store PlayStation 5 a été mis à jour avec succès.
 - `PS5_ultimate_pack_part2_latest.zip`
 - `PS5_ultimate_pack_part3_latest.zip`
 - `PS5_ultimate_pack_part4_latest.zip`
+- `PS5_ultimate_pack_part5_latest.zip`
+- `PS5_ultimate_pack_part6_latest.zip`
+- `PS5_ultimate_pack_part7_latest.zip`
+- `homebrewpage-app_aio_part1_latest.zip`
+- `homebrewpage-app_aio_part2_latest.zip`
+- `homebrewpage-app_aio_part3_latest.zip`
+- `homebrewpage-game_aio_part1_latest.zip`
+- `homebrewpage-game_aio_part2_latest.zip`
+- `homebrewpage-tool_aio_latest.zip`
 
 #### 📂 Fichiers inclus / mis à jour :
 📜 [Consulter le journal complet des modifications (CHANGELOG.md)](CHANGELOG.md)

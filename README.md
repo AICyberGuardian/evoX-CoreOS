@@ -53,6 +53,15 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 - **PS5 ULTIMATE PACK PART2** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part2_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part2_latest.zip)
 - **PS5 ULTIMATE PACK PART3** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part3_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part3_latest.zip)
 - **PS5 ULTIMATE PACK PART4** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part4_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part4_latest.zip)
+- **PS5 ULTIMATE PACK PART5** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part5_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part5_latest.zip)
+- **PS5 ULTIMATE PACK PART6** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part6_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part6_latest.zip)
+- **PS5 ULTIMATE PACK PART7** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part7_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part7_latest.zip)
+- **HOMEBREWPAGE-APP AIO PART1** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/homebrewpage-app_aio_part1_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/homebrewpage-app_aio_part1_latest.zip)
+- **HOMEBREWPAGE-APP AIO PART2** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/homebrewpage-app_aio_part2_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/homebrewpage-app_aio_part2_latest.zip)
+- **HOMEBREWPAGE-APP AIO PART3** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/homebrewpage-app_aio_part3_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/homebrewpage-app_aio_part3_latest.zip)
+- **HOMEBREWPAGE-GAME AIO PART1** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/homebrewpage-game_aio_part1_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/homebrewpage-game_aio_part1_latest.zip)
+- **HOMEBREWPAGE-GAME AIO PART2** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/homebrewpage-game_aio_part2_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/homebrewpage-game_aio_part2_latest.zip)
+- **HOMEBREWPAGE-TOOL AIO** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/homebrewpage-tool_aio_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/homebrewpage-tool_aio_latest.zip)
 
 ---
 ## ⚡ Payloads (.elf / .bin) Disponibles par Catégorie
@@ -247,7 +256,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `6983a0b8ed9f...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `b278acb14ebe...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
@@ -478,15 +487,148 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 ---
 
+## 🌐 Catalogue Homebrew.page (Communauté PS5)
+
+### 📂 Apps
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/homebrew_page/app.json`
+
+
+| Application | Auteur | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| Capy Mobile | Khalifa Al-Khatri | [0.5.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA92280/0.5.0/PPSA92280.zip) | `80b14507838c...` | Java phone games (J2ME) on the PS5: a native homebrew emulator app |
+| CD Player | LoZazaMastro | [1.0.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA98427/1.0.0/PPSA98427.zip) | `08ed9a86db0c...` | Rediscover your audio CDs and fall in love with your music again: a native PS5 player with USB drive support, album art and reactive visuals. |
+| Cloud Play | tertiumndatur | [1.0.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99600/1.0.0/PPSA99600.zip) | `fa47dd13c4ec...` | A Chiaki-based cloud streaming client for PS5 that streams games from the PS Plus Premium catalog. |
+| Doom 3 BFG | Gary Riches | [1.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99313/1.0/PPSA99313.zip) | `f73a3870839f...` | Doom 3 BFG Edition for PlayStation 5: a homebrew port of RBDoom3BFG on Vulkan (RADV) at 4K, with Doom 3, Resurrection of Evil and The Lost Mission. Bring your own BFG Edition data. |
+| Dusklight | Gary Riches | [1.0.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99305/1.0.0/PPSA99305.zip) | `343f8829803e...` | Dusklight for PlayStation 5: a homebrew port on RADV (Aurora, Dawn WebGPU, SDL3). Bring your own disc image. |
+| Emby5 | bornaradusin | [1.2.5](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99515/1.2.5/PPSA99515.zip) | `84eb60b06df4...` | A native Emby client for PlayStation 5 with media playback and optional Seerr requests. |
+| EVO Player | Sain Saji | [0.12.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99039/0.12.0/PPSA99039.zip) | `98788be10b3d...` | Media player for PS5 that plays video from USB or internal storage, with hardware decoding up to 4K, 10-bit HDR and surround audio. |
+| Homebrew UI Lab | BlackBearReloaded | [01.000.010](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99050/01.000.010/PPSA99050.zip) | `420a3fb50ad6...` | A gallery of 21 complete, working interface designs for PS5 homebrew, drawn with OpenGL, with 30 themes and a reusable widget kit. Switch designs with L1 and R1. |
+| Jelly5 | 02dnot | [0.6.1](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99505/0.6.1/PPSA99505.zip) | `8c952d9d4225...` | A native Jellyfin client for jailbroken PS5: its own liquid-glass interface, hardware-decoded 4K HDR |
+| Mario 64 | Gary Riches | [1.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99310/1.0/PPSA99310.zip) | `1c3fe58a6aaa...` | Super Mario 64 for PlayStation 5: a homebrew port of Ghostship (libultraship) on RADV, 4K at 60 fps, with the ROM converted on the console. Bring your own ROM. |
+| Mortalfin | mortaljinx | [1.0.0-beta.4](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99141/1.0.0-beta.4/PPSA99141.zip) | `b19a3a379a16...` | A native Jellyfin client for the PS5 with a cover-wheel interface, HDR and surround sound passthrough. Beta. |
+| Nuvio Max'd | HandshakeHackin | [0.5.23-native-experimental](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99288/0.5.23-native-experimental/PPSA99288.zip) | `614920dfbdfc...` | An unofficial native Nuvio client for PS5 with synced watch progress, addon streams, episode skipping and experimental HDR10 playback. |
+| Nuvio PS5 | Bilawal Riaz | [0.1.0-alpha.7](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99997/0.1.0-alpha.7/PPSA99997.zip) | `8c56ca5149d3...` | Nuvio TV for a jailbroken PS5, with EVO native playback and the interface served by the console itself. |
+| OliSe Player | Marice | [02.001.000](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA01153/02.001.000/PPSA01153.zip) | `3711b359f91f...` | Tracker music radio in FastTracker II style, streaming MOD, XM, S3M and IT from The Mod Archive. |
+| OpenNOW PS5 - Prototype | Portablelle | [0.1](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99082/0.1/PPSA99082.zip) | `34c773dedda9...` | Experimental native PS5 GeForce NOW client: a working, console-tested prototype with hardware decoding and GPU presentation. |
+| PICO-8 for PS5 | RafaelNGP | [0.1.2](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99808/0.1.2/PPSA99808.zip) | `d76e2bd55ea3...` | Unofficial loader that runs your own copy of the PICO-8 Linux build as a native PS5 app. |
+| Porpoise | Ruben Ripalda | [3.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99764/3.0/PPSA99764.zip) | `889bc738624c...` | A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music. |
+| Prospero Vibrate | SvenGDK | [1.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99920/1.0/PPSA99920.zip) | `c48443aa779f...` | Controller vibration studio for PS5 with live motor control, preset patterns, a custom pattern editor and timed playback. |
+| Prospero Win | mpereiraesaa | [0.2.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99995/0.2.0/PPSA99995.zip) | `7585efc624c2...` | Windows compatibility runtime for native PlayStation 5 homebrew. |
+| ProsperoAI | BlackBearReloaded | [01.006.000](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99004/01.006.000/PPSA99004.zip) | `8b2241e003a2...` | Local LLM chat app for PS5. |
+| ProsperoEden | BlackBearReloaded | [1.002.000](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99008/1.002.000/PPSA99008.zip) | `468e38e6c813...` | Unofficial Eden emulator port for PS5. |
+| ProsperoLight | BlackBearReloaded | [01.000.100](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99002/01.000.100/PPSA99002.zip) | `c154abcd8963...` | Unofficial Moonlight game streaming port for PS5. |
+| ProsperoRadio | BlackBearReloaded | [01.000.010](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99001/01.000.010/PPSA99001.zip) | `413011fcaf2c...` | Internet radio player for PS5. |
+| ProsperoStore | BlackBearReloaded | [1.000.070](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99000/1.000.070/PPSA99000.zip) | `0bb41b6f0e08...` | Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date. |
+| ProsperoTV | BlackBearReloaded | [01.000.070](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99003/01.000.070/PPSA99003.zip) | `775b2ece55f0...` | Native IPTV client for PS5. |
+| PS5 FSR4 Showcase | BlackBearReloaded | [01.000.010](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99011/01.000.010/PPSA99011.zip) | `4fd35889c6b0...` | Shows AMD FSR 4 upscaling on the PS5: a city at dusk rendered small and upscaled at 60 fps, with settings to compare it against bilinear and native rendering. |
+| PS5 OpenGL Showcase | BlackBearReloaded | [1.0.2](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99005/1.0.2/PPSA99005.zip) | `37a0ef4eca3f...` | Native OpenGL graphics showcase for PS5. |
+| PS5CEMU-HAR | premohq | [3.5.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99360/3.5.0/PPSA99360.zip) | `0bfa96b6cc96...` | Wii U and 3DS emulation for jailbroken PS5, built on Cemu and Azahar, with one launcher for both. |
+| PS5LM Plus | Abhiram | [0.8.3](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99581/0.8.3/PPSA99581.zip) | `42acffcacc33...` | Runs local language models (GGUF, llama.cpp) on the PS5's GPU, with a dashboard on the TV, model downloads, and a chat and OpenAI-compatible API for your network. |
+| PS5MC | VivaLaVent | [1.2](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99420/1.2/PPSA99420.zip) | `5a9eeff4a002...` | PS5MC, an unofficial port of the Kodi 22 media center for PS5, with a 4K GPU interface, hardware H.264, HEVC and VP9 decoding and HDR output. |
+| PS5SX2 | Sword | [vk-285-171](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99203/vk-285-171/PPSA99203.zip) | `226ac24866f0...` | PCSX2 port for PS5 that runs PS2 games natively with a Vulkan renderer, up to 6x resolution and settings from your phone. Bring your own BIOS and games. |
+| PS5VR | Husam Osman | [1.2.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99177/1.2.0/PPSA99177.zip) | `8e39a7ecb8fa...` | Native VR video player for PS VR2 on jailbroken PS5: 8K, 180/360, 3D, spatial audio |
+| PSBox Cloud Gaming | RafaelNGP | [0.9.6](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99810/0.9.6/PPSA99810.zip) | `38905620c2de...` | Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller. |
+| PShare | StonedModder | [1.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99773/1.0/PPSA99773.zip) | `a9a07cdeac7b...` | Native PS5 homebrew app that sends media gallery items to Discord, Telegram, catbox.moe, a USB drive, a shared folder on your PC or a dozen other places, automatically |
+| PSSwanStation | Press5elect | [build22](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99248/build22/PPSA99248.zip) | `7e4313a8a8bd...` | A PlayStation (PS1) emulator built on SwanStation, with a controller-first library, network shares, USB disc drives, CRT shaders and RetroAchievements. |
+| PSXS5 | SynoPiia | [2.2.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA97510/2.2.0/PPSA97510.zip) | `8904a734f99e...` | PSXS5 (PlayStation X Super 5): a PlayStation 1 emulator running natively on jailbroken PS5, based on PCSX-ReARMed. Cover-flow shelf, xBR upscaling, RetroAchievements, cheats. |
+| RetroArch | Mihawk | [1.0.0-beta.1](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99169/1.0.0-beta.1/PPSA99169.zip) | `9ba38f6608cb...` | Native RetroArch port for PS5 with cores for NES, SNES, GBA, Genesis, arcade, PSP, GameCube/Wii and PS2. |
+| RommPS | s0liton | [1.2.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA76677/1.2.0/PPSA76677.zip) | `84f8c7302aba...` | Syncs your emulator saves and states with a RomM server and downloads games from your RomM library. |
+| Ruffle Flash | AZiZ | [1.2.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA68091/1.2.0/PPSA68091.zip) | `b34b40b69da3...` | PS5 Port of Ruffle Flash Emulator. |
+| Régie5 | Vivian | [0.3.2](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99520/0.3.2/PPSA99520.zip) | `482f0a39c054...` | A TV remote for your self-hosted media stack: Sonarr, Radarr, Seerr and Jellyfin at a glance, with request approval, playback diagnosis and an optional cleanup. |
+| Spot5 | abhi245y | [1.1.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99061/1.1.0/PPSA99061.zip) | `af10d43f274d...` | Unofficial native Spotify player, not affiliated with Spotify: Home, Your Library, playlists, artists, Now Playing and more, with Spotify Connect. Needs Premium. |
+| Steam Remote Play | jmelovich | [1.0.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99350/1.0.0/PPSA99350.zip) | `a955665b3b14...` | An unofficial Steam Remote Play client for PS5. |
+| Stremio | Argyris Vazaios | [1.2](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA77711/1.2/PPSA77711.zip) | `eec6ef7d9a17...` | Unofficial Stremio client for the PS5 |
+| Stremio Plus | LoZazaMastro | [0.5.6](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA74126/0.5.6/PPSA74126.zip) | `b7be8ee7ab57...` | Unofficial native Stremio client for PS5 with Prospero UI, add-on sync, torrent streaming, offline downloads and customizable subtitles. |
+| Super Mario Sunshine | Gary Riches | [0.10.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99312/0.10.0/PPSA99312.zip) | `854c4a5d853f...` | Super Mario Sunshine (GameCube) for PlayStation 5: a homebrew port of chasem-dev's sms-pc-port on the PS5 OpenGL SDK, 4K at 60 fps. Bring your own disc image. |
+| Surround Sound Studio | sain.saji | [01.000.003](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99051/01.000.003/PPSA99051.zip) | `fcb4e3cb794d...` | Sends Dolby Digital, Dolby Digital Plus, DTS, AAC and TrueHD to your receiver untouched over HDMI, plus a speaker test lab with a 3D sound field. |
+| SwanStationPS5 | AngelXex | [1.3.3](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA98510/1.3.3/PPSA98510.zip) | `18f55c3e4cb8...` | SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core. |
+| SymphonyStation5 | TsvetomirGT | [v0.1.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA17641/v0.1.0/PPSA17641.zip) | `5327e36b9a57...` | A native Navidrome music client for the PlayStation 5. |
+| Twispero | unicxrn | [1.0.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99474/1.0.0/PPSA99474.zip) | `6b478353e6f6...` | Twitch for jailbroken PS5: live streams with chat, past broadcasts and clips on the console's own video decoder. |
+| VITA5 | StonedModder | [1.0.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA39410/1.0.0/PPSA39410.zip) | `d4e23aa6e511...` | Play a PS Vita on the PS5 over one USB cable. |
+| VLC | AZiZ | [0.4](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA85300/0.4/PPSA85300.zip) | `876e68993e49...` | VLC media player for PS5: videos, music, photos, subtitles, DVD images and more |
+| Wind Waker | Gary Riches | [1.0.3](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA99309/1.0.3/PPSA99309.zip) | `441b71e09441...` | The Wind Waker (GameCube) for PlayStation 5: a homebrew port of SwitchWaker on RADV (Aurora, Dawn WebGPU, SDL3), 4K at 60 fps. Bring your own disc image. |
+| XPSemu | AZiZ | [Alpha-2.1](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/app/PPSA97358/Alpha-2.1/PPSA97358.zip) | `494682ff5073...` | Original Xbox emulator for PS5, based on xemu. |
+
+### 📂 Games
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/homebrew_page/game.json`
+
+
+| Application | Auteur | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| 2 Ship 2 Harkinian (Majora's Mask) | mshivam019 | [v1.1.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA99621/v1.1.0/PPSA99621.zip) | `1b53678522e2...` | Native PS5 port of 2 Ship 2 Harkinian for Majora's Mask; requires your own game assets. |
+| ccleste | AngelXex | [1.00](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA59322/1.00/PPSA59322.zip) | `96861b81c1fb...` | This is a C source port of the original celeste (Celeste classic) for the PICO-8, designed to be portable. Now you can enjoy the port on your PS5. |
+| DOOM Native Port | lowbit | [1.1.1](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA99666/1.1.1/PPSA99666.zip) | `4d8e5b785b61...` | id Software's original DOOM source running natively on the PS5, with the shareware episode. Add your own DOOM, DOOM II and Final DOOM files from a PC or phone browser, a link or FTP. |
+| Link’s Awakening for PS5 | mshivam019 | [v0.1.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA99670/v0.1.0/PPSA99670.zip) | `fa46808a12b9...` | Native PS5 port of Link’s Awakening. Requires game files prepared from your own Switch version 1.0.0 base-game dump. |
+| Middle Ages Ping Pong | STL1te | [01.000.000](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA28319/01.000.000/PPSA28319.zip) | `6426468091b4...` | Classic ping pong in a medieval setting: play against the computer or a friend on the same console. |
+| Morrowind (OpenMW) | mshivam019 | [v1.0.1](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA99630/v1.0.1/PPSA99630.zip) | `0b50f2e63660...` | Native PS5 port of OpenMW for Morrowind; requires your own Morrowind game data. |
+| OpenRCT2 Native Port | lowbit | [1.0.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA99728/1.0.0/PPSA99728.zip) | `f5c3d0a2168b...` | OpenRCT2, the open-source RollerCoaster Tycoon 2, running natively on the PS5 and played with the DualSense alone. Send your own game files, even the GOG installer, from a PC or phone browser. |
+| PokeMMO Prospero | Shabbypenguin | [1.0.2](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA98001/1.0.2/PPSA98001.zip) | `1927587707ee...` | Runs the official, unmodified PokeMMO Linux client natively on a jailbroken PS5. |
+| ProsperoLichess | BlackBearReloaded | [01.000.000](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA99009/01.000.000/PPSA99009.zip) | `37d4cd3021df...` | Native Lichess client for PS5: play online chess with the controller. |
+| ProsperoPuzzles | BlackBearReloaded | [01.000.010](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA99006/01.000.010/PPSA99006.zip) | `9c7c7b57a885...` | Collection of puzzle games for PS5. |
+| Quake3e | Gary Riches | [1.2.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA99303/1.2.0/PPSA99303.zip) | `ce5ac7291cf9...` | Native PS5 port of Quake3e, the improved Quake III Arena engine, drawing with Vulkan at up to 4K with DualSense or USB mouse and keyboard input. Needs your own Quake III Arena game data. |
+| Raptor: Call of the Shadows (PS5) | ChaDea1 | [v0.2.0-beta.4](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA94002/v0.2.0-beta.4/PPSA94002.zip) | `ce06b3950016...` | Unofficial native PS5 port of Raptor: Call of the Shadows with DualSense controls and optional first-launch shareware download. |
+| Rush 2 Recompiled | Marice | [00.001.000](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA69423/00.001.000/PPSA69423.zip) | `8f1166217bd1...` | Native PS5 port of Rush 2 Recompiled, the N64 racer recompiled with 4K output and 60 fps; needs your own Rush 2: Extreme Racing USA (USA) ROM. |
+| Ship of Harkinian (Ocarina of Time) | mshivam019 | [v1.2.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA99620/v1.2.0/PPSA99620.zip) | `ec67bdd356f5...` | Native PS5 port of Ship of Harkinian for Ocarina of Time; requires your own game assets. |
+| Ship of Harkinian (Vulkan) | damiantw | [01.000.000](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA99320/01.000.000/PPSA99320.zip) | `82782f43c595...` | Ship of Harkinian (Ocarina of Time PC port) on Vulkan: converts your own ROM on the console, 60 FPS at 4K, HD texture packs, right-stick camera and PS button prompts; tested on firmware 13.60. |
+| SuperTuxKart | Marice | [00.001.000](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA69421/00.001.000/PPSA69421.zip) | `f2240bf0e67c...` | Alpha port of the open-source kart racer SuperTuxKart 1.5, with story mode and local races; network play is switched off. |
+| Syobon Action | Andrei Kvapil | [01.001.000](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA47402/01.001.000/PPSA47402.zip) | `86e763fac842...` | Native PS5 port of Syobon Action (Cat Mario), the deliberately unfair platformer by Chiku, with DualSense controls, a pause menu and a stage select. |
+| The Simpsons Game | ZazaMastro | [3.10.6](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA74207/3.10.6/PPSA74207.zip) | `af518c36ba5f...` | Create a PS5-ready The Simpsons Game folder from your Xbox 360 game files, with graphics settings and optional frame generation. |
+| Twilight Princess (Dusklight) | mshivam019 | [ps5-v0.1.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA99640/ps5-v0.1.0/PPSA99640.zip) | `df097143111f...` | Native PS5 port of Dusklight for Twilight Princess; requires your own USA GameCube game data. |
+| vkQuake | Mihawk | [1.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA99010/1.0/PPSA99010.zip) | `aeabf17512ea...` | Native PS5 port of vkQuake, the Vulkan Quake engine, at up to 120 FPS and 4K with DualSense input. Needs your own Quake game data. |
+| Wind Waker HD | mshivam019 | [ps5-v0.1.2](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA99641/ps5-v0.1.2/PPSA99641.zip) | `8c04cb3d4e8c...` | Native PS5 port of Wind Waker HD. Requires game files prepared from your own USA Wii U dump. |
+| XashPS5 | GordonProsperoMan | [1.3](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA19111/1.3/PPSA19111.zip) | `1bb8f143016c...` | Native PS5 port of Xash3D FWGS: Half-Life, Opposing Force and Blue Shift up to 4K at 60 FPS with DualSense input. Needs your own Half-Life game data. |
+| Yamagi Quake II | BlackBearReloaded | [0.2.0-alpha.1](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/game/PPSA99007/0.2.0-alpha.1/PPSA99007.zip) | `4fa5da07498f...` | Native PS5 port of Yamagi Quake II. |
+
+### 📂 Tools
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/homebrew_page/tool.json`
+
+
+| Application | Auteur | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| DriftCheck | Felipe Melchior | [01.000.000](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/tool/PPSA98766/01.000.000/PPSA98766.zip) | `06fa838c0747...` | Controller tester: live sticks with circularity, a rest test that measures stick drift and suggests a deadzone, triggers, buttons, touchpad and motion sensors. |
+| Forwarder Manager | heydemoura | [00.001.004](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/tool/PPSA99930/00.001.004/PPSA99930.zip) | `07f536bd2718...` | Create and edit home-screen forwarders that launch emulators and other apps with custom art, music and arguments. |
+| GyroAim | jmelovich | [1.0.2](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/tool/PPSA99510/1.0.2/PPSA99510.zip) | `b748ef79e029...` | Gyro aiming in any game: the controller's gyroscope drives the stick, tuned from your phone while you play. |
+| Prospero Explorer | SvenGDK | [1.0](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/tool/PPSA99109/1.0/PPSA99109.zip) | `3eaee706e8ac...` | File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network. |
+| Prospero Multi Tools | SvenGDK | [1](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/tool/PPSA99110/1/PPSA99110.zip) | `0e7c60d0e860...` | Backup manager for PS5: browse and edit PS1 to PS5, PSP and PS Vita backups, install packages and launch PS1/PS2/PSP titles. Needs the unjail payload. |
+| ScreenTester5 | Marice | [01.000.000](https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/tool/PPSA69420/01.000.000/PPSA69420.zip) | `49a5c6d7bbb0...` | Screen tester: solid colours and test patterns to find dead or stuck pixels, check uniformity and geometry, and run stuck-pixel recovery. |
+
+---
+
 ## ☕ Crédits & Sources
 
 Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 
+- **02dnot** : [Jelly5 (Homebrew.page)](https://homebrew.page/app/PPSA99505)
+- **AZiZ** : [Ruffle Flash (Homebrew.page)](https://homebrew.page/app/PPSA68091)
+- **AZiZ** : [VLC (Homebrew.page)](https://homebrew.page/app/PPSA85300)
+- **AZiZ** : [XPSemu (Homebrew.page)](https://homebrew.page/app/PPSA97358)
+- **Abhiram** : [PS5LM Plus (Homebrew.page)](https://homebrew.page/app/PPSA99581)
 - **Al-Azif** : [Chukei DNS](https://github.com/Al-Azif/chukei-dns)
+- **Andrei Kvapil** : [Syobon Action (Homebrew.page)](https://homebrew.page/app/PPSA47402)
+- **AngelXex** : [SwanStationPS5 (Homebrew.page)](https://homebrew.page/app/PPSA98510)
+- **AngelXex** : [ccleste (Homebrew.page)](https://homebrew.page/app/PPSA59322)
+- **Argyris Vazaios** : [Stremio (Homebrew.page)](https://homebrew.page/app/PPSA77711)
 - **ArkSama** : [Lapy JB Daemon](https://raw.githubusercontent.com/ArkSama/PS5-Lapy-JB-Daemon/main/lapy_jb_daemon.elf)
 - **BestPig** : [BackPork](https://github.com/BestPig/BackPork)
+- **Bilawal Riaz** : [Nuvio PS5 (Homebrew.page)](https://homebrew.page/app/PPSA99997)
+- **BlackBearReloaded** : [Homebrew UI Lab (Homebrew.page)](https://homebrew.page/app/PPSA99050)
+- **BlackBearReloaded** : [PS5 FSR4 Showcase (Homebrew.page)](https://homebrew.page/app/PPSA99011)
+- **BlackBearReloaded** : [PS5 OpenGL Showcase (Homebrew.page)](https://homebrew.page/app/PPSA99005)
+- **BlackBearReloaded** : [ProsperoAI (Homebrew.page)](https://homebrew.page/app/PPSA99004)
+- **BlackBearReloaded** : [ProsperoEden (Homebrew.page)](https://homebrew.page/app/PPSA99008)
+- **BlackBearReloaded** : [ProsperoLichess (Homebrew.page)](https://homebrew.page/app/PPSA99009)
+- **BlackBearReloaded** : [ProsperoLight (Homebrew.page)](https://homebrew.page/app/PPSA99002)
+- **BlackBearReloaded** : [ProsperoPuzzles (Homebrew.page)](https://homebrew.page/app/PPSA99006)
+- **BlackBearReloaded** : [ProsperoRadio (Homebrew.page)](https://homebrew.page/app/PPSA99001)
+- **BlackBearReloaded** : [ProsperoStore (Homebrew.page)](https://homebrew.page/app/PPSA99000)
+- **BlackBearReloaded** : [ProsperoTV (Homebrew.page)](https://homebrew.page/app/PPSA99003)
+- **BlackBearReloaded** : [Yamagi Quake II (Homebrew.page)](https://homebrew.page/app/PPSA99007)
 - **BrinooTk** : [PS5X360](https://github.com/BrinooTk/PS5X360)
 - **BrinooTk** : [castation](https://github.com/BrinooTk/castation)
+- **ChaDea1** : [Raptor: Call of the Shadows (PS5) (Homebrew.page)](https://homebrew.page/app/PPSA94002)
 - **Darkmor** : [A53 11.60 only Experimental KS-D](https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/a53_ppr/a53_ppr_install_1160_20.09.elf)
 - **Drakmor** : [A53 1.00-11.40 Experimental KS-D](https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/a53_ppr/a53_ppr_install_1140_20.09.elf)
 - **Drakmor** : [kstuff_Drakmor_Experimental](https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/Kstuff-Darkmor/kstuff-1.13-fpkg-dr-test5.elf)
@@ -500,17 +642,34 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **FGGstore** : [FGG-PlayPods](https://github.com/FGGstore/FGG-PlayPods)
 - **FGGstore** : [FGG-Unpack](https://github.com/FGGstore/FGG-Unpack)
 - **FGGstore** : [FGG-XSense](https://github.com/FGGstore/FGG-XSense)
+- **Felipe Melchior** : [DriftCheck (Homebrew.page)](https://homebrew.page/app/PPSA98766)
+- **Gary Riches** : [Doom 3 BFG (Homebrew.page)](https://homebrew.page/app/PPSA99313)
+- **Gary Riches** : [Dusklight (Homebrew.page)](https://homebrew.page/app/PPSA99305)
+- **Gary Riches** : [Mario 64 (Homebrew.page)](https://homebrew.page/app/PPSA99310)
+- **Gary Riches** : [Quake3e (Homebrew.page)](https://homebrew.page/app/PPSA99303)
+- **Gary Riches** : [Super Mario Sunshine (Homebrew.page)](https://homebrew.page/app/PPSA99312)
+- **Gary Riches** : [Wind Waker (Homebrew.page)](https://homebrew.page/app/PPSA99309)
+- **GordonProsperoMan** : [XashPS5 (Homebrew.page)](https://homebrew.page/app/PPSA19111)
 - **GordonProsperoMan** : [xash3d-ps5](https://github.com/GordonProsperoMan/xash3d-ps5)
+- **HandshakeHackin** : [Nuvio Max'd (Homebrew.page)](https://homebrew.page/app/PPSA99288)
+- **Husam Osman** : [PS5VR (Homebrew.page)](https://homebrew.page/app/PPSA99177)
 - **Itemzflow** : [Itemzflow_Game_Manager](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Itemzflow_Game_Manager_v1.14.pkg)
 - **ItsBlurf** : [BFpilot](https://github.com/ItsBlurf/BFpilot)
 - **ItsBlurf** : [BFplayer-standalone](https://github.com/ItsBlurf/BFplayer)
 - **ItsBlurf** : [PoorDS4](https://github.com/ItsBlurf/PoorDS4)
 - **ItsJokerZz** : [FPKGi](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_FPKGi_v1.10.0.pkg)
 - **KINGDKAK** : [ProsperoPlayer](https://github.com/KINGDKAK/ProsperoPlayer)
+- **Khalifa Al-Khatri** : [Capy Mobile (Homebrew.page)](https://homebrew.page/app/PPSA92280)
 - **Lapy** : [Avatar-Changer](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Avatar-Changer_v1.00.pkg)
 - **Lapy** : [PS5-Xplorer](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5-Xplorer_v1.05.pkg)
 - **LightningMods** : [etaHEN](https://github.com/etaHEN/etaHEN)
+- **LoZazaMastro** : [CD Player (Homebrew.page)](https://homebrew.page/app/PPSA98427)
+- **LoZazaMastro** : [Stremio Plus (Homebrew.page)](https://homebrew.page/app/PPSA74126)
 - **Loopayeh** : [pkg-receiver](https://github.com/Loopayeh/pkg-sender)
+- **Marice** : [OliSe Player (Homebrew.page)](https://homebrew.page/app/PPSA01153)
+- **Marice** : [Rush 2 Recompiled (Homebrew.page)](https://homebrew.page/app/PPSA69423)
+- **Marice** : [ScreenTester5 (Homebrew.page)](https://homebrew.page/app/PPSA69420)
+- **Marice** : [SuperTuxKart (Homebrew.page)](https://homebrew.page/app/PPSA69421)
 - **Markus_PHU** : [EmuPack-NeoGeo.PS5](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-NeoGeo.PS5.rar)
 - **Markus_PHU** : [EmuPack-Nes.PS5](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Nes.PS5.rar)
 - **Markus_PHU** : [EmuPack-PC.Engine.PS5](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-PC.Engine.PS5.rar)
@@ -525,6 +684,8 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **Master0** : [PS5Webit-Nexgen999_Installer](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg)
 - **MasterPS0** : [PS5-Power-Payloads-Project](https://github.com/MasterPS0/PS5-Power-Payloads-Project)
 - **Michele-M-Media** : [PIZZA-HEN](https://github.com/Michele-M-Media/PIZZA-HEN)
+- **Mihawk** : [RetroArch (Homebrew.page)](https://homebrew.page/app/PPSA99169)
+- **Mihawk** : [vkQuake (Homebrew.page)](https://homebrew.page/app/PPSA99010)
 - **MisterTemaki** : [fbneo-ps5](https://github.com/MisterTemaki/fbneo-ps5)
 - **MisterTemaki** : [genplusgxPS5](https://github.com/MisterTemaki/genplusgxPS5)
 - **MisterTemaki** : [snes9xPS5](https://github.com/MisterTemaki/snes9xPS5)
@@ -533,9 +694,17 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **NookieAI** : [Kura](https://github.com/NookieAI/kura)
 - **OpenSourcereR-dev** : [ps5debug-NG](https://github.com/OpenSourcereR-dev/ps5debug-NG)
 - **Phoenixx1202** : [Spectrum-Library-PC](https://github.com/Phoenixx1202/Spectrum-Library-PC)
+- **Portablelle** : [OpenNOW PS5 - Prototype (Homebrew.page)](https://homebrew.page/app/PPSA99082)
 - **PratikHackTR** : [PS5-PHStore](https://github.com/PratikHackTR/PS5-PHStore)
+- **Press5elect** : [PSSwanStation (Homebrew.page)](https://homebrew.page/app/PPSA99248)
+- **RafaelNGP** : [PICO-8 for PS5 (Homebrew.page)](https://homebrew.page/app/PPSA99808)
+- **RafaelNGP** : [PSBox Cloud Gaming (Homebrew.page)](https://homebrew.page/app/PPSA99810)
 - **RafaelNGP** : [pico8-ps5](https://github.com/RafaelNGP/pico8-ps5)
 - **RastaFairy** : [ProsperoRadio Vulkan Edition](https://github.com/RastaFairy/Prospero_Radio_Vulkan)
+- **Ruben Ripalda** : [Porpoise (Homebrew.page)](https://homebrew.page/app/PPSA99764)
+- **STL1te** : [Middle Ages Ping Pong (Homebrew.page)](https://homebrew.page/app/PPSA28319)
+- **Sain Saji** : [EVO Player (Homebrew.page)](https://homebrew.page/app/PPSA99039)
+- **Shabbypenguin** : [PokeMMO Prospero (Homebrew.page)](https://homebrew.page/app/PPSA98001)
 - **SoNic** : [kstuff-a53_SoNic](https://github.com/Soonniicc/kstuff-a53)
 - **SoNic-AIO** : [A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental](https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/SoNic-AIO/A53-Kstuff-ShadowMountPlus-3in1.elf)
 - **SoNic-AIO** : [A53-kstuff-SMP_SoNic-AIO_Experimental](https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/SoNic-AIO/A53-kstuff-SMP.elf)
@@ -544,18 +713,32 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **StonedModder** : [ChronicLoader-PS5-Payload](https://github.com/StonedModder/ChronicLoader-PS5-Payload)
 - **StonedModder** : [PS Game State Lib](https://github.com/StonedModder/ps-game-state-lib)
 - **StonedModder** : [PS-DiscordPresence](https://github.com/StonedModder/PS-DiscordPresence)
+- **StonedModder** : [PShare (Homebrew.page)](https://homebrew.page/app/PPSA99773)
+- **StonedModder** : [VITA5 (Homebrew.page)](https://homebrew.page/app/PPSA39410)
 - **StonedModder** : [ghost-toothAPI](https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/ps5_utility/ghost-toothAPI/ghost-toothAPI.elf)
 - **StonedModder** : [savemnt-offset-dumper](https://github.com/StonedModder/savemnt-offset-dumper)
+- **SvenGDK** : [Prospero Explorer (Homebrew.page)](https://homebrew.page/app/PPSA99109)
 - **SvenGDK** : [Prospero Explorer](https://github.com/SvenGDK/Prospero-Explorer)
+- **SvenGDK** : [Prospero Multi Tools (Homebrew.page)](https://homebrew.page/app/PPSA99110)
 - **SvenGDK** : [Prospero Multi Tools](https://github.com/SvenGDK/Prospero-Multi-Tools)
+- **SvenGDK** : [Prospero Vibrate (Homebrew.page)](https://homebrew.page/app/PPSA99920)
+- **Sword** : [PS5SX2 (Homebrew.page)](https://homebrew.page/app/PPSA99203)
+- **SynoPiia** : [PSXS5 (Homebrew.page)](https://homebrew.page/app/PPSA97510)
+- **TsvetomirGT** : [SymphonyStation5 (Homebrew.page)](https://homebrew.page/app/PPSA17641)
+- **VivaLaVent** : [PS5MC (Homebrew.page)](https://homebrew.page/app/PPSA99420)
+- **Vivian** : [Régie5 (Homebrew.page)](https://homebrew.page/app/PPSA99520)
+- **ZazaMastro** : [The Simpsons Game (Homebrew.page)](https://homebrew.page/app/PPSA74207)
 - **ZiZc3** : [XPSemu](https://github.com/ZiZc3/XPSemu)
+- **abhi245y** : [Spot5 (Homebrew.page)](https://homebrew.page/app/PPSA99061)
 - **aydencharles** : [kylin-core](https://github.com/aydencharles/kylin-core-release)
 - **aydencharles** : [onionHEN](https://github.com/aydencharles/onionHEN)
 - **barisyild** : [airpsx](https://github.com/barisyild/airpsx)
 - **bizkut** : [unrar-ps5](https://github.com/bizkut/unrar-ps5)
 - **blackbearreloaded** : [ProsperoAI](https://github.com/blackbearreloaded/ProsperoAI)
 - **blackbearreloaded** : [ProsperoStore](https://github.com/blackbearreloaded/ProsperoStore)
+- **bornaradusin** : [Emby5 (Homebrew.page)](https://homebrew.page/app/PPSA99515)
 - **cy33hc** : [ps5-ezremote-server](https://github.com/cy33hc/ps5-ezremote-server)
+- **damiantw** : [Ship of Harkinian (Vulkan) (Homebrew.page)](https://homebrew.page/app/PPSA99320)
 - **diegobarbosaa** : [OmniPad-PS5](https://github.com/diegobarbosaa/OmniPad-PS5)
 - **dmzebro** : [RPCS3](https://github.com/dmzebro/PS5_RPCS3)
 - **drakmor** : [ShadowMountPlus](https://github.com/drakmor/ShadowMountPlus)
@@ -569,6 +752,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **elmonomalva0** : [Any-Pad-ps5](https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf)
 - **elripalda** : [Porpoise](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5)
 - **gcoding97** : [PS5-Game-Compressor fork](https://github.com/gcoding97/PS5-Game-Compressor)
+- **heydemoura** : [Forwarder Manager (Homebrew.page)](https://homebrew.page/app/PPSA99930)
 - **hgr9519** : [ps5-wallpaper-modd](https://github.com/hgr9519/ps5-wallpaper-modd)
 - **idlesauce** : [PS5-SELF-Decrypter](https://github.com/idlesauce/PS5-SELF-Decrypter)
 - **idlesauce** : [ps5-remoteplay-get-pin](https://github.com/idlesauce/ps5-remoteplay-get-pin)
@@ -578,14 +762,26 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **itsPLK** : [PS5 Unified Autoloader](https://github.com/itsPLK/ps5-unified-autoloader)
 - **itsPLK** : [ps5-pkg-manager](https://github.com/itsPLK/ps5-pkg-manager)
 - **itsPLK** : [ps5-webkit-autoloader](https://github.com/itsPLK/ps5-webkit-autoloader)
+- **jmelovich** : [GyroAim (Homebrew.page)](https://homebrew.page/app/PPSA99510)
+- **jmelovich** : [Steam Remote Play (Homebrew.page)](https://homebrew.page/app/PPSA99350)
 - **juma-sayeh** : [PS5-File-Explorer](https://github.com/juma-sayeh/PS5-File-Explorer)
 - **juma-sayeh** : [PS5-Game-Compressor](https://github.com/juma-sayeh/PS5-Game-Compressor)
 - **kerrdec97** : [ps5-date-time-sync](https://github.com/kerrdec97/ps5-date-time-sync)
+- **lowbit** : [DOOM Native Port (Homebrew.page)](https://homebrew.page/app/PPSA99666)
+- **lowbit** : [OpenRCT2 Native Port (Homebrew.page)](https://homebrew.page/app/PPSA99728)
 - **lowbit** : [ps5-doom](https://github.com/lowbit/ps5-doom)
 - **m0ur0ne** : [God Of War - Betrayal Port](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_GOW-Betrayal_Port.pkg)
 - **m0ur0ne** : [Mario Kart 64 Port](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_MK64_Port.pkg)
 - **menfis911** : [FGG-PlayPods-GUI](https://github.com/menfis911/FGG-PlayPods-GUI)
+- **mortaljinx** : [Mortalfin (Homebrew.page)](https://homebrew.page/app/PPSA99141)
+- **mpereiraesaa** : [Prospero Win (Homebrew.page)](https://homebrew.page/app/PPSA99995)
 - **mpereiraesaa** : [prospero-win](https://github.com/mpereiraesaa/prospero-win)
+- **mshivam019** : [2 Ship 2 Harkinian (Majora's Mask) (Homebrew.page)](https://homebrew.page/app/PPSA99621)
+- **mshivam019** : [Link’s Awakening for PS5 (Homebrew.page)](https://homebrew.page/app/PPSA99670)
+- **mshivam019** : [Morrowind (OpenMW) (Homebrew.page)](https://homebrew.page/app/PPSA99630)
+- **mshivam019** : [Ship of Harkinian (Ocarina of Time) (Homebrew.page)](https://homebrew.page/app/PPSA99620)
+- **mshivam019** : [Twilight Princess (Dusklight) (Homebrew.page)](https://homebrew.page/app/PPSA99640)
+- **mshivam019** : [Wind Waker HD (Homebrew.page)](https://homebrew.page/app/PPSA99641)
 - **notmaj0r** : [CheatRunner](https://github.com/notmaj0r/CheatRunner)
 - **notmaj0r** : [ProsperoMgr](https://github.com/notmaj0r/ProsperoMgr)
 - **owendswang** : [ps5-fan-control](https://github.com/owendswang/ps5-fan-control)
@@ -594,6 +790,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **phantomptr** : [ps5upload](https://github.com/phantomptr/ps5upload)
 - **pkg-zone** : [Homebrew_Store_installer](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Homebrew_Store_installer.pkg)
 - **porhe911** : [Common-FPS-for-PS5](https://github.com/porhe911/Common-FPS-for-PS5)
+- **premohq** : [PS5CEMU-HAR (Homebrew.page)](https://homebrew.page/app/PPSA99360)
 - **ps4macedo** : [Host-PSM pooP2JB](https://github.com/ps4macedo/instalador-host-psm-poop2jb)
 - **ps5-linux** : [ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader)
 - **ps5-payload-dev** : [HOMEBREWLOADER](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_HOMEBREWLOADER_v0.30.pkg)
@@ -612,17 +809,21 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **romanocry** : [EmuStore-PS5](https://github.com/romanocry/EmuStore-PS5)
 - **rpf16rj** : [flycast-ps5-libretro-core](https://github.com/rpf16rj/flycast-ps5-libretro-core)
 - **s0liton** : [PHU-Sandbox.Exit](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/PHU-Sandbox.Exit_v1.0.elf)
+- **s0liton** : [RommPS (Homebrew.page)](https://homebrew.page/app/PPSA76677)
 - **s0liton** : [ps5-romm](https://github.com/s0liton/ps5-romm)
 - **saawant12** : [orbit-store-ps5](https://github.com/saawant12/orbit-store-ps5)
+- **sain.saji** : [Surround Sound Studio (Homebrew.page)](https://homebrew.page/app/PPSA99051)
 - **sainsaji** : [EVO-PLAYER-PS5](https://github.com/sainsaji/EVO-PLAYER-PS5)
 - **seregonwar** : [MemDBG](https://github.com/seregonwar/MemDBG)
 - **seregonwar** : [zftpd](https://github.com/seregonwar/zftpd)
 - **smoxa** : [ps5-new-overlay](https://github.com/smoxa/ps5-new-overlay)
 - **sub0x00001** : [pad2c](https://github.com/sub0x00001/pad2c)
+- **tertiumndatur** : [Cloud Play (Homebrew.page)](https://homebrew.page/app/PPSA99600)
 - **theghostonline** : [Nuvio-PS5](https://github.com/theghostonline/Nuvio-PS5)
 - **tsuramatsu1** : [Vita3K-PS5](https://github.com/tsuramatsu1/Vita3K-PS5)
 - **tsuramatsu1** : [apr-emu-updater](https://github.com/tsuramatsu1/apr-emu-updater)
 - **tsuramatsu1** : [psp5](https://github.com/tsuramatsu1/psp5)
+- **unicxrn** : [Twispero (Homebrew.page)](https://homebrew.page/app/PPSA99474)
 - **zecoxao - LightningMods** : [etaHEN-Beta](https://github.com/zecoxao/zecoxao.github.io/raw/refs/heads/main/luasauce/payloads/etaHEN-2.6B.bin)
 
 ---
