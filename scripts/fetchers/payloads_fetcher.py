@@ -1,4 +1,4 @@
-# payloads_fetcher.py
+# scripts/fetchers/payloads_fetcher.py
 import os
 import re
 import json
@@ -40,6 +40,7 @@ def fetch_payloads_category(credits_set):
             downloaded = False
             clean_xml_url = xml_url.split('?')[0].lower()
             repo_lower = ""
+            source_url = ""
 
             # Gestion des sources fixes directes (URL brute .elf / .bin / .ffpfsc)
             if clean_xml_url.endswith(('.elf', '.bin', '.ffpfsc')):
@@ -54,6 +55,7 @@ def fetch_payloads_category(credits_set):
                     urllib.request.install_opener(opener)
                     urllib.request.urlretrieve(xml_url, os.path.join(target_dir, f_name))
                     downloaded = True
+                    source_url = xml_url
                 except Exception as e:
                     print(f"    ⚠️ Échec source fixe ({title}) : {e}")
 
@@ -74,6 +76,12 @@ def fetch_payloads_category(credits_set):
                 repo = repo_match.group(1).rstrip('/') if repo_match else repo_path
                 repo_lower = repo.lower() if repo else ""
                 
+                if repo:
+                    if is_forgejo:
+                        source_url = f"https://{forgejo_domain}/{repo}/releases"
+                    else:
+                        source_url = f"https://github.com/{repo}/releases"
+
                 rules = get_repo_config(repo_lower)
                 
                 try:
@@ -150,7 +158,8 @@ def fetch_payloads_category(credits_set):
                     "description": description if description else f"Payload {display_name} pour PS5",
                     "version": version,
                     "category": cat_display,
-                    "checksum": hasher.hexdigest()
+                    "checksum": hasher.hexdigest(),
+                    "source": source_url if source_url else xml_url
                 }
                 cat_list.append(item_data)
                 all_flat.append(item_data)
