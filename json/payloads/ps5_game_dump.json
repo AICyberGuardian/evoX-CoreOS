@@ -9,7 +9,8 @@
       "description": "Tool to compress PS5 games.",
       "version": "v1.0.4",
       "category": "PS5 Game Dump",
-      "checksum": "e55e90aaade13b6e0d4316c1597ef90a21b67a06475c3e25de054224bc1e941b"
+      "checksum": "e55e90aaade13b6e0d4316c1597ef90a21b67a06475c3e25de054224bc1e941b",
+      "source": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases"
     },
     {
       "name": "Ps5-App-Dumper V2.10",
@@ -19,7 +20,8 @@
       "description": "PS5 App Dumper payload.",
       "version": "v2.10",
       "category": "PS5 Game Dump",
-      "checksum": "c850f1df6f2787824d6ddeeed69ce4144e00569b32135973401c2985cfb0345b"
+      "checksum": "c850f1df6f2787824d6ddeeed69ce4144e00569b32135973401c2985cfb0345b",
+      "source": "https://github.com/EchoStretch/ps5-app-dumper/releases"
     },
     {
       "name": "Shadowmountplus",
@@ -29,7 +31,8 @@
       "description": "ShadowMountPlus payload for game mounting.",
       "version": "1.7beta5",
       "category": "PS5 Game Dump",
-      "checksum": "0d54a8467ec3544e1c7b365c9f100b2bf42bf4633cb768bde7c8f16b6cfb5375"
+      "checksum": "0d54a8467ec3544e1c7b365c9f100b2bf42bf4633cb768bde7c8f16b6cfb5375",
+      "source": "https://github.com/drakmor/ShadowMountPlus/releases"
     },
     {
       "name": "Backpork V0.1",
@@ -39,7 +42,8 @@
       "description": "BackPork PS5 tool.",
       "version": "0.1",
       "category": "PS5 Game Dump",
-      "checksum": "d74e4cd119b2bb1fd423f2f5b1c9a7f096b3e588c753af1ab48b983d56216a52"
+      "checksum": "d74e4cd119b2bb1fd423f2f5b1c9a7f096b3e588c753af1ab48b983d56216a52",
+      "source": "https://github.com/BestPig/BackPork/releases"
     },
     {
       "name": "Apr Emu Updater V2.0.6",
@@ -49,7 +53,8 @@
       "description": "APR Emu Updater must always be loaded.",
       "version": "v2.0.6",
       "category": "PS5 Game Dump",
-      "checksum": "4f04464283a6a551883e40e36b59134ecad0e38ecbb7ea89cbec3f91a3bd9122"
+      "checksum": "4f04464283a6a551883e40e36b59134ecad0e38ecbb7ea89cbec3f91a3bd9122",
+      "source": "https://github.com/tsuramatsu1/apr-emu-updater/releases"
     },
     {
       "name": "Ps5-Game-Compressor Fork V1.1.1",
@@ -59,7 +64,8 @@
       "description": "Fork Tool to compress PS5 games.",
       "version": "v1.1.1",
       "category": "PS5 Game Dump",
-      "checksum": "5fec05b8a3cb89bafbc97970d5d68d9f31e6fcde873b5523243890e50836592b"
+      "checksum": "5fec05b8a3cb89bafbc97970d5d68d9f31e6fcde873b5523243890e50836592b",
+      "source": "https://github.com/gcoding97/PS5-Game-Compressor/releases"
     }
   ]
 }

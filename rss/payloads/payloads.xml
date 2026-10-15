@@ -264,9 +264,9 @@
     </item>
     <item>
       <title>Orbit Store</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.3.0/orbit_store.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.3.5/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.3.0</pubDate>
+      <pubDate>v1.3.5</pubDate>
     </item>
     <item>
       <title>Ps5-Phstore Vphstore</title>
@@ -455,10 +455,10 @@
       <pubDate>v1.6</pubDate>
     </item>
     <item>
-      <title>Ps5-Romm V1.1.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.1.1/ps5-romm_v1.1.1.elf</link>
+      <title>Ps5-Romm V1.2.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.2.0/ps5-romm_v1.2.0.elf</link>
       <description>ps5-romm for ps5</description>
-      <pubDate>v1.1.1</pubDate>
+      <pubDate>v1.2.0</pubDate>
     </item>
     <item>
       <title>Fbneo-Ps5 V1.8</title>

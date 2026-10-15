@@ -9,7 +9,8 @@
       "description": "snes9x emulator",
       "version": "v2.3",
       "category": "PS5 Emulator",
-      "checksum": "d71f900bc434eaed55b304e603ae79327ef7de6be147a159d78803dd0eb7fe27"
+      "checksum": "d71f900bc434eaed55b304e603ae79327ef7de6be147a159d78803dd0eb7fe27",
+      "source": "https://github.com/MisterTemaki/snes9xPS5/releases"
     },
     {
       "name": "Genplusgxps5 V1.6",
@@ -19,17 +20,19 @@
       "description": "Port of Genesis-Plus-GX for PS55",
       "version": "v1.6",
       "category": "PS5 Emulator",
-      "checksum": "c548e4dd9e15f58bff8cccc2e7042df276462643ec74a0ea7548deeee6941548"
+      "checksum": "c548e4dd9e15f58bff8cccc2e7042df276462643ec74a0ea7548deeee6941548",
+      "source": "https://github.com/MisterTemaki/genplusgxPS5/releases"
     },
     {
-      "name": "Ps5-Romm V1.1.1",
-      "filename": "ps5-romm_v1.1.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.1.1/ps5-romm_v1.1.1.elf",
-      "local_path": "payloads/ps5_emulator/ps5-romm/v1.1.1/ps5-romm_v1.1.1.elf",
+      "name": "Ps5-Romm V1.2.0",
+      "filename": "ps5-romm_v1.2.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.2.0/ps5-romm_v1.2.0.elf",
+      "local_path": "payloads/ps5_emulator/ps5-romm/v1.2.0/ps5-romm_v1.2.0.elf",
       "description": "ps5-romm for ps5",
-      "version": "v1.1.1",
+      "version": "v1.2.0",
       "category": "PS5 Emulator",
-      "checksum": "e86153e3d8f480656b47906bb6a6dd9d9fc76217ded4c9243f6f4df90724e53a"
+      "checksum": "e2e3710cdb267049cb89398cd2a74192c2cf4924e78fab53f2ff44de35cb1f77",
+      "source": "https://github.com/s0liton/ps5-romm/releases"
     },
     {
       "name": "Fbneo-Ps5 V1.8",
@@ -39,7 +42,8 @@
       "description": "FBNeo for ps5",
       "version": "v1.8",
       "category": "PS5 Emulator",
-      "checksum": "9e3b4af4239eeb574adb1b042f5da54e806d6ec018a85c6f93cf8a423815b11c"
+      "checksum": "9e3b4af4239eeb574adb1b042f5da54e806d6ec018a85c6f93cf8a423815b11c",
+      "source": "https://github.com/MisterTemaki/fbneo-ps5/releases"
     },
     {
       "name": "Phu-Sandbox.Exit V1.0",
@@ -49,7 +53,8 @@
       "description": "addon for Markus-PHU Emupack",
       "version": "Source-Fixe",
       "category": "PS5 Emulator",
-      "checksum": "228462a0f7fc9f40f9ae7460feaf5516ab5a36f1fb6d912664e7d1f289ad204e"
+      "checksum": "228462a0f7fc9f40f9ae7460feaf5516ab5a36f1fb6d912664e7d1f289ad204e",
+      "source": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/PHU-Sandbox.Exit_v1.0.elf"
     }
   ]
 }

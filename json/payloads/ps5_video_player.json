@@ -9,7 +9,8 @@
       "description": "BFplayer is a native media library and player for jailbroken PlayStation 5 consoles.",
       "version": "v0.1.0-alpha.44",
       "category": "PS5 Video Player",
-      "checksum": "0d028deb145d6fc9a5b55d43a45e072919178fbb261c66cd914ebcfb0b3b05c0"
+      "checksum": "0d028deb145d6fc9a5b55d43a45e072919178fbb261c66cd914ebcfb0b3b05c0",
+      "source": "https://github.com/ItsBlurf/BFplayer/releases"
     },
     {
       "name": "Prosperoplayer V1.0",
@@ -19,7 +20,8 @@
       "description": "A homebrew media player for jailbroken PS5.",
       "version": "v1.0",
       "category": "PS5 Video Player",
-      "checksum": "40b9955273982cd563e1b16bd428ea6a9c399e7d4bc55b220fe223948572cdad"
+      "checksum": "40b9955273982cd563e1b16bd428ea6a9c399e7d4bc55b220fe223948572cdad",
+      "source": "https://github.com/KINGDKAK/ProsperoPlayer/releases"
     },
     {
       "name": "Svtplay V0.3",
@@ -29,7 +31,8 @@
       "description": "This is an unofficial 10-foot UI for SVT Play, the Swedish public service television broadcaster.",
       "version": "v0.3",
       "category": "PS5 Video Player",
-      "checksum": "31f2caac7d53b8754bb37cb0364e615bfc38fc5f02c886d286a4f9e603b56832"
+      "checksum": "31f2caac7d53b8754bb37cb0364e615bfc38fc5f02c886d286a4f9e603b56832",
+      "source": "https://github.com/ps5-payload-dev/svtplay/releases"
     },
     {
       "name": "Ps-Play V2.1",
@@ -39,7 +42,8 @@
       "description": "All-in-one media hub for jailbroken PlayStation 5",
       "version": "2.1",
       "category": "PS5 Video Player",
-      "checksum": "e3392379d5bc6ca4e44cb0d2a1d8921083b2c3ea480725f68378831874542d8d"
+      "checksum": "e3392379d5bc6ca4e44cb0d2a1d8921083b2c3ea480725f68378831874542d8d",
+      "source": "https://github.com/MounirHero/PS-Play/releases"
     },
     {
       "name": "Nuvio-Ps5 V1.8.0",
@@ -49,7 +53,8 @@
       "description": "Nuvio, at home on the PlayStation 5",
       "version": "v1.8.0",
       "category": "PS5 Video Player",
-      "checksum": "2c4812fdf411116652db756a5bd563cb4934f9df76373f59bdba3ff25a79cc3b"
+      "checksum": "2c4812fdf411116652db756a5bd563cb4934f9df76373f59bdba3ff25a79cc3b",
+      "source": "https://github.com/theghostonline/Nuvio-PS5/releases"
     }
   ]
 }

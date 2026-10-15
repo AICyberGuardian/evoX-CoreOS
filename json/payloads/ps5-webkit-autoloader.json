@@ -9,7 +9,8 @@
       "description": "Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.",
       "version": "v0.6.1",
       "category": "Ps5-Webkit-Autoloader",
-      "checksum": "f662c75a502e4f1bc41b055dcb490625f8222c499ce437dc80f439a3a279e93f"
+      "checksum": "f662c75a502e4f1bc41b055dcb490625f8222c499ce437dc80f439a3a279e93f",
+      "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases"
     },
     {
       "name": "Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0",
@@ -19,7 +20,8 @@
       "description": "Host-PSM pooP2JB.",
       "version": "v1.2.0",
       "category": "Ps5-Webkit-Autoloader",
-      "checksum": "3ccc45938dcc1bb6ee766195106c928049fd632993828bcf73b5368fdebfc496"
+      "checksum": "3ccc45938dcc1bb6ee766195106c928049fd632993828bcf73b5368fdebfc496",
+      "source": "https://github.com/ps4macedo/instalador-host-psm-poop2jb/releases"
     },
     {
       "name": "Host-Psm-Poop2Jb-V1.2.0-Instala-Onionhen V1.2.0",
@@ -29,7 +31,8 @@
       "description": "Host-PSM pooP2JB.",
       "version": "v1.2.0",
       "category": "Ps5-Webkit-Autoloader",
-      "checksum": "894432bb3161559a272bbdd07cc66dd80ac487f6ddbcc9ae5718090dc0f6e716"
+      "checksum": "894432bb3161559a272bbdd07cc66dd80ac487f6ddbcc9ae5718090dc0f6e716",
+      "source": "https://github.com/ps4macedo/instalador-host-psm-poop2jb/releases"
     },
     {
       "name": "Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr V1.2.0",
@@ -39,7 +42,8 @@
       "description": "Host-PSM pooP2JB.",
       "version": "v1.2.0",
       "category": "Ps5-Webkit-Autoloader",
-      "checksum": "b81609da1db061165e44541653b95f524c917a3d5a1fca308965b0d821be3178"
+      "checksum": "b81609da1db061165e44541653b95f524c917a3d5a1fca308965b0d821be3178",
+      "source": "https://github.com/ps4macedo/instalador-host-psm-poop2jb/releases"
     },
     {
       "name": "Host-Psm-Poop2Jb-V1.2.0-Instala-Onionhen-En V1.2.0",
@@ -49,7 +53,8 @@
       "description": "Host-PSM pooP2JB.",
       "version": "v1.2.0",
       "category": "Ps5-Webkit-Autoloader",
-      "checksum": "90f1ec197e66bbf4fa1a3bce040d6a5d04d571c4f8290f608401e8f7c2e9e0a4"
+      "checksum": "90f1ec197e66bbf4fa1a3bce040d6a5d04d571c4f8290f608401e8f7c2e9e0a4",
+      "source": "https://github.com/ps4macedo/instalador-host-psm-poop2jb/releases"
     }
   ]
 }

@@ -9,7 +9,8 @@
       "description": "Fake activate PS5 without PSN.",
       "version": "v1.4",
       "category": "PS5 Activation",
-      "checksum": "9ec8562b3e3f6508071e280037e225371d8a6c297e74b8ae4d240e357ee38eca"
+      "checksum": "9ec8562b3e3f6508071e280037e225371d8a6c297e74b8ae4d240e357ee38eca",
+      "source": "https://git.etawen.dev/earthonion/np-fake-signin/releases"
     }
   ]
 }

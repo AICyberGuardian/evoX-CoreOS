@@ -9,7 +9,8 @@
       "description": "BFpilot is a lightweight PS5 payload that serves a browser-based file manager.",
       "version": "v0.4.4",
       "category": "PS5 File Explorer",
-      "checksum": "5a8237630260026ad054d71fbbe661e433ac9ffa2cb4eea2785769c1eb7ee1c1"
+      "checksum": "5a8237630260026ad054d71fbbe661e433ac9ffa2cb4eea2785769c1eb7ee1c1",
+      "source": "https://github.com/ItsBlurf/BFpilot/releases"
     },
     {
       "name": "Lapy Jb Daemon",
@@ -19,7 +20,8 @@
       "description": "Daemon pour le jailbreak de Lapy",
       "version": "Source-Fixe",
       "category": "PS5 File Explorer",
-      "checksum": "e8230ac4597b8f0388e75d7515ad1a2e251c4589cc3b8d56a483ffae73627eed"
+      "checksum": "e8230ac4597b8f0388e75d7515ad1a2e251c4589cc3b8d56a483ffae73627eed",
+      "source": "https://raw.githubusercontent.com/ArkSama/PS5-Lapy-JB-Daemon/main/lapy_jb_daemon.elf"
     },
     {
       "name": "Web-File-Mgr-V1.10",
@@ -29,7 +31,8 @@
       "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
       "version": "v1.10",
       "category": "PS5 File Explorer",
-      "checksum": "409145ec9a1c338ecb5f6f917c3b057c4ba48bfae2e86d621e19dda7ac129bd3"
+      "checksum": "409145ec9a1c338ecb5f6f917c3b057c4ba48bfae2e86d621e19dda7ac129bd3",
+      "source": "https://github.com/owendswang/ps5-web-file-manager/releases"
     },
     {
       "name": "Wfm-7Zip-Helper",
@@ -39,7 +42,8 @@
       "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
       "version": "v1.10",
       "category": "PS5 File Explorer",
-      "checksum": "dd8bbae4cd44ed20c4cbafc74fdc3271f52b9d7888a0d4f4038a8ae05feb92a4"
+      "checksum": "dd8bbae4cd44ed20c4cbafc74fdc3271f52b9d7888a0d4f4038a8ae05feb92a4",
+      "source": "https://github.com/owendswang/ps5-web-file-manager/releases"
     },
     {
       "name": "Ps5-File-Explorer Vfile-Explorer-V0.2.1",
@@ -49,7 +53,8 @@
       "description": "PS5 File Explorer http://your-ps5-ip:5905.",
       "version": "file-explorer-v0.2.1",
       "category": "PS5 File Explorer",
-      "checksum": "6d4b905b42727dddeaedddb2a657ed0d4e7110ddd068a6daab0aafb2ba32604b"
+      "checksum": "6d4b905b42727dddeaedddb2a657ed0d4e7110ddd068a6daab0aafb2ba32604b",
+      "source": "https://github.com/juma-sayeh/PS5-File-Explorer/releases"
     }
   ]
 }

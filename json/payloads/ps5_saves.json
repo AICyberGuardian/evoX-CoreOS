@@ -9,7 +9,8 @@
       "description": "Save manager utility hosted on Forgejo.",
       "version": "v1.13.1",
       "category": "PS5 Saves",
-      "checksum": "b0fc2fcdda977d2a1207d77148746859b7ea7f3cfcad02828a7a9b49651807f5"
+      "checksum": "b0fc2fcdda977d2a1207d77148746859b7ea7f3cfcad02828a7a9b49651807f5",
+      "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases"
     },
     {
       "name": "Garlic-Worker V1.1.7",
@@ -19,7 +20,8 @@
       "description": "Garlic worker payload component.",
       "version": "v1.1.7",
       "category": "PS5 Saves",
-      "checksum": "2643f35cdfe9969cf775220dc4a65bc4ff0d08750c39bfb714b74dbbf29cd396"
+      "checksum": "2643f35cdfe9969cf775220dc4a65bc4ff0d08750c39bfb714b74dbbf29cd396",
+      "source": "https://git.etawen.dev/earthonion/garlic-worker/releases"
     },
     {
       "name": "Savemnt-Offset-Dumper V1.0.0",
@@ -29,7 +31,8 @@
       "description": "Offset dumper for save mounting utilities.",
       "version": "1.0.0",
       "category": "PS5 Saves",
-      "checksum": "946328551f74e3b6a34a7c0169f9b40792e392775768b84874b55ecdff71222e"
+      "checksum": "946328551f74e3b6a34a7c0169f9b40792e392775768b84874b55ecdff71222e",
+      "source": "https://github.com/StonedModder/savemnt-offset-dumper/releases"
     }
   ]
 }

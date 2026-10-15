@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 15/10/2026 à 00:29
+* **PAYLOADS**
+  * `Orbit Store` (v1.3.5) - *Mise à jour (Précédent: v1.3.0)*
+  * `Ps5-Romm V1.2.0` (v1.2.0) - *Nouveau*
+
 ## Build du 14/10/2026 à 21:22
 * **PAYLOADS**
   * `Pldmgr V0.6.1` (v0.6.1) - *Nouveau*

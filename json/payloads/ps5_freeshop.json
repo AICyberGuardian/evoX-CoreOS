@@ -9,7 +9,8 @@
       "description": "free store webadmin http://your-ps5-ip:6970.",
       "version": "v1.11.0",
       "category": "PS5 Freeshop",
-      "checksum": "32b69c2089bb545abfabd04d5827444698f9c4f1bc4915d72247cb781e8c23d9"
+      "checksum": "32b69c2089bb545abfabd04d5827444698f9c4f1bc4915d72247cb781e8c23d9",
+      "source": "https://github.com/pegasus-ps5/pegasus-dl/releases"
     },
     {
       "name": "Ps5Shopappkg-Dpi",
@@ -19,7 +20,8 @@
       "description": "You need PS5-SHOP-APPKG.pkg DPI port 9040.",
       "version": "Source-Fixe",
       "category": "PS5 Freeshop",
-      "checksum": "c4672cfa909463843c537f67d5f2df9eb3456d4036d26a4fb81fc34d7853170b"
+      "checksum": "c4672cfa909463843c537f67d5f2df9eb3456d4036d26a4fb81fc34d7853170b",
+      "source": "https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/ps5shopappkg-dpi.elf"
     },
     {
       "name": "Ps5Library-Agent",
@@ -29,17 +31,19 @@
       "description": "You need PS5Library.pkg.",
       "version": "v0.2.91",
       "category": "PS5 Freeshop",
-      "checksum": "ac78389a628401edba3c081f00156238ad5652b1b7ad241f5ccc7713179f0c82"
+      "checksum": "ac78389a628401edba3c081f00156238ad5652b1b7ad241f5ccc7713179f0c82",
+      "source": "https://github.com/rdiol12/PS5Library/releases"
     },
     {
       "name": "Orbit Store",
       "filename": "orbit_store.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.3.0/orbit_store.elf",
-      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.3.0/orbit_store.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.3.5/orbit_store.elf",
+      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.3.5/orbit_store.elf",
       "description": "A modern, no-BS download manager for PS5.",
-      "version": "v1.3.0",
+      "version": "v1.3.5",
       "category": "PS5 Freeshop",
-      "checksum": "553b39e7503ec141f6a015b7939c83e93fe8f05dee176e42c7e3bc026b0ea519"
+      "checksum": "561a8e8015d9564d44e32b58a84e1294ea7043e96146110801a9f62ad99ac93b",
+      "source": "https://github.com/saawant12/orbit-store-ps5/releases"
     },
     {
       "name": "Ps5-Phstore Vphstore",
@@ -49,7 +53,8 @@
       "description": "Free PH Store client for PS5.",
       "version": "PHStore",
       "category": "PS5 Freeshop",
-      "checksum": "64d5c4605a063a63f01213c31d627466218e787956873b2eef39b369b60112ee"
+      "checksum": "64d5c4605a063a63f01213c31d627466218e787956873b2eef39b369b60112ee",
+      "source": "https://github.com/PratikHackTR/PS5-PHStore/releases"
     }
   ]
 }

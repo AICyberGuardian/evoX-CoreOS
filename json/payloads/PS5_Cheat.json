@@ -9,7 +9,8 @@
       "description": "CheatRunner.",
       "version": "v0.18",
       "category": "PS5 Cheat",
-      "checksum": "4ae1ea4e37b2e67d5487355ddf671f166861ed6dceea348c048ad060770c0140"
+      "checksum": "4ae1ea4e37b2e67d5487355ddf671f166861ed6dceea348c048ad060770c0140",
+      "source": "https://github.com/notmaj0r/CheatRunner/releases"
     },
     {
       "name": "Kylin-Core V2.0.0-Community-Lite",
@@ -19,7 +20,8 @@
       "description": "kylin-core",
       "version": "v2.0.0-community-lite",
       "category": "PS5 Cheat",
-      "checksum": "7f5245f2db67b131c6f9e991b731117c2c730923a9dd65a2d82b36f2e2b91545"
+      "checksum": "7f5245f2db67b131c6f9e991b731117c2c730923a9dd65a2d82b36f2e2b91545",
+      "source": "https://github.com/aydencharles/kylin-core-release/releases"
     }
   ]
 }

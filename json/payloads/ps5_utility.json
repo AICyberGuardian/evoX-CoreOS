@@ -9,7 +9,8 @@
       "description": "ChronicLoader utility payload for PS5.",
       "version": "0.1",
       "category": "PS5 Utility",
-      "checksum": "3561120f85e0ec32de5de15cdd61a1fe8d5146eb4c6aa99ee88209914a2774b1"
+      "checksum": "3561120f85e0ec32de5de15cdd61a1fe8d5146eb4c6aa99ee88209914a2774b1",
+      "source": "https://github.com/StonedModder/ChronicLoader-PS5-Payload/releases"
     },
     {
       "name": "Ps Game State Lib V0.1",
@@ -19,7 +20,8 @@
       "description": "Standalone PS5 game-state detection payload - webui ps5ip:9877 .",
       "version": "v0.1",
       "category": "PS5 Utility",
-      "checksum": "a550e1494b0f8be3b244f8820ee8d899442d33a936f9ded6203a0318c7afdba8"
+      "checksum": "a550e1494b0f8be3b244f8820ee8d899442d33a936f9ded6203a0318c7afdba8",
+      "source": "https://github.com/StonedModder/ps-game-state-lib/releases"
     },
     {
       "name": "Ps-Discordpresence V0.01",
@@ -29,7 +31,8 @@
       "description": "PS5 game activity service with a local status endpoint and a Python Discord RPC bridge.",
       "version": "v0.01",
       "category": "PS5 Utility",
-      "checksum": "375cf619ea6f6c594ea2b79ecbb98704723522d07e51c877687876d5fe589afb"
+      "checksum": "375cf619ea6f6c594ea2b79ecbb98704723522d07e51c877687876d5fe589afb",
+      "source": "https://github.com/StonedModder/PS-DiscordPresence/releases"
     },
     {
       "name": "Unrar-Ps5 V1.4.0",
@@ -39,7 +42,8 @@
       "description": "PS5 ELF payload for extracting RAR and 7z archives on a jailbroken PS5 and installing extracted apps into a configurable layout..",
       "version": "v1.4.0",
       "category": "PS5 Utility",
-      "checksum": "2ef04b0bc8fc1932b29da1a53336c40ed0a3f6a945a0746bef2e5dde52149701"
+      "checksum": "2ef04b0bc8fc1932b29da1a53336c40ed0a3f6a945a0746bef2e5dde52149701",
+      "source": "https://github.com/bizkut/unrar-ps5/releases"
     },
     {
       "name": "Ps5-Power-Payloads-Project V1.0",
@@ -49,7 +53,8 @@
       "description": "PS5-Power-Payloads-Project utility.",
       "version": "1.0",
       "category": "PS5 Utility",
-      "checksum": "3614f68981adc13a231d3655bf3892725bc25aa372d67a0037698253753b7cbe"
+      "checksum": "3614f68981adc13a231d3655bf3892725bc25aa372d67a0037698253753b7cbe",
+      "source": "https://github.com/MasterPS0/PS5-Power-Payloads-Project/releases"
     },
     {
       "name": "Ps5-Date-Time-Sync V1.0.0",
@@ -59,7 +64,8 @@
       "description": "A lightweight, standalone PS5 payload that restores the console",
       "version": "v1.0.0",
       "category": "PS5 Utility",
-      "checksum": "91806229803845930b2173174e1afeadf509e4c171f6396788f929558fad6849"
+      "checksum": "91806229803845930b2173174e1afeadf509e4c171f6396788f929558fad6849",
+      "source": "https://github.com/kerrdec97/ps5-date-time-sync/releases"
     },
     {
       "name": "Fgg-Unpack V0.1",
@@ -69,7 +75,8 @@
       "description": "Extract .zip and .7z archives directly on a jailbroken PlayStation 5.",
       "version": "v0.1",
       "category": "PS5 Utility",
-      "checksum": "e8c8e57bbda31b5d16d131797aac6f83b555cae8d439b1f475c952f3d9554eff"
+      "checksum": "e8c8e57bbda31b5d16d131797aac6f83b555cae8d439b1f475c952f3d9554eff",
+      "source": "https://github.com/FGGstore/FGG-Unpack/releases"
     }
   ]
 }

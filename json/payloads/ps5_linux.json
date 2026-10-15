@@ -9,7 +9,8 @@
       "description": "Linux loader payload for the PS5.",
       "version": "v2.5",
       "category": "PS5 Linux",
-      "checksum": "9fc48733077145d1d204a4c9cdb879baaab1e711a604dd73af0dd4a807d6bc49"
+      "checksum": "9fc48733077145d1d204a4c9cdb879baaab1e711a604dd73af0dd4a807d6bc49",
+      "source": "https://github.com/ps5-linux/ps5-linux-loader/releases"
     }
   ]
 }
