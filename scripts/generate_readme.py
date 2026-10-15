@@ -23,7 +23,6 @@ def generate_readme(credits_list, data_store_by_cat=None):
         all_zips = sorted([f for f in os.listdir(archives_dir) if f.endswith(".zip")])
         if all_zips:
             for zip_file in all_zips:
-                # Format d'affichage plus propre basé sur le nom du fichier
                 display_name = zip_file.replace("_latest.zip", "").replace("_", " ").upper()
                 aio_links_content += f"- **{display_name}** : [{github_releases_base}/{zip_file}]({github_releases_base}/{zip_file})\n"
         else:
@@ -59,6 +58,7 @@ Retrouvez l'ensemble des points d'accès aux données JSON du store :
 - **Packages (PKG) Global** : `{json_base_url}/pkg.json`
 - **Fichiers FFPFSC Global** : `{json_base_url}/ffpfsc.json`
 - **Applications Global** : `{json_base_url}/apps.json`
+- **Homebrew.page Catalog** : `{json_base_url}/homebrew_page.json`
 
 ---
 
@@ -83,7 +83,8 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
         "payloads": "⚡ Payloads (.elf / .bin) Disponibles par Catégorie",
         "pkg": "🎮 Packages PS5 (.pkg) Disponibles",
         "ffpfsc": "📄 Fichiers FFPFSC Disponibles",
-        "apps": "🛠️ Applications Utilitaires Disponibles"
+        "apps": "🛠️ Applications Utilitaires Disponibles",
+        "homebrew_page": "🌐 Catalogue Homebrew.page (Communauté PS5)"
     }
 
     if data_store_by_cat:
@@ -136,6 +137,25 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
                             
                             display_version = f"[{version}]({url})" if url and url != '#' else version
                             table_lines.append(f"| {name} | {author} | {display_version} | {desc} |")
+                elif cat_key == "homebrew_page":
+                    # Tableau spécifique pour homebrew.page avec Auteur, Version, SHA et Description
+                    table_lines.append("| Application | Auteur | Version | Empreinte SHA-256 | Description |")
+                    table_lines.append("| :--- | :--- | :--- | :--- | :--- |")
+                    for item in sorted_items:
+                        if isinstance(item, dict):
+                            name = item.get('name', item.get('filename', 'Inconnu'))
+                            url = item.get('url', '#')
+                            author = item.get('author', 'Inconnu')
+                            version = item.get('version', 'v1.0.0')
+                            sha = item.get('checksum', item.get('sha256', 'N/A'))
+                            if sha and len(sha) > 12:
+                                sha_short = f"`{sha[:12]}...`"
+                            else:
+                                sha_short = f"`{sha}`" if sha else "N/A"
+                            desc = item.get('description', '') or 'Aucune description.'
+                            
+                            display_version = f"[{version}]({url})" if url and url != '#' else version
+                            table_lines.append(f"| {name} | {author} | {display_version} | {sha_short} | {desc} |")
                 else:
                     table_lines.append("| Application | Version | Empreinte SHA-256 | Description |")
                     table_lines.append("| :--- | :--- | :--- | :--- |")
