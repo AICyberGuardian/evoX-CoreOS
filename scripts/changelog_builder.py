@@ -1,3 +1,4 @@
+# /scripts/changelog_builder.py
 import os
 import json
 from datetime import datetime
@@ -8,7 +9,8 @@ def generate_build_changelog():
     json_dir = PATHS.get("json_dir", "json")
     changelog_path = "CHANGELOG.md"
     
-    categories = ["payloads", "pkg", "ffpfsc", "apps"]
+    # Intégration de homebrew_page aux côtés des autres catégories
+    categories = ["payloads", "pkg", "ffpfsc", "apps", "homebrew_page"]
     current_changes = {}
     
     for cat in categories:
@@ -49,12 +51,10 @@ def generate_build_changelog():
                     if isinstance(item, dict):
                         target_list.append(item)
             elif isinstance(data, dict):
-                # Si c'est un dict de sous-catégories contenant des listes ou des dicts d'items
                 for sub_val in data.values():
                     if isinstance(sub_val, list):
                         target_list.extend([i for i in sub_val if isinstance(i, dict)])
                     elif isinstance(sub_val, dict):
-                        # Cas où les items sont dans une clé 'items' ou directement dedans
                         if 'items' in sub_val and isinstance(sub_val['items'], list):
                             target_list.extend([i for i in sub_val['items'] if isinstance(i, dict)])
                         else:
