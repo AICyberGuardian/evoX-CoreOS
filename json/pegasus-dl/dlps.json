@@ -179,6 +179,32 @@
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0906/595726bce4b6a40e0fd5e81991468871b1e2642762598b2a.png"
     },
     {
+      "titleId": "PPSA30883",
+      "title": "Knowledge or know Lady",
+      "downloadLinks": [
+        {
+          "name": "HK 11.xx Base - Akirabox",
+          "url": "https://akirabox.com/QN9mEdwxpG6d/file"
+        },
+        {
+          "name": "HK 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2HPz8K"
+        },
+        {
+          "name": "HK 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/A6FapPJkiE"
+        },
+        {
+          "name": "HK 11.xx Base - 1fichier",
+          "url": "https://1fichier.com/?eysyz5cs4p2pvmg9m232"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/10/2-lop.jpg",
+      "description": "Region: HK\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/knowledge-or-know-lady-ps5/"
+    },
+    {
       "titleId": "PPSA30659",
       "title": "The Long Dark",
       "downloadLinks": [
@@ -593,11 +619,27 @@
         {
           "name": "USA 4.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/nYRNpJAdfo"
+        },
+        {
+          "name": "USA exFAT 01.005 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiM3I4b3hHc2QyeW1NbDFvazFSSUphM2ZFdjNUZ2JxZ1AyTU5tWVBvRGU4S3FQZ3lLSXI2VVBvTEZtTkl6L0QxMVZZUms1MGlMRm5DL3FtNmE1Y2JuZ1ZHQTVDTjlhK0pYUjc1eEtNZTNjdz09IiwiaSI6IndENWZuOW1zd0hiYWZ0RmQiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.005 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTHlpWUhxK3NPMm51QTYwWkxYUDdMR0poYVZSQWhJWXcrVi9oVUE1dkpwNmIydFJBbGxEcHhKTTRrUWJna1VYbFhUdnRRZ3p6NHh1a3NkUWRPcFJnMjhCcSt1bDV0SGpOaXZETEY0NTN1K2c9IiwiaSI6ImIvU3RGNWRxTFhnM1diNHEiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.005 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiL2xDMXh6K3RiM05SQmhnOWZaVnNheVovMU82cHE4dTcvM2YzUCtZZStUb2huNjYwMGVCV2EyL2ZrSzBsOWFacHBuODAzWW5WditRZ1c1SVV5RlhhamdjaHRHSjlrWkhYb2Z1Y0RDMWsiLCJpIjoiRW85U1Q4OGxTcmYxWEtVeCIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.005 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSFdZVVp6REdqM1B3SjFlUThPQzZneE5xZ0RsU0tyTmlOeTRWbGhBTnhMaFpJajV3SVRyS3JvcGlsclN4QzVFem5LTnVxNnpCUGZYYlBaM2Jjd1QzMGZoSlUydlJvckdPRG9mUG9TOEVwLzA9IiwiaSI6ImNiRW1lazRpYXhqVXV1YUkiLCJuIjoiVmlraSJ9"
         }
       ],
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1418/a1770e205050415ae3e5e7a61fc3265712bbd35c3309fe47.png?w=260",
-      "description": "Region: USA\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: USA 4.xx\nRegion: USA\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.005\nRegion: USA\nRelease note: exFAT format — FW 01.005 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/tales-of-kenzera-zau-ps5/",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1418/a1770e205050415ae3e5e7a61fc3265712bbd35c3309fe47.png"
     },
@@ -13191,6 +13233,94 @@
           "url": "https://vikingfile.com/f/n7iIRINlN8"
         },
         {
+          "name": "v01.000.016 Base - Akirabox part 1",
+          "url": "https://akirabox.com/l76mZryEZman/file"
+        },
+        {
+          "name": "v01.000.016 Base - Akirabox part 2",
+          "url": "https://akirabox.com/qPez447DNzOY/file"
+        },
+        {
+          "name": "v01.000.016 Base - Akirabox part 3",
+          "url": "https://akirabox.com/rk9zKWyq5z0l/file"
+        },
+        {
+          "name": "v01.000.016 Base - Akirabox part 4",
+          "url": "https://akirabox.com/l5YzMZyq2GyO/file"
+        },
+        {
+          "name": "v01.000.016 Base - Akirabox part 5",
+          "url": "https://akirabox.com/wgWGq7And34o/file"
+        },
+        {
+          "name": "v01.000.016 Base - Akirabox part 6",
+          "url": "https://akirabox.com/LJlGn7MnRm15/file"
+        },
+        {
+          "name": "v01.000.016 Base - Akirabox part 7",
+          "url": "https://akirabox.com/APVmabwPV3Xo/file"
+        },
+        {
+          "name": "v01.000.016 Base - Akirabox part 8",
+          "url": "https://akirabox.com/5pVzNAyqb37w/file"
+        },
+        {
+          "name": "v01.000.016 Base - Akirabox part 9",
+          "url": "https://akirabox.com/dkD3YwWKOGLQ/file"
+        },
+        {
+          "name": "v01.000.016 Base - Akirabox part 10",
+          "url": "https://akirabox.com/jar3XlyNZ32d/file"
+        },
+        {
+          "name": "v01.000.016 Base - Akirabox part 11",
+          "url": "https://akirabox.com/dZxG5o7Oe3Vj/file"
+        },
+        {
+          "name": "v01.000.016 Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/SsU1w"
+        },
+        {
+          "name": "v01.000.016 Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1TTACe"
+        },
+        {
+          "name": "v01.000.016 Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/1XV104"
+        },
+        {
+          "name": "v01.000.016 Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/Cl4Zk"
+        },
+        {
+          "name": "v01.000.016 Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/1bWrrc"
+        },
+        {
+          "name": "v01.000.016 Base - Rootz part 6",
+          "url": "https://www.rootz.so/d/1fYijA"
+        },
+        {
+          "name": "v01.000.016 Base - Rootz part 7",
+          "url": "https://www.rootz.so/d/GmvRI"
+        },
+        {
+          "name": "v01.000.016 Base - Rootz part 8",
+          "url": "https://www.rootz.so/d/WuKtU"
+        },
+        {
+          "name": "v01.000.016 Base - Rootz part 9",
+          "url": "https://www.rootz.so/d/OqdAO"
+        },
+        {
+          "name": "v01.000.016 Base - Rootz part 10",
+          "url": "https://www.rootz.so/d/KomIq"
+        },
+        {
+          "name": "v01.000.016 Base - Rootz part 11",
+          "url": "https://www.rootz.so/d/1jaZai"
+        },
+        {
           "name": "USA exFAT 01.000.016 Base - AKIA (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYmhINUVtTlkwcjdKbVd1UGExYnIwRUZPTThyaGEzUUdDazNTeDFLRFlsMVIvc3FLcC9qMndvYW5tck12SXpDV2Y5QnFUaDU5RnZLVWVGdGdkSUtuMkZUd0xRVWoyb0FLZXRBPSIsImkiOiJqckdYMUZLenZ0OE95ajAvIiwibiI6IkFraWEifQ=="
         },
@@ -13213,7 +13343,7 @@
       ],
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2217/7fb7a918a4b9dd1c98de342ec3adfe1421d06627f60397b9.png?w=260",
-      "description": "Variant: USA 10.xx\nRegion: USA\nRelease note: Works on 10.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.000.016\nRegion: USA\nRelease note: exFAT format — FW 01.000.016 — 4.xx BackPort\nContributor: pippo",
+      "description": "Variant: USA 10.xx\nRegion: USA\nRelease note: Works on 10.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM\n\nVariant: v01.000.016\nRelease note: Battlefield 6 (v01.000.016) (Multi-Langs) – BP 4.xx – PPSA19534 – FPKG This release work also with ShadowMountPlus 1.7beta1+, thx to DecKerr97 &amp; drakmor for suggestion.\nContributor: Thanks to DUPLEX for the Files and DecKerr97 for the BackPort.\n\nVariant: USA exFAT 01.000.016\nRegion: USA\nRelease note: exFAT format — FW 01.000.016 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/battlefield-6-ps5/",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2217/7fb7a918a4b9dd1c98de342ec3adfe1421d06627f60397b9.png"
     },
@@ -41457,51 +41587,11 @@
         {
           "name": "exFAT v01.020 Base - Vikingfile part 2",
           "url": "https://vikingfile.com/f/ic9U5c74dS"
-        },
-        {
-          "name": "EUR exFAT 01.020 Base - AKIA Std (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiODdyMzFlUm1BTTAvUURBVEVxZHFjQlVrUTV1cG5kcy8raFgrRWQ4VzhEWnFMZXdRRWZKQ1NjOHpwNHFFY01oNzFLbkowVElEIiwicyI6InVKWWU2cVp1MDZJQUZZUWR0K2R4QkE9PSIsImkiOiJJOXlVVEF0MXJ3Q0N3SGlNIn0="
-        },
-        {
-          "name": "EUR exFAT 01.020 Base - VIKI Std (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiajJtUGdlMGd4cnlJZkVyTWZkT0hXa2ZuSTJISFppaVptUER1SFlhcVBXclpicm1ROXJNUWw0eTRjM2RocVU0RmRoWnoiLCJzIjoicDYzbmZQZWFBQXEvL2x0ckhjd2NSUT09IiwiaSI6IjJ1NWd6RmhpOFFudmtYUGMifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.020 Base - DATA Std (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiQmlzL1FoL0VKUk83ZHVTeGZ5OCtlQXZLMkx4STUvYkozeVFkcy90UWhib1ZkRW1iNFFMOGU0MTFvOWVRT001Y3NBPT0iLCJzIjoiK1VQQTlCcnBWTUduemN2ODJwSCtzQT09IiwiaSI6ImxWNUpKeVg4RWhDYzdhU2IifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.020 Base - FileK Std (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiOWhKajRvME5JS2dEL2JvdzRnY2p1N2RRbGJQejlNWFg4S1M0aVYyTHY4ajJsL3A0Tk03bnVHOXNadlVSbDk0VEM5QkciLCJzIjoiUEcrN2hVT3BkREFyT0E1OFh6NmltZz09IiwiaSI6IlVid1dVVmQyQTNka2VHNEMifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.020 Base - Vault Std (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiUUNCQXlXSWVxdkwyZ1l3dlcwbFU4SFJTSC9DQk9nTWVPTjJwTE9mKzZ2R1NqeWhyc3RQeDcvNW5GQVMvaUZvNDZscz0iLCJzIjoiS0lmam5vckpmd3piRURBZzF0QWx2dz09IiwiaSI6IlRWVWNEQlJUQTZFU2M2TDIifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.020 BackPort backport - AKIA Backport (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTGVVc0w3MUwrL1VhZ3BnRDdFT1B5RnBPSGtULzVmRGVCK2MvREkySVRFeHJLbHAzN3htTGRnT1paMWdFUnpPTnBsT0ZudmFZUjFOQjlzaVRSNk9jSWpyMUh0eGpZOTJySGRnPSIsImkiOiJwSExGMng5bk94ZnlFMnNzIiwibiI6IkFraWEifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.020 BackPort backport - VIKI Backport (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidGF1cWVZT2VOT0svVHV0eDJUbkI4ZjNYRW9idmxocU0rSlh3Z3NHalA1d0t1bXFwOGsvSm9mbnpIUUZRR3lvazRXb2hsdUdFZ3JSNjRPdDdncGJBaGoyMWhkNkVjUzg9IiwiaSI6Ijg2NHpDbEVMNWdtVXJ2SDMiLCJuIjoiVmlraSJ9"
-        },
-        {
-          "name": "EUR exFAT 01.020 BackPort backport - DATA Backport (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZUR2aVFLcHYxOUtsckQwbUZxSlNadnErc2ZZV0pPMy9yWm84TWJCanVnL1BSVU94OHV5RVFRMzcwd2Z1Q1RKbTdEVlE5YlRoQlhzQWJlaVpnbno0MVE2dCszM0ciLCJpIjoiN2lGd2FEQjBMbWlsN0FUViIsIm4iOiJEYXRhIn0="
-        },
-        {
-          "name": "EUR exFAT 01.020 BackPort backport - FileK Backport (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTVQwbng4QlB3Vjd1anloblZhb0JxNXN5K1NyMDdMNlJFTXhhUHFuWFdIMTZ5bnlRZ1I3QklBS3VhbU1xVHlENjR2K3JjcFZKa1ZJSm5WNjV0RkEwaVlPUjlacTdMN009IiwiaSI6IlFCUGlJKzRMalQrSjlXeXQiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.020 BackPort backport - Vault Backport (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWngrYnpyUU5GZHZPWXp4YkxNdUdKeEN5dXFaeWlQUHhnandnU2RTZDBKSlJjMFg5NjhXVUlzSGRJcVNFSzFzSHRuSlZ0Y3RraUhoTU9YRGdBTFdIa21PMkxia2JQdz09IiwiaSI6IkgxYm4yczNZcDVySkVJWjAiLCJuIjoiVmF1bHQifQ=="
         }
       ],
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0922/2gqcLQ5GUmznCHUZuuamxD06.png?w=260",
-      "description": "Variant: EUR 5.xx\nRegion: EUR\nRelease note: Works on 5.xx and higher\nContributor: @SiESPta Team\nPassword: DLPSGAME.COM\n\nVariant: exFAT v01.020\nRelease note: Forspoken (v01.020) – BP 4.xx – PPSA03984 – exFAT\nContributor: Thanks to SiESPTA for the Files, drakmor for ampr-emu and DecKerr97 for the BackPort.\n\nVariant: EUR exFAT 01.020\nRegion: EUR\nRelease note: exFAT format — FW 01.020 — Standard (5.xx) + 4.xx BackPort\nContributor: pippo",
+      "description": "Variant: EUR 5.xx\nRegion: EUR\nRelease note: Works on 5.xx and higher\nContributor: @SiESPta Team\nPassword: DLPSGAME.COM\n\nVariant: exFAT v01.020\nRelease note: Forspoken (v01.020) – BP 4.xx – PPSA03984 – exFAT\nContributor: Thanks to SiESPTA for the Files, drakmor for ampr-emu and DecKerr97 for the BackPort.",
       "downloadSource": "https://dlpsgame.com/forspoken-ps5/",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0922/2gqcLQ5GUmznCHUZuuamxD06.png"
     },
@@ -132314,6 +132404,114 @@
       "description": "Variant: Release 1\nContributor: pkg.games\n\nVariant: USA exFAT 01.004\nRegion: USA\nRelease note: exFAT format — FW 01.004 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://pkg.games/ps5/greyhill-incident/",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0617/F7z6c9GM1VGoqfYxHorvMjzL.png"
+    },
+    {
+      "titleId": "PPSA03984",
+      "title": "[exFAT] Forspoken Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.020 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRi81Ly81M3NXRnJPYXBZa1J1NUROZmFXTldYN0c2QlRyZU4yY1JSZnQrWjUvTDJ0ci83SDdyRHMvUTRQSTdXd2syZHN1QmlkMEk3VDRPQ0hlVDl4dVV6QS9YenVreDBSRDNCYW9RNXZCUT09IiwiaSI6IjJtYVM2aXRBck5XdVdZS1IiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.020 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoialVKM014ZjJYYnh5YkIrZzAvZVZhcHUrSEY0RElMVGNHbW5aeUc2Z25NQTBML3BISmM0RmpNUVluclZQc3VYMmF3TTAvaUdLSnkxK0NtSUR2eVJsbVR6VEM5RTU2bUd4TWtlYnRnZ1pJamM9IiwiaSI6IlIyU0V6TzJqc1BKLy94UEciLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.020 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicUpLUDR4dGxoM1gySG9rWXQyb3dkUjhYdEZnNE5kMGpWU1AzRm5GRzFPblNvN1YxQVloWmhFckZHK0VLenovdWhMcW83OUsvZHFCZnJRbjY5aUNoQnlPOVdBbzNYNlhaTFVIUktXalgraGc9IiwiaSI6IjJoSWNldnQ1ZzZZQ2RLOWIiLCJuIjoiVmlraSJ9"
+        }
+      ],
+      "version": "01.020",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0922/2gqcLQ5GUmznCHUZuuamxD06.png?w=260",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.020 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0922/2gqcLQ5GUmznCHUZuuamxD06.png"
+    },
+    {
+      "titleId": "PPSA34547",
+      "title": "[exFAT] CONTROL Resonant Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.300.300 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSzhhRVhjeGhOYnVYeFJ2U1luQVdleGJGdWx2SkY3VlFvbGdWTHVXWHkyMmR2QnpvcStuTjJFNDRjaVYrQWU4cXZwNzE0TXdUY1RoRFY0aTlXM09TU1pjd3UzaVNMM3F1RFVIbzE0U0Nrdz09IiwiaSI6IlVkM2RMMEVpVEE2QVE5VjYiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.300.300 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibHZCZ0UyUXdsRVltMUVVbXJoWGJQRHQyWnpuWENCRlp0UTZrbExweU5ZZm9kZ294anlFayszV29TZGxWeGo3b3JFbXJKb3JabU1hMU94K056OWY3QUFNbzdsa3o3clE3SDV1aVNDdGQ4WlE9IiwiaSI6IjA2ME5ic1BPeUdnMEZiR00iLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.300.300 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYy9HVk9nYnpuTnZpaWdRWFBKTGNJQjZkMHJOSjREY2VSNkJDNnA5akFGWUcraGgyK0pIRFllTG5lY3RZa2QvVFJjMkhEVkhGRkM4d0FEc0UvTVdYMno1cVhYaUdheGlVc3FtdGNoNE0iLCJpIjoiY09tdU5Md2habDBYb2hjOSIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.300.300 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZXYvSWZ3MlpvcHNJaXoyY2dqeEFDbzZmejY2aTBWVWFmeU1JMVloS2VLNFdMNGREWDdYbmdCWkNQcmxIUDV0VFVrKzA3QXVya0orYUlyU0I3RzRZUjkyMUdwY29VNnN4Y3JSSXYxdEpKUzA9IiwiaSI6IlFVMG5TNloybHlPY0tTdGkiLCJuIjoiVmlraSJ9"
+        }
+      ],
+      "version": "01.300.300",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2212/9fedf57ea1649249a0e3ac24770ea9afa6f4bfa795b5fd05.png?w=260",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.300.300 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2212/9fedf57ea1649249a0e3ac24770ea9afa6f4bfa795b5fd05.png"
+    },
+    {
+      "titleId": "PPSA05110",
+      "title": "[exFAT] Persona 5 Royal Ultimate Edition",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.000 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiS1FPKzVhVXFrVHBYTTBSYmVrcWtqWllvWmtZc0F3SUxXS0d6Mmx2dTlEeUZyZEFobWZtSzFhckpHZUZYUFMveW0wU3drYms4Q2k5eldtZXRYMjd3RDVITTRJN2JyQ2VpVURkVThlNC9Ydz09IiwiaSI6ImFId3ltaU84OFIxd0ZyVEMiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.000 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiemZ4OU5WbXRYSUJEY0s2dzNLYWZMRFl6dEZleXJjME91NnBuT0trUk4xNVJZRnd4L0x4ZnI1d1ZWdkg0MUY2SFN0dG9vdEtjdEtGS0sySmFoTGxqSGRQQ3ZyNElrenFRdE1Ddno3UjJMSkU9IiwiaSI6IkVOSUF6M3lRclBNZmRBeE8iLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.000 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidkhFYVBqTEIwVUk0ZTNHZHJLZ3JmY1pULzRtQUtHcHh2ZGRhdFN3MWMvSlBWenVacmVpMlpHSFUrQUdTS3NGV3BFUE53MmZFRDJVR1FuRWVqckhRVno2TDVJYTVwNGNMMTI3Zk1jVFoiLCJpIjoid0M3OURTeGRhMzN3SlNCWiIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.000 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWGVMMkFLSldwajZzc3NSV0N3clRGRWpnSjFFbWozSWUvZGIvTldUMDUzNkRnRWRxdUw0cjhyam81Y1dKalpwbWQzcFNkbWpmVy95Tk5qaXJvKzFIdmQ4c1dxTHZLclowN0I1dFcrZWRHTXM9IiwiaSI6ImowWGwzWC81UE1Xa1ZTVDEiLCJuIjoiVmlraSJ9"
+        }
+      ],
+      "version": "01.000",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0202/OjPcc6QP2W8kImOhWSnzojn3.png?w=260",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.000 — 4.xx and beyond\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0202/OjPcc6QP2W8kImOhWSnzojn3.png"
+    },
+    {
+      "titleId": "PPSA22728",
+      "title": "[exFAT] CAPTAIN TSUBASA 2 WORLD FIGHTERS Ultimate Edition",
+      "downloadLinks": [
+        {
+          "name": "JPN exFAT 01.000.005 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVjZuZFk1dllBazN1bzI2MnFmOVZlQThzQUJla3RKVU9Vbzk5endRQjRtWXhoVmN6elBjRjJDWDNlT3EyNlZDVWl5cE5RSmMyRGtBdytCdFNtVEJiME5RSzJVdnhQMVpKSnBJcmRZazBEQT09IiwiaSI6Im9vcFltbjFnRWY3RU91TSsiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "JPN exFAT 01.000.005 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiM1BhOVBJZjFvMHBJSEYwSmtYOU5uYy93MzR6VlkvaTlYdUwzR1hneEVYUy9VU3lqUUNFVEp4NEFFTHlFN1V6Zi9Ia2J1S29kdFF3bG1YRG95cDA5VXc0anB2bktUdmFZd3JIMGhDOGh4cjA9IiwiaSI6Ik9FUnl3dXFNa1BpVHBINmEiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "JPN exFAT 01.000.005 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUTF6UTY3eWRlVzRmR0tPaXlJN0JjWllXb21UVmdRWDE4OTFlc3VDQ0J3djhKcEFxSUx1NFJGQUZQY1pRaUhGb3ErYUdvem1hRE84MlU2UDA1MmdLVzFwb0xKRXArSVg4WFZXN1lEU24iLCJpIjoiWnN5UzdZaFBwNXlodmhKUCIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "JPN exFAT 01.000.005 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoieWt4TDNjWGFhS2hkYW90S2lMcmhiaTAzNEN6Y1hzVURHQVlIcjJ2SDloK3Fpd2tsZm92MVBsRU4xOXVnRDJSK1hVaDcxS0oyelIwTUtnVGF2NUh5M0EvZm5OV294dXYveEVSc2lNZFYraE09IiwiaSI6IlpRWTVtb0hLSGdIRjVJVkciLCJuIjoiVmlraSJ9"
+        }
+      ],
+      "version": "01.000.005",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2117/f63a320b26e428150344607bf30b9bc2bcfa0cd8edb15ed2.png?w=260",
+      "description": "Region: JPN\nRelease note: exFAT format — FW 01.000.005 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2117/f63a320b26e428150344607bf30b9bc2bcfa0cd8edb15ed2.png"
     },
     {
       "titleId": "PPSA25427",

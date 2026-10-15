@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.15-1956)
+### 🚀 Synthèse de la mise à jour (v2026.10.15-2102)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -227,6 +227,97 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `Markus_PHU-EmuPack-NeoGeo.PS5.rar`
   * `PPSA42674.zip`
   * `PPSA99131.zip`
+
+</details>
+
+<details>
+<summary><b>🌐 Pack HOMEBREW PAGE</b></summary>
+
+* **Applications Homebrew.page**
+  * `PPSA01153.zip`
+  * `PPSA17641.zip`
+  * `PPSA19111.zip`
+  * `PPSA28319.zip`
+  * `PPSA39410.zip`
+  * `PPSA47402.zip`
+  * `PPSA59322.zip`
+  * `PPSA68091.zip`
+  * `PPSA69420.zip`
+  * `PPSA69421.zip`
+  * `PPSA69423.zip`
+  * `PPSA69424.zip`
+  * `PPSA74126.zip`
+  * `PPSA74207.zip`
+  * `PPSA76677.zip`
+  * `PPSA77711.zip`
+  * `PPSA85300.zip`
+  * `PPSA92280.zip`
+  * `PPSA94002.zip`
+  * `PPSA97358.zip`
+  * `PPSA97510.zip`
+  * `PPSA98001.zip`
+  * `PPSA98427.zip`
+  * `PPSA98510.zip`
+  * `PPSA98766.zip`
+  * `PPSA99000.zip`
+  * `PPSA99001.zip`
+  * `PPSA99002.zip`
+  * `PPSA99003.zip`
+  * `PPSA99004.zip`
+  * `PPSA99005.zip`
+  * `PPSA99006.zip`
+  * `PPSA99007.zip`
+  * `PPSA99008.zip`
+  * `PPSA99009.zip`
+  * `PPSA99010.zip`
+  * `PPSA99011.zip`
+  * `PPSA99039.zip`
+  * `PPSA99050.zip`
+  * `PPSA99051.zip`
+  * `PPSA99061.zip`
+  * `PPSA99082.zip`
+  * `PPSA99109.zip`
+  * `PPSA99110.zip`
+  * `PPSA99141.zip`
+  * `PPSA99169.zip`
+  * `PPSA99177.zip`
+  * `PPSA99203.zip`
+  * `PPSA99248.zip`
+  * `PPSA99288.zip`
+  * `PPSA99300.zip`
+  * `PPSA99303.zip`
+  * `PPSA99305.zip`
+  * `PPSA99309.zip`
+  * `PPSA99310.zip`
+  * `PPSA99312.zip`
+  * `PPSA99313.zip`
+  * `PPSA99320.zip`
+  * `PPSA99350.zip`
+  * `PPSA99360.zip`
+  * `PPSA99420.zip`
+  * `PPSA99474.zip`
+  * `PPSA99505.zip`
+  * `PPSA99510.zip`
+  * `PPSA99515.zip`
+  * `PPSA99520.zip`
+  * `PPSA99581.zip`
+  * `PPSA99600.zip`
+  * `PPSA99620.zip`
+  * `PPSA99621.zip`
+  * `PPSA99630.zip`
+  * `PPSA99640.zip`
+  * `PPSA99641.zip`
+  * `PPSA99666.zip`
+  * `PPSA99670.zip`
+  * `PPSA99728.zip`
+  * `PPSA99764.zip`
+  * `PPSA99773.zip`
+  * `PPSA99808.zip`
+  * `PPSA99810.zip`
+  * `PPSA99920.zip`
+  * `PPSA99930.zip`
+  * `PPSA99995.zip`
+  * `PPSA99997.zip`
 
 </details>
 
