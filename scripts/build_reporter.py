@@ -3,7 +3,7 @@ import os
 import urllib.request
 from datetime import datetime
 
-def generate_build_reports(data_store_flat):
+def generate_build_reports(data_store_flat, status="Succès 🚀"):
     print("📊 [Bonus] Génération des rapports de build (Build-Report)...")
     
     report_dir = "Build-Report"
@@ -17,21 +17,23 @@ def generate_build_reports(data_store_flat):
     log_path = os.path.join(report_dir, "build_log.md")
     
     log_content = f"# 📋 Journal d'exécution de la Build ({date_str})\n\n"
+    log_content += f"> *Statut global du pipeline : **{status}***\n\n"
     log_content += "Ce rapport résume l'état de la dernière exécution du pipeline de mise à jour du store.\n\n"
-    log_content += "## 📦 Récapitulatif par Catégorie\n\n"
-    log_content += "| Catégorie | Nom affiché | Nombre d'éléments |\n"
-    log_content += "| :--- | :--- | :--- |\n"
     
-    total_items = 0
-    for cat_key, cat_info in data_store_flat.items():
-        name = cat_info.get("name", cat_key.upper())
-        items = cat_info.get("items", [])
-        count = len(items)
-        total_items += count
-        log_content += f"| `{cat_key}` | {name} | **{count}** |\n"
+    if data_store_flat:
+        log_content += "## 📦 Récapitulatif par Catégorie\n\n"
+        log_content += "| Catégorie | Nom affiché | Nombre d'éléments |\n"
+        log_content += "| :--- | :--- | :--- |\n"
         
-    log_content += f"\n* **Total cumulé des éléments traités** : `{total_items}`\n\n"
-    log_content += "> *Statut global du pipeline : **Succès** 🚀*\n"
+        total_items = 0
+        for cat_key, cat_info in data_store_flat.items():
+            name = cat_info.get("name", cat_key.upper())
+            items = cat_info.get("items", [])
+            count = len(items)
+            total_items += count
+            log_content += f"| `{cat_key}` | {name} | **{count}** |\n"
+            
+        log_content += f"\n* **Total cumulé des éléments traités** : `{total_items}`\n\n"
     
     with open(log_path, "w", encoding="utf-8") as f:
         f.write(log_content)
@@ -52,14 +54,15 @@ def generate_build_reports(data_store_flat):
         ("GitHub - evoX-CoreOS", "https://github.com/nexgen999/evoX-CoreOS", "Dépôt Principal"),
     ]
     
-    for cat_key, cat_info in data_store_flat.items():
-        items = cat_info.get("items", [])
-        if items and isinstance(items[0], dict):
-            sample_item = items[0]
-            sample_url = sample_item.get("url") or sample_item.get("source")
-            if sample_url and sample_url.startswith("http"):
-                name = sample_item.get("name", "Sample Item")
-                urls_to_test.append((f"[{cat_key}] {name}", sample_url, "Artefact / Source"))
+    if data_store_flat:
+        for cat_key, cat_info in data_store_flat.items():
+            items = cat_info.get("items", [])
+            if items and isinstance(items[0], dict):
+                sample_item = items[0]
+                sample_url = sample_item.get("url") or sample_item.get("source")
+                if sample_url and sample_url.startswith("http"):
+                    name = sample_item.get("name", "Sample Item")
+                    urls_to_test.append((f"[{cat_key}] {name}", sample_url, "Artefact / Source"))
 
     for name, url, kind in urls_to_test:
         status_badge = "❌ Inaccessible"
