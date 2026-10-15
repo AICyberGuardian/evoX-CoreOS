@@ -68,14 +68,14 @@
       "source": "https://github.com/Michele-M-Media/PIZZA-HEN/releases"
     },
     {
-      "name": "Onionhen V0.0.13",
-      "filename": "onionHEN_v0.0.13.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/onionHEN/v0.0.13/onionHEN_v0.0.13.elf",
-      "local_path": "payloads/ps5_hen_loader/onionHEN/v0.0.13/onionHEN_v0.0.13.elf",
+      "name": "Onionhen V0.9.0",
+      "filename": "onionHEN_v0.9.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/onionHEN/v0.9.0/onionHEN_v0.9.0.elf",
+      "local_path": "payloads/ps5_hen_loader/onionHEN/v0.9.0/onionHEN_v0.9.0.elf",
       "description": "An all-in-one HEN and Toolbox for PlayStation 5.",
-      "version": "v0.0.13",
+      "version": "v0.9.0",
       "category": "PS5 HEN Loader",
-      "checksum": "aa3f98847948e2ae8ea600c3f437e28247a0a4f8b73651a046d2859924bf97b3",
+      "checksum": "1f1f7c883d5d998be1d95d7d80b718f85180f8156f257661b0f445a7c6b7c212",
       "source": "https://github.com/aydencharles/onionHEN/releases"
     },
     {
