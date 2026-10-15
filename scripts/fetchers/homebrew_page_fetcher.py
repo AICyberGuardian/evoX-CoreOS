@@ -21,7 +21,8 @@ def fetch_homebrew_page_catalog(credits_set):
         req = urllib.request.urlopen(catalog_url)
         data = json.loads(req.read().decode('utf-8'))
         
-        records = data if isinstance(data, list) else data.get('records', data.get('items', []))
+        # Le catalogue homebrew.page stocke ses applications dans la clé 'apps'
+        records = data if isinstance(data, list) else data.get('apps', data.get('records', data.get('items', [])))
         
         for item in records:
             artifact_url = item.get('artifact_url')
