@@ -10,14 +10,12 @@ def generate_release_notes(data_store_by_cat):
     notes_path = "release_notes.md"
     date_str = datetime.now().strftime("v%Y.%m.%d-%H%M")
     
-    # Ajout de homebrew_page dans les catégories à traiter
     categories = ["payloads", "pkg", "ffpfsc", "apps", "homebrew_page"]
     
     content = f"### 🚀 Synthèse de la mise à jour ({date_str})\n\n"
     content += "Le store PlayStation 5 a été mis à jour avec succès.\n\n"
     
     content += "#### 📦 Archives AIO Disponibles (Dossier `archives/`) :\n"
-    
     archives_dir = os.path.abspath("archives")
     if os.path.exists(archives_dir):
         all_archives = sorted([f for f in os.listdir(archives_dir) if f.endswith(".zip")])
@@ -49,31 +47,44 @@ def generate_release_notes(data_store_by_cat):
                 json_content = json.load(f)
                 
             if isinstance(json_content, dict):
-                for section_key, section_val in json_content.items():
-                    if section_key == "name":
-                        continue
-                        
-                    file_entries = []
-                    items_list = []
-                    if isinstance(section_val, list):
-                        items_list = section_val
-                    elif isinstance(section_val, dict):
-                        items_list = section_val.get('items', [])
-                        
-                    for item in items_list:
-                        if isinstance(item, dict):
-                            fname = item.get('filename')
-                            if fname:
-                                file_entries.append(fname)
-                            
+                # Si c'est un format global plat type homebrew_page.json {"apps": [...]}
+                if cat_key == "homebrew_page" and "apps" in json_content:
+                    file_entries = [item.get('filename') for item in json_content["apps"] if isinstance(item, dict) and item.get('filename')]
                     if file_entries:
                         has_items = True
-                        content += f"* **{section_key}**\n"
+                        content += f"* **Applications Homebrew.page**\n"
                         seen = set()
                         for fname in file_entries:
                             if fname not in seen:
                                 seen.add(fname)
                                 content += f"  * `{fname}`\n"
+                else:
+                    # Format standard par sous-sections
+                    for section_key, section_val in json_content.items():
+                        if section_key == "name":
+                            continue
+                            
+                        file_entries = []
+                        items_list = []
+                        if isinstance(section_val, list):
+                            items_list = section_val
+                        elif isinstance(section_val, dict):
+                            items_list = section_val.get('items', [])
+                            
+                        for item in items_list:
+                            if isinstance(item, dict):
+                                fname = item.get('filename')
+                                if fname:
+                                    file_entries.append(fname)
+                                
+                        if file_entries:
+                            has_items = True
+                            content += f"* **{section_key}**\n"
+                            seen = set()
+                            for fname in file_entries:
+                                if fname not in seen:
+                                    seen.add(fname)
+                                    content += f"  * `{fname}`\n"
         
         if not has_items:
             content += "*Aucun élément dans ce pack.*\n"
@@ -82,4 +93,4 @@ def generate_release_notes(data_store_by_cat):
 
     with open(notes_path, "w", encoding="utf-8") as f:
         f.write(content)
-    print("    ✅ Fichier release_notes.md généré avec succès avec le lien direct vers le CHANGELOG !")
+    print("    ✅ Fichier release_notes.md généré avec succès !")
