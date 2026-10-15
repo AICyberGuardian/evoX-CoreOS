@@ -54,6 +54,27 @@ def build_generic_json(category_key, list_key_name, global_title, by_category, a
     with open(glob_path, 'w', encoding='utf-8') as f:
         json.dump(glob_data, f, indent=2, ensure_ascii=False)
 
+def build_homebrew_page_json(by_category, all_flat):
+    hb_json_dir = os.path.join(PATHS["json_dir"], "homebrew_page")
+    os.makedirs(hb_json_dir, exist_ok=True)
+
+    for cat_tech, data in by_category.items():
+        out_path = os.path.join(hb_json_dir, f"{cat_tech}.json")
+        cat_data = {
+            "name": data["name"],
+            "apps": data["items"]
+        }
+        with open(out_path, 'w', encoding='utf-8') as f:
+            json.dump(cat_data, f, indent=2, ensure_ascii=False)
+
+    glob_path = os.path.join(PATHS["json_dir"], "homebrew_page.json")
+    glob_data = {
+        "name": "Homebrew.page Catalog",
+        "apps": all_flat
+    }
+    with open(glob_path, 'w', encoding='utf-8') as f:
+        json.dump(glob_data, f, indent=2, ensure_ascii=False)
+
 def build_all(data_store):
     ensure_directories()
 
@@ -79,5 +100,10 @@ def build_all(data_store):
     if "apps" in data_store:
         by_cat, flat = data_store["apps"]
         build_generic_json("apps", "apps", "AIO Store Apps", by_cat, flat)
+
+    # Ajout de la génération du JSON pour homebrew_page
+    if "homebrew_page" in data_store:
+        by_cat, flat = data_store["homebrew_page"]
+        build_homebrew_page_json(by_cat, flat)
 
     print("✅ Génération des fichiers JSON terminée (structures 100% conformes).")
