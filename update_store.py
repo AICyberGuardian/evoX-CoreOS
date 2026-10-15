@@ -246,7 +246,7 @@ def main():
     print("🛡️ [1.5/5] Récupération de sécurité des fichiers locaux (Fallback anti-disparition)...")
     payloads_flat = recover_local_orphans("payloads", payloads_flat, [".elf", ".bin"])
     pkg_flat = recover_local_orphans("pkg", pkg_flat, [".pkg"])
-    ffpfsc_flat = recover_local_orphans("ffpfsc", fffpfsc_flat, [".ffpfsc", ".bin", ".elf"])
+    ffpfsc_flat = recover_local_orphans("ffpfsc", ffpfsc_flat, [".ffpfsc", ".bin", ".elf"])
     apps_flat = recover_local_orphans("apps", apps_flat, [".elf", ".zip"])
 
     data_store = {
