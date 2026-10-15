@@ -256,7 +256,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `b278acb14ebe...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `6152a20b7393...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
@@ -475,6 +475,8 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Ppsa99000 | [v1.000.070](https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.070/PPSA99000.zip) | `0bb41b6f0e08...` | homebrew store |
 | Prosperoexplorer-V1 | [v1.0](https://github.com/SvenGDK/Prospero-Explorer/releases/download/v1.0/ProsperoExplorer-v1.zip) | `3eaee706e8ac...` | File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network |
 | Prosperomultitools | [v1](https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/ProsperoMultiTools.zip) | `0e7c60d0e860...` | Backup manager for PS5 |
+| Ps5Mc-1.2-Kodi21-Ppsa99421 | [1.2](https://github.com/VivaLaVent/PS5MC/releases/download/1.2/PS5MC-1.2-kodi21-PPSA99421.zip) | `a62af4451c08...` | kodi-ps5 |
+| Ps5Mc-1.2-Kodi22-Ppsa99420 | [1.2](https://github.com/VivaLaVent/PS5MC/releases/download/1.2/PS5MC-1.2-kodi22-PPSA99420.zip) | `5a9eeff4a002...` | kodi-ps5 |
 
 ### 📂 Applications
 
@@ -726,6 +728,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **SynoPiia** : [PSXS5 (Homebrew.page)](https://homebrew.page/app/PPSA97510)
 - **TsvetomirGT** : [SymphonyStation5 (Homebrew.page)](https://homebrew.page/app/PPSA17641)
 - **VivaLaVent** : [PS5MC (Homebrew.page)](https://homebrew.page/app/PPSA99420)
+- **VivaLaVent** : [kodi-ps5](https://github.com/VivaLaVent/PS5MC)
 - **Vivian** : [Régie5 (Homebrew.page)](https://homebrew.page/app/PPSA99520)
 - **ZazaMastro** : [The Simpsons Game (Homebrew.page)](https://homebrew.page/app/PPSA74207)
 - **ZiZc3** : [XPSemu](https://github.com/ZiZc3/XPSemu)

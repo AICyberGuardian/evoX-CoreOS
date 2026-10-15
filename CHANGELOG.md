@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 15/10/2026 à 16:51
+* **APPS**
+  * `Ps5Mc-1.2-Kodi21-Ppsa99421` (1.2) - *Nouveau*
+  * `Ps5Mc-1.2-Kodi22-Ppsa99420` (1.2) - *Nouveau*
+
 ## Build du 15/10/2026 à 10:54
 * **PAYLOADS**
   * `Onionhen V0.9.0` (v0.9.0) - *Nouveau*
