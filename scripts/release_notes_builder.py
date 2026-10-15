@@ -5,40 +5,38 @@ from datetime import datetime
 from scripts.config_rules import PATHS
 
 def generate_release_notes(data_store_by_cat):
+    print("📝 Génération des notes de version pour la Release...")
+    json_dir = PATHS.get("json_dir", "json")
     notes_path = "release_notes.md"
     date_str = datetime.now().strftime("v%Y.%m.%d-%H%M")
     
-    # Intégration de homebrew_page et balayage dynamique des zips dans archives/
+    # Ajout de homebrew_page dans les catégories à traiter
     categories = ["payloads", "pkg", "ffpfsc", "apps", "homebrew_page"]
     
     content = f"### 🚀 Synthèse de la mise à jour ({date_str})\n\n"
     content += "Le store PlayStation 5 a été mis à jour avec succès.\n\n"
     
-    content += "#### 📦 Archives AIO Disponibles :\n"
+    content += "#### 📦 Archives AIO Disponibles (Dossier `archives/`) :\n"
+    
     archives_dir = os.path.abspath("archives")
     if os.path.exists(archives_dir):
         all_archives = sorted([f for f in os.listdir(archives_dir) if f.endswith(".zip")])
-        if all_archives:
-            for arch in all_archives:
-                content += f"- `{arch}`\n"
-        else:
-            content += "- _Aucune archive trouvée_\n"
-    content += "\n"
-    
-    content += "#### 📂 Fichiers inclus / mis à jour :\n"
+        for arch in all_archives:
+            content += f"- `{arch}`\n"
+            
+    content += "\n#### 📂 Fichiers inclus / mis à jour :\n"
     content += "📜 [Consulter le journal complet des modifications (CHANGELOG.md)](CHANGELOG.md)\n\n"
 
-    content += "#### 🛠️ Détail des Packs & Contenu des Archives\n"
+    content += "#### 🛠 Détail des Packs & Contenu\n"
     
     icons = {
         "payloads": "⚡",
         "pkg": "🎮",
         "ffpfsc": "📄",
-        "apps": "🛠️",
+        "apps": "🛠",
         "homebrew_page": "🌐"
     }
 
-    json_dir = PATHS.get("json_dir", "json")
     for cat_key in categories:
         json_file_path = os.path.join(json_dir, f"{cat_key}.json")
         icon = icons.get(cat_key, "📦")
