@@ -64,7 +64,7 @@ def fetch_homebrew_page_catalog(credits_set):
             item_data = {
                 "name": title,
                 "filename": filename,
-                "url": f"{BASE_URL}/{target_dir.replace(os.sep, '/')}/{filename}",
+                "url": artifact_url,  # Utilisation de l'URL externe d'origine
                 "local_path": local_file_path,
                 "description": description if description else f"Application {title} par {author}",
                 "version": version,
