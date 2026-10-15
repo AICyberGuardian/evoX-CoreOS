@@ -3,6 +3,182 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA12385",
+      "title": "Underdog Detective",
+      "downloadLinks": [
+        {
+          "name": "HK 6.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/0Kezk0ovpGD1/file"
+        },
+        {
+          "name": "HK 6.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/k0embkKqy3Vb/file"
+        },
+        {
+          "name": "HK 6.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/Pbe3PegR2zlX/file"
+        },
+        {
+          "name": "HK 6.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/Y2xm0Xw9KmRO/file"
+        },
+        {
+          "name": "HK 6.xx Base - Akirabox part 5",
+          "url": "https://akirabox.com/Xkrzo1YlPmBO/file"
+        },
+        {
+          "name": "HK 6.xx Base - Akirabox part 6",
+          "url": "https://akirabox.com/qPez4ydXpGOY/file"
+        },
+        {
+          "name": "HK 6.xx Base - Akirabox part 7",
+          "url": "https://akirabox.com/LK0G1Xx1dz91/file"
+        },
+        {
+          "name": "HK 6.xx Base - Akirabox part 8",
+          "url": "https://akirabox.com/E9Qz96dq2GOL/file"
+        },
+        {
+          "name": "HK 6.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/23RT60"
+        },
+        {
+          "name": "HK 6.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/27TJxY"
+        },
+        {
+          "name": "HK 6.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/qlEOm"
+        },
+        {
+          "name": "HK 6.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/yow3k"
+        },
+        {
+          "name": "HK 6.xx Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/2JYsU4"
+        },
+        {
+          "name": "HK 6.xx Base - Rootz part 6",
+          "url": "https://www.rootz.so/d/1AuUeO"
+        },
+        {
+          "name": "HK 6.xx Base - Rootz part 7",
+          "url": "https://www.rootz.so/d/2FX1ge"
+        },
+        {
+          "name": "HK 6.xx Base - Rootz part 8",
+          "url": "https://www.rootz.so/d/1EwLVw"
+        },
+        {
+          "name": "HK 6.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/X6CjQPTuoe"
+        },
+        {
+          "name": "HK 6.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/yIHUVfSxCs"
+        },
+        {
+          "name": "HK 6.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/MzLrKuE3sr"
+        },
+        {
+          "name": "HK 6.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/OExksBBzxZ"
+        },
+        {
+          "name": "HK 6.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/MjEZniBuAG"
+        },
+        {
+          "name": "HK 6.xx Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/RxJAOeThPO"
+        },
+        {
+          "name": "HK 6.xx Base - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/LZNjmCHERb"
+        },
+        {
+          "name": "HK 6.xx Base - Vikingfile part 8",
+          "url": "https://vikingfile.com/f/E7dMJJIdvy"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1912/c555a119716a10f5160280a522f03b226c4ba91969cca4aa.png?w=260",
+      "description": "Region: HK\nRelease note: Works on 6.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/underdog-detective-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1912/c555a119716a10f5160280a522f03b226c4ba91969cca4aa.png"
+    },
+    {
+      "titleId": "PPSA31909",
+      "title": "Love Is All Around 2",
+      "downloadLinks": [
+        {
+          "name": "HK 11.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/rk9zKdv7LG0l/file"
+        },
+        {
+          "name": "HK 11.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/E1x3Axl1rmyk/file"
+        },
+        {
+          "name": "HK 11.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1R1u2S"
+        },
+        {
+          "name": "HK 11.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/ELfLE"
+        },
+        {
+          "name": "HK 11.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/eZ1Hw7mvj5"
+        },
+        {
+          "name": "HK 11.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/BYvLlGLqZV"
+        },
+        {
+          "name": "HK 11.xx Base - 1fichier part 1",
+          "url": "https://1fichier.com/?rp05hqrbsjwif9ihq38h"
+        },
+        {
+          "name": "HK 11.xx Base - 1fichier part 2",
+          "url": "https://1fichier.com/?8c8ag5te8vb74vcf63pm"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA31909_f545298b6ecf441852a54dbf4788e141d396165512f2125e8c4f384d6a3a940f/icon0.webp",
+      "description": "Region: HK\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/love-is-all-around-2-ps5/"
+    },
+    {
+      "titleId": "PPSA33090",
+      "title": "God bless or Goddess",
+      "downloadLinks": [
+        {
+          "name": "HK 11.xx Base - Akirabox",
+          "url": "https://akirabox.com/b5Ozdk0v83B8/file"
+        },
+        {
+          "name": "HK 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/14jkR6"
+        },
+        {
+          "name": "HK 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/PmiAnXgYRK"
+        },
+        {
+          "name": "HK 11.xx Base - 1fichier",
+          "url": "https://1fichier.com/?dg64p8hopt91zo2f9mcm"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0906/595726bce4b6a40e0fd5e81991468871b1e2642762598b2a.png?w=260",
+      "description": "Region: HK\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/god-bless-or-goddess-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0906/595726bce4b6a40e0fd5e81991468871b1e2642762598b2a.png"
+    },
+    {
       "titleId": "PPSA30659",
       "title": "The Long Dark",
       "downloadLinks": [
@@ -3227,6 +3403,41 @@
       "description": "Variant: USA 13.xx\nRegion: USA\nRelease note: Works on 13.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.007\nRegion: USA\nRelease note: exFAT format — FW 01.007 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/nba-2k27-ps5/",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2913/4a31f711e2ff460cd44ad646983f36533278cea61f639be9.png"
+    },
+    {
+      "titleId": "PPSA24040",
+      "title": "METAL GEAR SOLID Master Collection Vol 2",
+      "downloadLinks": [
+        {
+          "name": "JPN 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/Pbe3PaYqQzlX/file"
+        },
+        {
+          "name": "JPN 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1W0kxU"
+        },
+        {
+          "name": "JPN 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/QNY66sGYAM"
+        },
+        {
+          "name": "JPN 10.xx Base - Akirabox",
+          "url": "https://akirabox.com/obj3j7pAjzDx/file"
+        },
+        {
+          "name": "JPN 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/JKWGG"
+        },
+        {
+          "name": "JPN 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/UNxInBAbuz"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2201/10c1fc1cb379073791df85ad3bd235930896bfa9b20fa1f1.png?w=260",
+      "description": "Variant: JPN 4.xx\nRegion: JPN\nRelease note: Dump &amp; backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: JPN 10.xx\nRegion: JPN\nRelease note: Works on 10.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/metal-gear-solid-master-collection-vol-2-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2201/10c1fc1cb379073791df85ad3bd235930896bfa9b20fa1f1.png"
     },
     {
       "titleId": "PPSA05110",
@@ -94704,6 +94915,65 @@
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1114/2ab11b93f3b922d21a0c77af4baf962952e4e4d4ac775641.png"
     },
     {
+      "titleId": "PPSA22636",
+      "title": "The Bridge Curse 2 The Extrication",
+      "downloadLinks": [
+        {
+          "name": "EUR 9.xx Base - Akirabox",
+          "url": "https://akirabox.com/0rpmv67RZmRg/file"
+        },
+        {
+          "name": "EUR 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/JEGoaqt2sI"
+        },
+        {
+          "name": "EUR 9.xx Base - 1fichier",
+          "url": "https://1fichier.com/?ft84a4mtrpvkuw0xg0pa"
+        },
+        {
+          "name": "EUR 9.xx BackPort 4.xx - Mediafire part 1",
+          "url": "https://www.mediafire.com/file/qgrm78onc6fz078/4XX+PPSA22636+%E2%80%93+EUR+V1.00++The+Bridge+Curse+2+The+Extrication++By+BADERLINK-[DLPSGAME.COM].zip/file"
+        },
+        {
+          "name": "EUR 9.xx BackPort 4.xx - Akirabox part 1",
+          "url": "https://akirabox.com/Pbe3Pdj5L3lX/file"
+        },
+        {
+          "name": "EUR 9.xx BackPort 4.xx - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/p4OrpVLuBP"
+        },
+        {
+          "name": "EUR 9.xx BackPort 4.xx - Rootz part 1",
+          "url": "https://www.rootz.so/d/16gmDg"
+        },
+        {
+          "name": "EUR 9.xx BackPort 4.xx - Mediafire part 2",
+          "url": "https://www.mediafire.com/file/arrg9oixlz2m2dy/5XX+PPSA22636+%E2%80%93+EUR+V1.00++The+Bridge+Curse+2+The+Extrication++By+BADERLINK-[DLPSGAME.COM].zip/file"
+        },
+        {
+          "name": "EUR 9.xx BackPort 4.xx - Akirabox part 2",
+          "url": "https://akirabox.com/k0embjXoWmVb/file"
+        },
+        {
+          "name": "EUR 9.xx BackPort 4.xx - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/7hM0MehMFS"
+        },
+        {
+          "name": "EUR 9.xx BackPort 4.xx - Rootz part 2",
+          "url": "https://www.rootz.so/d/24FBQ"
+        },
+        {
+          "name": "Release 2 Base - Rapidgator",
+          "url": "https://rapidgator.net/file/7f36a112544d5567881f814bb0c419ae/The.Bridge.Curse.2.The.Extrication.01.000.PPSA22636-PS5.rar.html"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2215/9d9550823ab549806af882254d1c815fdcaf4ed0f8442c82.png?w=260",
+      "description": "Variant: EUR 9.xx\nRegion: EUR\nRelease note: Works on 9.xx and higher\nContributor: @SiESPta Team\nPassword: DLPSGAME.COM\n\nVariant: Release 2\nContributor: pkg.games",
+      "downloadSource": "https://dlpsgame.com/the-bridge-curse-2-the-extrication-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2215/9d9550823ab549806af882254d1c815fdcaf4ed0f8442c82.png"
+    },
+    {
       "titleId": "PPSA17372",
       "title": "Smalland Survive The Wilds",
       "downloadLinks": [
@@ -94827,63 +95097,182 @@
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/1310/2b01c5ea086ff23494e28e3edfabb295db55cf5b82148f7a.png"
     },
     {
-      "titleId": "PPSA22636",
-      "title": "The Bridge Curse 2 The Extrication",
+      "titleId": "PPSA16618",
+      "title": "The Lord of The Rings Return to Moria",
       "downloadLinks": [
         {
-          "name": "EUR 9.xx Base - Akirabox",
-          "url": "https://akirabox.com/0rpmv67RZmRg/file"
+          "name": "EUR 7.xx Base - Akirabox",
+          "url": "https://akirabox.com/2bJG84p75GOB/file"
         },
         {
-          "name": "EUR 9.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/JEGoaqt2sI"
+          "name": "EUR 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/XbCDY6UVtA"
         },
         {
-          "name": "EUR 9.xx Base - 1fichier",
-          "url": "https://1fichier.com/?ft84a4mtrpvkuw0xg0pa"
+          "name": "EUR 7.xx Base - 1fichier",
+          "url": "https://1fichier.com/?rl925edcvantzq9ja8dz"
         },
         {
-          "name": "EUR 9.xx BackPort 4.xx - Mediafire part 1",
-          "url": "https://www.mediafire.com/file/qgrm78onc6fz078/4XX+PPSA22636+%E2%80%93+EUR+V1.00++The+Bridge+Curse+2+The+Extrication++By+BADERLINK-[DLPSGAME.COM].zip/file"
+          "name": "EUR 7.xx BackPort 4.xx - Mediafire",
+          "url": "https://www.mediafire.com/file/qmm4bmvm2fl6lfw/4XX+PPSA16618+%E2%80%93+EUR+V1.00++The+Lord+of+The+Rings+Return+to+Moria++By+BADERLINK-[DLPSGAME.COM].zip/file"
         },
         {
-          "name": "EUR 9.xx BackPort 4.xx - Akirabox part 1",
-          "url": "https://akirabox.com/Pbe3Pdj5L3lX/file"
+          "name": "EUR 7.xx BackPort 4.xx - Akirabox",
+          "url": "https://akirabox.com/ex5z2Bb7nzKq/file"
         },
         {
-          "name": "EUR 9.xx BackPort 4.xx - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/p4OrpVLuBP"
+          "name": "EUR 7.xx BackPort 4.xx - Vikingfile",
+          "url": "https://vikingfile.com/f/9nxq3Tvs0P"
         },
         {
-          "name": "EUR 9.xx BackPort 4.xx - Rootz part 1",
-          "url": "https://www.rootz.so/d/16gmDg"
+          "name": "EUR 7.xx BackPort 4.xx - 1fichier",
+          "url": "https://1fichier.com/?wo5bsmbpplro6o8s28h0"
         },
         {
-          "name": "EUR 9.xx BackPort 4.xx - Mediafire part 2",
-          "url": "https://www.mediafire.com/file/arrg9oixlz2m2dy/5XX+PPSA22636+%E2%80%93+EUR+V1.00++The+Bridge+Curse+2+The+Extrication++By+BADERLINK-[DLPSGAME.COM].zip/file"
+          "name": "EUR 7.xx BackPort 4.xx - Rootz",
+          "url": "https://www.rootz.so/d/1jGqbA"
         },
         {
-          "name": "EUR 9.xx BackPort 4.xx - Akirabox part 2",
-          "url": "https://akirabox.com/k0embjXoWmVb/file"
+          "name": "EUR 7.xx BackPort 5.xx - Mediafire",
+          "url": "https://www.mediafire.com/file/8ctvi8o4mcxvwc2/5XX+PPSA16618+%E2%80%93+EUR+V1.00++The+Lord+of+The+Rings+Return+to+Moria++By+BADERLINK-[DLPSGAME.COM].zip/file"
         },
         {
-          "name": "EUR 9.xx BackPort 4.xx - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/7hM0MehMFS"
+          "name": "EUR 7.xx BackPort 5.xx - Akirabox",
+          "url": "https://akirabox.com/BnkmWEZy2zR0/file"
         },
         {
-          "name": "EUR 9.xx BackPort 4.xx - Rootz part 2",
-          "url": "https://www.rootz.so/d/24FBQ"
+          "name": "EUR 7.xx BackPort 5.xx - Vikingfile",
+          "url": "https://vikingfile.com/f/DX7uG91uSi"
         },
         {
-          "name": "Release 2 Base - Rapidgator",
-          "url": "https://rapidgator.net/file/7f36a112544d5567881f814bb0c419ae/The.Bridge.Curse.2.The.Extrication.01.000.PPSA22636-PS5.rar.html"
+          "name": "EUR 7.xx BackPort 5.xx - 1fichier",
+          "url": "https://1fichier.com/?u6k8hk1sfddxhm39h15f"
+        },
+        {
+          "name": "EUR 7.xx BackPort 5.xx - Rootz",
+          "url": "https://www.rootz.so/d/acSlU"
+        },
+        {
+          "name": "EUR 7.xx BackPort 6.xx - Akirabox",
+          "url": "https://akirabox.com/b5OzdjjoRmB8/file"
+        },
+        {
+          "name": "EUR 7.xx BackPort 6.xx - Vikingfile",
+          "url": "https://vikingfile.com/f/37YgdkKY3G"
+        },
+        {
+          "name": "EUR 7.xx BackPort 6.xx - 1fichier",
+          "url": "https://1fichier.com/?dhm7ion78uc0vfw0s6kr"
+        },
+        {
+          "name": "Release 3 Base - Rapidgator part 1",
+          "url": "https://rapidgator.net/file/730c6f6bd41549302b6f3835ed879b5f/The.Lord.of.the.Rings.Return.to.Moria.01.000.PPSA16618-PS5.rar.html"
+        },
+        {
+          "name": "Release 3 Base - Rapidgator part 2",
+          "url": "https://rapidgator.net/file/a3c4062d7d3de57ac5ef09d153c55980/PPSA16618_The_Lord_of_the_Rings_Return_to_Moria_V1_00_Backport_6-PS5.rar.html"
         }
       ],
       "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2215/9d9550823ab549806af882254d1c815fdcaf4ed0f8442c82.png?w=260",
-      "description": "Variant: EUR 9.xx\nRegion: EUR\nRelease note: Works on 9.xx and higher\nContributor: @SiESPta Team\nPassword: DLPSGAME.COM\n\nVariant: Release 2\nContributor: pkg.games",
-      "downloadSource": "https://dlpsgame.com/the-bridge-curse-2-the-extrication-ps5/",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2215/9d9550823ab549806af882254d1c815fdcaf4ed0f8442c82.png"
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0520/d7bb0cab42052c1946d6fdcf236f059ee850819f9008843c.png?w=260",
+      "description": "Variant: EUR 7.xx\nRegion: EUR\nRelease note: Works on 7.xx and higher\nContributor: @SiESPta Team\nPassword: DLPSGAME.COM\n\nVariant: Release 3\nContributor: pkg.games",
+      "downloadSource": "https://dlpsgame.com/the-lord-of-the-rings-return-to-moria-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0520/d7bb0cab42052c1946d6fdcf236f059ee850819f9008843c.png"
+    },
+    {
+      "titleId": "PPSA16617",
+      "title": "The Lord of The Rings Return to Moria",
+      "downloadLinks": [
+        {
+          "name": "USA 7.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/rk9zKDny4G0l/file"
+        },
+        {
+          "name": "USA 7.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/l5YzMENd9zyO/file"
+        },
+        {
+          "name": "USA 7.xx Base - Rootz part 1",
+          "url": "https://rootz.so/d/1UPNZo"
+        },
+        {
+          "name": "USA 7.xx Base - Rootz part 2",
+          "url": "https://rootz.so/d/Lkzk8"
+        },
+        {
+          "name": "USA 7.xx Base - 1fichier part 1",
+          "url": "https://1fichier.com/?hjoizn3fo1bhesjsgfjp"
+        },
+        {
+          "name": "USA 7.xx Base - 1fichier part 2",
+          "url": "https://1fichier.com/?26bwbh6ppl2g9muth8y8"
+        },
+        {
+          "name": "USA 7.xx Base - Mediafire part 1",
+          "url": "https://www.mediafire.com/file/f7pm3nw7kvx3ses/[DLPSGAME.COM]-PPSA16617.part1.rar/file"
+        },
+        {
+          "name": "USA 7.xx Base - Mediafire part 2",
+          "url": "https://www.mediafire.com/file/ss0fxgtdanz2t24/[DLPSGAME.COM]-PPSA16617.part2.rar/file"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/CfqqmzXBpn"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/sOaGOrBuST"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/xB1npmZNFw"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/qJzaYT0iP5"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/MRTfNS7Ooy"
+        },
+        {
+          "name": "USA 7.xx Base - 1fichier part 1",
+          "url": "https://1fichier.com/?yuqcreg2gzr9r6jxq4bg"
+        },
+        {
+          "name": "USA 7.xx Base - 1fichier part 2",
+          "url": "https://1fichier.com/?7mgj9kslmp9xmalgh2yc"
+        },
+        {
+          "name": "USA 7.xx Base - 1fichier part 3",
+          "url": "https://1fichier.com/?rvm79pqrsup9eicgneqf"
+        },
+        {
+          "name": "USA 7.xx BackPort 4.xx - Mediafire",
+          "url": "https://www.mediafire.com/file/jsoi7oiij6cws1z/[DLPSGAME.COM]-4xx[PPSA16618][01.000.000].zip/file"
+        },
+        {
+          "name": "USA 7.xx BackPort 4.xx - Akirabox",
+          "url": "https://akirabox.com/M2BGwWDXMGj4/file"
+        },
+        {
+          "name": "USA 7.xx BackPort 4.xx - Vikingfile",
+          "url": "https://vikingfile.com/f/e8qfBSIUpv"
+        },
+        {
+          "name": "USA 7.xx BackPort 4.xx - Rootz",
+          "url": "https://rootz.so/d/1tIBP6"
+        },
+        {
+          "name": "USA 7.xx BackPort 4.xx - 1fichier",
+          "url": "https://1fichier.com/?642qlziclgzspsm7kxr2"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0520/d7bb0cab42052c1946d6fdcf236f059ee850819f9008843c.png?w=260",
+      "description": "Region: USA\nRelease note: Works on 7.xx and higher\nContributor: @DUPLEX",
+      "downloadSource": "https://dlpsgame.com/the-lord-of-the-rings-return-to-moria-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0520/d7bb0cab42052c1946d6fdcf236f059ee850819f9008843c.png"
     },
     {
       "titleId": "PPSA16096",
@@ -95143,184 +95532,6 @@
       "description": "Variant: USA 8.xx\nRegion: USA\nRelease note: Works on 8.xx and higher\nContributor: @DUPLEX and @SiESPta Team\nPassword: DLPSGAME.COM\n\nVariant: USA 8.xx\nRegion: USA\nRelease note: Works on 8.xx and higher\nContributor: @DUPLEX and @VanBuuren\n\nVariant: Release 3\nContributor: pkg.games\n\nVariant: exFAT 01.003\nRelease note: exFAT format — FW 01.003 — Standard (8.xx) + 4.xx BackPork\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/visions-of-mana-ps5/",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1709/48805e5d3f637ae30a6fef07c41bdaef47b75fed48fa6ac4.png"
-    },
-    {
-      "titleId": "PPSA16618",
-      "title": "The Lord of The Rings Return to Moria",
-      "downloadLinks": [
-        {
-          "name": "EUR 7.xx Base - Akirabox",
-          "url": "https://akirabox.com/2bJG84p75GOB/file"
-        },
-        {
-          "name": "EUR 7.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/XbCDY6UVtA"
-        },
-        {
-          "name": "EUR 7.xx Base - 1fichier",
-          "url": "https://1fichier.com/?rl925edcvantzq9ja8dz"
-        },
-        {
-          "name": "EUR 7.xx BackPort 4.xx - Mediafire",
-          "url": "https://www.mediafire.com/file/qmm4bmvm2fl6lfw/4XX+PPSA16618+%E2%80%93+EUR+V1.00++The+Lord+of+The+Rings+Return+to+Moria++By+BADERLINK-[DLPSGAME.COM].zip/file"
-        },
-        {
-          "name": "EUR 7.xx BackPort 4.xx - Akirabox",
-          "url": "https://akirabox.com/ex5z2Bb7nzKq/file"
-        },
-        {
-          "name": "EUR 7.xx BackPort 4.xx - Vikingfile",
-          "url": "https://vikingfile.com/f/9nxq3Tvs0P"
-        },
-        {
-          "name": "EUR 7.xx BackPort 4.xx - 1fichier",
-          "url": "https://1fichier.com/?wo5bsmbpplro6o8s28h0"
-        },
-        {
-          "name": "EUR 7.xx BackPort 4.xx - Rootz",
-          "url": "https://www.rootz.so/d/1jGqbA"
-        },
-        {
-          "name": "EUR 7.xx BackPort 5.xx - Mediafire",
-          "url": "https://www.mediafire.com/file/8ctvi8o4mcxvwc2/5XX+PPSA16618+%E2%80%93+EUR+V1.00++The+Lord+of+The+Rings+Return+to+Moria++By+BADERLINK-[DLPSGAME.COM].zip/file"
-        },
-        {
-          "name": "EUR 7.xx BackPort 5.xx - Akirabox",
-          "url": "https://akirabox.com/BnkmWEZy2zR0/file"
-        },
-        {
-          "name": "EUR 7.xx BackPort 5.xx - Vikingfile",
-          "url": "https://vikingfile.com/f/DX7uG91uSi"
-        },
-        {
-          "name": "EUR 7.xx BackPort 5.xx - 1fichier",
-          "url": "https://1fichier.com/?u6k8hk1sfddxhm39h15f"
-        },
-        {
-          "name": "EUR 7.xx BackPort 5.xx - Rootz",
-          "url": "https://www.rootz.so/d/acSlU"
-        },
-        {
-          "name": "EUR 7.xx BackPort 6.xx - Akirabox",
-          "url": "https://akirabox.com/b5OzdjjoRmB8/file"
-        },
-        {
-          "name": "EUR 7.xx BackPort 6.xx - Vikingfile",
-          "url": "https://vikingfile.com/f/37YgdkKY3G"
-        },
-        {
-          "name": "EUR 7.xx BackPort 6.xx - 1fichier",
-          "url": "https://1fichier.com/?dhm7ion78uc0vfw0s6kr"
-        },
-        {
-          "name": "Release 3 Base - Rapidgator part 1",
-          "url": "https://rapidgator.net/file/730c6f6bd41549302b6f3835ed879b5f/The.Lord.of.the.Rings.Return.to.Moria.01.000.PPSA16618-PS5.rar.html"
-        },
-        {
-          "name": "Release 3 Base - Rapidgator part 2",
-          "url": "https://rapidgator.net/file/a3c4062d7d3de57ac5ef09d153c55980/PPSA16618_The_Lord_of_the_Rings_Return_to_Moria_V1_00_Backport_6-PS5.rar.html"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0520/d7bb0cab42052c1946d6fdcf236f059ee850819f9008843c.png?w=260",
-      "description": "Variant: EUR 7.xx\nRegion: EUR\nRelease note: Works on 7.xx and higher\nContributor: @SiESPta Team\nPassword: DLPSGAME.COM\n\nVariant: Release 3\nContributor: pkg.games",
-      "downloadSource": "https://dlpsgame.com/the-lord-of-the-rings-return-to-moria-ps5/",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0520/d7bb0cab42052c1946d6fdcf236f059ee850819f9008843c.png"
-    },
-    {
-      "titleId": "PPSA16617",
-      "title": "The Lord of The Rings Return to Moria",
-      "downloadLinks": [
-        {
-          "name": "USA 7.xx Base - Akirabox part 1",
-          "url": "https://akirabox.com/rk9zKDny4G0l/file"
-        },
-        {
-          "name": "USA 7.xx Base - Akirabox part 2",
-          "url": "https://akirabox.com/l5YzMENd9zyO/file"
-        },
-        {
-          "name": "USA 7.xx Base - Rootz part 1",
-          "url": "https://rootz.so/d/1UPNZo"
-        },
-        {
-          "name": "USA 7.xx Base - Rootz part 2",
-          "url": "https://rootz.so/d/Lkzk8"
-        },
-        {
-          "name": "USA 7.xx Base - 1fichier part 1",
-          "url": "https://1fichier.com/?hjoizn3fo1bhesjsgfjp"
-        },
-        {
-          "name": "USA 7.xx Base - 1fichier part 2",
-          "url": "https://1fichier.com/?26bwbh6ppl2g9muth8y8"
-        },
-        {
-          "name": "USA 7.xx Base - Mediafire part 1",
-          "url": "https://www.mediafire.com/file/f7pm3nw7kvx3ses/[DLPSGAME.COM]-PPSA16617.part1.rar/file"
-        },
-        {
-          "name": "USA 7.xx Base - Mediafire part 2",
-          "url": "https://www.mediafire.com/file/ss0fxgtdanz2t24/[DLPSGAME.COM]-PPSA16617.part2.rar/file"
-        },
-        {
-          "name": "USA 7.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/CfqqmzXBpn"
-        },
-        {
-          "name": "USA 7.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/sOaGOrBuST"
-        },
-        {
-          "name": "USA 7.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/xB1npmZNFw"
-        },
-        {
-          "name": "USA 7.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/qJzaYT0iP5"
-        },
-        {
-          "name": "USA 7.xx Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/MRTfNS7Ooy"
-        },
-        {
-          "name": "USA 7.xx Base - 1fichier part 1",
-          "url": "https://1fichier.com/?yuqcreg2gzr9r6jxq4bg"
-        },
-        {
-          "name": "USA 7.xx Base - 1fichier part 2",
-          "url": "https://1fichier.com/?7mgj9kslmp9xmalgh2yc"
-        },
-        {
-          "name": "USA 7.xx Base - 1fichier part 3",
-          "url": "https://1fichier.com/?rvm79pqrsup9eicgneqf"
-        },
-        {
-          "name": "USA 7.xx BackPort 4.xx - Mediafire",
-          "url": "https://www.mediafire.com/file/jsoi7oiij6cws1z/[DLPSGAME.COM]-4xx[PPSA16618][01.000.000].zip/file"
-        },
-        {
-          "name": "USA 7.xx BackPort 4.xx - Akirabox",
-          "url": "https://akirabox.com/M2BGwWDXMGj4/file"
-        },
-        {
-          "name": "USA 7.xx BackPort 4.xx - Vikingfile",
-          "url": "https://vikingfile.com/f/e8qfBSIUpv"
-        },
-        {
-          "name": "USA 7.xx BackPort 4.xx - Rootz",
-          "url": "https://rootz.so/d/1tIBP6"
-        },
-        {
-          "name": "USA 7.xx BackPort 4.xx - 1fichier",
-          "url": "https://1fichier.com/?642qlziclgzspsm7kxr2"
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0520/d7bb0cab42052c1946d6fdcf236f059ee850819f9008843c.png?w=260",
-      "description": "Region: USA\nRelease note: Works on 7.xx and higher\nContributor: @DUPLEX",
-      "downloadSource": "https://dlpsgame.com/the-lord-of-the-rings-return-to-moria-ps5/",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0520/d7bb0cab42052c1946d6fdcf236f059ee850819f9008843c.png"
     },
     {
       "titleId": "PPSA10264",
@@ -95588,6 +95799,61 @@
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202201/0609/5QrxKwV7RaFuzYcyp7j66SsM.png"
     },
     {
+      "titleId": "PPSA09075",
+      "title": "Valthirian Arc Hero School Story 2",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/qLQ364pZPG19/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/z5P8IceOfC"
+        },
+        {
+          "name": "EUR 4.xx Base - 1fichier",
+          "url": "https://1fichier.com/?2jze6x54cz34si6u7uds"
+        },
+        {
+          "name": "Release 2 Base - Rapidgator",
+          "url": "https://rapidgator.net/file/d7727891094cdde9dcda4cf871de7455/Valthirian.Arc.Hero.School.Story.2.01.000.PPSA09075-PS5.rar.html"
+        },
+        {
+          "name": "Release 2 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/tcehSi4EGE"
+        },
+        {
+          "name": "Release 2 Base - Akirabox",
+          "url": "https://akirabox.com/obj3j7WyjzDx/file"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSGZQaE1iRGVvSzNTbUoxcUIwcDd3TFd6TCthZk42blMzVmtOaFJMU3BRWnNEOGg3Y0FrWmtXb3ZBYlV1OFF3VkxaNFZhQnNlWUNxMVhFbmNIaE02bWxzNFNiaStTcW5NNmVBPSIsImkiOiJXZlYrVVFpU1VhdnRZMVN4IiwibiI6IkFraWEifQ=="
+        },
+        {
+          "name": "USA exFAT 01.000 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSk8wa0hEaHNDa2toSCtSR3Nwd2o5T1JaQzN6a2RHVCtEWVVIclVtWGUxNlFVbEs2QTJ6K2o5b2s4UEZVd0paNWlONEZYdTQ0aDcyaGZaeDEwcHBxTjFrZE9IVXY4NmM9IiwiaSI6IjRraUNGMS9ETFgzdnJkcDUiLCJuIjoiVmlraSJ9"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidWJQcVR1S1NIMHdZb2FLa0kzaFFlNEY3aHRibHVBVERDajFncytrWWxOb2VESVlZVUt6SGU3bUxVU29QNGg3Q1N1SHlrc01BejRKUDVUS0hQK1BtUnVSd2grdDciLCJpIjoiZVczNjFOWjdIa3o0N0NwaiIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "USA exFAT 01.000 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTlVkazdtRjl6VDZsaTNMSGZuZElWK082eG5YczJJN1ZzOEZpUHpGSFlRNWxNUGlxY1l0UlN4V1QrSDdPSU1UMnNYc2x2eTZWOEFlRmFTWGVRNi80THA5SzExRVIyU0U9IiwiaSI6IkcxSktUMGREMHBoczA4M1UiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Vault (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUUFqd3BDM2hTVTRXRmEyRjcwdnMzWkNRYWJDdFVkSjNxM2dGdzhkZFVsQ0h3bGxST3J1N1NIZSt6M0trbkJMOWFoWUtRSXc4WWpnN21SYi9Wd1liT1IrWnVrSzZRQT09IiwiaSI6InJJNWEvYk5tcjdwT0xsL0EiLCJuIjoiVmF1bHQifQ=="
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1613/d28ac371eb0b1bc16dbb27672bcd9f4ba2d408950f5ad9b9.png?w=260",
+      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Works on 4.xx and higher\nContributor: @SiESPta Team\nPassword: DLPSGAME.COM\n\nVariant: Release 2\nContributor: pkg.games\n\nVariant: USA exFAT 01.000\nRegion: USA\nRelease note: exFAT format — FW 01.000 — 4.xx and beyond\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/valthirian-arc-hero-school-story-2-ps5/",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1613/d28ac371eb0b1bc16dbb27672bcd9f4ba2d408950f5ad9b9.png"
+    },
+    {
       "titleId": "PPSA10887",
       "title": "Weird West Definitive Edition",
       "downloadLinks": [
@@ -95661,61 +95927,6 @@
       "description": "Variant: EUR 5.xx\nRegion: EUR\nRelease note: Works on 5.xx and higher\nContributor: @SiESPta Team\nPassword: DLPSGAME.COM\n\nVariant: Release 2\nContributor: pkg.games\n\nVariant: EUR exFAT 01.000\nRegion: EUR\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/weird-west-definitive-edition-ps5/",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/0517/0e63f17ba1f80d4f5d7d7628bbc0d1e018c74edd9f00739b.png"
-    },
-    {
-      "titleId": "PPSA09075",
-      "title": "Valthirian Arc Hero School Story 2",
-      "downloadLinks": [
-        {
-          "name": "EUR 4.xx Base - Akirabox",
-          "url": "https://akirabox.com/qLQ364pZPG19/file"
-        },
-        {
-          "name": "EUR 4.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/z5P8IceOfC"
-        },
-        {
-          "name": "EUR 4.xx Base - 1fichier",
-          "url": "https://1fichier.com/?2jze6x54cz34si6u7uds"
-        },
-        {
-          "name": "Release 2 Base - Rapidgator",
-          "url": "https://rapidgator.net/file/d7727891094cdde9dcda4cf871de7455/Valthirian.Arc.Hero.School.Story.2.01.000.PPSA09075-PS5.rar.html"
-        },
-        {
-          "name": "Release 2 Base - Vikingfile",
-          "url": "https://vikingfile.com/f/tcehSi4EGE"
-        },
-        {
-          "name": "Release 2 Base - Akirabox",
-          "url": "https://akirabox.com/obj3j7WyjzDx/file"
-        },
-        {
-          "name": "USA exFAT 01.000 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSGZQaE1iRGVvSzNTbUoxcUIwcDd3TFd6TCthZk42blMzVmtOaFJMU3BRWnNEOGg3Y0FrWmtXb3ZBYlV1OFF3VkxaNFZhQnNlWUNxMVhFbmNIaE02bWxzNFNiaStTcW5NNmVBPSIsImkiOiJXZlYrVVFpU1VhdnRZMVN4IiwibiI6IkFraWEifQ=="
-        },
-        {
-          "name": "USA exFAT 01.000 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSk8wa0hEaHNDa2toSCtSR3Nwd2o5T1JaQzN6a2RHVCtEWVVIclVtWGUxNlFVbEs2QTJ6K2o5b2s4UEZVd0paNWlONEZYdTQ0aDcyaGZaeDEwcHBxTjFrZE9IVXY4NmM9IiwiaSI6IjRraUNGMS9ETFgzdnJkcDUiLCJuIjoiVmlraSJ9"
-        },
-        {
-          "name": "USA exFAT 01.000 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidWJQcVR1S1NIMHdZb2FLa0kzaFFlNEY3aHRibHVBVERDajFncytrWWxOb2VESVlZVUt6SGU3bUxVU29QNGg3Q1N1SHlrc01BejRKUDVUS0hQK1BtUnVSd2grdDciLCJpIjoiZVczNjFOWjdIa3o0N0NwaiIsIm4iOiJEYXRhIn0="
-        },
-        {
-          "name": "USA exFAT 01.000 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTlVkazdtRjl6VDZsaTNMSGZuZElWK082eG5YczJJN1ZzOEZpUHpGSFlRNWxNUGlxY1l0UlN4V1QrSDdPSU1UMnNYc2x2eTZWOEFlRmFTWGVRNi80THA5SzExRVIyU0U9IiwiaSI6IkcxSktUMGREMHBoczA4M1UiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "USA exFAT 01.000 Base - Vault (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUUFqd3BDM2hTVTRXRmEyRjcwdnMzWkNRYWJDdFVkSjNxM2dGdzhkZFVsQ0h3bGxST3J1N1NIZSt6M0trbkJMOWFoWUtRSXc4WWpnN21SYi9Wd1liT1IrWnVrSzZRQT09IiwiaSI6InJJNWEvYk5tcjdwT0xsL0EiLCJuIjoiVmF1bHQifQ=="
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1613/d28ac371eb0b1bc16dbb27672bcd9f4ba2d408950f5ad9b9.png?w=260",
-      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Works on 4.xx and higher\nContributor: @SiESPta Team\nPassword: DLPSGAME.COM\n\nVariant: Release 2\nContributor: pkg.games\n\nVariant: USA exFAT 01.000\nRegion: USA\nRelease note: exFAT format — FW 01.000 — 4.xx and beyond\nContributor: pippo",
-      "downloadSource": "https://dlpsgame.com/valthirian-arc-hero-school-story-2-ps5/",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1613/d28ac371eb0b1bc16dbb27672bcd9f4ba2d408950f5ad9b9.png"
     },
     {
       "titleId": "PPSA13557",
