@@ -1,3 +1,4 @@
+# /scripts/release_notes_builder.py
 import os
 import json
 from datetime import datetime
@@ -7,18 +8,22 @@ def generate_release_notes(data_store_by_cat):
     notes_path = "release_notes.md"
     date_str = datetime.now().strftime("v%Y.%m.%d-%H%M")
     
-    categories = ["payloads", "pkg", "ffpfsc", "apps"]
+    # Intégration de homebrew_page et balayage dynamique des zips dans archives/
+    categories = ["payloads", "pkg", "ffpfsc", "apps", "homebrew_page"]
     
-    # Construction du contenu Markdown global
     content = f"### 🚀 Synthèse de la mise à jour ({date_str})\n\n"
     content += "Le store PlayStation 5 a été mis à jour avec succès.\n\n"
     
     content += "#### 📦 Archives AIO Disponibles :\n"
-    content += "- `PS5_payloads_aio_latest.zip`\n"
-    content += "- `PS5_pkg_aio_latest.zip`\n"
-    content += "- `PS5_ffpfsc_aio_latest.zip`\n"
-    content += "- `PS5_apps_aio_latest.zip`\n"
-    content += "- `PS5_ultimate_pack_latest.zip`\n\n"
+    archives_dir = os.path.abspath("archives")
+    if os.path.exists(archives_dir):
+        all_archives = sorted([f for f in os.listdir(archives_dir) if f.endswith(".zip")])
+        if all_archives:
+            for arch in all_archives:
+                content += f"- `{arch}`\n"
+        else:
+            content += "- _Aucune archive trouvée_\n"
+    content += "\n"
     
     content += "#### 📂 Fichiers inclus / mis à jour :\n"
     content += "📜 [Consulter le journal complet des modifications (CHANGELOG.md)](CHANGELOG.md)\n\n"
@@ -29,14 +34,16 @@ def generate_release_notes(data_store_by_cat):
         "payloads": "⚡",
         "pkg": "🎮",
         "ffpfsc": "📄",
-        "apps": "🛠️"
+        "apps": "🛠️",
+        "homebrew_page": "🌐"
     }
 
     json_dir = PATHS.get("json_dir", "json")
     for cat_key in categories:
         json_file_path = os.path.join(json_dir, f"{cat_key}.json")
         icon = icons.get(cat_key, "📦")
-        content += f"<details>\n<summary><b>{icon} Pack {cat_key.upper()}</b></summary>\n\n"
+        display_title = "HOMEBREW PAGE" if cat_key == "homebrew_page" else cat_key.upper()
+        content += f"<details>\n<summary><b>{icon} Pack {display_title}</b></summary>\n\n"
         
         has_items = False
         if os.path.exists(json_file_path):
@@ -60,7 +67,7 @@ def generate_release_notes(data_store_by_cat):
                             fname = item.get('filename')
                             if fname:
                                 file_entries.append(fname)
-                        
+                            
                     if file_entries:
                         has_items = True
                         content += f"* **{section_key}**\n"
