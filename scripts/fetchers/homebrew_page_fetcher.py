@@ -21,13 +21,12 @@ def fetch_homebrew_page_catalog(credits_set):
         req = urllib.request.urlopen(catalog_url)
         data = json.loads(req.read().decode('utf-8'))
         
-        # Le catalogue gère soit une liste directe, soit un dictionnaire avec des enregistrements
         records = data if isinstance(data, list) else data.get('records', data.get('items', []))
         
         for item in records:
             artifact_url = item.get('artifact_url')
             if not artifact_url:
-                continue # Ignore les applications en "Coming soon" ou sans artefact
+                continue
                 
             kind = item.get('kind', 'app').lower() # ex: game, tool, app
             cat_display = kind.capitalize() + "s" if not kind.endswith('s') else kind.capitalize()
@@ -39,7 +38,6 @@ def fetch_homebrew_page_catalog(credits_set):
             sha256_val = item.get('sha256')
             titleid = item.get('titleid', 'PPSA00000')
             
-            # Dossier de destination local isolé pour homebrew.page
             version_clean = version.replace('/', '_')
             target_dir = os.path.join(PATHS.get("categories", {}).get("apps", {}).get("root", "downloads/apps"), "homebrew_page", kind, titleid, version_clean)
             os.makedirs(target_dir, exist_ok=True)
@@ -47,7 +45,6 @@ def fetch_homebrew_page_catalog(credits_set):
             filename = f"{titleid}.zip"
             local_file_path = os.path.join(target_dir, filename)
             
-            # Téléchargement du zip si non présent localement
             if not os.path.exists(local_file_path):
                 try:
                     urllib.request.urlretrieve(artifact_url, local_file_path)
@@ -55,7 +52,6 @@ def fetch_homebrew_page_catalog(credits_set):
                     print(f"    ⚠️ Erreur téléchargement Homebrew.page ({title}): {e}")
                     continue
                     
-            # Vérification ou calcul automatique du SHA256 pour la cohérence du store
             hasher = hashlib.sha256()
             with open(local_file_path, 'rb') as fb:
                 for chunk in iter(lambda: fb.read(4096), b""):
