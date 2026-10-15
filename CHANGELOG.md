@@ -1,5 +1,90 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 15/10/2026 à 18:17
+* **HOMEBREW_PAGE**
+  * `OliSe Player` (02.001.000) - *Nouveau*
+  * `SymphonyStation5` (v0.1.0) - *Nouveau*
+  * `XashPS5` (1.3) - *Nouveau*
+  * `Middle Ages Ping Pong` (01.000.000) - *Nouveau*
+  * `VITA5` (1.0.0) - *Nouveau*
+  * `Syobon Action` (01.001.000) - *Nouveau*
+  * `ccleste` (1.00) - *Nouveau*
+  * `Ruffle Flash` (1.2.0) - *Nouveau*
+  * `ScreenTester5` (01.000.000) - *Nouveau*
+  * `SuperTuxKart` (00.001.000) - *Nouveau*
+  * `Rush 2 Recompiled` (00.001.000) - *Nouveau*
+  * `Stremio Plus` (0.5.6) - *Nouveau*
+  * `The Simpsons Game` (3.10.6) - *Nouveau*
+  * `RommPS` (1.2.0) - *Nouveau*
+  * `Stremio` (1.2) - *Nouveau*
+  * `VLC` (0.4) - *Nouveau*
+  * `Capy Mobile` (0.5.0) - *Nouveau*
+  * `Raptor: Call of the Shadows (PS5)` (v0.2.0-beta.4) - *Nouveau*
+  * `XPSemu` (Alpha-2.1) - *Nouveau*
+  * `PSXS5` (2.2.0) - *Nouveau*
+  * `PokeMMO Prospero` (1.0.2) - *Nouveau*
+  * `CD Player` (1.0.0) - *Nouveau*
+  * `SwanStationPS5` (1.3.3) - *Nouveau*
+  * `DriftCheck` (01.000.000) - *Nouveau*
+  * `ProsperoStore` (1.000.070) - *Nouveau*
+  * `ProsperoRadio` (01.000.010) - *Nouveau*
+  * `ProsperoLight` (01.000.100) - *Nouveau*
+  * `ProsperoTV` (01.000.070) - *Nouveau*
+  * `ProsperoAI` (01.006.000) - *Nouveau*
+  * `PS5 OpenGL Showcase` (1.0.2) - *Nouveau*
+  * `ProsperoPuzzles` (01.000.010) - *Nouveau*
+  * `Yamagi Quake II` (0.2.0-alpha.1) - *Nouveau*
+  * `ProsperoEden` (1.002.000) - *Nouveau*
+  * `ProsperoLichess` (01.000.000) - *Nouveau*
+  * `vkQuake` (1.0) - *Nouveau*
+  * `PS5 FSR4 Showcase` (01.000.010) - *Nouveau*
+  * `EVO Player` (0.12.0) - *Nouveau*
+  * `Homebrew UI Lab` (01.000.010) - *Nouveau*
+  * `Surround Sound Studio` (01.000.003) - *Nouveau*
+  * `Spot5` (1.1.0) - *Nouveau*
+  * `OpenNOW PS5 - Prototype` (0.1) - *Nouveau*
+  * `Prospero Explorer` (1.0) - *Nouveau*
+  * `Prospero Multi Tools` (1) - *Nouveau*
+  * `Mortalfin` (1.0.0-beta.4) - *Nouveau*
+  * `RetroArch` (1.0.0-beta.1) - *Nouveau*
+  * `PS5VR` (1.2.0) - *Nouveau*
+  * `PS5SX2` (vk-285-171) - *Nouveau*
+  * `PSSwanStation` (build22) - *Nouveau*
+  * `Nuvio Max'd` (0.5.23-native-experimental) - *Nouveau*
+  * `Quake3e` (1.2.0) - *Nouveau*
+  * `Dusklight` (1.0.0) - *Nouveau*
+  * `Wind Waker` (1.0.3) - *Nouveau*
+  * `Mario 64` (1.0) - *Nouveau*
+  * `Super Mario Sunshine` (0.10.0) - *Nouveau*
+  * `Doom 3 BFG` (1.0) - *Nouveau*
+  * `Ship of Harkinian (Vulkan)` (01.000.000) - *Nouveau*
+  * `Steam Remote Play` (1.0.0) - *Nouveau*
+  * `PS5CEMU-HAR` (3.5.0) - *Nouveau*
+  * `PS5MC` (1.2) - *Nouveau*
+  * `Twispero` (1.0.0) - *Nouveau*
+  * `Jelly5` (0.6.1) - *Nouveau*
+  * `GyroAim` (1.0.2) - *Nouveau*
+  * `Emby5` (1.2.5) - *Nouveau*
+  * `Régie5` (0.3.2) - *Nouveau*
+  * `PS5LM Plus` (0.8.3) - *Nouveau*
+  * `Cloud Play` (1.0.0) - *Nouveau*
+  * `Ship of Harkinian (Ocarina of Time)` (v1.2.0) - *Nouveau*
+  * `2 Ship 2 Harkinian (Majora's Mask)` (v1.1.0) - *Nouveau*
+  * `Morrowind (OpenMW)` (v1.0.1) - *Nouveau*
+  * `Twilight Princess (Dusklight)` (ps5-v0.1.0) - *Nouveau*
+  * `Wind Waker HD` (ps5-v0.1.2) - *Nouveau*
+  * `DOOM Native Port` (1.1.1) - *Nouveau*
+  * `Link’s Awakening for PS5` (v0.1.0) - *Nouveau*
+  * `OpenRCT2 Native Port` (1.0.0) - *Nouveau*
+  * `Porpoise` (3.0) - *Nouveau*
+  * `PShare` (1.0) - *Nouveau*
+  * `PICO-8 for PS5` (0.1.2) - *Nouveau*
+  * `PSBox Cloud Gaming` (0.9.6) - *Nouveau*
+  * `Prospero Vibrate` (1.0) - *Nouveau*
+  * `Forwarder Manager` (00.001.004) - *Nouveau*
+  * `Prospero Win` (0.2.0) - *Nouveau*
+  * `Nuvio PS5` (0.1.0-alpha.7) - *Nouveau*
+
 ## Build du 15/10/2026 à 16:51
 * **APPS**
   * `Ps5Mc-1.2-Kodi21-Ppsa99421` (1.2) - *Nouveau*

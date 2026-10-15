@@ -1,0 +1,89 @@
+{
+  "name": "Tools",
+  "apps": [
+    {
+      "name": "ScreenTester5",
+      "filename": "PPSA69420.zip",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/tool/PPSA69420/01.000.000/PPSA69420.zip",
+      "local_path": "downloads/apps/homebrew_page/tool/PPSA69420/01.000.000/PPSA69420.zip",
+      "description": "Screen tester: solid colours and test patterns to find dead or stuck pixels, check uniformity and geometry, and run stuck-pixel recovery.",
+      "version": "01.000.000",
+      "category": "Tools",
+      "kind": "tool",
+      "titleid": "PPSA69420",
+      "author": "Marice",
+      "checksum": "49a5c6d7bbb08f5a1539feb65b7fd2b537b6d7b304bdd3eed1c923e4ccbec8fd",
+      "source": "https://github.com/Marice/ScreenTester5"
+    },
+    {
+      "name": "DriftCheck",
+      "filename": "PPSA98766.zip",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/tool/PPSA98766/01.000.000/PPSA98766.zip",
+      "local_path": "downloads/apps/homebrew_page/tool/PPSA98766/01.000.000/PPSA98766.zip",
+      "description": "Controller tester: live sticks with circularity, a rest test that measures stick drift and suggests a deadzone, triggers, buttons, touchpad and motion sensors.",
+      "version": "01.000.000",
+      "category": "Tools",
+      "kind": "tool",
+      "titleid": "PPSA98766",
+      "author": "Felipe Melchior",
+      "checksum": "06fa838c0747ea25075876e28df9c684d17988938b82707c9592f1d2c217c86c",
+      "source": "https://github.com/felipemelchior/driftcheck5"
+    },
+    {
+      "name": "Prospero Explorer",
+      "filename": "PPSA99109.zip",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/tool/PPSA99109/1.0/PPSA99109.zip",
+      "local_path": "downloads/apps/homebrew_page/tool/PPSA99109/1.0/PPSA99109.zip",
+      "description": "File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network.",
+      "version": "1.0",
+      "category": "Tools",
+      "kind": "tool",
+      "titleid": "PPSA99109",
+      "author": "SvenGDK",
+      "checksum": "3eaee706e8aca772fce734b494e56729ddedec218597ab9baf940094a0cdfc7e",
+      "source": "https://github.com/SvenGDK/Prospero-Explorer"
+    },
+    {
+      "name": "Prospero Multi Tools",
+      "filename": "PPSA99110.zip",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/tool/PPSA99110/1/PPSA99110.zip",
+      "local_path": "downloads/apps/homebrew_page/tool/PPSA99110/1/PPSA99110.zip",
+      "description": "Backup manager for PS5: browse and edit PS1 to PS5, PSP and PS Vita backups, install packages and launch PS1/PS2/PSP titles. Needs the unjail payload.",
+      "version": "1",
+      "category": "Tools",
+      "kind": "tool",
+      "titleid": "PPSA99110",
+      "author": "SvenGDK",
+      "checksum": "0e7c60d0e860cd0cafb939f668ccae57f53503f2c2371b4193a81ab306346d6b",
+      "source": "https://github.com/SvenGDK/Prospero-Multi-Tools"
+    },
+    {
+      "name": "GyroAim",
+      "filename": "PPSA99510.zip",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/tool/PPSA99510/1.0.2/PPSA99510.zip",
+      "local_path": "downloads/apps/homebrew_page/tool/PPSA99510/1.0.2/PPSA99510.zip",
+      "description": "Gyro aiming in any game: the controller's gyroscope drives the stick, tuned from your phone while you play.",
+      "version": "1.0.2",
+      "category": "Tools",
+      "kind": "tool",
+      "titleid": "PPSA99510",
+      "author": "jmelovich",
+      "checksum": "b748ef79e0296fc33ef2b648d6ee4d6e70c622b708a629ca076ac8e9aeec243a",
+      "source": "https://github.com/jmelovich/ps5-gyroaim"
+    },
+    {
+      "name": "Forwarder Manager",
+      "filename": "PPSA99930.zip",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/downloads/apps/homebrew_page/tool/PPSA99930/00.001.004/PPSA99930.zip",
+      "local_path": "downloads/apps/homebrew_page/tool/PPSA99930/00.001.004/PPSA99930.zip",
+      "description": "Create and edit home-screen forwarders that launch emulators and other apps with custom art, music and arguments.",
+      "version": "00.001.004",
+      "category": "Tools",
+      "kind": "tool",
+      "titleid": "PPSA99930",
+      "author": "heydemoura",
+      "checksum": "07f536bd2718dd36efe862b82b1d830d7fbcb6c0079fbe4059765e380a1cf45b",
+      "source": "https://github.com/heydemoura/ps5-forwarder-manager"
+    }
+  ]
+}
