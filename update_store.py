@@ -16,6 +16,8 @@ from scripts.generate_readme import build_readme
 from scripts.changelog_builder import generate_build_changelog
 from scripts.pegasus_builder import generate_pegasus_catalog
 from scripts.download_pegasus_catalogs import download_catalogs
+from scripts.release_notes_builder import generate_release_notes
+from scripts.build_reporter import generate_build_reports
 
 def clean_latest_versions_only(flat_list):
     """
@@ -102,83 +104,6 @@ def recover_local_orphans(category_name, flat_list, allowed_exts):
     
     flat_list = clean_latest_versions_only(flat_list)
     return flat_list
-
-def generate_release_notes(data_store_by_cat):
-    print("📝 Génération des notes de version pour la Release...")
-    json_dir = PATHS.get("json_dir", "json")
-    notes_path = "release_notes.md"
-    date_str = datetime.now().strftime("v%Y.%m.%d-%H%M")
-    
-    categories = ["payloads", "pkg", "ffpfsc", "apps"]
-    
-    content = f"### 🚀 Synthèse de la mise à jour ({date_str})\n\n"
-    content += "Le store PlayStation 5 a été mis à jour avec succès.\n\n"
-    
-    content += "#### 📦 Archives AIO Disponibles (Dossier `archives/`) :\n"
-    
-    archives_dir = os.path.abspath("archives")
-    if os.path.exists(archives_dir):
-        all_archives = sorted([f for f in os.listdir(archives_dir) if f.endswith(".zip")])
-        for arch in all_archives:
-            content += f"- `{arch}`\n"
-            
-    content += "\n#### 📂 Fichiers inclus / mis à jour :\n"
-    content += "📜 [Consulter le journal complet des modifications (CHANGELOG.md)](CHANGELOG.md)\n\n"
-
-    content += "#### 🛠 Détail des Packs & Contenu\n"
-    
-    icons = {
-        "payloads": "⚡",
-        "pkg": "🎮",
-        "ffpfsc": "📄",
-        "apps": "🛠"
-    }
-
-    for cat_key in categories:
-        json_file_path = os.path.join(json_dir, f"{cat_key}.json")
-        icon = icons.get(cat_key, "📦")
-        content += f"<details>\n<summary><b>{icon} Pack {cat_key.upper()}</b></summary>\n\n"
-        
-        has_items = False
-        if os.path.exists(json_file_path):
-            with open(json_file_path, 'r', encoding='utf-8') as f:
-                json_content = json.load(f)
-                
-            if isinstance(json_content, dict):
-                for section_key, section_val in json_content.items():
-                    if section_key == "name":
-                        continue
-                        
-                    file_entries = []
-                    items_list = []
-                    if isinstance(section_val, list):
-                        items_list = section_val
-                    elif isinstance(section_val, dict):
-                        items_list = section_val.get('items', [])
-                        
-                    for item in items_list:
-                        if isinstance(item, dict):
-                            fname = item.get('filename')
-                            if fname:
-                                file_entries.append(fname)
-                            
-                    if file_entries:
-                        has_items = True
-                        content += f"* **{section_key}**\n"
-                        seen = set()
-                        for fname in file_entries:
-                            if fname not in seen:
-                                seen.add(fname)
-                                content += f"  * `{fname}`\n"
-        
-        if not has_items:
-            content += "*Aucun élément dans ce pack.*\n"
-            
-        content += "\n</details>\n\n"
-
-    with open(notes_path, "w", encoding="utf-8") as f:
-        f.write(content)
-    print("    ✅ Fichier release_notes.md généré avec succès !")
 
 def build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat, hb_page_by_cat, hb_page_flat):
     print("📦 [Bonus] Génération dynamique des archives AIO ZIP (< 1.4 Go par fichier)...")
@@ -321,7 +246,7 @@ def main():
     print("🛡️ [1.5/5] Récupération de sécurité des fichiers locaux (Fallback anti-disparition)...")
     payloads_flat = recover_local_orphans("payloads", payloads_flat, [".elf", ".bin"])
     pkg_flat = recover_local_orphans("pkg", pkg_flat, [".pkg"])
-    ffpfsc_flat = recover_local_orphans("ffpfsc", ffpfsc_flat, [".ffpfsc", ".bin", ".elf"])
+    ffpfsc_flat = recover_local_orphans("ffpfsc", fffpfsc_flat, [".ffpfsc", ".bin", ".elf"])
     apps_flat = recover_local_orphans("apps", apps_flat, [".elf", ".zip"])
 
     data_store = {
@@ -357,7 +282,7 @@ def main():
     print("📡 [3/5] Génération des flux RSS et OPML... ")
     build_rss_feed(data_store_flat)
 
-    # 1. Génération des archives ZIP (avec homebrew.page par catégorie et Ultimate)
+    # 1. Génération des archives ZIP
     build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat, hb_page_by_cat, hb_page_flat)
 
     # 2. Construction de l'URL GitHub Releases pour les liens du fichier pack_aio.json
@@ -374,6 +299,9 @@ def main():
     build_readme(credits_set, data_store_by_cat)
     generate_build_changelog()
     generate_release_notes(data_store_by_cat)
+
+    print("📊 [5/5] Génération des rapports de build (Build-Report)...")
+    generate_build_reports(data_store_flat)
 
     print("✅ Mise à jour du store et des packages terminée avec succès !")
 
