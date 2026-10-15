@@ -9,6 +9,7 @@ from scripts.fetchers.payloads_fetcher import fetch_payloads_category
 from scripts.fetchers.pkg_fetcher import fetch_pkg_category
 from scripts.fetchers.ffpfsc_fetcher import fetch_ffpfsc_category
 from scripts.fetchers.apps_fetcher import fetch_apps_category
+from scripts.fetchers.homebrew_page_fetcher import fetch_homebrew_page_catalog
 from scripts.generate_json import build_all
 from scripts.generate_rss import build_rss_feed
 from scripts.generate_readme import build_readme
@@ -171,7 +172,7 @@ def generate_release_notes(data_store_by_cat):
                                 content += f"  * `{fname}`\n"
         
         if not has_items:
-            content += "*Aucun élément dans este pack.*\n"
+            content += "*Aucun élément dans ce pack.*\n"
             
         content += "\n</details>\n\n"
 
@@ -179,7 +180,7 @@ def generate_release_notes(data_store_by_cat):
         f.write(content)
     print("    ✅ Fichier release_notes.md généré avec succès !")
 
-def build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat):
+def build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat, hb_page_by_cat, hb_page_flat):
     print("📦 [Bonus] Génération dynamique des archives AIO ZIP (< 1.4 Go par fichier)...")
     
     base_workspace = os.path.abspath(os.getcwd())
@@ -239,12 +240,18 @@ def build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat):
             size_bytes = os.path.getsize(zip_path) if os.path.exists(zip_path) else 0
             print(f"    ➔ Archive générée : {zip_path} ({size_bytes / (1024*1024):.2f} Mo)")
 
+    # Zips standard
     create_dynamic_zips("PS5_payloads_aio", payloads_flat)
     create_dynamic_zips("PS5_pkg_aio", pkg_flat)
     create_dynamic_zips("PS5_ffpfsc_aio", ffpfsc_flat)
     create_dynamic_zips("PS5_apps_aio", apps_flat)
+
+    # Zips par catégorie homebrew.page
+    for kind, cat_data in hb_page_by_cat.items():
+        create_dynamic_zips(f"homebrewpage-{kind}_aio", cat_data["items"])
     
-    ultimate_items = payloads_flat + pkg_flat + ffpfsc_flat + apps_flat
+    # Pack Ultimate regroupant absolument tout
+    ultimate_items = payloads_flat + pkg_flat + ffpfsc_flat + apps_flat + hb_page_flat
     create_dynamic_zips("PS5_ultimate_pack", ultimate_items)
 
 def generate_pack_aio_json(github_releases_base):
@@ -270,6 +277,8 @@ def generate_pack_aio_json(github_releases_base):
                     pack_type = "ffpfsc"
                 elif "apps" in zip_file:
                     pack_type = "apps"
+                elif "homebrewpage" in zip_file:
+                    pack_type = "homebrew_page"
                 elif "ultimate_pack" in zip_file:
                     pack_type = "ultimate"
 
@@ -302,11 +311,12 @@ def main():
     print("📥 [0/5] Téléchargement des catalogues Pegasus distants...")
     download_catalogs()
 
-    print("🔍 [1/5] Scraping des sources OPML et téléchargement des binaires...")
+    print("🔍 [1/5] Scraping des sources et du catalogue homebrew.page...")
     payloads_by_cat, payloads_flat = fetch_payloads_category(credits_set)
     pkg_by_cat, pkg_flat = fetch_pkg_category(credits_set)
     ffpfsc_by_cat, ffpfsc_flat = fetch_ffpfsc_category(credits_set)
     apps_by_cat, apps_flat = fetch_apps_category(credits_set)
+    hb_page_by_cat, hb_page_flat = fetch_homebrew_page_catalog(credits_set)
 
     print("🛡️ [1.5/5] Récupération de sécurité des fichiers locaux (Fallback anti-disparition)...")
     payloads_flat = recover_local_orphans("payloads", payloads_flat, [".elf", ".bin"])
@@ -318,21 +328,24 @@ def main():
         "payloads": (payloads_by_cat, payloads_flat),
         "pkg": (pkg_by_cat, pkg_flat),
         "ffpfsc": (ffpfsc_by_cat, ffpfsc_flat),
-        "apps": (apps_by_cat, apps_flat)
+        "apps": (apps_by_cat, apps_flat),
+        "homebrew_page": (hb_page_by_cat, hb_page_flat)
     }
 
     data_store_by_cat = {
         "payloads": payloads_by_cat,
         "pkg": pkg_by_cat,
         "ffpfsc": ffpfsc_by_cat,
-        "apps": apps_by_cat
+        "apps": apps_by_cat,
+        "homebrew_page": hb_page_by_cat
     }
 
     data_store_flat = {
         "payloads": {"name": "Payloads", "items": payloads_flat},
         "pkg": {"name": "Packages PKG", "items": pkg_flat},
         "ffpfsc": {"name": "Fichiers FFPFSC", "items": ffpfsc_flat},
-        "apps": {"name": "Applications", "items": apps_flat}
+        "apps": {"name": "Applications", "items": apps_flat},
+        "homebrew_page": {"name": "Homebrew Page", "items": hb_page_flat}
     }
 
     print("📦 [2/5] Génération de l'arborescence JSON complète...")
@@ -344,8 +357,8 @@ def main():
     print("📡 [3/5] Génération des flux RSS et OPML... ")
     build_rss_feed(data_store_flat)
 
-    # 1. Génération des archives ZIP d'abord
-    build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat)
+    # 1. Génération des archives ZIP (avec homebrew.page par catégorie et Ultimate)
+    build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat, hb_page_by_cat, hb_page_flat)
 
     # 2. Construction de l'URL GitHub Releases pour les liens du fichier pack_aio.json
     clean_url = BASE_URL.replace("https://", "").replace("http://", "")
