@@ -443,28 +443,28 @@
       <pubDate>v2.5</pubDate>
     </item>
     <item>
-      <title>[Payloads] Snes9Xps5 V2.3</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.3/snes9xPS5_v2.3.elf</link>
+      <title>[Payloads] Snes9Xps5 V2.6</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.6/snes9xPS5_v2.6.elf</link>
       <description>snes9x emulator</description>
-      <pubDate>v2.3</pubDate>
+      <pubDate>v2.6</pubDate>
     </item>
     <item>
-      <title>[Payloads] Genplusgxps5 V1.6</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.6/genplusgxPS5_v1.6.elf</link>
+      <title>[Payloads] Genplusgxps5 V1.7</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.7/genplusgxPS5_v1.7.elf</link>
       <description>Port of Genesis-Plus-GX for PS55</description>
-      <pubDate>v1.6</pubDate>
+      <pubDate>v1.7</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5-Romm V1.2.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.2.0/ps5-romm_v1.2.0.elf</link>
+      <title>[Payloads] Ps5-Romm V1.2.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.2.1/ps5-romm_v1.2.1.elf</link>
       <description>ps5-romm for ps5</description>
-      <pubDate>v1.2.0</pubDate>
+      <pubDate>v1.2.1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Fbneo-Ps5 V1.8</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v1.8/fbneo-ps5_v1.8.elf</link>
+      <title>[Payloads] Fbneo-Ps5 V1.9</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v1.9/fbneo-ps5_v1.9.elf</link>
       <description>FBNeo for ps5</description>
-      <pubDate>v1.8</pubDate>
+      <pubDate>v1.9</pubDate>
     </item>
     <item>
       <title>[Payloads] Phu-Sandbox.Exit V1.0</title>
@@ -1136,7 +1136,7 @@
       <title>[Homebrew Page] RommPS</title>
       <link>https://github.com/s0liton/RommPS</link>
       <description>Syncs your emulator saves and states with a RomM server and downloads games from your RomM library.</description>
-      <pubDate>1.2.0</pubDate>
+      <pubDate>1.2.1</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] Stremio</title>
@@ -1190,7 +1190,7 @@
       <title>[Homebrew Page] SwanStationPS5</title>
       <link>https://github.com/darkxex/SwanStationPS5</link>
       <description>SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.</description>
-      <pubDate>1.3.4</pubDate>
+      <pubDate>1.3.7</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] DriftCheck</title>
@@ -1250,7 +1250,7 @@
       <title>[Homebrew Page] ProsperoEden</title>
       <link>https://github.com/blackbearreloaded/ProsperoEden</link>
       <description>Unofficial Eden emulator port for PS5.</description>
-      <pubDate>1.002.000</pubDate>
+      <pubDate>1.003.000</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] ProsperoLichess</title>
@@ -1269,6 +1269,12 @@
       <link>https://github.com/blackbearreloaded/ps5-fsr4</link>
       <description>Shows AMD FSR 4 upscaling on the PS5: a city at dusk rendered small and upscaled at 60 fps, with settings to compare it against bilinear and native rendering.</description>
       <pubDate>01.000.010</pubDate>
+    </item>
+    <item>
+      <title>[Homebrew Page] Media Player Classic PS5</title>
+      <link>https://github.com/MisterTemaki/MediaPlayerClassicPS5</link>
+      <description>Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.</description>
+      <pubDate>1.1</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] EVO Player</title>
@@ -1346,13 +1352,13 @@
       <title>[Homebrew Page] Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
       <description>An unofficial native Nuvio client for PS5 with synced watch progress, addon streams, episode skipping and experimental HDR10 playback.</description>
-      <pubDate>0.5.23-native-experimental</pubDate>
+      <pubDate>0.5.27-native-experimental</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] Spider-Man: Edge of Time</title>
       <link>https://github.com/KongaTime/PS5_EdgeOfTimeTitle</link>
       <description>Unofficial native PS5 port of Spider-Man: Edge of Time. Requires game files from your own copy.</description>
-      <pubDate>v1.0.0</pubDate>
+      <pubDate>V.1.1.1</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] Quake3e</title>
@@ -1442,7 +1448,7 @@
       <title>[Homebrew Page] Régie5</title>
       <link>https://github.com/viviandsx/regie5</link>
       <description>A TV remote for your self-hosted media stack: Sonarr, Radarr, Seerr and Jellyfin at a glance, with request approval, playback diagnosis and an optional cleanup.</description>
-      <pubDate>0.3.2</pubDate>
+      <pubDate>0.5.0</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] PS5LM Plus</title>
@@ -1526,7 +1532,7 @@
       <title>[Homebrew Page] PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>0.9.7</pubDate>
+      <pubDate>0.9.8</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] Prospero Vibrate</title>

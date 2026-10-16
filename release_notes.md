@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.15-2136)
+### 🚀 Synthèse de la mise à jour (v2026.10.16-0311)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -105,10 +105,10 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `AnyPad-PS5_v0.6.0.elf`
   * `np-fake-signin-ps5.elf`
   * `ps5-linux-loader_v2.5.elf`
-  * `snes9xPS5_v2.3.elf`
-  * `genplusgxPS5_v1.6.elf`
-  * `ps5-romm_v1.2.0.elf`
-  * `fbneo-ps5_v1.8.elf`
+  * `snes9xPS5_v2.6.elf`
+  * `genplusgxPS5_v1.7.elf`
+  * `ps5-romm_v1.2.1.elf`
+  * `fbneo-ps5_v1.9.elf`
   * `PHU-Sandbox.Exit_v1.0.elf`
   * `ps5-fan-control_v0.3.elf`
   * `fan_target_85c_v0.1.elf`
@@ -271,6 +271,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99009.zip`
   * `PPSA99010.zip`
   * `PPSA99011.zip`
+  * `PPSA99015.zip`
   * `PPSA99039.zip`
   * `PPSA99050.zip`
   * `PPSA99051.zip`

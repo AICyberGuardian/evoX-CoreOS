@@ -74,15 +74,15 @@
     {
       "name": "RommPS",
       "filename": "PPSA76677.zip",
-      "url": "https://github.com/s0liton/RommPS/releases/download/v1.2.0/PPSA76677.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA76677/1.2.0/PPSA76677.zip",
+      "url": "https://github.com/s0liton/RommPS/releases/download/v1.2.1/PPSA76677.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA76677/1.2.1/PPSA76677.zip",
       "description": "Syncs your emulator saves and states with a RomM server and downloads games from your RomM library.",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA76677",
       "author": "s0liton",
-      "checksum": "84f8c7302abaff307d5eceac56f49f8950fcbfb96ff4637c5031ef603e571485",
+      "checksum": "afd77993de68e18eaa5b52b4b08ac7cdbc081c6af7f10a0720e0c580ac0d9645",
       "source": "https://github.com/s0liton/RommPS"
     },
     {
@@ -172,15 +172,15 @@
     {
       "name": "SwanStationPS5",
       "filename": "PPSA98510.zip",
-      "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.3.4/PPSA98510.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.3.4/PPSA98510.zip",
+      "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.3.7/PPSA98510.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.3.7/PPSA98510.zip",
       "description": "SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.",
-      "version": "1.3.4",
+      "version": "1.3.7",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98510",
       "author": "AngelXex",
-      "checksum": "9a29ac83a06a2476dc75e6db4e7fab8e52d66d573f6bc52b6a25b037e57c9332",
+      "checksum": "62788ecdba8a260512e0bde773b57f297c858d4f52be3a560f7f306af65afce1",
       "source": "https://github.com/darkxex/SwanStationPS5"
     },
     {
@@ -270,15 +270,15 @@
     {
       "name": "ProsperoEden",
       "filename": "PPSA99008.zip",
-      "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/download/v1.002.000/ProsperoEden-v1.002.000.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99008/1.002.000/PPSA99008.zip",
+      "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/download/v1.003.000/ProsperoEden-v1.003.000.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99008/1.003.000/PPSA99008.zip",
       "description": "Unofficial Eden emulator port for PS5.",
-      "version": "1.002.000",
+      "version": "1.003.000",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99008",
       "author": "BlackBearReloaded",
-      "checksum": "468e38e6c813665787e12760df5448cd0922927619643cc94db0356795706158",
+      "checksum": "4df78700a1c44eb29f93efbd6b40da3e78d4ee98e7ef23a6ddad7be49394f0df",
       "source": "https://github.com/blackbearreloaded/ProsperoEden"
     },
     {
@@ -294,6 +294,20 @@
       "author": "BlackBearReloaded",
       "checksum": "4fd35889c6b07c2d4736c91a7ca5c92062ab3498a71264e9f9b7afbb39d3e223",
       "source": "https://github.com/blackbearreloaded/ps5-fsr4"
+    },
+    {
+      "name": "Media Player Classic PS5",
+      "filename": "PPSA99015.zip",
+      "url": "https://github.com/MisterTemaki/MediaPlayerClassicPS5/releases/download/v1.1/MediaPlayerClassicPS5-v1.1-PPSA99015.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99015/1.1/PPSA99015.zip",
+      "description": "Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.",
+      "version": "1.1",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99015",
+      "author": "MisterTemaki",
+      "checksum": "1cc3cb65a09035790a5aeffab00a620955464b2e044eba071279d97fc73e398a",
+      "source": "https://github.com/MisterTemaki/MediaPlayerClassicPS5"
     },
     {
       "name": "EVO Player",
@@ -438,15 +452,15 @@
     {
       "name": "Nuvio Max'd",
       "filename": "PPSA99288.zip",
-      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v0.5.23-native-experimental/PPSA99288.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/0.5.23-native-experimental/PPSA99288.zip",
+      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v0.5.27-native-experimental/PPSA99288.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/0.5.27-native-experimental/PPSA99288.zip",
       "description": "An unofficial native Nuvio client for PS5 with synced watch progress, addon streams, episode skipping and experimental HDR10 playback.",
-      "version": "0.5.23-native-experimental",
+      "version": "0.5.27-native-experimental",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99288",
       "author": "HandshakeHackin",
-      "checksum": "614920dfbdfc19eefd10ac44241837b54a42e49dd73a70ae6d7a8651079bde01",
+      "checksum": "44e770d76ddf5d7db09df6d77090e460d073c1fc0ab856e2f5baf20caf7a2d92",
       "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
     },
     {
@@ -536,15 +550,15 @@
     {
       "name": "Régie5",
       "filename": "PPSA99520.zip",
-      "url": "https://github.com/viviandsx/regie5/releases/download/v0.3.2/PPSA99520.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99520/0.3.2/PPSA99520.zip",
+      "url": "https://github.com/viviandsx/regie5/releases/download/v0.5.0/PPSA99520.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99520/0.5.0/PPSA99520.zip",
       "description": "A TV remote for your self-hosted media stack: Sonarr, Radarr, Seerr and Jellyfin at a glance, with request approval, playback diagnosis and an optional cleanup.",
-      "version": "0.3.2",
+      "version": "0.5.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99520",
       "author": "Vivian",
-      "checksum": "482f0a39c0547769fe778c6b139596c839949a0f0345cdf22e32b582d7b82504",
+      "checksum": "32fd8c094b30a6c2cae671471ea2940c1b324cc396e720c78d703846874a0bf8",
       "source": "https://github.com/viviandsx/regie5"
     },
     {
@@ -620,15 +634,15 @@
     {
       "name": "PSBox Cloud Gaming",
       "filename": "PPSA99810.zip",
-      "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v0.9.7/PPSA99810.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/0.9.7/PPSA99810.zip",
+      "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v0.9.8/PPSA99810.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/0.9.8/PPSA99810.zip",
       "description": "Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.",
-      "version": "0.9.7",
+      "version": "0.9.8",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99810",
       "author": "RafaelNGP",
-      "checksum": "dfcfe0da90e06f9847d5db8a3f8f64d7445a4224555db66e47dd8dc8aee3805e",
+      "checksum": "b2895298a3ffc68bcec0fd3c049e9e5ad545218f1c28c8c2f70fbcf762bb0038",
       "source": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5"
     },
     {

@@ -1,5 +1,21 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 16/10/2026 à 03:11
+* **PAYLOADS**
+  * `Snes9Xps5 V2.6` (v2.6) - *Nouveau*
+  * `Genplusgxps5 V1.7` (v1.7) - *Nouveau*
+  * `Ps5-Romm V1.2.1` (v1.2.1) - *Nouveau*
+  * `Fbneo-Ps5 V1.9` (v1.9) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `RommPS` (1.2.1) - *Mise à jour (Précédent: 1.2.0)*
+  * `SwanStationPS5` (1.3.7) - *Mise à jour (Précédent: 1.3.4)*
+  * `ProsperoEden` (1.003.000) - *Mise à jour (Précédent: 1.002.000)*
+  * `Media Player Classic PS5` (1.1) - *Nouveau*
+  * `Nuvio Max'd` (0.5.27-native-experimental) - *Mise à jour (Précédent: 0.5.23-native-experimental)*
+  * `Spider-Man: Edge of Time` (V.1.1.1) - *Mise à jour (Précédent: v1.0.0)*
+  * `Régie5` (0.5.0) - *Mise à jour (Précédent: 0.3.2)*
+  * `PSBox Cloud Gaming` (0.9.8) - *Mise à jour (Précédent: 0.9.7)*
+
 ## Build du 15/10/2026 à 19:56
 * **HOMEBREW_PAGE**
   * `Rush 2 Recompiled` (00.002.000) - *Mise à jour (Précédent: 00.001.000)*
