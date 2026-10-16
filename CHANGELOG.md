@@ -1,5 +1,17 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 16/10/2026 à 20:42
+* **PAYLOADS**
+  * `Common Fps Ps5 V1.2.3` (v1.2.3) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `Afterglow` (01.000.006) - *Nouveau*
+  * `Raptor: Call of the Shadows (PS5)` (v0.3.0-beta.1) - *Mise à jour (Précédent: v0.2.0-beta.4)*
+  * `Forever Launcher` (01.000.006) - *Nouveau*
+  * `Mortalfin` (1.0.0-beta.5) - *Mise à jour (Précédent: 1.0.0-beta.4)*
+  * `Nuvio Max'd` (0.5.28-native-experimental) - *Mise à jour (Précédent: 0.5.27-native-experimental)*
+  * `PS5LM` (0.9.0) - *Nouveau*
+  * `PSBox Cloud Gaming` (1.0.0) - *Mise à jour (Précédent: 0.9.8)*
+
 ## Build du 16/10/2026 à 03:11
 * **PAYLOADS**
   * `Snes9Xps5 V2.6` (v2.6) - *Nouveau*

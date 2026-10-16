@@ -116,15 +116,15 @@
     {
       "name": "Raptor: Call of the Shadows (PS5)",
       "filename": "PPSA94002.zip",
-      "url": "https://github.com/ChaDea1/RaptorPS5/releases/download/v0.2.0-beta.4/raptor-ps5-v0.2.0-beta.4.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA94002/v0.2.0-beta.4/PPSA94002.zip",
+      "url": "https://github.com/ChaDea1/RaptorPS5/releases/download/v0.3.0-beta.1/raptor-ps5-v0.3.0-beta.1.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA94002/v0.3.0-beta.1/PPSA94002.zip",
       "description": "Unofficial native PS5 port of Raptor: Call of the Shadows with DualSense controls and optional first-launch shareware download.",
-      "version": "v0.2.0-beta.4",
+      "version": "v0.3.0-beta.1",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA94002",
       "author": "ChaDea1",
-      "checksum": "ce06b3950016e51353a1b46c02ead47896f29c64e012900d7555f54ad4ac2588",
+      "checksum": "c4d112a0e73da8e4ff2f2b76dfd987230143c7801d7fed3de8d24428df37117a",
       "source": "https://github.com/ChaDea1/RaptorPS5"
     },
     {

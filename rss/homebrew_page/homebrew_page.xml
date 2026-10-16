@@ -41,6 +41,12 @@
       <pubDate>01.001.000</pubDate>
     </item>
     <item>
+      <title>Afterglow</title>
+      <link>https://github.com/DevvNirvana/afterglow</link>
+      <description>Internet radio with 220+ stations and 56 full-screen music visualizer scenes.</description>
+      <pubDate>01.000.006</pubDate>
+    </item>
+    <item>
       <title>ccleste</title>
       <link>https://github.com/darkxex/PS5_Celeste</link>
       <description>This is a C source port of the original celeste (Celeste classic) for the PICO-8, designed to be portable. Now you can enjoy the port on your PS5.</description>
@@ -116,7 +122,7 @@
       <title>Raptor: Call of the Shadows (PS5)</title>
       <link>https://github.com/ChaDea1/RaptorPS5</link>
       <description>Unofficial native PS5 port of Raptor: Call of the Shadows with DualSense controls and optional first-launch shareware download.</description>
-      <pubDate>v0.2.0-beta.4</pubDate>
+      <pubDate>v0.3.0-beta.1</pubDate>
     </item>
     <item>
       <title>XPSemu</title>
@@ -233,6 +239,12 @@
       <pubDate>1.1</pubDate>
     </item>
     <item>
+      <title>Forever Launcher</title>
+      <link>https://github.com/bizkut/ps5-forever</link>
+      <description>Battle.net launcher for World of Warcraft: Forever; press L3+R3 together to open the on-screen keyboard; other games may install, but keyboard support is in development.</description>
+      <pubDate>01.000.006</pubDate>
+    </item>
+    <item>
       <title>EVO Player</title>
       <link>https://github.com/sainsaji/EVO-PLAYER-PS5</link>
       <description>Media player for PS5 that plays video from USB or internal storage, with hardware decoding up to 4K, 10-bit HDR and surround audio.</description>
@@ -278,7 +290,7 @@
       <title>Mortalfin</title>
       <link>https://github.com/mortaljinx/mortalfin</link>
       <description>A native Jellyfin client for the PS5 with a cover-wheel interface, HDR and surround sound passthrough. Beta.</description>
-      <pubDate>1.0.0-beta.4</pubDate>
+      <pubDate>1.0.0-beta.5</pubDate>
     </item>
     <item>
       <title>RetroArch</title>
@@ -308,7 +320,7 @@
       <title>Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
       <description>An unofficial native Nuvio client for PS5 with synced watch progress, addon streams, episode skipping and experimental HDR10 playback.</description>
-      <pubDate>0.5.27-native-experimental</pubDate>
+      <pubDate>0.5.28-native-experimental</pubDate>
     </item>
     <item>
       <title>Spider-Man: Edge of Time</title>
@@ -407,6 +419,12 @@
       <pubDate>0.5.0</pubDate>
     </item>
     <item>
+      <title>PS5LM</title>
+      <link>https://github.com/cobanov/PS5LM</link>
+      <description>Runs language and decision models on the PS5's GPU with llama.cpp and serves them to your network over OpenAI and Anthropic APIs. Decision models powered by Ollaya.</description>
+      <pubDate>0.9.0</pubDate>
+    </item>
+    <item>
       <title>PS5LM Plus</title>
       <link>https://github.com/abhi245y/PS5LM</link>
       <description>Runs local language models (GGUF, llama.cpp) on the PS5's GPU, with a dashboard on the TV, model downloads, and a chat and OpenAI-compatible API for your network.</description>
@@ -488,7 +506,7 @@
       <title>PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>0.9.8</pubDate>
+      <pubDate>1.0.0</pubDate>
     </item>
     <item>
       <title>Prospero Vibrate</title>

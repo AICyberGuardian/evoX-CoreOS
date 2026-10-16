@@ -86,6 +86,20 @@
       "source": "https://github.com/kvaps/syobon-action-ps5"
     },
     {
+      "name": "Afterglow",
+      "filename": "PPSA47770.zip",
+      "url": "https://github.com/DevvNirvana/afterglow/releases/download/01.000.006/PPSA47770.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA47770/01.000.006/PPSA47770.zip",
+      "description": "Internet radio with 220+ stations and 56 full-screen music visualizer scenes.",
+      "version": "01.000.006",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA47770",
+      "author": "DevvNirvana",
+      "checksum": "3c6d57ab42829577ccfde9a7f530ec8e3860e456f1c1244f93a1341d4969e47f",
+      "source": "https://github.com/DevvNirvana/afterglow"
+    },
+    {
       "name": "ccleste",
       "filename": "PPSA59322.zip",
       "url": "https://github.com/darkxex/PS5_Celeste/releases/download/1.00/PPSA59322.zip",
@@ -256,15 +270,15 @@
     {
       "name": "Raptor: Call of the Shadows (PS5)",
       "filename": "PPSA94002.zip",
-      "url": "https://github.com/ChaDea1/RaptorPS5/releases/download/v0.2.0-beta.4/raptor-ps5-v0.2.0-beta.4.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA94002/v0.2.0-beta.4/PPSA94002.zip",
+      "url": "https://github.com/ChaDea1/RaptorPS5/releases/download/v0.3.0-beta.1/raptor-ps5-v0.3.0-beta.1.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA94002/v0.3.0-beta.1/PPSA94002.zip",
       "description": "Unofficial native PS5 port of Raptor: Call of the Shadows with DualSense controls and optional first-launch shareware download.",
-      "version": "v0.2.0-beta.4",
+      "version": "v0.3.0-beta.1",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA94002",
       "author": "ChaDea1",
-      "checksum": "ce06b3950016e51353a1b46c02ead47896f29c64e012900d7555f54ad4ac2588",
+      "checksum": "c4d112a0e73da8e4ff2f2b76dfd987230143c7801d7fed3de8d24428df37117a",
       "source": "https://github.com/ChaDea1/RaptorPS5"
     },
     {
@@ -534,6 +548,20 @@
       "source": "https://github.com/MisterTemaki/MediaPlayerClassicPS5"
     },
     {
+      "name": "Forever Launcher",
+      "filename": "PPSA99030.zip",
+      "url": "https://github.com/bizkut/ps5-forever/releases/download/01.000.006/PPSA99030.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99030/01.000.006/PPSA99030.zip",
+      "description": "Battle.net launcher for World of Warcraft: Forever; press L3+R3 together to open the on-screen keyboard; other games may install, but keyboard support is in development.",
+      "version": "01.000.006",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99030",
+      "author": "bizkut",
+      "checksum": "4dba124ba04a38a1a46c2078f9b392e2f1e48c7b3adfc6e0cb330f6fb64fa055",
+      "source": "https://github.com/bizkut/ps5-forever"
+    },
+    {
       "name": "EVO Player",
       "filename": "PPSA99039.zip",
       "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.12.0/EVOPlayer-v0.12.0-PPSA99039.zip",
@@ -634,15 +662,15 @@
     {
       "name": "Mortalfin",
       "filename": "PPSA99141.zip",
-      "url": "https://github.com/mortaljinx/mortalfin/releases/download/1.0.0-beta.4/Mortalfin-1.0.0-beta.4.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99141/1.0.0-beta.4/PPSA99141.zip",
+      "url": "https://github.com/mortaljinx/mortalfin/releases/download/1.0.0-beta.5/Mortalfin-1.0.0-beta.5.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99141/1.0.0-beta.5/PPSA99141.zip",
       "description": "A native Jellyfin client for the PS5 with a cover-wheel interface, HDR and surround sound passthrough. Beta.",
-      "version": "1.0.0-beta.4",
+      "version": "1.0.0-beta.5",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99141",
       "author": "mortaljinx",
-      "checksum": "b19a3a379a1625b53def1f8f556ab0f31e7f62d3e2f90e93a1f0e71dbb9fc55c",
+      "checksum": "acaba3bb0d14acbff26a8a66982e1c2727e2fe342d8078e36ecdb69c1e49abfe",
       "source": "https://github.com/mortaljinx/mortalfin"
     },
     {
@@ -704,15 +732,15 @@
     {
       "name": "Nuvio Max'd",
       "filename": "PPSA99288.zip",
-      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v0.5.27-native-experimental/PPSA99288.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/0.5.27-native-experimental/PPSA99288.zip",
+      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v0.5.28-native-experimental/PPSA99288.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/0.5.28-native-experimental/PPSA99288.zip",
       "description": "An unofficial native Nuvio client for PS5 with synced watch progress, addon streams, episode skipping and experimental HDR10 playback.",
-      "version": "0.5.27-native-experimental",
+      "version": "0.5.28-native-experimental",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99288",
       "author": "HandshakeHackin",
-      "checksum": "44e770d76ddf5d7db09df6d77090e460d073c1fc0ab856e2f5baf20caf7a2d92",
+      "checksum": "753d8ee3b183f470c56595e0c4ec52c117e1142a9861ee0b8e5a6c9c2860b908",
       "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
     },
     {
@@ -940,6 +968,20 @@
       "source": "https://github.com/viviandsx/regie5"
     },
     {
+      "name": "PS5LM",
+      "filename": "PPSA99575.zip",
+      "url": "https://github.com/cobanov/PS5LM/releases/download/v0.9.0/ps5lm-app-v0.9.0.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99575/0.9.0/PPSA99575.zip",
+      "description": "Runs language and decision models on the PS5's GPU with llama.cpp and serves them to your network over OpenAI and Anthropic APIs. Decision models powered by Ollaya.",
+      "version": "0.9.0",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99575",
+      "author": "Mert Cobanov",
+      "checksum": "f4b19ffaa5389536da30dc706ce3967cc0d7bb559508d451e033c205d93af504",
+      "source": "https://github.com/cobanov/PS5LM"
+    },
+    {
       "name": "PS5LM Plus",
       "filename": "PPSA99581.zip",
       "url": "https://github.com/abhi245y/PS5LM/releases/download/v0.8.3/ps5lm-app-v0.8.3.zip",
@@ -1124,15 +1166,15 @@
     {
       "name": "PSBox Cloud Gaming",
       "filename": "PPSA99810.zip",
-      "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v0.9.8/PPSA99810.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/0.9.8/PPSA99810.zip",
+      "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.0.0/PPSA99810.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.0.0/PPSA99810.zip",
       "description": "Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.",
-      "version": "0.9.8",
+      "version": "1.0.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99810",
       "author": "RafaelNGP",
-      "checksum": "b2895298a3ffc68bcec0fd3c049e9e5ad545218f1c28c8c2f70fbcf762bb0038",
+      "checksum": "2f43c575f55abcdbfb463ed997221e0e624e8336b1cd2dfea6e9a90854ac1aa9",
       "source": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5"
     },
     {
