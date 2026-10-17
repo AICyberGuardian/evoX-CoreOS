@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.17-1506)
+### 🚀 Synthèse de la mise à jour (v2026.10.17-2018)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -40,7 +40,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-overlay-kus_v1.0.18.elf`
   * `BFpilot_v0.4.4.elf`
   * `lapy_jb_daemon.elf`
-  * `web-file-mgr-v1.10.elf`
+  * `web-file-mgr-v1.11.elf`
   * `wfm-7zip-helper.elf`
   * `PS5-File-Explorer_vfile-explorer-v0.2.1.elf`
   * `A53-Kstuff-ShadowMountPlus-3in1.elf`
@@ -148,6 +148,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `BackPork_v0.1.elf`
   * `apr_emu_updater_v2.0.6.elf`
   * `PS5-Game-Compressor_fork_v1.1.1.elf`
+  * `web-file-mgr-v1.10.elf`
   * `web-file-mgr_v1.9.elf`
   * `web-file-mgr-v1.9.elf`
   * `ps5library-agent-0.2.70.elf`
@@ -255,6 +256,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA76677.zip`
   * `PPSA77711.zip`
   * `PPSA85300.zip`
+  * `PPSA90210.zip`
   * `PPSA92280.zip`
   * `PPSA94002.zip`
   * `PPSA97358.zip`
@@ -276,6 +278,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99009.zip`
   * `PPSA99010.zip`
   * `PPSA99011.zip`
+  * `PPSA99012.zip`
   * `PPSA99015.zip`
   * `PPSA99030.zip`
   * `PPSA99039.zip`
@@ -286,9 +289,11 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99109.zip`
   * `PPSA99110.zip`
   * `PPSA99141.zip`
+  * `PPSA99142.zip`
   * `PPSA99169.zip`
   * `PPSA99177.zip`
   * `PPSA99203.zip`
+  * `PPSA99247.zip`
   * `PPSA99248.zip`
   * `PPSA99288.zip`
   * `PPSA99300.zip`
@@ -298,6 +303,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99310.zip`
   * `PPSA99312.zip`
   * `PPSA99313.zip`
+  * `PPSA99314.zip`
   * `PPSA99320.zip`
   * `PPSA99350.zip`
   * `PPSA99360.zip`

@@ -158,15 +158,15 @@
     {
       "name": "Rush 2 Recompiled",
       "filename": "PPSA69423.zip",
-      "url": "https://github.com/Marice/rush2-ps5/releases/download/v00.002.000/Rush2Recompiled-PS5-00.002.000.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA69423/00.002.000/PPSA69423.zip",
+      "url": "https://github.com/Marice/rush2-ps5/releases/download/v00.003.000/Rush2Recompiled-PS5-00.003.000.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA69423/00.003.000/PPSA69423.zip",
       "description": "Native PS5 port of Rush 2 Recompiled, the N64 racer recompiled with 4K output and 60 fps; needs your own Rush 2: Extreme Racing USA (USA) ROM.",
-      "version": "00.002.000",
+      "version": "00.003.000",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA69423",
       "author": "Marice",
-      "checksum": "7bef24a8fa8fd1c3e69ab1446beffa7586d8bb78ae89fc716d3dee68f6c87a49",
+      "checksum": "4293eb3f48cc42abc5bdc1baffb6246fc43705aa10446821a3c685b20300b453",
       "source": "https://github.com/Marice/rush2-ps5"
     },
     {
@@ -186,15 +186,15 @@
     {
       "name": "Signal Companion",
       "filename": "PPSA69426.zip",
-      "url": "https://github.com/Marice/ps5-signal-companion/releases/download/v00.001.000/SignalCompanion-PS5-00.001.000.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA69426/00.001.000/PPSA69426.zip",
+      "url": "https://github.com/Marice/ps5-signal-companion/releases/download/v00.002.000/SignalCompanion-PS5-00.002.000.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA69426/00.002.000/PPSA69426.zip",
       "description": "Set the colour of your PS5's light and edit the startup beep tune and light show of the ps5-signal payload, which the app can start itself or add to ps5-autoloader.",
-      "version": "00.001.000",
+      "version": "00.002.000",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA69426",
       "author": "Marice",
-      "checksum": "8404cc3cf05c9e9e12ecdd961f5257f65a730c0c3136663a89ba9f6112548840",
+      "checksum": "32424f7f20dab79577e4ea54a52dd383ed8800dfcc2f9fc100965ea6398b6e13",
       "source": "https://github.com/Marice/ps5-signal-companion"
     },
     {
@@ -268,6 +268,20 @@
       "source": "https://github.com/ZiZc3/VLC"
     },
     {
+      "name": "Prospero Themes",
+      "filename": "PPSA90210.zip",
+      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.002/PPSA90210.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.002/PPSA90210.zip",
+      "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
+      "version": "01.000.002",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA90210",
+      "author": "Darkatek7",
+      "checksum": "479f590240f3f015e97281d22288a22203ca0f13a72bdec2bf1b113a58d70624",
+      "source": "https://github.com/Darkatek7/ProsperoThemes"
+    },
+    {
       "name": "Capy Mobile",
       "filename": "PPSA92280.zip",
       "url": "https://github.com/khalifa007/CapyMobile/releases/download/v0.5.0/CapyMobile-00.005.000.zip",
@@ -284,15 +298,15 @@
     {
       "name": "Raptor: Call of the Shadows (PS5)",
       "filename": "PPSA94002.zip",
-      "url": "https://github.com/ChaDea1/RaptorPS5/releases/download/v0.3.0-beta.1/raptor-ps5-v0.3.0-beta.1.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA94002/v0.3.0-beta.1/PPSA94002.zip",
+      "url": "https://github.com/ChaDea1/RaptorPS5/releases/download/v1.0.0-rc.1/raptor-ps5-v1.0.0-rc.1.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA94002/v1.0.0-rc.1/PPSA94002.zip",
       "description": "Unofficial native PS5 port of Raptor: Call of the Shadows with DualSense controls and optional first-launch shareware download.",
-      "version": "v0.3.0-beta.1",
+      "version": "v1.0.0-rc.1",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA94002",
       "author": "ChaDea1",
-      "checksum": "c4d112a0e73da8e4ff2f2b76dfd987230143c7801d7fed3de8d24428df37117a",
+      "checksum": "95a08db906db238b4a632379d627f1b897a1d2ad5194726dc08cd173cd59ee29",
       "source": "https://github.com/ChaDea1/RaptorPS5"
     },
     {
@@ -354,15 +368,15 @@
     {
       "name": "SwanStationPS5",
       "filename": "PPSA98510.zip",
-      "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.3.8/PPSA98510.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.3.8/PPSA98510.zip",
+      "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.4.0/PPSA98510.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.4.0/PPSA98510.zip",
       "description": "SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.",
-      "version": "1.3.8",
+      "version": "1.4.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98510",
       "author": "AngelXex",
-      "checksum": "a983b0e57d4918f666e9867555fe92540f0b7ee26cd8cf50bea5939a2539e806",
+      "checksum": "65025a8122fedc35f617eaf0f63a8b20231c7926f5df05c06e0987f44cadec11",
       "source": "https://github.com/darkxex/SwanStationPS5"
     },
     {
@@ -396,15 +410,15 @@
     {
       "name": "ProsperoStore",
       "filename": "PPSA99000.zip",
-      "url": "https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.070/PPSA99000.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99000/1.000.070/PPSA99000.zip",
+      "url": "https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.080/PPSA99000.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99000/1.000.080/PPSA99000.zip",
       "description": "Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.",
-      "version": "1.000.070",
+      "version": "1.000.080",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99000",
       "author": "BlackBearReloaded",
-      "checksum": "0bb41b6f0e084b56a194827161770db153d95698afe5e5fc54a566a2e0cb14b3",
+      "checksum": "9b98936ebc44bc20076a8c1abf936d845a6e9c1870912a9732386f18cf5f5ebb",
       "source": "https://github.com/blackbearreloaded/ProsperoStore"
     },
     {
@@ -562,6 +576,20 @@
       "source": "https://github.com/blackbearreloaded/ps5-fsr4"
     },
     {
+      "name": "ProsperoTube",
+      "filename": "PPSA99012.zip",
+      "url": "https://github.com/blackbearreloaded/ProsperoTube/releases/download/v01.000.000/PPSA99012.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99012/01.000.000/PPSA99012.zip",
+      "description": "An unofficial SmartTube port for PS5.",
+      "version": "01.000.000",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99012",
+      "author": "BlackBearReloaded",
+      "checksum": "ba549bd8141e16ddd49f19ffdcbe7ee66572fd72842faf257a433543adf1d4e3",
+      "source": "https://github.com/blackbearreloaded/ProsperoTube"
+    },
+    {
       "name": "Media Player Classic PS5",
       "filename": "PPSA99015.zip",
       "url": "https://github.com/MisterTemaki/MediaPlayerClassicPS5/releases/download/v1.1/MediaPlayerClassicPS5-v1.1-PPSA99015.zip",
@@ -578,15 +606,15 @@
     {
       "name": "Forever Launcher",
       "filename": "PPSA99030.zip",
-      "url": "https://github.com/bizkut/ps5-forever/releases/download/01.000.009/PPSA99030.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99030/01.000.009/PPSA99030.zip",
+      "url": "https://github.com/bizkut/ps5-forever/releases/download/01.000.012/PPSA99030.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99030/01.000.012/PPSA99030.zip",
       "description": "Battle.net launcher for World of Warcraft: Forever; press L3+R3 together to open the on-screen keyboard; other games may install, but keyboard support is in development.",
-      "version": "01.000.009",
+      "version": "01.000.012",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99030",
       "author": "bizkut",
-      "checksum": "dfa59e0b9b8b5ac54a8a8357a4a4cde9725ef0b0256a0d31f131d8f9b852eb35",
+      "checksum": "4ff417178419b9301f8207335708c7b19fb29d4134fd0e00a191e464c7456acb",
       "source": "https://github.com/bizkut/ps5-forever"
     },
     {
@@ -702,6 +730,20 @@
       "source": "https://github.com/mortaljinx/mortalfin"
     },
     {
+      "name": "Seedee5",
+      "filename": "PPSA99142.zip",
+      "url": "https://github.com/mortaljinx/Seedee5/releases/download/v1.20/Seedee5-1.20.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99142/1.20/PPSA99142.zip",
+      "description": "A Philips CD-i emulator (SAME_CDI) with a cover-wheel library, NAS support, 4K picture filters and game info; bring your own BIOS and games.",
+      "version": "1.20",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99142",
+      "author": "mortaljinx",
+      "checksum": "f087275c02100e23781a03305a1c39e9e3eac22190fca73012d4671700b651d6",
+      "source": "https://github.com/mortaljinx/Seedee5"
+    },
+    {
       "name": "RetroArch",
       "filename": "PPSA99169.zip",
       "url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v2.0.0-beta-2/PS5_RetroArch-v2.0.0-beta-2.zip",
@@ -718,15 +760,15 @@
     {
       "name": "PS5VR",
       "filename": "PPSA99177.zip",
-      "url": "https://github.com/theghostonline/PS5VR/releases/download/v1.2.0/PS5VR-1.2.0-PPSA99177.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99177/1.2.0/PPSA99177.zip",
+      "url": "https://github.com/theghostonline/PS5VR/releases/download/v1.3.0/PS5VR-1.3.0-PPSA99177.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99177/1.3.0/PPSA99177.zip",
       "description": "Native VR video player for PS VR2 on jailbroken PS5: 8K, 180/360, 3D, spatial audio",
-      "version": "1.2.0",
+      "version": "1.3.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99177",
       "author": "Husam Osman",
-      "checksum": "8e39a7ecb8fa2519291e892600dda43b85325c52a9ff7ab029bb78c38a16765d",
+      "checksum": "8a1459ddcfe0fe329b5a2173ee11c79acd66c56952bc6d8c99dd22dab4fd5630",
       "source": "https://github.com/theghostonline/PS5VR"
     },
     {
@@ -744,31 +786,45 @@
       "source": "https://github.com/Swordpdf/PS5SX2"
     },
     {
+      "name": "PSFlyCast",
+      "filename": "PPSA99247.zip",
+      "url": "https://github.com/Press5elect/PSFlycast/releases/download/v1.1.0/PSFlyCast-v1.1.0.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99247/1.1.0/PPSA99247.zip",
+      "description": "Flycast (Dreamcast, NAOMI and Atomiswave) as a standalone PS5 title on RADV, with a controller-only interface.",
+      "version": "1.1.0",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99247",
+      "author": "Press5elect",
+      "checksum": "bb3a4798350e1fd3d0cc03218fbe97469bfde09e4d6636af114510d1484c60a0",
+      "source": "https://github.com/Press5elect/PSFlycast"
+    },
+    {
       "name": "PSSwanStation",
       "filename": "PPSA99248.zip",
-      "url": "https://github.com/Press5elect/PSSwanStation/releases/download/build22/PSSwanStation-PS5-PPSA99248-build22.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99248/build22/PPSA99248.zip",
-      "description": "A PlayStation (PS1) emulator built on SwanStation, with a controller-first library, network shares, USB disc drives, CRT shaders and RetroAchievements.",
-      "version": "build22",
+      "url": "https://github.com/Press5elect/PSSwanStation/releases/download/build23/PSSwanStation-PS5-PPSA99248-build23.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99248/build23/PPSA99248.zip",
+      "description": "A PlayStation (PS1) emulator built on SwanStation, with a controller-first library, ES-DE themes and game videos, network shares, USB disc drives, CRT shaders and RetroAchievements.",
+      "version": "build23",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99248",
       "author": "Press5elect",
-      "checksum": "7e4313a8a8bd774d86bf28742f9eb78ff47f391b311e229f8824b36ced19df17",
+      "checksum": "0ecaf7623fa40960bafefd7db8d736d134273b4df6149d6ebf0fade889675eba",
       "source": "https://github.com/Press5elect/PSSwanStation"
     },
     {
       "name": "Nuvio Max'd",
       "filename": "PPSA99288.zip",
-      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v0.5.28-native-experimental/PPSA99288.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/0.5.28-native-experimental/PPSA99288.zip",
+      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v0.5.29-native-experimental/PPSA99288.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/0.5.29-native-experimental/PPSA99288.zip",
       "description": "An unofficial native Nuvio client for PS5 with synced watch progress, addon streams, episode skipping and experimental HDR10 playback.",
-      "version": "0.5.28-native-experimental",
+      "version": "0.5.29-native-experimental",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99288",
       "author": "HandshakeHackin",
-      "checksum": "753d8ee3b183f470c56595e0c4ec52c117e1142a9861ee0b8e5a6c9c2860b908",
+      "checksum": "30d84c11dc2e4299f6c088ce98b308f21a6321187c4ae2c8f2ce93a1d24f9440",
       "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
     },
     {
@@ -870,6 +926,20 @@
       "source": "https://github.com/griches/PS5_Doom3"
     },
     {
+      "name": "Eternal Darkness",
+      "filename": "PPSA99314.zip",
+      "url": "https://github.com/griches/PS5_EternalDarkness/releases/download/v0.8.0/EternalDarkness-PS5-0.8.0.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99314/0.8.0/PPSA99314.zip",
+      "description": "Eternal Darkness: Sanity's Requiem (GameCube) for PlayStation 5, recompiled to run natively at 4K and 60 fps with widescreen and HD texture packs. Bring your own European disc.",
+      "version": "0.8.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99314",
+      "author": "Gary Riches",
+      "checksum": "37c27344290ae7992ee8e86a9b59c6eb7c3cd5a4c2e9421a7edf20b6e47d3f82",
+      "source": "https://github.com/griches/PS5_EternalDarkness"
+    },
+    {
       "name": "Ship of Harkinian (Vulkan)",
       "filename": "PPSA99320.zip",
       "url": "https://github.com/damiantw/PS5_Shipwright/releases/download/01.000.000/PPSA99320.zip",
@@ -942,15 +1012,15 @@
     {
       "name": "Jelly5",
       "filename": "PPSA99505.zip",
-      "url": "https://github.com/02dnot/Jelly5/releases/download/v0.6.1/Jelly5-00.006.001.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99505/0.6.1/PPSA99505.zip",
+      "url": "https://github.com/02dnot/Jelly5/releases/download/v0.7.0/Jelly5-00.007.000.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99505/0.7.0/PPSA99505.zip",
       "description": "A native Jellyfin client for jailbroken PS5: its own liquid-glass interface, hardware-decoded 4K HDR",
-      "version": "0.6.1",
+      "version": "0.7.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99505",
       "author": "02dnot",
-      "checksum": "8c952d9d422531cbb003ef8900eb083ff3365418fa281bebdb9e1bbffc09719d",
+      "checksum": "559e067239646ba160be370b9b91de2bee69565c154584f00de2a87adae95a57",
       "source": "https://github.com/02dnot/Jelly5"
     },
     {
@@ -984,15 +1054,15 @@
     {
       "name": "Régie5",
       "filename": "PPSA99520.zip",
-      "url": "https://github.com/viviandsx/regie5/releases/download/v0.5.0/PPSA99520.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99520/0.5.0/PPSA99520.zip",
+      "url": "https://github.com/viviandsx/regie5/releases/download/v0.5.1/PPSA99520.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99520/0.5.1/PPSA99520.zip",
       "description": "A TV remote for your self-hosted media stack: Sonarr, Radarr, Seerr and Jellyfin at a glance, with request approval, playback diagnosis and an optional cleanup.",
-      "version": "0.5.0",
+      "version": "0.5.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99520",
       "author": "Vivian",
-      "checksum": "32fd8c094b30a6c2cae671471ea2940c1b324cc396e720c78d703846874a0bf8",
+      "checksum": "75f6fced1dd15c1d16c31d5632c053801374514a23a70ca1fcbbada812abfb2b",
       "source": "https://github.com/viviandsx/regie5"
     },
     {
@@ -1012,15 +1082,15 @@
     {
       "name": "PS5LM Plus",
       "filename": "PPSA99581.zip",
-      "url": "https://github.com/abhi245y/PS5LM-Plus/releases/download/v0.8.3/ps5lm-app-v0.8.3.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99581/0.8.3/PPSA99581.zip",
+      "url": "https://github.com/abhi245y/PS5LM-Plus/releases/download/v0.8.4/ps5lm-plus-v0.8.4.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99581/0.8.4/PPSA99581.zip",
       "description": "Runs local language models (GGUF, llama.cpp) on the PS5's GPU, with a dashboard on the TV, model downloads, and a chat and OpenAI-compatible API for your network.",
-      "version": "0.8.3",
+      "version": "0.8.4",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99581",
       "author": "Abhiram",
-      "checksum": "42acffcacc33f371b10a4cfaa6ede0100a677231de171712b9a879bc104b6ef9",
+      "checksum": "5f4b4aad87c3b9e4b29a9bafd056e510e7805cf87522af1a34a4d01be1b628d2",
       "source": "https://github.com/abhi245y/PS5LM-Plus"
     },
     {
@@ -1194,15 +1264,15 @@
     {
       "name": "PSBox Cloud Gaming",
       "filename": "PPSA99810.zip",
-      "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.0.0/PPSA99810.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.0.0/PPSA99810.zip",
+      "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.1.0/PPSA99810.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.1.0/PPSA99810.zip",
       "description": "Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99810",
       "author": "RafaelNGP",
-      "checksum": "2f43c575f55abcdbfb463ed997221e0e624e8336b1cd2dfea6e9a90854ac1aa9",
+      "checksum": "3fe2a8cdc57e875f4f65683101ed078b408890bd427fcc53fa7a9c05a39c3364",
       "source": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5"
     },
     {

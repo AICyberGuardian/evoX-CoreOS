@@ -53,16 +53,16 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Web-File-Mgr-V1.10</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.10/web-file-mgr-v1.10.elf</link>
+      <title>[Payloads] Web-File-Mgr-V1.11</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.11/web-file-mgr-v1.11.elf</link>
       <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
-      <pubDate>v1.10</pubDate>
+      <pubDate>v1.11</pubDate>
     </item>
     <item>
       <title>[Payloads] Wfm-7Zip-Helper</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.10/wfm-7zip-helper.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.11/wfm-7zip-helper.elf</link>
       <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
-      <pubDate>v1.10</pubDate>
+      <pubDate>v1.11</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-File-Explorer Vfile-Explorer-V0.2.1</title>
@@ -701,6 +701,12 @@
       <pubDate>v1.1.1</pubDate>
     </item>
     <item>
+      <title>[Payloads] Web-File-Mgr-V1.10</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ps5-web-file-manager</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Web-File-Mgr V1.9</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
@@ -906,9 +912,9 @@
     </item>
     <item>
       <title>[Applications] Ppsa99000</title>
-      <link>https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.070/PPSA99000.zip</link>
+      <link>https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.080/PPSA99000.zip</link>
       <description>homebrew store</description>
-      <pubDate>v1.000.070</pubDate>
+      <pubDate>v1.000.080</pubDate>
     </item>
     <item>
       <title>[Applications] Emustore-Ps5-V0.4.0</title>
@@ -1130,7 +1136,7 @@
       <title>[Homebrew Page] Rush 2 Recompiled</title>
       <link>https://github.com/Marice/rush2-ps5</link>
       <description>Native PS5 port of Rush 2 Recompiled, the N64 racer recompiled with 4K output and 60 fps; needs your own Rush 2: Extreme Racing USA (USA) ROM.</description>
-      <pubDate>00.002.000</pubDate>
+      <pubDate>00.003.000</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] Wave Race 64 Recompiled</title>
@@ -1142,7 +1148,7 @@
       <title>[Homebrew Page] Signal Companion</title>
       <link>https://github.com/Marice/ps5-signal-companion</link>
       <description>Set the colour of your PS5's light and edit the startup beep tune and light show of the ps5-signal payload, which the app can start itself or add to ps5-autoloader.</description>
-      <pubDate>00.001.000</pubDate>
+      <pubDate>00.002.000</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] Stremio Plus</title>
@@ -1175,6 +1181,12 @@
       <pubDate>0.4</pubDate>
     </item>
     <item>
+      <title>[Homebrew Page] Prospero Themes</title>
+      <link>https://github.com/Darkatek7/ProsperoThemes</link>
+      <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
+      <pubDate>01.000.002</pubDate>
+    </item>
+    <item>
       <title>[Homebrew Page] Capy Mobile</title>
       <link>https://github.com/khalifa007/CapyMobile</link>
       <description>Java phone games (J2ME) on the PS5: a native homebrew emulator app</description>
@@ -1184,7 +1196,7 @@
       <title>[Homebrew Page] Raptor: Call of the Shadows (PS5)</title>
       <link>https://github.com/ChaDea1/RaptorPS5</link>
       <description>Unofficial native PS5 port of Raptor: Call of the Shadows with DualSense controls and optional first-launch shareware download.</description>
-      <pubDate>v0.3.0-beta.1</pubDate>
+      <pubDate>v1.0.0-rc.1</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] XPSemu</title>
@@ -1214,7 +1226,7 @@
       <title>[Homebrew Page] SwanStationPS5</title>
       <link>https://github.com/darkxex/SwanStationPS5</link>
       <description>SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.</description>
-      <pubDate>1.3.8</pubDate>
+      <pubDate>1.4.0</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] ReKHCoM</title>
@@ -1232,7 +1244,7 @@
       <title>[Homebrew Page] ProsperoStore</title>
       <link>https://github.com/blackbearreloaded/ProsperoStore</link>
       <description>Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.</description>
-      <pubDate>1.000.070</pubDate>
+      <pubDate>1.000.080</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] ProsperoRadio</title>
@@ -1301,6 +1313,12 @@
       <pubDate>01.000.010</pubDate>
     </item>
     <item>
+      <title>[Homebrew Page] ProsperoTube</title>
+      <link>https://github.com/blackbearreloaded/ProsperoTube</link>
+      <description>An unofficial SmartTube port for PS5.</description>
+      <pubDate>01.000.000</pubDate>
+    </item>
+    <item>
       <title>[Homebrew Page] Media Player Classic PS5</title>
       <link>https://github.com/MisterTemaki/MediaPlayerClassicPS5</link>
       <description>Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.</description>
@@ -1310,7 +1328,7 @@
       <title>[Homebrew Page] Forever Launcher</title>
       <link>https://github.com/bizkut/ps5-forever</link>
       <description>Battle.net launcher for World of Warcraft: Forever; press L3+R3 together to open the on-screen keyboard; other games may install, but keyboard support is in development.</description>
-      <pubDate>01.000.009</pubDate>
+      <pubDate>01.000.012</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] EVO Player</title>
@@ -1361,6 +1379,12 @@
       <pubDate>1.0.0-beta.5</pubDate>
     </item>
     <item>
+      <title>[Homebrew Page] Seedee5</title>
+      <link>https://github.com/mortaljinx/Seedee5</link>
+      <description>A Philips CD-i emulator (SAME_CDI) with a cover-wheel library, NAS support, 4K picture filters and game info; bring your own BIOS and games.</description>
+      <pubDate>1.20</pubDate>
+    </item>
+    <item>
       <title>[Homebrew Page] RetroArch</title>
       <link>https://github.com/mihawk-99/PS5_RetroArch</link>
       <description>Native RetroArch port for PS5 with cores for NES, SNES, GBA, Genesis, arcade, PSP, GameCube/Wii and PS2.</description>
@@ -1370,7 +1394,7 @@
       <title>[Homebrew Page] PS5VR</title>
       <link>https://github.com/theghostonline/PS5VR</link>
       <description>Native VR video player for PS VR2 on jailbroken PS5: 8K, 180/360, 3D, spatial audio</description>
-      <pubDate>1.2.0</pubDate>
+      <pubDate>1.3.0</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] PS5SX2</title>
@@ -1379,16 +1403,22 @@
       <pubDate>vk-285-171</pubDate>
     </item>
     <item>
+      <title>[Homebrew Page] PSFlyCast</title>
+      <link>https://github.com/Press5elect/PSFlycast</link>
+      <description>Flycast (Dreamcast, NAOMI and Atomiswave) as a standalone PS5 title on RADV, with a controller-only interface.</description>
+      <pubDate>1.1.0</pubDate>
+    </item>
+    <item>
       <title>[Homebrew Page] PSSwanStation</title>
       <link>https://github.com/Press5elect/PSSwanStation</link>
-      <description>A PlayStation (PS1) emulator built on SwanStation, with a controller-first library, network shares, USB disc drives, CRT shaders and RetroAchievements.</description>
-      <pubDate>build22</pubDate>
+      <description>A PlayStation (PS1) emulator built on SwanStation, with a controller-first library, ES-DE themes and game videos, network shares, USB disc drives, CRT shaders and RetroAchievements.</description>
+      <pubDate>build23</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
       <description>An unofficial native Nuvio client for PS5 with synced watch progress, addon streams, episode skipping and experimental HDR10 playback.</description>
-      <pubDate>0.5.28-native-experimental</pubDate>
+      <pubDate>0.5.29-native-experimental</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] Spider-Man: Edge of Time</title>
@@ -1433,6 +1463,12 @@
       <pubDate>1.0</pubDate>
     </item>
     <item>
+      <title>[Homebrew Page] Eternal Darkness</title>
+      <link>https://github.com/griches/PS5_EternalDarkness</link>
+      <description>Eternal Darkness: Sanity's Requiem (GameCube) for PlayStation 5, recompiled to run natively at 4K and 60 fps with widescreen and HD texture packs. Bring your own European disc.</description>
+      <pubDate>0.8.0</pubDate>
+    </item>
+    <item>
       <title>[Homebrew Page] Ship of Harkinian (Vulkan)</title>
       <link>https://github.com/damiantw/PS5_Shipwright</link>
       <description>Ship of Harkinian (Ocarina of Time PC port) on Vulkan: converts your own ROM on the console, 60 FPS at 4K, HD texture packs, right-stick camera and PS button prompts; tested on firmware 13.60.</description>
@@ -1466,7 +1502,7 @@
       <title>[Homebrew Page] Jelly5</title>
       <link>https://github.com/02dnot/Jelly5</link>
       <description>A native Jellyfin client for jailbroken PS5: its own liquid-glass interface, hardware-decoded 4K HDR</description>
-      <pubDate>0.6.1</pubDate>
+      <pubDate>0.7.0</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] GyroAim</title>
@@ -1484,7 +1520,7 @@
       <title>[Homebrew Page] Régie5</title>
       <link>https://github.com/viviandsx/regie5</link>
       <description>A TV remote for your self-hosted media stack: Sonarr, Radarr, Seerr and Jellyfin at a glance, with request approval, playback diagnosis and an optional cleanup.</description>
-      <pubDate>0.5.0</pubDate>
+      <pubDate>0.5.1</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] PS5LM</title>
@@ -1496,7 +1532,7 @@
       <title>[Homebrew Page] PS5LM Plus</title>
       <link>https://github.com/abhi245y/PS5LM-Plus</link>
       <description>Runs local language models (GGUF, llama.cpp) on the PS5's GPU, with a dashboard on the TV, model downloads, and a chat and OpenAI-compatible API for your network.</description>
-      <pubDate>0.8.3</pubDate>
+      <pubDate>0.8.4</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] Cloud Play</title>
@@ -1574,7 +1610,7 @@
       <title>[Homebrew Page] PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.0.0</pubDate>
+      <pubDate>1.1.0</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] Prospero Vibrate</title>

@@ -1,5 +1,32 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 17/10/2026 à 20:18
+* **PAYLOADS**
+  * `Web-File-Mgr-V1.11` (v1.11) - *Nouveau*
+  * `Wfm-7Zip-Helper` (v1.11) - *Mise à jour (Précédent: v1.10)*
+  * `Web-File-Mgr-V1.10` (ps5-web-file-manager) - *Mise à jour (Précédent: v1.10)*
+* **APPS**
+  * `Ppsa99000` (v1.000.080) - *Mise à jour (Précédent: v1.000.070)*
+* **HOMEBREW_PAGE**
+  * `Rush 2 Recompiled` (00.003.000) - *Mise à jour (Précédent: 00.002.000)*
+  * `Signal Companion` (00.002.000) - *Mise à jour (Précédent: 00.001.000)*
+  * `Prospero Themes` (01.000.002) - *Nouveau*
+  * `Raptor: Call of the Shadows (PS5)` (v1.0.0-rc.1) - *Mise à jour (Précédent: v0.3.0-beta.1)*
+  * `SwanStationPS5` (1.4.0) - *Mise à jour (Précédent: 1.3.8)*
+  * `ProsperoStore` (1.000.080) - *Mise à jour (Précédent: 1.000.070)*
+  * `ProsperoTube` (01.000.000) - *Nouveau*
+  * `Forever Launcher` (01.000.012) - *Mise à jour (Précédent: 01.000.009)*
+  * `Seedee5` (1.20) - *Nouveau*
+  * `PS5VR` (1.3.0) - *Mise à jour (Précédent: 1.2.0)*
+  * `PSFlyCast` (1.1.0) - *Nouveau*
+  * `PSSwanStation` (build23) - *Mise à jour (Précédent: build22)*
+  * `Nuvio Max'd` (0.5.29-native-experimental) - *Mise à jour (Précédent: 0.5.28-native-experimental)*
+  * `Eternal Darkness` (0.8.0) - *Nouveau*
+  * `Jelly5` (0.7.0) - *Mise à jour (Précédent: 0.6.1)*
+  * `Régie5` (0.5.1) - *Mise à jour (Précédent: 0.5.0)*
+  * `PS5LM Plus` (0.8.4) - *Mise à jour (Précédent: 0.8.3)*
+  * `PSBox Cloud Gaming` (1.1.0) - *Mise à jour (Précédent: 1.0.0)*
+
 ## Build du 17/10/2026 à 03:06
 * **PAYLOADS**
   * `Overlay Payload` (v0.0.18) - *Nouveau*

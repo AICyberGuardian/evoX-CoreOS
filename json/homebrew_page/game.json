@@ -74,15 +74,15 @@
     {
       "name": "Rush 2 Recompiled",
       "filename": "PPSA69423.zip",
-      "url": "https://github.com/Marice/rush2-ps5/releases/download/v00.002.000/Rush2Recompiled-PS5-00.002.000.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA69423/00.002.000/PPSA69423.zip",
+      "url": "https://github.com/Marice/rush2-ps5/releases/download/v00.003.000/Rush2Recompiled-PS5-00.003.000.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA69423/00.003.000/PPSA69423.zip",
       "description": "Native PS5 port of Rush 2 Recompiled, the N64 racer recompiled with 4K output and 60 fps; needs your own Rush 2: Extreme Racing USA (USA) ROM.",
-      "version": "00.002.000",
+      "version": "00.003.000",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA69423",
       "author": "Marice",
-      "checksum": "7bef24a8fa8fd1c3e69ab1446beffa7586d8bb78ae89fc716d3dee68f6c87a49",
+      "checksum": "4293eb3f48cc42abc5bdc1baffb6246fc43705aa10446821a3c685b20300b453",
       "source": "https://github.com/Marice/rush2-ps5"
     },
     {
@@ -116,15 +116,15 @@
     {
       "name": "Raptor: Call of the Shadows (PS5)",
       "filename": "PPSA94002.zip",
-      "url": "https://github.com/ChaDea1/RaptorPS5/releases/download/v0.3.0-beta.1/raptor-ps5-v0.3.0-beta.1.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA94002/v0.3.0-beta.1/PPSA94002.zip",
+      "url": "https://github.com/ChaDea1/RaptorPS5/releases/download/v1.0.0-rc.1/raptor-ps5-v1.0.0-rc.1.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA94002/v1.0.0-rc.1/PPSA94002.zip",
       "description": "Unofficial native PS5 port of Raptor: Call of the Shadows with DualSense controls and optional first-launch shareware download.",
-      "version": "v0.3.0-beta.1",
+      "version": "v1.0.0-rc.1",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA94002",
       "author": "ChaDea1",
-      "checksum": "c4d112a0e73da8e4ff2f2b76dfd987230143c7801d7fed3de8d24428df37117a",
+      "checksum": "95a08db906db238b4a632379d627f1b897a1d2ad5194726dc08cd173cd59ee29",
       "source": "https://github.com/ChaDea1/RaptorPS5"
     },
     {
@@ -308,6 +308,20 @@
       "author": "Gary Riches",
       "checksum": "f73a3870839fc1730ba389e29cd7a930def4132c29552543e8f10af1ae3364dc",
       "source": "https://github.com/griches/PS5_Doom3"
+    },
+    {
+      "name": "Eternal Darkness",
+      "filename": "PPSA99314.zip",
+      "url": "https://github.com/griches/PS5_EternalDarkness/releases/download/v0.8.0/EternalDarkness-PS5-0.8.0.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99314/0.8.0/PPSA99314.zip",
+      "description": "Eternal Darkness: Sanity's Requiem (GameCube) for PlayStation 5, recompiled to run natively at 4K and 60 fps with widescreen and HD texture packs. Bring your own European disc.",
+      "version": "0.8.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99314",
+      "author": "Gary Riches",
+      "checksum": "37c27344290ae7992ee8e86a9b59c6eb7c3cd5a4c2e9421a7edf20b6e47d3f82",
+      "source": "https://github.com/griches/PS5_EternalDarkness"
     },
     {
       "name": "Ship of Harkinian (Vulkan)",
