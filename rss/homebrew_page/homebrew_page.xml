@@ -83,6 +83,12 @@
       <pubDate>00.001.000</pubDate>
     </item>
     <item>
+      <title>Signal Companion</title>
+      <link>https://github.com/Marice/ps5-signal-companion</link>
+      <description>Set the colour of your PS5's light and edit the startup beep tune and light show of the ps5-signal payload, which the app can start itself or add to ps5-autoloader.</description>
+      <pubDate>00.001.000</pubDate>
+    </item>
+    <item>
       <title>Stremio Plus</title>
       <link>https://github.com/LoZazaMastro/Stremio-Plus</link>
       <description>Unofficial native Stremio client for PS5 with Prospero UI, add-on sync, torrent streaming, offline downloads and customizable subtitles.</description>
@@ -152,7 +158,13 @@
       <title>SwanStationPS5</title>
       <link>https://github.com/darkxex/SwanStationPS5</link>
       <description>SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.</description>
-      <pubDate>1.3.7</pubDate>
+      <pubDate>1.3.8</pubDate>
+    </item>
+    <item>
+      <title>ReKHCoM</title>
+      <link>https://github.com/darkxex/ReKHCom-PS5</link>
+      <description>Native PS5 port of Kingdom Hearts: Chain of Memories (The GBA Version). The European, US and Japanese cartridges are supported; the version is detected from the ROM you provide (no ROM is included).</description>
+      <pubDate>ps5-v1.0.3</pubDate>
     </item>
     <item>
       <title>DriftCheck</title>
@@ -212,7 +224,7 @@
       <title>ProsperoEden</title>
       <link>https://github.com/blackbearreloaded/ProsperoEden</link>
       <description>Unofficial Eden emulator port for PS5.</description>
-      <pubDate>1.003.000</pubDate>
+      <pubDate>1.004.000</pubDate>
     </item>
     <item>
       <title>ProsperoLichess</title>
@@ -242,7 +254,7 @@
       <title>Forever Launcher</title>
       <link>https://github.com/bizkut/ps5-forever</link>
       <description>Battle.net launcher for World of Warcraft: Forever; press L3+R3 together to open the on-screen keyboard; other games may install, but keyboard support is in development.</description>
-      <pubDate>01.000.006</pubDate>
+      <pubDate>01.000.009</pubDate>
     </item>
     <item>
       <title>EVO Player</title>

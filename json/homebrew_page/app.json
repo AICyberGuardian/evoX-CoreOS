@@ -72,6 +72,20 @@
       "source": "https://github.com/ZiZc3/Ruffle-Flash-PS5"
     },
     {
+      "name": "Signal Companion",
+      "filename": "PPSA69426.zip",
+      "url": "https://github.com/Marice/ps5-signal-companion/releases/download/v00.001.000/SignalCompanion-PS5-00.001.000.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA69426/00.001.000/PPSA69426.zip",
+      "description": "Set the colour of your PS5's light and edit the startup beep tune and light show of the ps5-signal payload, which the app can start itself or add to ps5-autoloader.",
+      "version": "00.001.000",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA69426",
+      "author": "Marice",
+      "checksum": "8404cc3cf05c9e9e12ecdd961f5257f65a730c0c3136663a89ba9f6112548840",
+      "source": "https://github.com/Marice/ps5-signal-companion"
+    },
+    {
       "name": "Stremio Plus",
       "filename": "PPSA74126.zip",
       "url": "https://github.com/LoZazaMastro/Stremio-Plus/releases/download/0.5.6/PPSA74126.zip",
@@ -186,15 +200,15 @@
     {
       "name": "SwanStationPS5",
       "filename": "PPSA98510.zip",
-      "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.3.7/PPSA98510.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.3.7/PPSA98510.zip",
+      "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.3.8/PPSA98510.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.3.8/PPSA98510.zip",
       "description": "SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.",
-      "version": "1.3.7",
+      "version": "1.3.8",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98510",
       "author": "AngelXex",
-      "checksum": "62788ecdba8a260512e0bde773b57f297c858d4f52be3a560f7f306af65afce1",
+      "checksum": "a983b0e57d4918f666e9867555fe92540f0b7ee26cd8cf50bea5939a2539e806",
       "source": "https://github.com/darkxex/SwanStationPS5"
     },
     {
@@ -284,15 +298,15 @@
     {
       "name": "ProsperoEden",
       "filename": "PPSA99008.zip",
-      "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/download/v1.003.000/ProsperoEden-v1.003.000.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99008/1.003.000/PPSA99008.zip",
+      "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/download/v1.004.000/ProsperoEden-v1.004.000.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99008/1.004.000/PPSA99008.zip",
       "description": "Unofficial Eden emulator port for PS5.",
-      "version": "1.003.000",
+      "version": "1.004.000",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99008",
       "author": "BlackBearReloaded",
-      "checksum": "4df78700a1c44eb29f93efbd6b40da3e78d4ee98e7ef23a6ddad7be49394f0df",
+      "checksum": "04257f1adac12db3c2c6199ad155e98abf797da5ecafd37909d199e4477188ce",
       "source": "https://github.com/blackbearreloaded/ProsperoEden"
     },
     {
@@ -326,15 +340,15 @@
     {
       "name": "Forever Launcher",
       "filename": "PPSA99030.zip",
-      "url": "https://github.com/bizkut/ps5-forever/releases/download/01.000.006/PPSA99030.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99030/01.000.006/PPSA99030.zip",
+      "url": "https://github.com/bizkut/ps5-forever/releases/download/01.000.009/PPSA99030.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99030/01.000.009/PPSA99030.zip",
       "description": "Battle.net launcher for World of Warcraft: Forever; press L3+R3 together to open the on-screen keyboard; other games may install, but keyboard support is in development.",
-      "version": "01.000.006",
+      "version": "01.000.009",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99030",
       "author": "bizkut",
-      "checksum": "4dba124ba04a38a1a46c2078f9b392e2f1e48c7b3adfc6e0cb330f6fb64fa055",
+      "checksum": "dfa59e0b9b8b5ac54a8a8357a4a4cde9725ef0b0256a0d31f131d8f9b852eb35",
       "source": "https://github.com/bizkut/ps5-forever"
     },
     {

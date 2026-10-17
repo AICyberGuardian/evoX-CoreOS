@@ -1,5 +1,18 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 17/10/2026 à 03:06
+* **PAYLOADS**
+  * `Overlay Payload` (v0.0.18) - *Nouveau*
+  * `Ps5-Overlay-Kus V1.0.18` (v0.0.18) - *Nouveau*
+  * `Ps5 Overlay` (ps5-new-overlay) - *Mise à jour (Précédent: v1.0.15)*
+  * `Ps5 Overlay Shellui` (ps5-new-overlay) - *Mise à jour (Précédent: v1.0.15)*
+* **HOMEBREW_PAGE**
+  * `Signal Companion` (00.001.000) - *Nouveau*
+  * `SwanStationPS5` (1.3.8) - *Mise à jour (Précédent: 1.3.7)*
+  * `ReKHCoM` (ps5-v1.0.3) - *Nouveau*
+  * `ProsperoEden` (1.004.000) - *Mise à jour (Précédent: 1.003.000)*
+  * `Forever Launcher` (01.000.009) - *Mise à jour (Précédent: 01.000.006)*
+
 ## Build du 16/10/2026 à 20:42
 * **PAYLOADS**
   * `Common Fps Ps5 V1.2.3` (v1.2.3) - *Nouveau*

@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-16T20:42:31.600985",
+    "updated_at": "2026-10-17T03:06:04.448663",
     "packs": [
         {
             "filename": "PS5_apps_aio_part1_latest.zip",
@@ -29,8 +29,8 @@
             "filename": "PS5_payloads_aio_latest.zip",
             "display_name": "PS5 PAYLOADS AIO",
             "pack_type": "payloads",
-            "size_bytes": 360175162,
-            "size_mb": 343.49,
+            "size_bytes": 360582718,
+            "size_mb": 343.88,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_payloads_aio_latest.zip"
         },
         {
@@ -53,8 +53,8 @@
             "filename": "PS5_ultimate_pack_part1_latest.zip",
             "display_name": "PS5 ULTIMATE PACK PART1",
             "pack_type": "ultimate",
-            "size_bytes": 890748438,
-            "size_mb": 849.48,
+            "size_bytes": 891155994,
+            "size_mb": 849.87,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part1_latest.zip"
         },
         {
@@ -85,16 +85,16 @@
             "filename": "PS5_ultimate_pack_part5_latest.zip",
             "display_name": "PS5 ULTIMATE PACK PART5",
             "pack_type": "ultimate",
-            "size_bytes": 1466026284,
-            "size_mb": 1398.11,
+            "size_bytes": 1484034135,
+            "size_mb": 1415.29,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part5_latest.zip"
         },
         {
             "filename": "PS5_ultimate_pack_part6_latest.zip",
             "display_name": "PS5 ULTIMATE PACK PART6",
             "pack_type": "ultimate",
-            "size_bytes": 759012197,
-            "size_mb": 723.85,
+            "size_bytes": 777931879,
+            "size_mb": 741.89,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part6_latest.zip"
         },
         {
@@ -117,8 +117,8 @@
             "filename": "homebrewpage-app_aio_part1_latest.zip",
             "display_name": "HOMEBREWPAGE-APP AIO PART1",
             "pack_type": "homebrew_page",
-            "size_bytes": 1139750598,
-            "size_mb": 1086.95,
+            "size_bytes": 1156332413,
+            "size_mb": 1102.76,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/homebrewpage-app_aio_part1_latest.zip"
         },
         {
@@ -141,8 +141,8 @@
             "filename": "homebrewpage-game_aio_part1_latest.zip",
             "display_name": "HOMEBREWPAGE-GAME AIO PART1",
             "pack_type": "homebrew_page",
-            "size_bytes": 1353454550,
-            "size_mb": 1290.75,
+            "size_bytes": 1373800268,
+            "size_mb": 1310.16,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/homebrewpage-game_aio_part1_latest.zip"
         },
         {
