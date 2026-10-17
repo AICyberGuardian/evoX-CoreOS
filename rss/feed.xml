@@ -1494,7 +1494,7 @@
     </item>
     <item>
       <title>[Homebrew Page] PS5LM Plus</title>
-      <link>https://github.com/abhi245y/PS5LM</link>
+      <link>https://github.com/abhi245y/PS5LM-Plus</link>
       <description>Runs local language models (GGUF, llama.cpp) on the PS5's GPU, with a dashboard on the TV, model downloads, and a chat and OpenAI-compatible API for your network.</description>
       <pubDate>0.8.3</pubDate>
     </item>

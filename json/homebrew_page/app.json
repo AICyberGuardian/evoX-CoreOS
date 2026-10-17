@@ -620,7 +620,7 @@
     {
       "name": "PS5LM Plus",
       "filename": "PPSA99581.zip",
-      "url": "https://github.com/abhi245y/PS5LM/releases/download/v0.8.3/ps5lm-app-v0.8.3.zip",
+      "url": "https://github.com/abhi245y/PS5LM-Plus/releases/download/v0.8.3/ps5lm-app-v0.8.3.zip",
       "local_path": "downloads/apps/homebrew_page/app/PPSA99581/0.8.3/PPSA99581.zip",
       "description": "Runs local language models (GGUF, llama.cpp) on the PS5's GPU, with a dashboard on the TV, model downloads, and a chat and OpenAI-compatible API for your network.",
       "version": "0.8.3",
@@ -629,7 +629,7 @@
       "titleid": "PPSA99581",
       "author": "Abhiram",
       "checksum": "42acffcacc33f371b10a4cfaa6ede0100a677231de171712b9a879bc104b6ef9",
-      "source": "https://github.com/abhi245y/PS5LM"
+      "source": "https://github.com/abhi245y/PS5LM-Plus"
     },
     {
       "name": "Cloud Play",
