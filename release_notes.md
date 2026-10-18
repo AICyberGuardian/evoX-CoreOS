@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.18-1531)
+### 🚀 Synthèse de la mise à jour (v2026.10.18-2014)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -17,6 +17,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 - `PS5_ultimate_pack_part6_latest.zip`
 - `PS5_ultimate_pack_part7_latest.zip`
 - `PS5_ultimate_pack_part8_latest.zip`
+- `PS5_ultimate_pack_part9_latest.zip`
 - `homebrewpage-app_aio_part1_latest.zip`
 - `homebrewpage-app_aio_part2_latest.zip`
 - `homebrewpage-app_aio_part3_latest.zip`
@@ -32,7 +33,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>⚡ Pack PAYLOADS</b></summary>
 
 * **payloads**
-  * `garlic-savemgr_v1.13.1.elf`
+  * `garlic-savemgr_v1.14.0.elf`
   * `garlic-worker_v1.1.7.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
   * `Common_FPS_PS5_v1.2.3.elf`
@@ -63,7 +64,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-server_v1.11.elf`
-  * `ps5upload_v7.1.2.elf`
+  * `ps5upload_v7.1.4.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `PS_Game_State_Lib_v0.1.elf`
@@ -253,6 +254,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA69426.zip`
   * `PPSA74126.zip`
   * `PPSA74207.zip`
+  * `PPSA75837.zip`
   * `PPSA76677.zip`
   * `PPSA77711.zip`
   * `PPSA85300.zip`
@@ -298,6 +300,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99320.zip`
   * `PPSA99350.zip`
   * `PPSA99360.zip`
+  * `PPSA99403.zip`
   * `PPSA99420.zip`
   * `PPSA99474.zip`
   * `PPSA99505.zip`
@@ -312,6 +315,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99630.zip`
   * `PPSA99640.zip`
   * `PPSA99641.zip`
+  * `PPSA99660.zip`
   * `PPSA99666.zip`
   * `PPSA99670.zip`
   * `PPSA99728.zip`
@@ -321,6 +325,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99810.zip`
   * `PPSA99920.zip`
   * `PPSA99930.zip`
+  * `PPSA99991.zip`
   * `PPSA99995.zip`
   * `PPSA99997.zip`
 

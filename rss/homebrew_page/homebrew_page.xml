@@ -101,6 +101,12 @@
       <pubDate>3.10.6</pubDate>
     </item>
     <item>
+      <title>Jewel Case</title>
+      <link>https://github.com/SkaRift/JewelCase</link>
+      <description>Home-screen ROM launcher that shows every system's games as cartridges and discs with box art and starts each in the right emulator.</description>
+      <pubDate>1.1</pubDate>
+    </item>
+    <item>
       <title>RommPS</title>
       <link>https://github.com/s0liton/RommPS</link>
       <description>Syncs your emulator saves and states with a RomM server and downloads games from your RomM library.</description>
@@ -116,13 +122,13 @@
       <title>VLC</title>
       <link>https://github.com/ZiZc3/VLC</link>
       <description>VLC media player for PS5: videos, music, photos, subtitles, DVD images and more</description>
-      <pubDate>0.4</pubDate>
+      <pubDate>0.4.5</pubDate>
     </item>
     <item>
       <title>Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.006</pubDate>
+      <pubDate>01.000.008</pubDate>
     </item>
     <item>
       <title>Capy Mobile</title>
@@ -180,13 +186,13 @@
     </item>
     <item>
       <title>ProsperoStore</title>
-      <link>https://github.com/blackbearreloaded/ProsperoStore</link>
+      <link>https://github.com/darkxex/ProsperoStore</link>
       <description>Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.</description>
-      <pubDate>1.000.080</pubDate>
+      <pubDate>1.000.090</pubDate>
     </item>
     <item>
       <title>ProsperoLight</title>
-      <link>https://github.com/blackbearreloaded/ProsperoLight</link>
+      <link>https://github.com/LedyBacer/ProsperoLight</link>
       <description>Unofficial Moonlight game streaming port for PS5.</description>
       <pubDate>01.000.110</pubDate>
     </item>
@@ -206,7 +212,7 @@
       <title>ProsperoEden</title>
       <link>https://github.com/blackbearreloaded/ProsperoEden</link>
       <description>Unofficial Eden emulator port for PS5.</description>
-      <pubDate>1.004.000</pubDate>
+      <pubDate>1.005.000</pubDate>
     </item>
     <item>
       <title>vkQuake</title>
@@ -218,13 +224,13 @@
       <title>Media Player Classic PS5</title>
       <link>https://github.com/MisterTemaki/MediaPlayerClassicPS5</link>
       <description>Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.</description>
-      <pubDate>1.1</pubDate>
+      <pubDate>1.2.3</pubDate>
     </item>
     <item>
       <title>Forever Launcher</title>
       <link>https://github.com/bizkut/ps5-forever</link>
-      <description>Battle.net launcher for World of Warcraft: Forever; press L3+R3 together to open the on-screen keyboard; other games may install, but keyboard support is in development.</description>
-      <pubDate>01.000.012</pubDate>
+      <description>Battle.net launcher for World of Warcraft (Retail, Classic and Forever) with a built-in add-on manager; press Options for the Forever menu and L3+R3 for the on-screen keyboard.</description>
+      <pubDate>01.000.014</pubDate>
     </item>
     <item>
       <title>EVO Player</title>
@@ -272,13 +278,13 @@
       <title>Seedee5</title>
       <link>https://github.com/mortaljinx/Seedee5</link>
       <description>A Philips CD-i emulator (SAME_CDI) with a cover-wheel library, NAS support, 4K picture filters and game info; bring your own BIOS and games.</description>
-      <pubDate>1.20</pubDate>
+      <pubDate>1.21</pubDate>
     </item>
     <item>
       <title>RetroArch</title>
       <link>https://github.com/mihawk-99/PS5_RetroArch</link>
       <description>Native RetroArch port for PS5 with cores for NES, SNES, GBA, Genesis, arcade, PSP, GameCube/Wii and PS2.</description>
-      <pubDate>2.0.0-beta-2</pubDate>
+      <pubDate>3.0.0-beta-3</pubDate>
     </item>
     <item>
       <title>PS5SX2</title>
@@ -290,19 +296,19 @@
       <title>PSFlyCast</title>
       <link>https://github.com/Press5elect/PSFlycast</link>
       <description>Flycast (Dreamcast, NAOMI and Atomiswave) as a standalone PS5 title on RADV, with a controller-only interface.</description>
-      <pubDate>1.1.0</pubDate>
+      <pubDate>1.2.0</pubDate>
     </item>
     <item>
       <title>PSSwanStation</title>
       <link>https://github.com/Press5elect/PSSwanStation</link>
       <description>A PlayStation (PS1) emulator built on SwanStation, with a controller-first library, ES-DE themes and game videos, network shares, USB disc drives, CRT shaders and RetroAchievements.</description>
-      <pubDate>build23</pubDate>
+      <pubDate>build24</pubDate>
     </item>
     <item>
       <title>Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
       <description>An unofficial native Nuvio client for PS5 with synced watch progress, addon streams, episode skipping and experimental HDR10 playback.</description>
-      <pubDate>0.5.31-native-experimental</pubDate>
+      <pubDate>0.5.32-native-experimental</pubDate>
     </item>
     <item>
       <title>Spider-Man: Edge of Time</title>
@@ -350,7 +356,7 @@
       <title>Eternal Darkness</title>
       <link>https://github.com/griches/PS5_EternalDarkness</link>
       <description>Eternal Darkness: Sanity's Requiem (GameCube) for PlayStation 5, recompiled to run natively at 4K and up to 120 fps with widescreen and HD texture packs. Bring your own European disc.</description>
-      <pubDate>0.9.0</pubDate>
+      <pubDate>0.9.3</pubDate>
     </item>
     <item>
       <title>Ship of Harkinian (Vulkan)</title>
@@ -369,6 +375,12 @@
       <link>https://github.com/premohq/PS5CEMU-HAR</link>
       <description>Wii U and 3DS emulation for jailbroken PS5, built on Cemu and Azahar, with one launcher for both.</description>
       <pubDate>4.0.1</pubDate>
+    </item>
+    <item>
+      <title>NFS Most Wanted</title>
+      <link>https://github.com/lavavex/nfs-blackbox-ps5</link>
+      <description>Need for Speed: Most Wanted (2005), the PC version through prospero-win, installed from your own copy with widescreen, DualSense and optional Xbox 360 graphics mods.</description>
+      <pubDate>01.000.000</pubDate>
     </item>
     <item>
       <title>PS5MC</title>
@@ -404,7 +416,7 @@
       <title>Régie5</title>
       <link>https://github.com/viviandsx/regie5</link>
       <description>A TV remote for your self-hosted media stack: Sonarr, Radarr, Seerr and Jellyfin at a glance, with request approval, playback diagnosis and an optional cleanup.</description>
-      <pubDate>0.5.1</pubDate>
+      <pubDate>0.6.0</pubDate>
     </item>
     <item>
       <title>PS5LM</title>
@@ -455,6 +467,12 @@
       <pubDate>ps5-v0.1.2</pubDate>
     </item>
     <item>
+      <title>Animal Crossing for PS5</title>
+      <link>https://github.com/mshivam019/ac-ps5</link>
+      <description>Unofficial native port of Animal Crossing for GameCube; requires your own USA revision 0 game data.</description>
+      <pubDate>v1.0.0</pubDate>
+    </item>
+    <item>
       <title>DOOM Native Port</title>
       <link>https://github.com/lowbit/ps5-doom</link>
       <description>id Software's original DOOM source running natively on the PS5, with the shareware episode. Add your own DOOM, DOOM II and Final DOOM files from a PC or phone browser, a link or FTP.</description>
@@ -494,7 +512,7 @@
       <title>PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.1.0</pubDate>
+      <pubDate>1.2.0</pubDate>
     </item>
     <item>
       <title>Prospero Vibrate</title>
@@ -507,6 +525,12 @@
       <link>https://github.com/heydemoura/ps5-forwarder-manager</link>
       <description>Create and edit home-screen forwarders that launch emulators and other apps with custom art, music and arguments.</description>
       <pubDate>00.001.004</pubDate>
+    </item>
+    <item>
+      <title>YouTube Max’d</title>
+      <link>https://github.com/HandshakeHackin/youtube-maxd</link>
+      <description>Standalone PS5 YouTube client based on ProsperoTube, with local voice search, Smart playlists, adaptive quality and red/white DualSense effects.</description>
+      <pubDate>1.2.0-preview.1</pubDate>
     </item>
     <item>
       <title>Prospero Win</title>

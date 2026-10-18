@@ -1,5 +1,31 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 18/10/2026 à 20:14
+* **PAYLOADS**
+  * `Garlic-Savemgr V1.14.0` (v1.14.0) - *Nouveau*
+  * `Ps5Upload V7.1.4` (v7.1.4) - *Nouveau*
+* **APPS**
+  * `Ppsa99000` (v1.000.090) - *Mise à jour (Précédent: v1.000.080)*
+* **HOMEBREW_PAGE**
+  * `Jewel Case` (1.1) - *Nouveau*
+  * `VLC` (0.4.5) - *Mise à jour (Précédent: 0.4)*
+  * `Prospero Themes` (01.000.008) - *Mise à jour (Précédent: 01.000.006)*
+  * `ProsperoStore` (1.000.090) - *Mise à jour (Précédent: 1.000.080)*
+  * `ProsperoEden` (1.005.000) - *Mise à jour (Précédent: 1.004.000)*
+  * `Media Player Classic PS5` (1.2.3) - *Mise à jour (Précédent: 1.1)*
+  * `Forever Launcher` (01.000.014) - *Mise à jour (Précédent: 01.000.012)*
+  * `Seedee5` (1.21) - *Mise à jour (Précédent: 1.20)*
+  * `RetroArch` (3.0.0-beta-3) - *Mise à jour (Précédent: 2.0.0-beta-2)*
+  * `PSFlyCast` (1.2.0) - *Mise à jour (Précédent: 1.1.0)*
+  * `PSSwanStation` (build24) - *Mise à jour (Précédent: build23)*
+  * `Nuvio Max'd` (0.5.32-native-experimental) - *Mise à jour (Précédent: 0.5.31-native-experimental)*
+  * `Eternal Darkness` (0.9.3) - *Mise à jour (Précédent: 0.9.0)*
+  * `NFS Most Wanted` (01.000.000) - *Nouveau*
+  * `Régie5` (0.6.0) - *Mise à jour (Précédent: 0.5.1)*
+  * `Animal Crossing for PS5` (v1.0.0) - *Nouveau*
+  * `PSBox Cloud Gaming` (1.2.0) - *Mise à jour (Précédent: 1.1.0)*
+  * `YouTube Max’d` (1.2.0-preview.1) - *Nouveau*
+
 ## Build du 18/10/2026 à 15:31
 * **PAYLOADS**
   * `Ps5Upload V7.1.2` (v7.1.2) - *Nouveau*
