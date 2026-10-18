@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 18/10/2026 à 10:31
+* **PAYLOADS**
+  * `Overlay Payload` (v1.0.19) - *Mise à jour (Précédent: v0.0.18)*
+  * `Ps5-Overlay-Kus V1.0.19` (v1.0.19) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `Stremio Plus` (0.5.11) - *Mise à jour (Précédent: 0.5.6)*
+
 ## Build du 18/10/2026 à 03:09
 * **PAYLOADS**
   * `Ps5Upload V7.1.0` (v7.1.0) - *Nouveau*

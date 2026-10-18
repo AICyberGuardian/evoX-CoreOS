@@ -1,4 +1,4 @@
-# 📋 Journal d'exécution de la Build (18/10/2026 à 03:09)
+# 📋 Journal d'exécution de la Build (18/10/2026 à 10:31)
 
 > *Statut global du pipeline : **Succès 🚀***
 
@@ -12,7 +12,7 @@ Ce rapport résume l'état de la dernière exécution du pipeline de mise à jou
 | `pkg` | Packages PKG | **15** |
 | `ffpfsc` | Fichiers FFPFSC | **2** |
 | `apps` | Applications | **35** |
-| `homebrew_page` | Homebrew Page | **90** |
+| `homebrew_page` | Homebrew Page | **86** |
 
-* **Total cumulé des éléments traités** : `267`
+* **Total cumulé des éléments traités** : `263`
 

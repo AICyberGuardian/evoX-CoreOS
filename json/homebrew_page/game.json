@@ -156,20 +156,6 @@
       "source": "https://github.com/darkxex/ReKHCom-PS5"
     },
     {
-      "name": "ProsperoPuzzles",
-      "filename": "PPSA99006.zip",
-      "url": "https://github.com/blackbearreloaded/ProsperoPuzzles/releases/download/01.000.010/PPSA99006.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99006/01.000.010/PPSA99006.zip",
-      "description": "Collection of puzzle games for PS5.",
-      "version": "01.000.010",
-      "category": "Games",
-      "kind": "game",
-      "titleid": "PPSA99006",
-      "author": "BlackBearReloaded",
-      "checksum": "9c7c7b57a885b1ecbd694ee32f7f68847ae909d99600b4c6a73c06605affd313",
-      "source": "https://github.com/blackbearreloaded/ProsperoPuzzles"
-    },
-    {
       "name": "vkQuake",
       "filename": "PPSA99010.zip",
       "url": "https://github.com/mihawk-99/PS5_vkQuake/releases/download/1.0/PPSA99010.zip",

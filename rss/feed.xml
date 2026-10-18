@@ -30,15 +30,15 @@
     </item>
     <item>
       <title>[Payloads] Overlay Payload</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v0.0.18/overlay_payload.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.19/overlay_payload.elf</link>
       <description>A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+).</description>
-      <pubDate>v0.0.18</pubDate>
+      <pubDate>v1.0.19</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5-Overlay-Kus V1.0.18</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v0.0.18/ps5-overlay-kus_v1.0.18.elf</link>
+      <title>[Payloads] Ps5-Overlay-Kus V1.0.19</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.19/ps5-overlay-kus_v1.0.19.elf</link>
       <description>A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+).</description>
-      <pubDate>v0.0.18</pubDate>
+      <pubDate>v1.0.19</pubDate>
     </item>
     <item>
       <title>[Payloads] Bfpilot V0.4.4</title>
@@ -912,7 +912,7 @@
     </item>
     <item>
       <title>[Applications] Ppsa99000</title>
-      <link>https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.080/PPSA99000.zip</link>
+      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.080/PPSA99000.zip</link>
       <description>homebrew store</description>
       <pubDate>v1.000.080</pubDate>
     </item>
@@ -1154,7 +1154,7 @@
       <title>[Homebrew Page] Stremio Plus</title>
       <link>https://github.com/LoZazaMastro/Stremio-Plus</link>
       <description>Unofficial native Stremio client for PS5 with Prospero UI, add-on sync, torrent streaming, offline downloads and customizable subtitles.</description>
-      <pubDate>0.5.6</pubDate>
+      <pubDate>0.5.11</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] The Simpsons Game</title>
@@ -1254,7 +1254,7 @@
     </item>
     <item>
       <title>[Homebrew Page] ProsperoTV</title>
-      <link>https://github.com/blackbearreloaded/ProsperoTV</link>
+      <link>https://github.com/ThatGuyKalvin/ProsperoTV</link>
       <description>Native IPTV client for PS5.</description>
       <pubDate>01.000.070</pubDate>
     </item>
@@ -1263,18 +1263,6 @@
       <link>https://github.com/blackbearreloaded/ProsperoAI</link>
       <description>Local LLM chat app for PS5.</description>
       <pubDate>01.006.000</pubDate>
-    </item>
-    <item>
-      <title>[Homebrew Page] PS5 OpenGL Showcase</title>
-      <link>https://github.com/blackbearreloaded/ps5-opengl</link>
-      <description>Native OpenGL graphics showcase for PS5.</description>
-      <pubDate>1.0.2</pubDate>
-    </item>
-    <item>
-      <title>[Homebrew Page] ProsperoPuzzles</title>
-      <link>https://github.com/blackbearreloaded/ProsperoPuzzles</link>
-      <description>Collection of puzzle games for PS5.</description>
-      <pubDate>01.000.010</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] ProsperoEden</title>
@@ -1287,12 +1275,6 @@
       <link>https://github.com/mihawk-99/PS5_vkQuake</link>
       <description>Native PS5 port of vkQuake, the Vulkan Quake engine, at up to 120 FPS and 4K with DualSense input. Needs your own Quake game data.</description>
       <pubDate>1.0</pubDate>
-    </item>
-    <item>
-      <title>[Homebrew Page] ProsperoTube</title>
-      <link>https://github.com/blackbearreloaded/ProsperoTube</link>
-      <description>An unofficial SmartTube port for PS5.</description>
-      <pubDate>01.000.010</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] Media Player Classic PS5</title>
@@ -1311,12 +1293,6 @@
       <link>https://github.com/sainsaji/EVO-PLAYER-PS5</link>
       <description>Media player for PS5 that plays video from USB or internal storage, with hardware decoding up to 4K, 10-bit HDR and surround audio.</description>
       <pubDate>0.12.0</pubDate>
-    </item>
-    <item>
-      <title>[Homebrew Page] Homebrew UI Lab</title>
-      <link>https://github.com/blackbearreloaded/ps5-homebrew-ui</link>
-      <description>A gallery of 21 complete, working interface designs for PS5 homebrew, drawn with OpenGL, with 30 themes and a reusable widget kit. Switch designs with L1 and R1.</description>
-      <pubDate>01.000.010</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] Surround Sound Studio</title>
