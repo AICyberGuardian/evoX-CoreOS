@@ -270,15 +270,15 @@
     {
       "name": "Prospero Themes",
       "filename": "PPSA90210.zip",
-      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.002/PPSA90210.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.002/PPSA90210.zip",
+      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.006/PPSA90210.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.006/PPSA90210.zip",
       "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
-      "version": "01.000.002",
+      "version": "01.000.006",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA90210",
       "author": "Darkatek7",
-      "checksum": "479f590240f3f015e97281d22288a22203ca0f13a72bdec2bf1b113a58d70624",
+      "checksum": "ee08f2c0d18965c3345ea450f6b5701f0083ef4dde8f1afe7d26b5a37b892616",
       "source": "https://github.com/Darkatek7/ProsperoThemes"
     },
     {
@@ -298,15 +298,15 @@
     {
       "name": "Raptor: Call of the Shadows (PS5)",
       "filename": "PPSA94002.zip",
-      "url": "https://github.com/ChaDea1/RaptorPS5/releases/download/v1.0.0-rc.1/raptor-ps5-v1.0.0-rc.1.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA94002/v1.0.0-rc.1/PPSA94002.zip",
+      "url": "https://github.com/ChaDea1/RaptorPS5/releases/download/v1.0.0-rc.2/raptor-ps5-v1.0.0-rc.2.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA94002/v1.0.0-rc.2/PPSA94002.zip",
       "description": "Unofficial native PS5 port of Raptor: Call of the Shadows with DualSense controls and optional first-launch shareware download.",
-      "version": "v1.0.0-rc.1",
+      "version": "v1.0.0-rc.2",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA94002",
       "author": "ChaDea1",
-      "checksum": "95a08db906db238b4a632379d627f1b897a1d2ad5194726dc08cd173cd59ee29",
+      "checksum": "b6620582b5561f36fe1cfbb8f2866f88c9670c850beef1bc9270b1eb3b0106f6",
       "source": "https://github.com/ChaDea1/RaptorPS5"
     },
     {
@@ -368,29 +368,29 @@
     {
       "name": "SwanStationPS5",
       "filename": "PPSA98510.zip",
-      "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.4.0/PPSA98510.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.4.0/PPSA98510.zip",
+      "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.4.2/PPSA98510.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.4.2/PPSA98510.zip",
       "description": "SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.",
-      "version": "1.4.0",
+      "version": "1.4.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98510",
       "author": "AngelXex",
-      "checksum": "65025a8122fedc35f617eaf0f63a8b20231c7926f5df05c06e0987f44cadec11",
+      "checksum": "19e024135f7303d5928d93b3742707e14552abf1c5051b3f6dfa212be4bf4cf8",
       "source": "https://github.com/darkxex/SwanStationPS5"
     },
     {
       "name": "ReKHCoM",
       "filename": "PPSA98511.zip",
-      "url": "https://github.com/darkxex/ReKHCom-PS5/releases/download/ps5-v1.0.3/PPSA98511.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA98511/ps5-v1.0.3/PPSA98511.zip",
+      "url": "https://github.com/darkxex/ReKHCom-PS5/releases/download/ps5-v1.0.5/PPSA98511.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA98511/ps5-v1.0.5/PPSA98511.zip",
       "description": "Native PS5 port of Kingdom Hearts: Chain of Memories (The GBA Version). The European, US and Japanese cartridges are supported; the version is detected from the ROM you provide (no ROM is included).",
-      "version": "ps5-v1.0.3",
+      "version": "ps5-v1.0.5",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA98511",
       "author": "AngelXex",
-      "checksum": "d5d7eb8e945b39d7d971eba663cfdf0bd278e6a0b17e5eec3aabbd843c2f1e60",
+      "checksum": "7c3d989c1e4ce72bb4e0095ceced5e9b0b0f3fb819ad95e1b4ca176d8f972043",
       "source": "https://github.com/darkxex/ReKHCom-PS5"
     },
     {
@@ -420,20 +420,6 @@
       "author": "BlackBearReloaded",
       "checksum": "9b98936ebc44bc20076a8c1abf936d845a6e9c1870912a9732386f18cf5f5ebb",
       "source": "https://github.com/blackbearreloaded/ProsperoStore"
-    },
-    {
-      "name": "ProsperoRadio",
-      "filename": "PPSA99001.zip",
-      "url": "https://github.com/blackbearreloaded/ProsperoRadio/releases/download/01.000.010/PPSA99001.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99001/01.000.010/PPSA99001.zip",
-      "description": "Internet radio player for PS5.",
-      "version": "01.000.010",
-      "category": "Apps",
-      "kind": "app",
-      "titleid": "PPSA99001",
-      "author": "BlackBearReloaded",
-      "checksum": "413011fcaf2cee3b1ce796388f3c9b13d3a0ac2e1a1a2b5bc5bba1adcd0fc020",
-      "source": "https://github.com/blackbearreloaded/ProsperoRadio"
     },
     {
       "name": "ProsperoLight",
@@ -506,20 +492,6 @@
       "source": "https://github.com/blackbearreloaded/ProsperoPuzzles"
     },
     {
-      "name": "Yamagi Quake II",
-      "filename": "PPSA99007.zip",
-      "url": "https://github.com/blackbearreloaded/ps5-yamagi-quake2/releases/download/v0.2.0-alpha.1/PPSA99007.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99007/0.2.0-alpha.1/PPSA99007.zip",
-      "description": "Native PS5 port of Yamagi Quake II.",
-      "version": "0.2.0-alpha.1",
-      "category": "Games",
-      "kind": "game",
-      "titleid": "PPSA99007",
-      "author": "BlackBearReloaded",
-      "checksum": "4fa5da07498fe64ffc67229eed2347e0ddffd5073f1fea248ba5e69307229a70",
-      "source": "https://github.com/blackbearreloaded/ps5-yamagi-quake2"
-    },
-    {
       "name": "ProsperoEden",
       "filename": "PPSA99008.zip",
       "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/download/v1.004.000/ProsperoEden-v1.004.000.zip",
@@ -532,20 +504,6 @@
       "author": "BlackBearReloaded",
       "checksum": "04257f1adac12db3c2c6199ad155e98abf797da5ecafd37909d199e4477188ce",
       "source": "https://github.com/blackbearreloaded/ProsperoEden"
-    },
-    {
-      "name": "ProsperoLichess",
-      "filename": "PPSA99009.zip",
-      "url": "https://github.com/blackbearreloaded/ProsperoLichess/releases/download/01.000.000/PPSA99009.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99009/01.000.000/PPSA99009.zip",
-      "description": "Native Lichess client for PS5: play online chess with the controller.",
-      "version": "01.000.000",
-      "category": "Games",
-      "kind": "game",
-      "titleid": "PPSA99009",
-      "author": "BlackBearReloaded",
-      "checksum": "37d4cd3021dffb43a951ce3d888051403c6a099a258bbf0c785f51203c6ef8bb",
-      "source": "https://github.com/blackbearreloaded/ProsperoLichess"
     },
     {
       "name": "vkQuake",
@@ -562,31 +520,17 @@
       "source": "https://github.com/mihawk-99/PS5_vkQuake"
     },
     {
-      "name": "PS5 FSR4 Showcase",
-      "filename": "PPSA99011.zip",
-      "url": "https://github.com/blackbearreloaded/ps5-fsr4/releases/download/v01.000.010/ps5-fsr4-showcase-01.000.010-PPSA99011.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99011/01.000.010/PPSA99011.zip",
-      "description": "Shows AMD FSR 4 upscaling on the PS5: a city at dusk rendered small and upscaled at 60 fps, with settings to compare it against bilinear and native rendering.",
-      "version": "01.000.010",
-      "category": "Apps",
-      "kind": "app",
-      "titleid": "PPSA99011",
-      "author": "BlackBearReloaded",
-      "checksum": "4fd35889c6b07c2d4736c91a7ca5c92062ab3498a71264e9f9b7afbb39d3e223",
-      "source": "https://github.com/blackbearreloaded/ps5-fsr4"
-    },
-    {
       "name": "ProsperoTube",
       "filename": "PPSA99012.zip",
-      "url": "https://github.com/blackbearreloaded/ProsperoTube/releases/download/v01.000.000/PPSA99012.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99012/01.000.000/PPSA99012.zip",
+      "url": "https://github.com/blackbearreloaded/ProsperoTube/releases/download/v01.000.010/PPSA99012.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99012/01.000.010/PPSA99012.zip",
       "description": "An unofficial SmartTube port for PS5.",
-      "version": "01.000.000",
+      "version": "01.000.010",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99012",
       "author": "BlackBearReloaded",
-      "checksum": "ba549bd8141e16ddd49f19ffdcbe7ee66572fd72842faf257a433543adf1d4e3",
+      "checksum": "da5ec2af4a9ddea51fdc74d4ae33d390b5a974ef4b63bc1d3c2050581d430063",
       "source": "https://github.com/blackbearreloaded/ProsperoTube"
     },
     {
@@ -758,20 +702,6 @@
       "source": "https://github.com/mihawk-99/PS5_RetroArch"
     },
     {
-      "name": "PS5VR",
-      "filename": "PPSA99177.zip",
-      "url": "https://github.com/theghostonline/PS5VR/releases/download/v1.3.0/PS5VR-1.3.0-PPSA99177.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99177/1.3.0/PPSA99177.zip",
-      "description": "Native VR video player for PS VR2 on jailbroken PS5: 8K, 180/360, 3D, spatial audio",
-      "version": "1.3.0",
-      "category": "Apps",
-      "kind": "app",
-      "titleid": "PPSA99177",
-      "author": "Husam Osman",
-      "checksum": "8a1459ddcfe0fe329b5a2173ee11c79acd66c56952bc6d8c99dd22dab4fd5630",
-      "source": "https://github.com/theghostonline/PS5VR"
-    },
-    {
       "name": "PS5SX2",
       "filename": "PPSA99203.zip",
       "url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-171/PS5SX2-vk-285-171.zip",
@@ -928,15 +858,15 @@
     {
       "name": "Eternal Darkness",
       "filename": "PPSA99314.zip",
-      "url": "https://github.com/griches/PS5_EternalDarkness/releases/download/v0.8.0/EternalDarkness-PS5-0.8.0.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99314/0.8.0/PPSA99314.zip",
-      "description": "Eternal Darkness: Sanity's Requiem (GameCube) for PlayStation 5, recompiled to run natively at 4K and 60 fps with widescreen and HD texture packs. Bring your own European disc.",
-      "version": "0.8.0",
+      "url": "https://github.com/griches/PS5_EternalDarkness/releases/download/v0.9.0/EternalDarkness-PS5-0.9.0.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99314/0.9.0/PPSA99314.zip",
+      "description": "Eternal Darkness: Sanity's Requiem (GameCube) for PlayStation 5, recompiled to run natively at 4K and up to 120 fps with widescreen and HD texture packs. Bring your own European disc.",
+      "version": "0.9.0",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99314",
       "author": "Gary Riches",
-      "checksum": "37c27344290ae7992ee8e86a9b59c6eb7c3cd5a4c2e9421a7edf20b6e47d3f82",
+      "checksum": "cfba67036dc512ae6465374ead9690a45b84ebc2f8e81f253d644af4e36f335d",
       "source": "https://github.com/griches/PS5_EternalDarkness"
     },
     {

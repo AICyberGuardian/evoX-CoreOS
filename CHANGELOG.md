@@ -1,5 +1,17 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 18/10/2026 à 03:09
+* **PAYLOADS**
+  * `Ps5Upload V7.1.0` (v7.1.0) - *Nouveau*
+  * `Nuvio-Ps5 V1.8.0` (Nuvio-PS5) - *Mise à jour (Précédent: v1.8.0)*
+* **HOMEBREW_PAGE**
+  * `Prospero Themes` (01.000.006) - *Mise à jour (Précédent: 01.000.002)*
+  * `Raptor: Call of the Shadows (PS5)` (v1.0.0-rc.2) - *Mise à jour (Précédent: v1.0.0-rc.1)*
+  * `SwanStationPS5` (1.4.2) - *Mise à jour (Précédent: 1.4.0)*
+  * `ReKHCoM` (ps5-v1.0.5) - *Mise à jour (Précédent: ps5-v1.0.3)*
+  * `ProsperoTube` (01.000.010) - *Mise à jour (Précédent: 01.000.000)*
+  * `Eternal Darkness` (0.9.0) - *Mise à jour (Précédent: 0.8.0)*
+
 ## Build du 17/10/2026 à 20:18
 * **PAYLOADS**
   * `Web-File-Mgr-V1.11` (v1.11) - *Nouveau*
