@@ -690,15 +690,15 @@
     {
       "name": "Nuvio Max'd",
       "filename": "PPSA99288.zip",
-      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v0.5.29-native-experimental/PPSA99288.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/0.5.29-native-experimental/PPSA99288.zip",
+      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v0.5.31-native-experimental/PPSA99288.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/0.5.31-native-experimental/PPSA99288.zip",
       "description": "An unofficial native Nuvio client for PS5 with synced watch progress, addon streams, episode skipping and experimental HDR10 playback.",
-      "version": "0.5.29-native-experimental",
+      "version": "0.5.31-native-experimental",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99288",
       "author": "HandshakeHackin",
-      "checksum": "30d84c11dc2e4299f6c088ce98b308f21a6321187c4ae2c8f2ce93a1d24f9440",
+      "checksum": "874a669cc07d244b7e8c95752a52b16eb1bd4c10cec3778adc2da9994676176d",
       "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
     },
     {

@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 18/10/2026 à 15:31
+* **PAYLOADS**
+  * `Ps5Upload V7.1.2` (v7.1.2) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `Nuvio Max'd` (0.5.31-native-experimental) - *Mise à jour (Précédent: 0.5.29-native-experimental)*
+
 ## Build du 18/10/2026 à 10:31
 * **PAYLOADS**
   * `Overlay Payload` (v1.0.19) - *Mise à jour (Précédent: v0.0.18)*
