@@ -191,10 +191,10 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V7.1.5</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.1.5/ps5upload_v7.1.5.elf</link>
+      <title>[Payloads] Ps5Upload V7.1.8</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.1.8/ps5upload_v7.1.8.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v7.1.5</pubDate>
+      <pubDate>v7.1.8</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -335,10 +335,10 @@
       <pubDate>v0.1.5-915a65e</pubDate>
     </item>
     <item>
-      <title>[Payloads] Pldmgr V0.6.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.1/pldmgr_v0.6.1.elf</link>
+      <title>[Payloads] Pldmgr V0.6.2</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.2/pldmgr_v0.6.2.elf</link>
       <description>Interface d</description>
-      <pubDate>v0.6.1</pubDate>
+      <pubDate>v0.6.2</pubDate>
     </item>
     <item>
       <title>[Payloads] Elf Arsenal V1.6.23</title>
@@ -845,10 +845,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Fichiers FFPFSC] Evoplayer-V0.12.0-Ppsa99039</title>
-      <link>https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.12.0/EVOPlayer-v0.12.0-PPSA99039.ffpfsc</link>
+      <title>[Fichiers FFPFSC] Evoplayer-V0.12.5-Ppsa99039</title>
+      <link>https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.12.5/EVOPlayer-v0.12.5-PPSA99039.ffpfsc</link>
       <description>A media player for jailbroken PS5</description>
-      <pubDate>v0.12.0</pubDate>
+      <pubDate>v0.12.5</pubDate>
     </item>
     <item>
       <title>[Fichiers FFPFSC] Prospero Radio</title>
@@ -1262,7 +1262,7 @@
       <title>[Homebrew Page] ProsperoTV</title>
       <link>https://github.com/ThatGuyKalvin/ProsperoTV</link>
       <description>Native IPTV client for PS5.</description>
-      <pubDate>01.000.070</pubDate>
+      <pubDate>01.000.080</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] ProsperoAI</title>
@@ -1439,9 +1439,9 @@
       <pubDate>4.0.1</pubDate>
     </item>
     <item>
-      <title>[Homebrew Page] NFS Most Wanted</title>
+      <title>[Homebrew Page] NFS Black Box</title>
       <link>https://github.com/lavavex/nfs-blackbox-ps5</link>
-      <description>Need for Speed: Most Wanted (2005), the PC version through prospero-win, installed from your own copy with widescreen, DualSense and optional Xbox 360 graphics mods.</description>
+      <description>Black Box's Need for Speed games as homebrew apps on a jailbroken PS5, through prospero-win (bring your own copy).</description>
       <pubDate>01.000.000</pubDate>
     </item>
     <item>
@@ -1477,7 +1477,7 @@
     <item>
       <title>[Homebrew Page] Régie5</title>
       <link>https://github.com/viviandsx/regie5</link>
-      <description>A TV remote for your self-hosted media stack: Sonarr, Radarr, Seerr and Jellyfin at a glance, with request approval, playback diagnosis and an optional cleanup.</description>
+      <description>A TV remote for your self-hosted media stack: Sonarr, Radarr, Seerr and Jellyfin, Emby or Plex at a glance, with request approval, playback diagnosis and an optional cleanup.</description>
       <pubDate>0.7.0</pubDate>
     </item>
     <item>
@@ -1574,7 +1574,7 @@
       <title>[Homebrew Page] PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.2.0</pubDate>
+      <pubDate>1.3.0</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] Prospero Vibrate</title>

@@ -200,7 +200,7 @@
       <title>ProsperoTV</title>
       <link>https://github.com/ThatGuyKalvin/ProsperoTV</link>
       <description>Native IPTV client for PS5.</description>
-      <pubDate>01.000.070</pubDate>
+      <pubDate>01.000.080</pubDate>
     </item>
     <item>
       <title>ProsperoAI</title>
@@ -377,9 +377,9 @@
       <pubDate>4.0.1</pubDate>
     </item>
     <item>
-      <title>NFS Most Wanted</title>
+      <title>NFS Black Box</title>
       <link>https://github.com/lavavex/nfs-blackbox-ps5</link>
-      <description>Need for Speed: Most Wanted (2005), the PC version through prospero-win, installed from your own copy with widescreen, DualSense and optional Xbox 360 graphics mods.</description>
+      <description>Black Box's Need for Speed games as homebrew apps on a jailbroken PS5, through prospero-win (bring your own copy).</description>
       <pubDate>01.000.000</pubDate>
     </item>
     <item>
@@ -415,7 +415,7 @@
     <item>
       <title>Régie5</title>
       <link>https://github.com/viviandsx/regie5</link>
-      <description>A TV remote for your self-hosted media stack: Sonarr, Radarr, Seerr and Jellyfin at a glance, with request approval, playback diagnosis and an optional cleanup.</description>
+      <description>A TV remote for your self-hosted media stack: Sonarr, Radarr, Seerr and Jellyfin, Emby or Plex at a glance, with request approval, playback diagnosis and an optional cleanup.</description>
       <pubDate>0.7.0</pubDate>
     </item>
     <item>
@@ -512,7 +512,7 @@
       <title>PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.2.0</pubDate>
+      <pubDate>1.3.0</pubDate>
     </item>
     <item>
       <title>Prospero Vibrate</title>

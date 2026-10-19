@@ -452,15 +452,15 @@
     {
       "name": "ProsperoTV",
       "filename": "PPSA99003.zip",
-      "url": "https://github.com/ThatGuyKalvin/ProsperoTV/releases/download/01.000.070/PPSA99003.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99003/01.000.070/PPSA99003.zip",
+      "url": "https://github.com/ThatGuyKalvin/ProsperoTV/releases/download/01.000.080/PPSA99003.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99003/01.000.080/PPSA99003.zip",
       "description": "Native IPTV client for PS5.",
-      "version": "01.000.070",
+      "version": "01.000.080",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99003",
       "author": "ThatGuyKalvin",
-      "checksum": "775b2ece55f0f4591c97eeb6a2c89a91cdcd6540933ac90a3c070c064bc35fea",
+      "checksum": "8a6b89d82c25c3c22a866633312aebc29d8d026c01c791e3934a11ba70c4c064",
       "source": "https://github.com/ThatGuyKalvin/ProsperoTV"
     },
     {
@@ -870,11 +870,11 @@
       "source": "https://github.com/premohq/PS5CEMU-HAR"
     },
     {
-      "name": "NFS Most Wanted",
+      "name": "NFS Black Box",
       "filename": "PPSA99403.zip",
       "url": "https://github.com/lavavex/nfs-blackbox-ps5/releases/download/01.000.000/PPSA99403.zip",
       "local_path": "downloads/apps/homebrew_page/game/PPSA99403/01.000.000/PPSA99403.zip",
-      "description": "Need for Speed: Most Wanted (2005), the PC version through prospero-win, installed from your own copy with widescreen, DualSense and optional Xbox 360 graphics mods.",
+      "description": "Black Box's Need for Speed games as homebrew apps on a jailbroken PS5, through prospero-win (bring your own copy).",
       "version": "01.000.000",
       "category": "Games",
       "kind": "game",
@@ -958,7 +958,7 @@
       "filename": "PPSA99520.zip",
       "url": "https://github.com/viviandsx/regie5/releases/download/v0.7.0/PPSA99520.zip",
       "local_path": "downloads/apps/homebrew_page/app/PPSA99520/0.7.0/PPSA99520.zip",
-      "description": "A TV remote for your self-hosted media stack: Sonarr, Radarr, Seerr and Jellyfin at a glance, with request approval, playback diagnosis and an optional cleanup.",
+      "description": "A TV remote for your self-hosted media stack: Sonarr, Radarr, Seerr and Jellyfin, Emby or Plex at a glance, with request approval, playback diagnosis and an optional cleanup.",
       "version": "0.7.0",
       "category": "Apps",
       "kind": "app",
@@ -1180,15 +1180,15 @@
     {
       "name": "PSBox Cloud Gaming",
       "filename": "PPSA99810.zip",
-      "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.2.0/PPSA99810.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.2.0/PPSA99810.zip",
+      "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.3.0/PPSA99810.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.3.0/PPSA99810.zip",
       "description": "Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.",
-      "version": "1.2.0",
+      "version": "1.3.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99810",
       "author": "RafaelNGP",
-      "checksum": "e8ab183b7f217894c5e95a16c44643dc49e3ccd1e3ddf9ad4057a156afdf2f59",
+      "checksum": "ad63a8704fb6f5e6797f7657f6fb2b7a7b14795ae063112a1222814cf0736299",
       "source": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5"
     },
     {

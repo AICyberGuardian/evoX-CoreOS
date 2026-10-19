@@ -1,5 +1,16 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 19/10/2026 à 12:13
+* **PAYLOADS**
+  * `Ps5Upload V7.1.8` (v7.1.8) - *Nouveau*
+  * `Pldmgr V0.6.2` (v0.6.2) - *Nouveau*
+* **FFPFSC**
+  * `Evoplayer-V0.12.5-Ppsa99039` (v0.12.5) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `ProsperoTV` (01.000.080) - *Mise à jour (Précédent: 01.000.070)*
+  * `NFS Black Box` (01.000.000) - *Nouveau*
+  * `PSBox Cloud Gaming` (1.3.0) - *Mise à jour (Précédent: 1.2.0)*
+
 ## Build du 19/10/2026 à 03:23
 * **PAYLOADS**
   * `Ps5Upload V7.1.5` (v7.1.5) - *Nouveau*
