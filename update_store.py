@@ -171,9 +171,9 @@ def build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat, hb_page_
     create_dynamic_zips("PS5_ffpfsc_aio", ffpfsc_flat)
     create_dynamic_zips("PS5_apps_aio", apps_flat)
 
-    # Zips par catégorie homebrew.page
+    # Zips par catégorie ProsperoStore (anciennement homebrewpage)
     for kind, cat_data in hb_page_by_cat.items():
-        create_dynamic_zips(f"homebrewpage-{kind}_aio", cat_data["items"])
+        create_dynamic_zips(f"prosperostore-{kind}_aio", cat_data["items"])
     
     # Pack Ultimate regroupant absolument tout
     ultimate_items = payloads_flat + pkg_flat + ffpfsc_flat + apps_flat + hb_page_flat
@@ -202,7 +202,7 @@ def generate_pack_aio_json(github_releases_base):
                     pack_type = "ffpfsc"
                 elif "apps" in zip_file:
                     pack_type = "apps"
-                elif "homebrewpage" in zip_file:
+                elif "prosperostore" in zip_file:
                     pack_type = "homebrew_page"
                 elif "ultimate_pack" in zip_file:
                     pack_type = "ultimate"
@@ -238,7 +238,7 @@ def main():
         print("📥 [0/5] Téléchargement des catalogues Pegasus distants...")
         download_catalogs()
 
-        print("🔍 [1/5] Scraping des sources et du catalogue homebrew.page...")
+        print("🔍 [1/5] Scraping des sources et du catalogue ProsperoStore...")
         payloads_by_cat, payloads_flat = fetch_payloads_category(credits_set)
         pkg_by_cat, pkg_flat = fetch_pkg_category(credits_set)
         ffpfsc_by_cat, ffpfsc_flat = fetch_ffpfsc_category(credits_set)
@@ -272,7 +272,7 @@ def main():
             "pkg": {"name": "Packages PKG", "items": pkg_flat},
             "ffpfsc": {"name": "Fichiers FFPFSC", "items": ffpfsc_flat},
             "apps": {"name": "Applications", "items": apps_flat},
-            "homebrew_page": {"name": "Homebrew Page", "items": hb_page_flat}
+            "homebrew_page": {"name": "ProsperoStore", "items": hb_page_flat}
         }
 
         print("📦 [2/5] Génération de l'arborescence JSON complète...")
