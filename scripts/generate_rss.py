@@ -1,4 +1,4 @@
-# /scripts/generate_rss.py
+# scripts/generate_rss.py
 import os
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
@@ -42,8 +42,8 @@ def build_rss_feed(data_store):
                 except Exception as e:
                     print(f"⚠️ Erreur lecture OPML source {opml_path} : {e}")
 
-    # Ajout d'une section dédiée homebrew.page dans l'OPML global
-    hb_outline = ET.SubElement(global_opml_body, "outline", {"text": "Homebrew Page", "title": "Homebrew Page"})
+    # Ajout d'une section dédiée ProsperoStore dans l'OPML global
+    hb_outline = ET.SubElement(global_opml_body, "outline", {"text": "ProsperoStore", "title": "ProsperoStore"})
     
     for cat_key, cat_info in data_store.items():
         if not isinstance(cat_info, dict):
@@ -67,7 +67,7 @@ def build_rss_feed(data_store):
         opml_body = ET.SubElement(opml_root, "body")
 
         for item in items:
-            # Pour homebrew_page, on privilégie le lien source externe ou la page officielle s'il existe
+            # Pour homebrew_page (ProsperoStore), on privilégie le lien source externe ou la page officielle s'il existe
             item_link = item.get("source") if cat_key == "homebrew_page" and item.get("source") else item.get("url")
 
             item_elem = ET.SubElement(channel, "item")
