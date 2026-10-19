@@ -58,7 +58,7 @@ Retrouvez l'ensemble des points d'accès aux données JSON du store :
 - **Packages (PKG) Global** : `{json_base_url}/pkg.json`
 - **Fichiers FFPFSC Global** : `{json_base_url}/ffpfsc.json`
 - **Applications Global** : `{json_base_url}/apps.json`
-- **Homebrew.page Catalog** : `{json_base_url}/homebrew_page.json`
+- **ProsperoStore Catalog** : `{json_base_url}/homebrew_page.json`
 
 ---
 
@@ -84,7 +84,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
         "pkg": "🎮 Packages PS5 (.pkg) Disponibles",
         "ffpfsc": "📄 Fichiers FFPFSC Disponibles",
         "apps": "🛠️ Applications Utilitaires Disponibles",
-        "homebrew_page": "🌐 Catalogue Homebrew.page (Communauté PS5)"
+        "homebrew_page": "🌐 Catalogue ProsperoStore (Communauté PS5)"
     }
 
     if data_store_by_cat:
