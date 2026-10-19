@@ -2,16 +2,6 @@
   "name": "AIO Store Apps",
   "apps": [
     {
-      "name": "Ppsa99004",
-      "filename": "PPSA99004.zip",
-      "url": "https://github.com/quatrixone/ProsperoAI/releases/download/01.006.000/PPSA99004.zip",
-      "local_path": "apps/ProsperoAI/01.006.000/PPSA99004.zip",
-      "description": "Private, local generative AI for PlayStation 5 homebrew",
-      "version": "01.006.000",
-      "checksum": "8b2241e003a22bffccee23e9424991533047e633e5ce337af60281b96868439e",
-      "category": "Applications"
-    },
-    {
       "name": "Castation-0.4.0",
       "filename": "castation-0.4.0.zip",
       "url": "https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip",

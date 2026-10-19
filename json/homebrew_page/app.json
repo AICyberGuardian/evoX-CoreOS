@@ -16,6 +16,20 @@
       "source": "https://github.com/Marice/OliSePlayer"
     },
     {
+      "name": "PS64",
+      "filename": "PPSA06464.zip",
+      "url": "https://github.com/dantaipan/PS64/releases/download/01.000.000/PPSA06464.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA06464/01.000.000/PPSA06464.zip",
+      "description": "Play the Commodore 64 on PS5: stream and control a C64 Ultimate, or use the built-in VICE emulator, with Assembly64 search.",
+      "version": "01.000.000",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA06464",
+      "author": "dantaipan",
+      "checksum": "c9927e906e0631d1e62fe99f48e56e21a6f055e340b85699eaba1ac3ce4b3f0f",
+      "source": "https://github.com/dantaipan/PS64"
+    },
+    {
       "name": "SymphonyStation5",
       "filename": "PPSA17641.zip",
       "url": "https://github.com/TsvetomirGT/SymphonyStation5/releases/download/v0.1.0/SymphonyStation5-v0.1.0.zip",
@@ -58,6 +72,20 @@
       "source": "https://github.com/DevvNirvana/afterglow"
     },
     {
+      "name": "PayLoader",
+      "filename": "PPSA67670.zip",
+      "url": "https://github.com/Marice/ps5-payloader/releases/download/v00.001.000/PPSA67670.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA67670/00.001.000/PPSA67670.zip",
+      "description": "A controller front-end for Payload Manager (pldmgr), which it brings: start, install and update payloads, edit your boot chain with a USB safety net, and install the Signal suite.",
+      "version": "00.001.000",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA67670",
+      "author": "Marice",
+      "checksum": "c818a6598d5b34268d3ae766e3ca19e4051db08372d5158dac72dbf7565a0d91",
+      "source": "https://github.com/Marice/ps5-payloader"
+    },
+    {
       "name": "Ruffle Flash",
       "filename": "PPSA68091.zip",
       "url": "https://github.com/ZiZc3/Ruffle-Flash-PS5/releases/download/1.2.0/PPSA68091.zip",
@@ -88,29 +116,29 @@
     {
       "name": "Stremio Plus",
       "filename": "PPSA74126.zip",
-      "url": "https://github.com/LoZazaMastro/Stremio-Plus/releases/download/0.5.11/PPSA74126.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA74126/0.5.11/PPSA74126.zip",
-      "description": "Unofficial native Stremio client for PS5 with Prospero UI, add-on sync, torrent streaming, offline downloads and customizable subtitles.",
-      "version": "0.5.11",
+      "url": "https://github.com/LoZazaMastro/Stremio-Plus/releases/download/0.5.18/PPSA74126.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA74126/0.5.18/PPSA74126.zip",
+      "description": "Unofficial native Stremio client for PS5 with Prospero UI, add-on sync, torrent streaming, offline downloads, enhanced playback stability and sortable high-resolution download artwork.",
+      "version": "0.5.18",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA74126",
       "author": "LoZazaMastro",
-      "checksum": "9f9ecb9c8b87d01a4eb5969f7ea8af853d20d37165afd6d8081a525487bcf990",
+      "checksum": "1d261af1a999ce754e2110022f068db5b96eb4e61d0cb9b661e4f2750f85b7c3",
       "source": "https://github.com/LoZazaMastro/Stremio-Plus"
     },
     {
       "name": "Jewel Case",
       "filename": "PPSA75837.zip",
-      "url": "https://github.com/SkaRift/JewelCase/releases/download/v1.1/PPSA75837.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA75837/1.1/PPSA75837.zip",
+      "url": "https://github.com/SkaRift/JewelCase/releases/download/v1.1.1/PPSA75837.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA75837/1.1.1/PPSA75837.zip",
       "description": "Home-screen ROM launcher that shows every system's games as cartridges and discs with box art and starts each in the right emulator.",
-      "version": "1.1",
+      "version": "1.1.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA75837",
       "author": "SkaRift",
-      "checksum": "e6831366698d5ebf41a3bf05105782376281768e950b56857e96a9a3b1e43ff5",
+      "checksum": "4d908862fcb4d4dbb5c9d6d950beeef46fe2755a01c30291cfea9a99ec462fb2",
       "source": "https://github.com/SkaRift/JewelCase"
     },
     {
@@ -156,6 +184,20 @@
       "source": "https://github.com/ZiZc3/VLC"
     },
     {
+      "name": "Prospero Themes",
+      "filename": "PPSA90210.zip",
+      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.008/PPSA90210.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.008/PPSA90210.zip",
+      "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
+      "version": "01.000.008",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA90210",
+      "author": "Darkatek7",
+      "checksum": "6abe1f3ec3b9c2f63ecee0284e6cf07b4ed4c8d9a0356b7f8b75e2ccdfc8dd77",
+      "source": "https://github.com/Darkatek7/ProsperoThemes"
+    },
+    {
       "name": "Capy Mobile",
       "filename": "PPSA92280.zip",
       "url": "https://github.com/khalifa007/CapyMobile/releases/download/v0.5.0/CapyMobile-00.005.000.zip",
@@ -168,6 +210,20 @@
       "author": "Khalifa Al-Khatri",
       "checksum": "80b14507838cd835fca794a493cde6b4cf0e7ca923afafaa1bc37c08f8fca6ec",
       "source": "https://github.com/khalifa007/CapyMobile"
+    },
+    {
+      "name": "Breeze",
+      "filename": "PPSA92878.zip",
+      "url": "https://github.com/MiladRTX/Breeze/releases/download/v1.8.1/PPSA92878.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA92878/1.8.1/PPSA92878.zip",
+      "description": "Custom fan curve for the PS5: choose how fast the fan runs at each temperature, with live readings, 24-hour history and presets.",
+      "version": "1.8.1",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA92878",
+      "author": "Milad",
+      "checksum": "ac2f72e1fe0ab63e7a0da690460b03f12fa5199e2aa41435aadf56d0113952f7",
+      "source": "https://github.com/MiladRTX/Breeze"
     },
     {
       "name": "XPSemu",
@@ -196,6 +252,20 @@
       "author": "SynoPiia",
       "checksum": "8904a734f99ecd837071f78167214cb2fa867870936afe996f6f3c95f7b4af60",
       "source": "https://github.com/SynoPiia/PSXS5"
+    },
+    {
+      "name": "TubeBlock",
+      "filename": "PPSA98260.zip",
+      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.152/SmartTube-PPSA98260.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.152/PPSA98260.zip",
+      "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
+      "version": "01.000.152",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA98260",
+      "author": "animatian112",
+      "checksum": "66bf599a2cb9cd8a0b4f9e53fa96f2b8a2d47ed30d99cddbf53b40cfc4ddc9f9",
+      "source": "https://github.com/animatian112/ytps5-sponsorblock"
     },
     {
       "name": "CD Player",
@@ -326,15 +396,15 @@
     {
       "name": "EVO Player",
       "filename": "PPSA99039.zip",
-      "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.12.0/EVOPlayer-v0.12.0-PPSA99039.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99039/0.12.0/PPSA99039.zip",
+      "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.12.5/EVOPlayer-v0.12.5-PPSA99039.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99039/0.12.5/PPSA99039.zip",
       "description": "Media player for PS5 that plays video from USB or internal storage, with hardware decoding up to 4K, 10-bit HDR and surround audio.",
-      "version": "0.12.0",
+      "version": "0.12.5",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99039",
       "author": "Sain Saji",
-      "checksum": "98788be10b3d2fe2909f6e353e2e09409ad29e46c2bc37112e2f35d9baa00d8a",
+      "checksum": "79b18f57ce4573bd237a1a20d9feb21b9bdb3e2f872b0ef208c106e748a447c8",
       "source": "https://github.com/sainsaji/EVO-PLAYER-PS5"
     },
     {
@@ -368,16 +438,30 @@
     {
       "name": "OpenNOW PS5 - Prototype",
       "filename": "PPSA99082.zip",
-      "url": "https://github.com/Portablelle/OpenNOW-PS5/releases/download/0.1/OpenNOW-PS5-0.1.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99082/0.1/PPSA99082.zip",
+      "url": "https://github.com/OpenCloudGaming/OpenNOW-PS5/releases/download/0.3.0/OpenNOW-PS5-0.3.0.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99082/0.3.0/PPSA99082.zip",
       "description": "Experimental native PS5 GeForce NOW client: a working, console-tested prototype with hardware decoding and GPU presentation.",
-      "version": "0.1",
+      "version": "0.3.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99082",
+      "author": "OpenCloudGaming",
+      "checksum": "027ad6f1cf77fa605927b9523e755505d7a64b0b89b1c7b14b949ac0dc0040c2",
+      "source": "https://github.com/OpenCloudGaming/OpenNOW-PS5"
+    },
+    {
+      "name": "Codex PS5 - Prototype",
+      "filename": "PPSA99105.zip",
+      "url": "https://github.com/Portablelle/Codex-PS5/releases/download/v0.0.4/codex-ps5-0.0.4-Folder.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99105/0.0.4/PPSA99105.zip",
+      "description": "Native PS5 assistant with controller input, local voice transcription and console tools; requires a separate service payload.",
+      "version": "0.0.4",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99105",
       "author": "Portablelle",
-      "checksum": "34c773dedda97d1503144eee50f9234ff1b4170a6ff68ed0bb0f59dd2ba87309",
-      "source": "https://github.com/Portablelle/OpenNOW-PS5"
+      "checksum": "b6f8952b72eaa4806baab21634aae950f69a365bee4215a373d750e8f652364b",
+      "source": "https://github.com/Portablelle/Codex-PS5"
     },
     {
       "name": "Mortalfin",
@@ -424,15 +508,15 @@
     {
       "name": "PS5SX2",
       "filename": "PPSA99203.zip",
-      "url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-171/PS5SX2-vk-285-171.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99203/vk-285-171/PPSA99203.zip",
+      "url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-177/PS5SX2-vk-285-177.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99203/vk-285-177/PPSA99203.zip",
       "description": "PCSX2 port for PS5 that runs PS2 games natively with a Vulkan renderer, up to 6x resolution and settings from your phone. Bring your own BIOS and games.",
-      "version": "vk-285-171",
+      "version": "vk-285-177",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99203",
       "author": "Sword",
-      "checksum": "226ac24866f0b94566c0680c3b99c0d5abfe8030723f5b28dae20af039c76963",
+      "checksum": "4a63f445a904808382a11b1f84d7affdf3a7a3e47a6facb3eec2bb0b1524569b",
       "source": "https://github.com/Swordpdf/PS5SX2"
     },
     {

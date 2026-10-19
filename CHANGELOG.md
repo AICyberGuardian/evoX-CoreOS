@@ -1,5 +1,27 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 19/10/2026 à 22:11
+* **PAYLOADS**
+  * `Web-File-Mgr-V1.11B` (v1.11b) - *Nouveau*
+  * `Wfm-7Zip-Helper` (v1.11b) - *Mise à jour (Précédent: v1.11)*
+  * `Ps5Upload V7.1.9` (v7.1.9) - *Nouveau*
+  * `Pldmgr V0.6.3` (v0.6.3) - *Nouveau*
+  * `Web-File-Mgr-V1.11` (ps5-web-file-manager) - *Mise à jour (Précédent: v1.11)*
+* **HOMEBREW_PAGE**
+  * `PS64` (01.000.000) - *Nouveau*
+  * `PayLoader` (00.001.000) - *Nouveau*
+  * `Stremio Plus` (0.5.18) - *Mise à jour (Précédent: 0.5.11)*
+  * `Jewel Case` (1.1.1) - *Mise à jour (Précédent: 1.1)*
+  * `Prospero Themes` (01.000.008) - *Nouveau*
+  * `Breeze` (1.8.1) - *Nouveau*
+  * `TubeBlock` (01.000.152) - *Nouveau*
+  * `FFTARecomp` (ps5-v1.0.0) - *Nouveau*
+  * `EVO Player` (0.12.5) - *Mise à jour (Précédent: 0.12.0)*
+  * `OpenNOW PS5 - Prototype` (0.3.0) - *Mise à jour (Précédent: 0.1)*
+  * `Codex PS5 - Prototype` (0.0.4) - *Nouveau*
+  * `PS5SX2` (vk-285-177) - *Mise à jour (Précédent: vk-285-171)*
+  * `Pulse` (01.000.000) - *Nouveau*
+
 ## Build du 19/10/2026 à 13:52
 * **HOMEBREW_PAGE**
   * `CD Player` (1.1.1) - *Mise à jour (Précédent: 1.1.0)*

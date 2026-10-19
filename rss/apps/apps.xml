@@ -5,12 +5,6 @@
     <link>https://nexgen999.github.io/evoX-CoreOS</link>
     <description>Mises à jour automatiques pour la catégorie Applications</description>
     <item>
-      <title>Ppsa99004</title>
-      <link>https://github.com/quatrixone/ProsperoAI/releases/download/01.006.000/PPSA99004.zip</link>
-      <description>Private, local generative AI for PlayStation 5 homebrew</description>
-      <pubDate>01.006.000</pubDate>
-    </item>
-    <item>
       <title>Castation-0.4.0</title>
       <link>https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip</link>
       <description>Dreamcast emulator based on Flycast PlayStation 5 homebrew</description>

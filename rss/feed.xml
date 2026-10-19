@@ -53,16 +53,16 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Web-File-Mgr-V1.11</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.11/web-file-mgr-v1.11.elf</link>
+      <title>[Payloads] Web-File-Mgr-V1.11B</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.11b/web-file-mgr-v1.11b.elf</link>
       <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
-      <pubDate>v1.11</pubDate>
+      <pubDate>v1.11b</pubDate>
     </item>
     <item>
       <title>[Payloads] Wfm-7Zip-Helper</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.11/wfm-7zip-helper.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.11b/wfm-7zip-helper.elf</link>
       <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
-      <pubDate>v1.11</pubDate>
+      <pubDate>v1.11b</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-File-Explorer Vfile-Explorer-V0.2.1</title>
@@ -191,10 +191,10 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V7.1.8</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.1.8/ps5upload_v7.1.8.elf</link>
+      <title>[Payloads] Ps5Upload V7.1.9</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.1.9/ps5upload_v7.1.9.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v7.1.8</pubDate>
+      <pubDate>v7.1.9</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -335,10 +335,10 @@
       <pubDate>v0.1.5-915a65e</pubDate>
     </item>
     <item>
-      <title>[Payloads] Pldmgr V0.6.2</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.2/pldmgr_v0.6.2.elf</link>
+      <title>[Payloads] Pldmgr V0.6.3</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.3/pldmgr_v0.6.3.elf</link>
       <description>Interface d</description>
-      <pubDate>v0.6.2</pubDate>
+      <pubDate>v0.6.3</pubDate>
     </item>
     <item>
       <title>[Payloads] Elf Arsenal V1.6.23</title>
@@ -713,6 +713,12 @@
       <pubDate>ps5-web-file-manager</pubDate>
     </item>
     <item>
+      <title>[Payloads] Web-File-Mgr-V1.11</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ps5-web-file-manager</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Nuvio-Ps5 V1.8.0</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
@@ -855,12 +861,6 @@
       <link>https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/02.000.055/PROSPERO_RADIO.ffpfsc</link>
       <description>An internet radio for PS5 with a real radio face — rendered with Vulkan.</description>
       <pubDate>02.000.055</pubDate>
-    </item>
-    <item>
-      <title>[Applications] Ppsa99004</title>
-      <link>https://github.com/quatrixone/ProsperoAI/releases/download/01.006.000/PPSA99004.zip</link>
-      <description>Private, local generative AI for PlayStation 5 homebrew</description>
-      <pubDate>01.006.000</pubDate>
     </item>
     <item>
       <title>[Applications] Castation-0.4.0</title>
@@ -1073,6 +1073,12 @@
       <pubDate>02.001.000</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] PS64</title>
+      <link>https://github.com/dantaipan/PS64</link>
+      <description>Play the Commodore 64 on PS5: stream and control a C64 Ultimate, or use the built-in VICE emulator, with Assembly64 search.</description>
+      <pubDate>01.000.000</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] SymphonyStation5</title>
       <link>https://github.com/TsvetomirGT/SymphonyStation5</link>
       <description>A native Navidrome music client for the PlayStation 5.</description>
@@ -1115,6 +1121,12 @@
       <pubDate>1.00</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] PayLoader</title>
+      <link>https://github.com/Marice/ps5-payloader</link>
+      <description>A controller front-end for Payload Manager (pldmgr), which it brings: start, install and update payloads, edit your boot chain with a USB safety net, and install the Signal suite.</description>
+      <pubDate>00.001.000</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] Ruffle Flash</title>
       <link>https://github.com/ZiZc3/Ruffle-Flash-PS5</link>
       <description>PS5 Port of Ruffle Flash Emulator.</description>
@@ -1153,8 +1165,8 @@
     <item>
       <title>[ProsperoStore] Stremio Plus</title>
       <link>https://github.com/LoZazaMastro/Stremio-Plus</link>
-      <description>Unofficial native Stremio client for PS5 with Prospero UI, add-on sync, torrent streaming, offline downloads and customizable subtitles.</description>
-      <pubDate>0.5.11</pubDate>
+      <description>Unofficial native Stremio client for PS5 with Prospero UI, add-on sync, torrent streaming, offline downloads, enhanced playback stability and sortable high-resolution download artwork.</description>
+      <pubDate>0.5.18</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] The Simpsons Game</title>
@@ -1166,7 +1178,7 @@
       <title>[ProsperoStore] Jewel Case</title>
       <link>https://github.com/SkaRift/JewelCase</link>
       <description>Home-screen ROM launcher that shows every system's games as cartridges and discs with box art and starts each in the right emulator.</description>
-      <pubDate>1.1</pubDate>
+      <pubDate>1.1.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] RommPS</title>
@@ -1187,10 +1199,22 @@
       <pubDate>0.4.6</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] Prospero Themes</title>
+      <link>https://github.com/Darkatek7/ProsperoThemes</link>
+      <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
+      <pubDate>01.000.008</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] Capy Mobile</title>
       <link>https://github.com/khalifa007/CapyMobile</link>
       <description>Java phone games (J2ME) on the PS5: a native homebrew emulator app</description>
       <pubDate>0.5.0</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] Breeze</title>
+      <link>https://github.com/MiladRTX/Breeze</link>
+      <description>Custom fan curve for the PS5: choose how fast the fan runs at each temperature, with live readings, 24-hour history and presets.</description>
+      <pubDate>1.8.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Raptor: Call of the Shadows (PS5)</title>
@@ -1217,6 +1241,12 @@
       <pubDate>1.0.2</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] TubeBlock</title>
+      <link>https://github.com/animatian112/ytps5-sponsorblock</link>
+      <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
+      <pubDate>01.000.152</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] CD Player</title>
       <link>https://github.com/LoZazaMastro/CD-Player</link>
       <description>Rediscover your audio CDs and fall in love with your music again: a native PS5 player with USB drive support, album art and reactive visuals.</description>
@@ -1233,6 +1263,12 @@
       <link>https://github.com/darkxex/ReKHCom-PS5</link>
       <description>Native PS5 port of Kingdom Hearts: Chain of Memories (The GBA Version). The European, US and Japanese cartridges are supported; the version is detected from the ROM you provide (no ROM is included).</description>
       <pubDate>ps5-v1.0.6</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] FFTARecomp</title>
+      <link>https://github.com/darkxex/FFTARecomp-PS5</link>
+      <description>inal Fantasy Tactics Advance, running natively on your PS5 (no ROM is included).</description>
+      <pubDate>ps5-v1.0.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] DriftCheck</title>
@@ -1292,7 +1328,7 @@
       <title>[ProsperoStore] EVO Player</title>
       <link>https://github.com/sainsaji/EVO-PLAYER-PS5</link>
       <description>Media player for PS5 that plays video from USB or internal storage, with hardware decoding up to 4K, 10-bit HDR and surround audio.</description>
-      <pubDate>0.12.0</pubDate>
+      <pubDate>0.12.5</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Surround Sound Studio</title>
@@ -1308,9 +1344,15 @@
     </item>
     <item>
       <title>[ProsperoStore] OpenNOW PS5 - Prototype</title>
-      <link>https://github.com/Portablelle/OpenNOW-PS5</link>
+      <link>https://github.com/OpenCloudGaming/OpenNOW-PS5</link>
       <description>Experimental native PS5 GeForce NOW client: a working, console-tested prototype with hardware decoding and GPU presentation.</description>
-      <pubDate>0.1</pubDate>
+      <pubDate>0.3.0</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] Codex PS5 - Prototype</title>
+      <link>https://github.com/Portablelle/Codex-PS5</link>
+      <description>Native PS5 assistant with controller input, local voice transcription and console tools; requires a separate service payload.</description>
+      <pubDate>0.0.4</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Prospero Explorer</title>
@@ -1346,7 +1388,7 @@
       <title>[ProsperoStore] PS5SX2</title>
       <link>https://github.com/Swordpdf/PS5SX2</link>
       <description>PCSX2 port for PS5 that runs PS2 games natively with a Vulkan renderer, up to 6x resolution and settings from your phone. Bring your own BIOS and games.</description>
-      <pubDate>vk-285-171</pubDate>
+      <pubDate>vk-285-177</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PSFlyCast</title>
@@ -1587,6 +1629,12 @@
       <link>https://github.com/HandshakeHackin/youtube-maxd</link>
       <description>Standalone PS5 YouTube client based on ProsperoTube, with local voice search, Smart playlists, adaptive quality and red/white DualSense effects.</description>
       <pubDate>1.3.0-preview.1</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] Pulse</title>
+      <link>https://github.com/shwan-ps5/pulse</link>
+      <description>A Beat Saber-style rhythm game for PS VR2 and Sense controllers that turns any MP3 into note maps on the console.</description>
+      <pubDate>01.000.000</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Prospero Win</title>

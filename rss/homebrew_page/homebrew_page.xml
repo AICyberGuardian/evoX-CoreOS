@@ -11,6 +11,12 @@
       <pubDate>02.001.000</pubDate>
     </item>
     <item>
+      <title>PS64</title>
+      <link>https://github.com/dantaipan/PS64</link>
+      <description>Play the Commodore 64 on PS5: stream and control a C64 Ultimate, or use the built-in VICE emulator, with Assembly64 search.</description>
+      <pubDate>01.000.000</pubDate>
+    </item>
+    <item>
       <title>SymphonyStation5</title>
       <link>https://github.com/TsvetomirGT/SymphonyStation5</link>
       <description>A native Navidrome music client for the PlayStation 5.</description>
@@ -53,6 +59,12 @@
       <pubDate>1.00</pubDate>
     </item>
     <item>
+      <title>PayLoader</title>
+      <link>https://github.com/Marice/ps5-payloader</link>
+      <description>A controller front-end for Payload Manager (pldmgr), which it brings: start, install and update payloads, edit your boot chain with a USB safety net, and install the Signal suite.</description>
+      <pubDate>00.001.000</pubDate>
+    </item>
+    <item>
       <title>Ruffle Flash</title>
       <link>https://github.com/ZiZc3/Ruffle-Flash-PS5</link>
       <description>PS5 Port of Ruffle Flash Emulator.</description>
@@ -91,8 +103,8 @@
     <item>
       <title>Stremio Plus</title>
       <link>https://github.com/LoZazaMastro/Stremio-Plus</link>
-      <description>Unofficial native Stremio client for PS5 with Prospero UI, add-on sync, torrent streaming, offline downloads and customizable subtitles.</description>
-      <pubDate>0.5.11</pubDate>
+      <description>Unofficial native Stremio client for PS5 with Prospero UI, add-on sync, torrent streaming, offline downloads, enhanced playback stability and sortable high-resolution download artwork.</description>
+      <pubDate>0.5.18</pubDate>
     </item>
     <item>
       <title>The Simpsons Game</title>
@@ -104,7 +116,7 @@
       <title>Jewel Case</title>
       <link>https://github.com/SkaRift/JewelCase</link>
       <description>Home-screen ROM launcher that shows every system's games as cartridges and discs with box art and starts each in the right emulator.</description>
-      <pubDate>1.1</pubDate>
+      <pubDate>1.1.1</pubDate>
     </item>
     <item>
       <title>RommPS</title>
@@ -125,10 +137,22 @@
       <pubDate>0.4.6</pubDate>
     </item>
     <item>
+      <title>Prospero Themes</title>
+      <link>https://github.com/Darkatek7/ProsperoThemes</link>
+      <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
+      <pubDate>01.000.008</pubDate>
+    </item>
+    <item>
       <title>Capy Mobile</title>
       <link>https://github.com/khalifa007/CapyMobile</link>
       <description>Java phone games (J2ME) on the PS5: a native homebrew emulator app</description>
       <pubDate>0.5.0</pubDate>
+    </item>
+    <item>
+      <title>Breeze</title>
+      <link>https://github.com/MiladRTX/Breeze</link>
+      <description>Custom fan curve for the PS5: choose how fast the fan runs at each temperature, with live readings, 24-hour history and presets.</description>
+      <pubDate>1.8.1</pubDate>
     </item>
     <item>
       <title>Raptor: Call of the Shadows (PS5)</title>
@@ -155,6 +179,12 @@
       <pubDate>1.0.2</pubDate>
     </item>
     <item>
+      <title>TubeBlock</title>
+      <link>https://github.com/animatian112/ytps5-sponsorblock</link>
+      <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
+      <pubDate>01.000.152</pubDate>
+    </item>
+    <item>
       <title>CD Player</title>
       <link>https://github.com/LoZazaMastro/CD-Player</link>
       <description>Rediscover your audio CDs and fall in love with your music again: a native PS5 player with USB drive support, album art and reactive visuals.</description>
@@ -171,6 +201,12 @@
       <link>https://github.com/darkxex/ReKHCom-PS5</link>
       <description>Native PS5 port of Kingdom Hearts: Chain of Memories (The GBA Version). The European, US and Japanese cartridges are supported; the version is detected from the ROM you provide (no ROM is included).</description>
       <pubDate>ps5-v1.0.6</pubDate>
+    </item>
+    <item>
+      <title>FFTARecomp</title>
+      <link>https://github.com/darkxex/FFTARecomp-PS5</link>
+      <description>inal Fantasy Tactics Advance, running natively on your PS5 (no ROM is included).</description>
+      <pubDate>ps5-v1.0.0</pubDate>
     </item>
     <item>
       <title>DriftCheck</title>
@@ -230,7 +266,7 @@
       <title>EVO Player</title>
       <link>https://github.com/sainsaji/EVO-PLAYER-PS5</link>
       <description>Media player for PS5 that plays video from USB or internal storage, with hardware decoding up to 4K, 10-bit HDR and surround audio.</description>
-      <pubDate>0.12.0</pubDate>
+      <pubDate>0.12.5</pubDate>
     </item>
     <item>
       <title>Surround Sound Studio</title>
@@ -246,9 +282,15 @@
     </item>
     <item>
       <title>OpenNOW PS5 - Prototype</title>
-      <link>https://github.com/Portablelle/OpenNOW-PS5</link>
+      <link>https://github.com/OpenCloudGaming/OpenNOW-PS5</link>
       <description>Experimental native PS5 GeForce NOW client: a working, console-tested prototype with hardware decoding and GPU presentation.</description>
-      <pubDate>0.1</pubDate>
+      <pubDate>0.3.0</pubDate>
+    </item>
+    <item>
+      <title>Codex PS5 - Prototype</title>
+      <link>https://github.com/Portablelle/Codex-PS5</link>
+      <description>Native PS5 assistant with controller input, local voice transcription and console tools; requires a separate service payload.</description>
+      <pubDate>0.0.4</pubDate>
     </item>
     <item>
       <title>Prospero Explorer</title>
@@ -284,7 +326,7 @@
       <title>PS5SX2</title>
       <link>https://github.com/Swordpdf/PS5SX2</link>
       <description>PCSX2 port for PS5 that runs PS2 games natively with a Vulkan renderer, up to 6x resolution and settings from your phone. Bring your own BIOS and games.</description>
-      <pubDate>vk-285-171</pubDate>
+      <pubDate>vk-285-177</pubDate>
     </item>
     <item>
       <title>PSFlyCast</title>
@@ -525,6 +567,12 @@
       <link>https://github.com/HandshakeHackin/youtube-maxd</link>
       <description>Standalone PS5 YouTube client based on ProsperoTube, with local voice search, Smart playlists, adaptive quality and red/white DualSense effects.</description>
       <pubDate>1.3.0-preview.1</pubDate>
+    </item>
+    <item>
+      <title>Pulse</title>
+      <link>https://github.com/shwan-ps5/pulse</link>
+      <description>A Beat Saber-style rhythm game for PS VR2 and Sense controllers that turns any MP3 into note maps on the console.</description>
+      <pubDate>01.000.000</pubDate>
     </item>
     <item>
       <title>Prospero Win</title>
