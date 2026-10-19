@@ -138,7 +138,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
                             display_version = f"[{version}]({url})" if url and url != '#' else version
                             table_lines.append(f"| {name} | {author} | {display_version} | {desc} |")
                 elif cat_key == "homebrew_page":
-                    # Tableau spécifique pour homebrew.page avec Auteur, Version, SHA et Description
+                    # Tableau spécifique pour ProsperoStore avec Auteur, Version, SHA et Description
                     table_lines.append("| Application | Auteur | Version | Empreinte SHA-256 | Description |")
                     table_lines.append("| :--- | :--- | :--- | :--- | :--- |")
                     for item in sorted_items:
