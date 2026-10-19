@@ -191,10 +191,10 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V7.1.4</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.1.4/ps5upload_v7.1.4.elf</link>
+      <title>[Payloads] Ps5Upload V7.1.5</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.1.5/ps5upload_v7.1.5.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v7.1.4</pubDate>
+      <pubDate>v7.1.5</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -858,7 +858,7 @@
     </item>
     <item>
       <title>[Applications] Ppsa99004</title>
-      <link>https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.006.000/PPSA99004.zip</link>
+      <link>https://github.com/quatrixone/ProsperoAI/releases/download/01.006.000/PPSA99004.zip</link>
       <description>Private, local generative AI for PlayStation 5 homebrew</description>
       <pubDate>01.006.000</pubDate>
     </item>
@@ -912,9 +912,9 @@
     </item>
     <item>
       <title>[Applications] Ppsa99000</title>
-      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.090/PPSA99000.zip</link>
+      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.101/PPSA99000.zip</link>
       <description>homebrew store</description>
-      <pubDate>v1.000.090</pubDate>
+      <pubDate>v1.000.101</pubDate>
     </item>
     <item>
       <title>[Applications] Emustore-Ps5-V0.4.0</title>
@@ -1147,8 +1147,8 @@
     <item>
       <title>[Homebrew Page] Signal Companion</title>
       <link>https://github.com/Marice/ps5-signal-companion</link>
-      <description>Set the colour of your PS5's light and edit the startup beep tune and light show of the ps5-signal payload, which the app can start itself or add to ps5-autoloader.</description>
-      <pubDate>00.002.000</pubDate>
+      <description>Set your PS5's light colour and ps5-signal's startup tune, and manage the suite: start, update and autoload ps5-signal, ps5-exporter and ps5-homeassistant, and link the PS5 to Home Assistant.</description>
+      <pubDate>00.003.000</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] Stremio Plus</title>
@@ -1184,7 +1184,7 @@
       <title>[Homebrew Page] VLC</title>
       <link>https://github.com/ZiZc3/VLC</link>
       <description>VLC media player for PS5: videos, music, photos, subtitles, DVD images and more</description>
-      <pubDate>0.4.5</pubDate>
+      <pubDate>0.4.6</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] Prospero Themes</title>
@@ -1250,7 +1250,7 @@
       <title>[Homebrew Page] ProsperoStore</title>
       <link>https://github.com/darkxex/ProsperoStore</link>
       <description>Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.</description>
-      <pubDate>1.000.090</pubDate>
+      <pubDate>1.000.101</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] ProsperoLight</title>
@@ -1370,7 +1370,7 @@
       <title>[Homebrew Page] Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
       <description>An unofficial native Nuvio client for PS5 with synced watch progress, addon streams, episode skipping and experimental HDR10 playback.</description>
-      <pubDate>0.5.32-native-experimental</pubDate>
+      <pubDate>0.5.34-native-experimental</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] Spider-Man: Edge of Time</title>
@@ -1478,7 +1478,7 @@
       <title>[Homebrew Page] Régie5</title>
       <link>https://github.com/viviandsx/regie5</link>
       <description>A TV remote for your self-hosted media stack: Sonarr, Radarr, Seerr and Jellyfin at a glance, with request approval, playback diagnosis and an optional cleanup.</description>
-      <pubDate>0.6.0</pubDate>
+      <pubDate>0.7.0</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] PS5LM</title>
@@ -1592,7 +1592,7 @@
       <title>[Homebrew Page] YouTube Max’d</title>
       <link>https://github.com/HandshakeHackin/youtube-maxd</link>
       <description>Standalone PS5 YouTube client based on ProsperoTube, with local voice search, Smart playlists, adaptive quality and red/white DualSense effects.</description>
-      <pubDate>1.2.0-preview.1</pubDate>
+      <pubDate>1.3.0-preview.1</pubDate>
     </item>
     <item>
       <title>[Homebrew Page] Prospero Win</title>

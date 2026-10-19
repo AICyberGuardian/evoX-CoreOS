@@ -1,5 +1,18 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 19/10/2026 à 03:23
+* **PAYLOADS**
+  * `Ps5Upload V7.1.5` (v7.1.5) - *Nouveau*
+* **APPS**
+  * `Ppsa99000` (v1.000.101) - *Mise à jour (Précédent: v1.000.090)*
+* **HOMEBREW_PAGE**
+  * `Signal Companion` (00.003.000) - *Mise à jour (Précédent: 00.002.000)*
+  * `VLC` (0.4.6) - *Mise à jour (Précédent: 0.4.5)*
+  * `ProsperoStore` (1.000.101) - *Mise à jour (Précédent: 1.000.090)*
+  * `Nuvio Max'd` (0.5.34-native-experimental) - *Mise à jour (Précédent: 0.5.32-native-experimental)*
+  * `Régie5` (0.7.0) - *Mise à jour (Précédent: 0.6.0)*
+  * `YouTube Max’d` (1.3.0-preview.1) - *Mise à jour (Précédent: 1.2.0-preview.1)*
+
 ## Build du 18/10/2026 à 20:14
 * **PAYLOADS**
   * `Garlic-Savemgr V1.14.0` (v1.14.0) - *Nouveau*

@@ -3,6 +3,42 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA05132",
+      "title": "SIFU",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.024",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202201/1616/THJbARAq2YiRVUv5abCQ8GYQ.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202201/1616/THJbARAq2YiRVUv5abCQ8GYQ.png",
+      "description": "Itching for some more good ol’ Kung Fu action? The Arenas Expansion, features 15 dynamic locations packed with enemies, 5 game modes and 120 challenges in an explosive mix of film action. Face ever more intense combat moments, engage with the environment in an advanced way and push your Kung Fu training to its limits. Is one life enough to have Kung Fu? Whether you choose to play as a male or a female character, in Sifu, you will ponder that question on your path for revenge, hunting down your family’s assassins. One against all, you have no allies, countless enemies, and a mysterious amulet to bring you back to life every time you die. Yet, be warned! Your secret weapon comes with a hefty price to pay: aging and its consequences. Learning by fire Your enemies don’t wait their turn, and they don’t broadcast their intent. Dodge, parry, strike, use combos and be like water making its way through captivating environments. Learn how to master your art, whether by fighting through the underbelly of a nightclub, scrambling through a refined gallery to avoid getting surrounded, or vertically navigating a towering office building. Adaptation is survival Careful positioning and clever use of the environment to your advantage are key to your survival. Use everything at your disposal: throwable objects, makeshift weapons, windows and ledges… The odds are stacked against you, and you will be offered no mercy. Training never ends Kung Fu is mastery through practice, a path for both the body and the mind. Learn from your errors, unlock unique skills, and find the strength to master the devastating techniques of Pak Mei Kung Fu.\nRegion: USA\nFirmware: 3.xx+\nCredits: Oussama\nUpdated: 2026-10-18T21:37:49.653Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/25LPZ8n8nJ"
+        }
+      ],
+      "sizeBytes": 9663676416
+    },
+    {
+      "titleId": "PPSA05132",
+      "title": "SIFU",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.024",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202201/1616/THJbARAq2YiRVUv5abCQ8GYQ.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202201/1616/THJbARAq2YiRVUv5abCQ8GYQ.png",
+      "description": "Itching for some more good ol’ Kung Fu action? The Arenas Expansion, features 15 dynamic locations packed with enemies, 5 game modes and 120 challenges in an explosive mix of film action. Face ever more intense combat moments, engage with the environment in an advanced way and push your Kung Fu training to its limits. Is one life enough to have Kung Fu? Whether you choose to play as a male or a female character, in Sifu, you will ponder that question on your path for revenge, hunting down your family’s assassins. One against all, you have no allies, countless enemies, and a mysterious amulet to bring you back to life every time you die. Yet, be warned! Your secret weapon comes with a hefty price to pay: aging and its consequences. Learning by fire Your enemies don’t wait their turn, and they don’t broadcast their intent. Dodge, parry, strike, use combos and be like water making its way through captivating environments. Learn how to master your art, whether by fighting through the underbelly of a nightclub, scrambling through a refined gallery to avoid getting surrounded, or vertically navigating a towering office building. Adaptation is survival Careful positioning and clever use of the environment to your advantage are key to your survival. Use everything at your disposal: throwable objects, makeshift weapons, windows and ledges… The odds are stacked against you, and you will be offered no mercy. Training never ends Kung Fu is mastery through practice, a path for both the body and the mind. Learn from your errors, unlock unique skills, and find the strength to master the devastating techniques of Pak Mei Kung Fu.\nRegion: USA\nFirmware: 3.xx+\nCredits: Oussama\nUpdated: 2026-10-18T21:37:33.906Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/25LPZ8n8nJ"
+        }
+      ],
+      "sizeBytes": 9663676416
+    },
+    {
       "titleId": "PPSA03984",
       "title": "Forspoken",
       "createdAt": "2026-10-16T21:48:35.923Z",

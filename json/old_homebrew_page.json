@@ -186,15 +186,15 @@
         {
             "name": "Signal Companion",
             "filename": "PPSA69426.zip",
-            "url": "https://github.com/Marice/ps5-signal-companion/releases/download/v00.002.000/SignalCompanion-PS5-00.002.000.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA69426/00.002.000/PPSA69426.zip",
-            "description": "Set the colour of your PS5's light and edit the startup beep tune and light show of the ps5-signal payload, which the app can start itself or add to ps5-autoloader.",
-            "version": "00.002.000",
+            "url": "https://github.com/Marice/ps5-signal-companion/releases/download/v00.003.000/SignalCompanion-PS5-00.003.000.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA69426/00.003.000/PPSA69426.zip",
+            "description": "Set your PS5's light colour and ps5-signal's startup tune, and manage the suite: start, update and autoload ps5-signal, ps5-exporter and ps5-homeassistant, and link the PS5 to Home Assistant.",
+            "version": "00.003.000",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA69426",
             "author": "Marice",
-            "checksum": "32424f7f20dab79577e4ea54a52dd383ed8800dfcc2f9fc100965ea6398b6e13",
+            "checksum": "39e501e83b7fb52b510c4d818d063bc952c37fd521b06fa28854a49a9816232a",
             "source": "https://github.com/Marice/ps5-signal-companion"
         },
         {
@@ -270,15 +270,15 @@
         {
             "name": "VLC",
             "filename": "PPSA85300.zip",
-            "url": "https://github.com/ZiZc3/VLC/releases/download/v0.4.5/PPSA85300.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA85300/0.4.5/PPSA85300.zip",
+            "url": "https://github.com/ZiZc3/VLC/releases/download/v0.4.6/PPSA85300.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA85300/0.4.6/PPSA85300.zip",
             "description": "VLC media player for PS5: videos, music, photos, subtitles, DVD images and more",
-            "version": "0.4.5",
+            "version": "0.4.6",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA85300",
             "author": "AZiZ",
-            "checksum": "464423209f95749fe479c6cac9be74e6e16205b96758d6e4e8d5f451c7fd7777",
+            "checksum": "3fd59590181813e68cbc9e77cf88d6d48ed675d21628640887a0dc20dfafc1fb",
             "source": "https://github.com/ZiZc3/VLC"
         },
         {
@@ -424,15 +424,15 @@
         {
             "name": "ProsperoStore",
             "filename": "PPSA99000.zip",
-            "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.090/PPSA99000.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99000/1.000.090/PPSA99000.zip",
+            "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.101/PPSA99000.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99000/1.000.101/PPSA99000.zip",
             "description": "Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.",
-            "version": "1.000.090",
+            "version": "1.000.101",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99000",
             "author": "BlackBearReloaded",
-            "checksum": "1190d39089a67f054f0430ffc939689443f004737656a9f65cccf6d3e9f08bb5",
+            "checksum": "94ae4a33018e6d0b26fce53fb4067360622e4f06681df98c3b341dee4b016221",
             "source": "https://github.com/darkxex/ProsperoStore"
         },
         {
@@ -704,15 +704,15 @@
         {
             "name": "Nuvio Max'd",
             "filename": "PPSA99288.zip",
-            "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v0.5.32-native-experimental/PPSA99288.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99288/0.5.32-native-experimental/PPSA99288.zip",
+            "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v0.5.34-native-experimental/PPSA99288.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99288/0.5.34-native-experimental/PPSA99288.zip",
             "description": "An unofficial native Nuvio client for PS5 with synced watch progress, addon streams, episode skipping and experimental HDR10 playback.",
-            "version": "0.5.32-native-experimental",
+            "version": "0.5.34-native-experimental",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99288",
             "author": "HandshakeHackin",
-            "checksum": "093b27d8f545ef8264c46fc67659b67001d53b56d2db95f7c2b7bda500c0a975",
+            "checksum": "88173ce44ee4e0f7145d241a539deb767b9fc05d60b0d1d71a77194ff623b46d",
             "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
         },
         {
@@ -956,15 +956,15 @@
         {
             "name": "Régie5",
             "filename": "PPSA99520.zip",
-            "url": "https://github.com/viviandsx/regie5/releases/download/v0.6.0/PPSA99520.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99520/0.6.0/PPSA99520.zip",
+            "url": "https://github.com/viviandsx/regie5/releases/download/v0.7.0/PPSA99520.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99520/0.7.0/PPSA99520.zip",
             "description": "A TV remote for your self-hosted media stack: Sonarr, Radarr, Seerr and Jellyfin at a glance, with request approval, playback diagnosis and an optional cleanup.",
-            "version": "0.6.0",
+            "version": "0.7.0",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99520",
             "author": "Vivian",
-            "checksum": "6757ea3b5918e58be14c593922c895d804b074e7ffb4d061ce41fcd16345a080",
+            "checksum": "c54af57f7c6fe7ff8a2322be5a09e0620f51c8c10473d5b58908fa84d6a3e023",
             "source": "https://github.com/viviandsx/regie5"
         },
         {
@@ -1222,15 +1222,15 @@
         {
             "name": "YouTube Max’d",
             "filename": "PPSA99991.zip",
-            "url": "https://github.com/HandshakeHackin/youtube-maxd/releases/download/v1.2.0-preview.1/PPSA99991.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99991/1.2.0-preview.1/PPSA99991.zip",
+            "url": "https://github.com/HandshakeHackin/youtube-maxd/releases/download/v1.3.0-preview.1/PPSA99991.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99991/1.3.0-preview.1/PPSA99991.zip",
             "description": "Standalone PS5 YouTube client based on ProsperoTube, with local voice search, Smart playlists, adaptive quality and red/white DualSense effects.",
-            "version": "1.2.0-preview.1",
+            "version": "1.3.0-preview.1",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99991",
             "author": "HandshakeHackin",
-            "checksum": "6b40cce43ff9c70caae8ce308a1875ac8f55427d51f1b2579e5728021b48afb9",
+            "checksum": "22b4bf2c8b7fa67f3e11198645fab9746f7381170b12dfc82ce709814792e593",
             "source": "https://github.com/HandshakeHackin/youtube-maxd"
         },
         {
