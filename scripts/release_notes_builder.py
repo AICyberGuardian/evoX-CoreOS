@@ -38,7 +38,7 @@ def generate_release_notes(data_store_by_cat):
     for cat_key in categories:
         json_file_path = os.path.join(json_dir, f"{cat_key}.json")
         icon = icons.get(cat_key, "📦")
-        display_title = "HOMEBREW PAGE" if cat_key == "homebrew_page" else cat_key.upper()
+        display_title = "PROSPEROSTORE" if cat_key == "homebrew_page" else cat_key.upper()
         content += f"<details>\n<summary><b>{icon} Pack {display_title}</b></summary>\n\n"
         
         has_items = False
@@ -52,7 +52,7 @@ def generate_release_notes(data_store_by_cat):
                     file_entries = [item.get('filename') for item in json_content["apps"] if isinstance(item, dict) and item.get('filename')]
                     if file_entries:
                         has_items = True
-                        content += f"* **Applications Homebrew.page**\n"
+                        content += f"* **Applications ProsperoStore**\n"
                         seen = set()
                         for fname in file_entries:
                             if fname not in seen:
