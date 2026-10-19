@@ -6,7 +6,8 @@ import urllib.request
 from scripts.config_rules import PATHS, BASE_URL
 
 def fetch_homebrew_page_catalog(credits_set):
-    catalog_url = "https://homebrew.page/catalog/v1.json"
+    # Nouvelle URL du catalogue Prospero Store
+    catalog_url = "https://prosperostore.net/catalog/v1.json"
     feed_dir = os.path.join(PATHS["json_dir"], "homebrew_page")
     os.makedirs(feed_dir, exist_ok=True)
     
@@ -21,7 +22,6 @@ def fetch_homebrew_page_catalog(credits_set):
         req = urllib.request.urlopen(catalog_url)
         data = json.loads(req.read().decode('utf-8'))
         
-        # Le catalogue homebrew.page stocke ses applications dans la clé 'apps'
         records = data if isinstance(data, list) else data.get('apps', data.get('records', data.get('items', [])))
         
         for item in records:
@@ -29,7 +29,7 @@ def fetch_homebrew_page_catalog(credits_set):
             if not artifact_url:
                 continue
                 
-            kind = item.get('kind', 'app').lower() # ex: game, tool, app
+            kind = item.get('kind', 'app').lower()
             cat_display = kind.capitalize() + "s" if not kind.endswith('s') else kind.capitalize()
             
             title = item.get('name', 'Unknown App')
@@ -50,7 +50,7 @@ def fetch_homebrew_page_catalog(credits_set):
                 try:
                     urllib.request.urlretrieve(artifact_url, local_file_path)
                 except Exception as e:
-                    print(f"    ⚠️ Erreur téléchargement Homebrew.page ({title}): {e}")
+                    print(f"    ⚠️ Erreur téléchargement ProsperoStore ({title}): {e}")
                     continue
                     
             hasher = hashlib.sha256()
@@ -64,7 +64,7 @@ def fetch_homebrew_page_catalog(credits_set):
             item_data = {
                 "name": title,
                 "filename": filename,
-                "url": artifact_url,  # Utilisation de l'URL externe d'origine
+                "url": artifact_url,
                 "local_path": local_file_path,
                 "description": description if description else f"Application {title} par {author}",
                 "version": version,
@@ -73,7 +73,7 @@ def fetch_homebrew_page_catalog(credits_set):
                 "titleid": titleid,
                 "author": author,
                 "checksum": final_sha,
-                "source": item.get('source_repo') or f"https://homebrew.page/app/{titleid}"
+                "source": item.get('source_repo') or f"https://prosperostore.net/app/{titleid}"
             }
             
             if kind not in by_category:
@@ -82,9 +82,9 @@ def fetch_homebrew_page_catalog(credits_set):
             by_category[kind]["items"].append(item_data)
             all_flat.append(item_data)
             
-            credits_set.add(f"- **{author}** : [{title} (Homebrew.page)](https://homebrew.page/app/{titleid})")
+            credits_set.add(f"- **{author}** : [{title} (ProsperoStore)](https://prosperostore.net/app/{titleid})")
             
     except Exception as e:
-        print(f"    ⚠️ Impossible de récupérer le catalogue homebrew.page : {e}")
+        print(f"    ⚠️ Impossible de récupérer le catalogue ProsperoStore : {e}")
         
     return by_category, all_flat
