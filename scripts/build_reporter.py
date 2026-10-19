@@ -50,7 +50,7 @@ def generate_build_reports(data_store_flat, status="Succès 🚀"):
     status_content += "| :--- | :--- | :--- | :--- |\n"
     
     urls_to_test = [
-        ("Homebrew.page Catalog", "https://homebrew.page/catalog/v1.json", "Catalog API"),
+        ("ProsperoStore Catalog", "https://prosperostore.net/catalog/v1.json", "Catalog API"),
         ("GitHub - evoX-CoreOS", "https://github.com/nexgen999/evoX-CoreOS", "Dépôt Principal"),
     ]
     
