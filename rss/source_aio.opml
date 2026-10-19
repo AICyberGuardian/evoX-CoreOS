@@ -172,7 +172,7 @@
       <outline text="RPCS3" title="RPCS3" type="rss" xmlUrl="https://github.com/dmzebro/PS5_RPCS3" description="RPCS3 for PS5"/>
       <outline text="psp5" title="psp5" type="rss" xmlUrl="https://github.com/tsuramatsu1/psp5" description="ppsspp for PS5"/>
     </outline>
-    <outline text="Homebrew Page" title="Homebrew Page">
+    <outline text="ProsperoStore" title="ProsperoStore">
       <outline text="OliSe Player" title="OliSe Player" type="rss" xmlUrl="https://github.com/Marice/OliSePlayer" description="Tracker music radio in FastTracker II style, streaming MOD, XM, S3M and IT from The Mod Archive."/>
       <outline text="SymphonyStation5" title="SymphonyStation5" type="rss" xmlUrl="https://github.com/TsvetomirGT/SymphonyStation5" description="A native Navidrome music client for the PlayStation 5."/>
       <outline text="XashPS5" title="XashPS5" type="rss" xmlUrl="https://github.com/GordonProsperoMan/xash3d-ps5" description="Native PS5 port of Xash3D FWGS: Half-Life, Opposing Force and Blue Shift up to 4K at 60 FPS with DualSense input. Needs your own Half-Life game data."/>
@@ -193,7 +193,6 @@
       <outline text="RommPS" title="RommPS" type="rss" xmlUrl="https://github.com/s0liton/RommPS" description="Syncs your emulator saves and states with a RomM server and downloads games from your RomM library."/>
       <outline text="Stremio" title="Stremio" type="rss" xmlUrl="https://github.com/Sp9nky/unofficial-stremio-ps5-port" description="Unofficial Stremio client for the PS5"/>
       <outline text="VLC" title="VLC" type="rss" xmlUrl="https://github.com/ZiZc3/VLC" description="VLC media player for PS5: videos, music, photos, subtitles, DVD images and more"/>
-      <outline text="Prospero Themes" title="Prospero Themes" type="rss" xmlUrl="https://github.com/Darkatek7/ProsperoThemes" description="Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals."/>
       <outline text="Capy Mobile" title="Capy Mobile" type="rss" xmlUrl="https://github.com/khalifa007/CapyMobile" description="Java phone games (J2ME) on the PS5: a native homebrew emulator app"/>
       <outline text="Raptor: Call of the Shadows (PS5)" title="Raptor: Call of the Shadows (PS5)" type="rss" xmlUrl="https://github.com/ChaDea1/RaptorPS5" description="Unofficial native PS5 port of Raptor: Call of the Shadows with DualSense controls and optional first-launch shareware download."/>
       <outline text="XPSemu" title="XPSemu" type="rss" xmlUrl="https://github.com/ZiZc3/XPSemu" description="Original Xbox emulator for PS5, based on xemu."/>

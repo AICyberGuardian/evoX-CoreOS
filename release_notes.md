@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.19-1213)
+### 🚀 Synthèse de la mise à jour (v2026.10.19-1352)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -18,12 +18,12 @@ Le store PlayStation 5 a été mis à jour avec succès.
 - `PS5_ultimate_pack_part7_latest.zip`
 - `PS5_ultimate_pack_part8_latest.zip`
 - `PS5_ultimate_pack_part9_latest.zip`
-- `homebrewpage-app_aio_part1_latest.zip`
-- `homebrewpage-app_aio_part2_latest.zip`
-- `homebrewpage-app_aio_part3_latest.zip`
-- `homebrewpage-game_aio_part1_latest.zip`
-- `homebrewpage-game_aio_part2_latest.zip`
-- `homebrewpage-tool_aio_latest.zip`
+- `prosperostore-app_aio_part1_latest.zip`
+- `prosperostore-app_aio_part2_latest.zip`
+- `prosperostore-app_aio_part3_latest.zip`
+- `prosperostore-game_aio_part1_latest.zip`
+- `prosperostore-game_aio_part2_latest.zip`
+- `prosperostore-tool_aio_latest.zip`
 
 #### 📂 Fichiers inclus / mis à jour :
 📜 [Consulter le journal complet des modifications (CHANGELOG.md)](CHANGELOG.md)
@@ -235,9 +235,9 @@ Le store PlayStation 5 a été mis à jour avec succès.
 </details>
 
 <details>
-<summary><b>🌐 Pack HOMEBREW PAGE</b></summary>
+<summary><b>🌐 Pack PROSPEROSTORE</b></summary>
 
-* **Applications Homebrew.page**
+* **Applications ProsperoStore**
   * `PPSA01153.zip`
   * `PPSA17641.zip`
   * `PPSA19111.zip`
@@ -258,7 +258,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA76677.zip`
   * `PPSA77711.zip`
   * `PPSA85300.zip`
-  * `PPSA90210.zip`
   * `PPSA92280.zip`
   * `PPSA94002.zip`
   * `PPSA97358.zip`

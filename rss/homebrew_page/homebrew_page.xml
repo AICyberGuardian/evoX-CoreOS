@@ -1,9 +1,9 @@
 <?xml version="1.0" ?>
 <rss version="2.0">
   <channel>
-    <title>PS5 Store AIO - Homebrew Page</title>
+    <title>PS5 Store AIO - ProsperoStore</title>
     <link>https://nexgen999.github.io/evoX-CoreOS</link>
-    <description>Mises à jour automatiques pour la catégorie Homebrew Page</description>
+    <description>Mises à jour automatiques pour la catégorie ProsperoStore</description>
     <item>
       <title>OliSe Player</title>
       <link>https://github.com/Marice/OliSePlayer</link>
@@ -125,12 +125,6 @@
       <pubDate>0.4.6</pubDate>
     </item>
     <item>
-      <title>Prospero Themes</title>
-      <link>https://github.com/Darkatek7/ProsperoThemes</link>
-      <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.008</pubDate>
-    </item>
-    <item>
       <title>Capy Mobile</title>
       <link>https://github.com/khalifa007/CapyMobile</link>
       <description>Java phone games (J2ME) on the PS5: a native homebrew emulator app</description>
@@ -164,7 +158,7 @@
       <title>CD Player</title>
       <link>https://github.com/LoZazaMastro/CD-Player</link>
       <description>Rediscover your audio CDs and fall in love with your music again: a native PS5 player with USB drive support, album art and reactive visuals.</description>
-      <pubDate>1.1.0</pubDate>
+      <pubDate>1.1.1</pubDate>
     </item>
     <item>
       <title>SwanStationPS5</title>
@@ -176,7 +170,7 @@
       <title>ReKHCoM</title>
       <link>https://github.com/darkxex/ReKHCom-PS5</link>
       <description>Native PS5 port of Kingdom Hearts: Chain of Memories (The GBA Version). The European, US and Japanese cartridges are supported; the version is detected from the ROM you provide (no ROM is included).</description>
-      <pubDate>ps5-v1.0.5</pubDate>
+      <pubDate>ps5-v1.0.6</pubDate>
     </item>
     <item>
       <title>DriftCheck</title>

@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 19/10/2026 à 13:52
+* **HOMEBREW_PAGE**
+  * `CD Player` (1.1.1) - *Mise à jour (Précédent: 1.1.0)*
+  * `ReKHCoM` (ps5-v1.0.6) - *Mise à jour (Précédent: ps5-v1.0.5)*
+
 ## Build du 19/10/2026 à 12:13
 * **PAYLOADS**
   * `Ps5Upload V7.1.8` (v7.1.8) - *Nouveau*

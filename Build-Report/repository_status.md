@@ -1,10 +1,10 @@
-# 🔍 État des Sources & Dépôts (19/10/2026 à 12:13)
+# 🔍 État des Sources & Dépôts (19/10/2026 à 13:52)
 
 Test de validité et de disponibilité des sources distantes intégrées dans le store.
 
 | Source / Dépôt | URL | Statut | Type |
 | :--- | :--- | :--- | :--- |
-| Homebrew.page Catalog | [https://homebrew.page/catalog/v1.json](https://homebrew.page/catalog/v1.json) | ✅ Valide (200 OK) | Catalog API |
+| ProsperoStore Catalog | [https://prosperostore.net/catalog/v1.json](https://prosperostore.net/catalog/v1.json) | ✅ Valide (200 OK) | Catalog API |
 | GitHub - evoX-CoreOS | [https://github.com/nexgen999/evoX-CoreOS](https://github.com/nexgen999/evoX-CoreOS) | ✅ Valide (200 OK) | Dépôt Principal |
 | [payloads] Garlic-Savemgr V1.14.0 | [https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.14.0/garlic-savemgr_v1.14.0.elf](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.14.0/garlic-savemgr_v1.14.0.elf) | ✅ Valide (200 OK) | Artefact / Source |
 | [pkg] Ps5Pkg Avatar-Changer V1.00 | [https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Avatar-Changer_v1.00.pkg](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Avatar-Changer_v1.00.pkg) | ✅ Valide (200 OK) | Artefact / Source |

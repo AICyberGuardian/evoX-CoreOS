@@ -156,20 +156,6 @@
       "source": "https://github.com/ZiZc3/VLC"
     },
     {
-      "name": "Prospero Themes",
-      "filename": "PPSA90210.zip",
-      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.008/PPSA90210.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.008/PPSA90210.zip",
-      "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
-      "version": "01.000.008",
-      "category": "Apps",
-      "kind": "app",
-      "titleid": "PPSA90210",
-      "author": "Darkatek7",
-      "checksum": "6abe1f3ec3b9c2f63ecee0284e6cf07b4ed4c8d9a0356b7f8b75e2ccdfc8dd77",
-      "source": "https://github.com/Darkatek7/ProsperoThemes"
-    },
-    {
       "name": "Capy Mobile",
       "filename": "PPSA92280.zip",
       "url": "https://github.com/khalifa007/CapyMobile/releases/download/v0.5.0/CapyMobile-00.005.000.zip",
@@ -214,15 +200,15 @@
     {
       "name": "CD Player",
       "filename": "PPSA98427.zip",
-      "url": "https://github.com/LoZazaMastro/CD-Player/releases/download/v1.1.0/PPSA98427.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98427/1.1.0/PPSA98427.zip",
+      "url": "https://github.com/LoZazaMastro/CD-Player/releases/download/v1.1.1/PPSA98427.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98427/1.1.1/PPSA98427.zip",
       "description": "Rediscover your audio CDs and fall in love with your music again: a native PS5 player with USB drive support, album art and reactive visuals.",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98427",
       "author": "LoZazaMastro",
-      "checksum": "84bfa8d224ccc94a1ccd6c1fc338132ac0759dbc505e34c5353a123b249b0dc6",
+      "checksum": "a2e44a6211260b1dca2c0d42736143c8c563acc6ff9a42e0c1671477c96de45b",
       "source": "https://github.com/LoZazaMastro/CD-Player"
     },
     {
