@@ -214,15 +214,15 @@
     {
       "name": "Signal Companion",
       "filename": "PPSA69426.zip",
-      "url": "https://github.com/Marice/ps5-signal-companion/releases/download/v00.003.000/SignalCompanion-PS5-00.003.000.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA69426/00.003.000/PPSA69426.zip",
+      "url": "https://github.com/Marice/ps5-signal-companion/releases/download/v00.004.002/PPSA69426.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA69426/00.004.002/PPSA69426.zip",
       "description": "Set your PS5's light colour and ps5-signal's startup tune, and manage the suite: start, update and autoload ps5-signal, ps5-exporter and ps5-homeassistant, and link the PS5 to Home Assistant.",
-      "version": "00.003.000",
+      "version": "00.004.002",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA69426",
       "author": "Marice",
-      "checksum": "39e501e83b7fb52b510c4d818d063bc952c37fd521b06fa28854a49a9816232a",
+      "checksum": "0f74219e6991f4b260e580fc44eb5f2f34bd3aed7f90e0fe5b5702c45939eed6",
       "source": "https://github.com/Marice/ps5-signal-companion"
     },
     {
@@ -340,15 +340,15 @@
     {
       "name": "Breeze",
       "filename": "PPSA92878.zip",
-      "url": "https://github.com/MiladRTX/Breeze/releases/download/v1.8.1/PPSA92878.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA92878/1.8.1/PPSA92878.zip",
+      "url": "https://github.com/MiladRTX/Breeze/releases/download/v1.9/PPSA92878.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA92878/1.9/PPSA92878.zip",
       "description": "Custom fan curve for the PS5: choose how fast the fan runs at each temperature, with live readings, 24-hour history and presets.",
-      "version": "1.8.1",
+      "version": "1.9",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA92878",
       "author": "Milad",
-      "checksum": "ac2f72e1fe0ab63e7a0da690460b03f12fa5199e2aa41435aadf56d0113952f7",
+      "checksum": "b8b0e01950ca823c8eaac8cd80a3e44ee41731b016ed8ef6c59209d93f887950",
       "source": "https://github.com/MiladRTX/Breeze"
     },
     {
@@ -410,15 +410,15 @@
     {
       "name": "TubeBlock",
       "filename": "PPSA98260.zip",
-      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.152/SmartTube-PPSA98260.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.152/PPSA98260.zip",
+      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.154/SmartTube-PPSA98260.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.154/PPSA98260.zip",
       "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-      "version": "01.000.152",
+      "version": "01.000.154",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98260",
       "author": "animatian112",
-      "checksum": "66bf599a2cb9cd8a0b4f9e53fa96f2b8a2d47ed30d99cddbf53b40cfc4ddc9f9",
+      "checksum": "e5641ac5ba08ab16064745b6f2b8ef7fc178fc2dc4bc775b7549f6a6da0b5a1e",
       "source": "https://github.com/animatian112/ytps5-sponsorblock"
     },
     {
@@ -494,15 +494,15 @@
     {
       "name": "ProsperoStore",
       "filename": "PPSA99000.zip",
-      "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.101/PPSA99000.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99000/1.000.101/PPSA99000.zip",
+      "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.102/PPSA99000.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99000/1.000.102/PPSA99000.zip",
       "description": "Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.",
-      "version": "1.000.101",
+      "version": "1.000.102",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99000",
       "author": "BlackBearReloaded",
-      "checksum": "94ae4a33018e6d0b26fce53fb4067360622e4f06681df98c3b341dee4b016221",
+      "checksum": "258481fe50d4d76b32e38b9cb64ed0711bc62bc028cbdee4408a5e092bced069",
       "source": "https://github.com/darkxex/ProsperoStore"
     },
     {
@@ -592,15 +592,15 @@
     {
       "name": "Forever Launcher",
       "filename": "PPSA99030.zip",
-      "url": "https://github.com/bizkut/ps5-forever/releases/download/01.000.014/PPSA99030.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99030/01.000.014/PPSA99030.zip",
+      "url": "https://github.com/bizkut/ps5-forever/releases/download/01.000.015/PPSA99030.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99030/01.000.015/PPSA99030.zip",
       "description": "Battle.net launcher for World of Warcraft (Retail, Classic and Forever) with a built-in add-on manager; press Options for the Forever menu and L3+R3 for the on-screen keyboard.",
-      "version": "01.000.014",
+      "version": "01.000.015",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99030",
       "author": "bizkut",
-      "checksum": "6624e047aa8aed5f5c35e73f5ab3f81189446cc318f3e67a6da3d8947a5b90ec",
+      "checksum": "f857f73fdf45cfd2f4b72cccf530946885ca71b9ce910d5c77da0a9dbbf46553",
       "source": "https://github.com/bizkut/ps5-forever"
     },
     {
@@ -732,15 +732,15 @@
     {
       "name": "RetroArch",
       "filename": "PPSA99169.zip",
-      "url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v3.0.0-beta-3/PS5_RetroArch-v3.0.0-beta-3.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99169/3.0.0-beta-3/PPSA99169.zip",
+      "url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v4.0.0-beta-4/PS5_RetroArch-v4.0.0-beta-4.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99169/4.0.0-beta-4/PPSA99169.zip",
       "description": "Native RetroArch port for PS5 with cores for NES, SNES, GBA, Genesis, arcade, PSP, GameCube/Wii and PS2.",
-      "version": "3.0.0-beta-3",
+      "version": "4.0.0-beta-4",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99169",
       "author": "Mihawk",
-      "checksum": "121786b162652dfe08a0d3fc98015e57d782d06ba6680f4d032b078e6a621a5a",
+      "checksum": "dad4f20204446a66dd05edb67cdf720988ca06119396f79a5e9ed876dc3d6012",
       "source": "https://github.com/mihawk-99/PS5_RetroArch"
     },
     {
@@ -900,15 +900,15 @@
     {
       "name": "Eternal Darkness",
       "filename": "PPSA99314.zip",
-      "url": "https://github.com/griches/PS5_EternalDarkness/releases/download/v0.9.3/EternalDarkness-PS5-0.9.3.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99314/0.9.3/PPSA99314.zip",
+      "url": "https://github.com/griches/PS5_EternalDarkness/releases/download/v0.9.5/EternalDarkness-PS5-0.9.5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99314/0.9.5/PPSA99314.zip",
       "description": "Eternal Darkness: Sanity's Requiem (GameCube) for PlayStation 5, recompiled to run natively at 4K and up to 120 fps with widescreen and HD texture packs. Bring your own European disc.",
-      "version": "0.9.3",
+      "version": "0.9.5",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99314",
       "author": "Gary Riches",
-      "checksum": "c27fbbe97676d134aafad749d325670cc380b23e21d966c25a1f040565c9f1a0",
+      "checksum": "b467dbd86b2a53223f5c4e209d4025371aa911bfaf37985a9a783310aafcb465",
       "source": "https://github.com/griches/PS5_EternalDarkness"
     },
     {
@@ -984,15 +984,15 @@
     {
       "name": "Twispero",
       "filename": "PPSA99474.zip",
-      "url": "https://github.com/unicxrn/twispero/releases/download/v1.0.0/PPSA99474.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99474/1.0.0/PPSA99474.zip",
+      "url": "https://github.com/unicxrn/twispero/releases/download/v1.1.0/PPSA99474.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99474/1.1.0/PPSA99474.zip",
       "description": "Twitch for jailbroken PS5: live streams with chat, past broadcasts and clips on the console's own video decoder.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99474",
       "author": "unicxrn",
-      "checksum": "6b478353e6f69afa6171a0ca5e8c7e13e6cf352d07b3e7d514c5abe922d8d4ba",
+      "checksum": "dc5bdad0ef026567bba44750d4eedaf4865a3f20db9ad04e22d8d1b9b16fa3d4",
       "source": "https://github.com/unicxrn/twispero"
     },
     {
@@ -1264,15 +1264,15 @@
     {
       "name": "PSBox Cloud Gaming",
       "filename": "PPSA99810.zip",
-      "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.3.0/PPSA99810.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.3.0/PPSA99810.zip",
+      "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.3.1/PPSA99810.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.3.1/PPSA99810.zip",
       "description": "Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99810",
       "author": "RafaelNGP",
-      "checksum": "ad63a8704fb6f5e6797f7657f6fb2b7a7b14795ae063112a1222814cf0736299",
+      "checksum": "80a57d2eb29e894fdac47333dec18b245a2b7835e8a5bbd3337bb2431c3d7c66",
       "source": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5"
     },
     {
@@ -1306,15 +1306,15 @@
     {
       "name": "YouTube Max’d",
       "filename": "PPSA99991.zip",
-      "url": "https://github.com/HandshakeHackin/youtube-maxd/releases/download/v1.3.0-preview.1/PPSA99991.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99991/1.3.0-preview.1/PPSA99991.zip",
+      "url": "https://github.com/HandshakeHackin/youtube-maxd/releases/download/v1.4.0/PPSA99991.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99991/1.4.0/PPSA99991.zip",
       "description": "Standalone PS5 YouTube client based on ProsperoTube, with local voice search, Smart playlists, adaptive quality and red/white DualSense effects.",
-      "version": "1.3.0-preview.1",
+      "version": "1.4.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99991",
       "author": "HandshakeHackin",
-      "checksum": "22b4bf2c8b7fa67f3e11198645fab9746f7381170b12dfc82ce709814792e593",
+      "checksum": "16a4b5960f1369fd593cd17852bd04c940d2febfa535094a8a647a40e0ca741e",
       "source": "https://github.com/HandshakeHackin/youtube-maxd"
     },
     {

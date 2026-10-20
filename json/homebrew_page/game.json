@@ -284,15 +284,15 @@
     {
       "name": "Eternal Darkness",
       "filename": "PPSA99314.zip",
-      "url": "https://github.com/griches/PS5_EternalDarkness/releases/download/v0.9.3/EternalDarkness-PS5-0.9.3.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99314/0.9.3/PPSA99314.zip",
+      "url": "https://github.com/griches/PS5_EternalDarkness/releases/download/v0.9.5/EternalDarkness-PS5-0.9.5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99314/0.9.5/PPSA99314.zip",
       "description": "Eternal Darkness: Sanity's Requiem (GameCube) for PlayStation 5, recompiled to run natively at 4K and up to 120 fps with widescreen and HD texture packs. Bring your own European disc.",
-      "version": "0.9.3",
+      "version": "0.9.5",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99314",
       "author": "Gary Riches",
-      "checksum": "c27fbbe97676d134aafad749d325670cc380b23e21d966c25a1f040565c9f1a0",
+      "checksum": "b467dbd86b2a53223f5c4e209d4025371aa911bfaf37985a9a783310aafcb465",
       "source": "https://github.com/griches/PS5_EternalDarkness"
     },
     {

@@ -98,7 +98,7 @@
       <title>Signal Companion</title>
       <link>https://github.com/Marice/ps5-signal-companion</link>
       <description>Set your PS5's light colour and ps5-signal's startup tune, and manage the suite: start, update and autoload ps5-signal, ps5-exporter and ps5-homeassistant, and link the PS5 to Home Assistant.</description>
-      <pubDate>00.003.000</pubDate>
+      <pubDate>00.004.002</pubDate>
     </item>
     <item>
       <title>Stremio Plus</title>
@@ -152,7 +152,7 @@
       <title>Breeze</title>
       <link>https://github.com/MiladRTX/Breeze</link>
       <description>Custom fan curve for the PS5: choose how fast the fan runs at each temperature, with live readings, 24-hour history and presets.</description>
-      <pubDate>1.8.1</pubDate>
+      <pubDate>1.9</pubDate>
     </item>
     <item>
       <title>Raptor: Call of the Shadows (PS5)</title>
@@ -182,7 +182,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.152</pubDate>
+      <pubDate>01.000.154</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -218,7 +218,7 @@
       <title>ProsperoStore</title>
       <link>https://github.com/darkxex/ProsperoStore</link>
       <description>Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.</description>
-      <pubDate>1.000.101</pubDate>
+      <pubDate>1.000.102</pubDate>
     </item>
     <item>
       <title>ProsperoLight</title>
@@ -260,7 +260,7 @@
       <title>Forever Launcher</title>
       <link>https://github.com/bizkut/ps5-forever</link>
       <description>Battle.net launcher for World of Warcraft (Retail, Classic and Forever) with a built-in add-on manager; press Options for the Forever menu and L3+R3 for the on-screen keyboard.</description>
-      <pubDate>01.000.014</pubDate>
+      <pubDate>01.000.015</pubDate>
     </item>
     <item>
       <title>EVO Player</title>
@@ -320,7 +320,7 @@
       <title>RetroArch</title>
       <link>https://github.com/mihawk-99/PS5_RetroArch</link>
       <description>Native RetroArch port for PS5 with cores for NES, SNES, GBA, Genesis, arcade, PSP, GameCube/Wii and PS2.</description>
-      <pubDate>3.0.0-beta-3</pubDate>
+      <pubDate>4.0.0-beta-4</pubDate>
     </item>
     <item>
       <title>PS5SX2</title>
@@ -392,7 +392,7 @@
       <title>Eternal Darkness</title>
       <link>https://github.com/griches/PS5_EternalDarkness</link>
       <description>Eternal Darkness: Sanity's Requiem (GameCube) for PlayStation 5, recompiled to run natively at 4K and up to 120 fps with widescreen and HD texture packs. Bring your own European disc.</description>
-      <pubDate>0.9.3</pubDate>
+      <pubDate>0.9.5</pubDate>
     </item>
     <item>
       <title>Ship of Harkinian (Vulkan)</title>
@@ -428,7 +428,7 @@
       <title>Twispero</title>
       <link>https://github.com/unicxrn/twispero</link>
       <description>Twitch for jailbroken PS5: live streams with chat, past broadcasts and clips on the console's own video decoder.</description>
-      <pubDate>1.0.0</pubDate>
+      <pubDate>1.1.0</pubDate>
     </item>
     <item>
       <title>Jelly5</title>
@@ -548,7 +548,7 @@
       <title>PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.3.0</pubDate>
+      <pubDate>1.3.1</pubDate>
     </item>
     <item>
       <title>Prospero Vibrate</title>
@@ -566,7 +566,7 @@
       <title>YouTube Max’d</title>
       <link>https://github.com/HandshakeHackin/youtube-maxd</link>
       <description>Standalone PS5 YouTube client based on ProsperoTube, with local voice search, Smart playlists, adaptive quality and red/white DualSense effects.</description>
-      <pubDate>1.3.0-preview.1</pubDate>
+      <pubDate>1.4.0</pubDate>
     </item>
     <item>
       <title>Pulse</title>

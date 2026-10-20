@@ -1,5 +1,22 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 20/10/2026 à 03:31
+* **PAYLOADS**
+  * `Ps5-Ezremote-Server V1.13` (1.13) - *Nouveau*
+* **APPS**
+  * `Ppsa99000` (v1.000.102) - *Mise à jour (Précédent: v1.000.101)*
+* **HOMEBREW_PAGE**
+  * `Signal Companion` (00.004.002) - *Mise à jour (Précédent: 00.003.000)*
+  * `Breeze` (1.9) - *Mise à jour (Précédent: 1.8.1)*
+  * `TubeBlock` (01.000.154) - *Mise à jour (Précédent: 01.000.152)*
+  * `ProsperoStore` (1.000.102) - *Mise à jour (Précédent: 1.000.101)*
+  * `Forever Launcher` (01.000.015) - *Mise à jour (Précédent: 01.000.014)*
+  * `RetroArch` (4.0.0-beta-4) - *Mise à jour (Précédent: 3.0.0-beta-3)*
+  * `Eternal Darkness` (0.9.5) - *Mise à jour (Précédent: 0.9.3)*
+  * `Twispero` (1.1.0) - *Mise à jour (Précédent: 1.0.0)*
+  * `PSBox Cloud Gaming` (1.3.1) - *Mise à jour (Précédent: 1.3.0)*
+  * `YouTube Max’d` (1.4.0) - *Mise à jour (Précédent: 1.3.0-preview.1)*
+
 ## Build du 19/10/2026 à 22:11
 * **PAYLOADS**
   * `Web-File-Mgr-V1.11B` (v1.11b) - *Nouveau*
