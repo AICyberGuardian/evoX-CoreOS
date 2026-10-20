@@ -256,15 +256,15 @@
     {
       "name": "TubeBlock",
       "filename": "PPSA98260.zip",
-      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.154/SmartTube-PPSA98260.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.154/PPSA98260.zip",
+      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.157/SmartTube-PPSA98260.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.157/PPSA98260.zip",
       "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-      "version": "01.000.154",
+      "version": "01.000.157",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98260",
       "author": "animatian112",
-      "checksum": "e5641ac5ba08ab16064745b6f2b8ef7fc178fc2dc4bc775b7549f6a6da0b5a1e",
+      "checksum": "66ce32987a9a7b2bd1f20bd9f91fbef3de24a2f619ff6af15fb4631da60c13d6",
       "source": "https://github.com/animatian112/ytps5-sponsorblock"
     },
     {
@@ -298,15 +298,15 @@
     {
       "name": "ProsperoStore",
       "filename": "PPSA99000.zip",
-      "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.102/PPSA99000.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99000/1.000.102/PPSA99000.zip",
+      "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.103/PPSA99000.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99000/1.000.103/PPSA99000.zip",
       "description": "Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.",
-      "version": "1.000.102",
+      "version": "1.000.103",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99000",
       "author": "BlackBearReloaded",
-      "checksum": "258481fe50d4d76b32e38b9cb64ed0711bc62bc028cbdee4408a5e092bced069",
+      "checksum": "94aa33dda62a348e78f71860584de76f439e1d1c73ad244d432a9061932214fe",
       "source": "https://github.com/darkxex/ProsperoStore"
     },
     {
