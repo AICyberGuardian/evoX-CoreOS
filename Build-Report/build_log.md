@@ -1,4 +1,4 @@
-# 📋 Journal d'exécution de la Build (20/10/2026 à 20:06)
+# 📋 Journal d'exécution de la Build (20/10/2026 à 21:27)
 
 > *Statut global du pipeline : **Succès 🚀***
 
@@ -12,7 +12,7 @@ Ce rapport résume l'état de la dernière exécution du pipeline de mise à jou
 | `pkg` | Packages PKG | **15** |
 | `ffpfsc` | Fichiers FFPFSC | **2** |
 | `apps` | Applications | **34** |
-| `homebrew_page` | ProsperoStore | **99** |
+| `homebrew_page` | ProsperoStore | **100** |
 
-* **Total cumulé des éléments traités** : `276`
+* **Total cumulé des éléments traités** : `277`
 

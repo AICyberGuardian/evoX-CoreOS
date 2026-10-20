@@ -506,6 +506,20 @@
       "source": "https://github.com/mihawk-99/PS5_RetroArch"
     },
     {
+      "name": "ForgeNX – Switch Emulator",
+      "filename": "PPSA99186.zip",
+      "url": "https://github.com/KernelForgeLabs/ProsperoEden-Switch-UI/releases/download/v6.000.000/ProsperoEden-v6.000.000.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99186/v6.000.000/PPSA99186.zip",
+      "description": "An independent Nintendo Switch emulator for PS5 based on ProsperoEden, featuring a redesigned launcher, customizable themes, and game library navigation.",
+      "version": "v6.000.000",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99186",
+      "author": "KernelForgeLabs",
+      "checksum": "e18ce297a1834f98e4faad58f83f03b064b797d956ccc46138b5a8ad257399a3",
+      "source": "https://github.com/KernelForgeLabs/ProsperoEden-Switch-UI"
+    },
+    {
       "name": "PS5SX2",
       "filename": "PPSA99203.zip",
       "url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-177/PS5SX2-vk-285-177.zip",
@@ -676,15 +690,15 @@
     {
       "name": "PS5SD",
       "filename": "PPSA99576.zip",
-      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.1.0/PPSA99576.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.1.0/PPSA99576.zip",
+      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.3.0/PPSA99576.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.3.0/PPSA99576.zip",
       "description": "Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.",
-      "version": "0.1.0",
+      "version": "0.3.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99576",
       "author": "Darkatek7",
-      "checksum": "fb3fe3c5436e068abcc8a51b0f572f6eae02bc26d8193efd2dde179fb585f3a5",
+      "checksum": "b84f3f9ca465009e3fb2addedf53ade45dfbfb5e31d2d1fd0561937b8d0b1b40",
       "source": "https://github.com/Darkatek7/PS5SD"
     },
     {

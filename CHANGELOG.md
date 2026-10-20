@@ -1,5 +1,13 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 20/10/2026 à 21:27
+* **PAYLOADS**
+  * `Ps5Upload V7.1.9` (ps5upload) - *Mise à jour (Précédent: v7.1.9)*
+  * `Snes9Xps5 V2.7` (v2.7) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `ForgeNX – Switch Emulator` (v6.000.000) - *Nouveau*
+  * `PS5SD` (0.3.0) - *Mise à jour (Précédent: 0.1.0)*
+
 ## Build du 20/10/2026 à 20:06
 * **APPS**
   * `Ppsa99000` (v1.000.104) - *Mise à jour (Précédent: v1.000.103)*

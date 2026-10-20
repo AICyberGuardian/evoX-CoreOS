@@ -323,6 +323,12 @@
       <pubDate>4.0.0-beta-4</pubDate>
     </item>
     <item>
+      <title>ForgeNX – Switch Emulator</title>
+      <link>https://github.com/KernelForgeLabs/ProsperoEden-Switch-UI</link>
+      <description>An independent Nintendo Switch emulator for PS5 based on ProsperoEden, featuring a redesigned launcher, customizable themes, and game library navigation.</description>
+      <pubDate>v6.000.000</pubDate>
+    </item>
+    <item>
       <title>PS5SX2</title>
       <link>https://github.com/Swordpdf/PS5SX2</link>
       <description>PCSX2 port for PS5 that runs PS2 games natively with a Vulkan renderer, up to 6x resolution and settings from your phone. Bring your own BIOS and games.</description>
@@ -470,7 +476,7 @@
       <title>PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>0.1.0</pubDate>
+      <pubDate>0.3.0</pubDate>
     </item>
     <item>
       <title>PS5LM Plus</title>
