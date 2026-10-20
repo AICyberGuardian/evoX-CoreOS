@@ -7,9 +7,9 @@ def download_catalogs():
     en écrasant les anciens fichiers à chaque mise à jour.
     """
     urls = {
-        "dlps.json": "https://pegasus-catalog.fly.dev/catalogs/dlps.json",
-        "pippo.json": "https://pegasus-catalog.fly.dev/catalogs/pippo.json",
-        "pfs.json": "https://pegasus-catalog.fly.dev/catalogs/pfs.json"
+        "dlps.json": "https://pegasus-dl.dev/catalogs/dlps.json",
+        "pippo.json": "https://pegasus-dl.dev/catalogs/pippo.json",
+        "pfs.json": "https://pegasus-dl.dev/catalogs/pfs.json"
     }
 
     output_dir = os.path.join("json", "pegasus-dl")
