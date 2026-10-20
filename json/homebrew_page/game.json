@@ -324,6 +324,20 @@
       "source": "https://github.com/lavavex/nfs-blackbox-ps5"
     },
     {
+      "name": "Sahin",
+      "filename": "PPSA99404.zip",
+      "url": "https://github.com/7tg/sahin/releases/download/01.003.000/PPSA99404.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99404/01.003.000/PPSA99404.zip",
+      "description": "Your own PC copy of Blur as a homebrew app on a jailbroken PS5, through prospero-win, with split screen and Amax online play (bring your own copy).",
+      "version": "01.003.000",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99404",
+      "author": "7tg",
+      "checksum": "06bff92f089166aafcf518f76e9c67e39680b0d4d5ac27dafd794ad07cdeefe9",
+      "source": "https://github.com/7tg/sahin"
+    },
+    {
       "name": "Ship of Harkinian (Ocarina of Time)",
       "filename": "PPSA99620.zip",
       "url": "https://github.com/mshivam019/oot64-ps5/releases/download/v1.2.0/PPSA99620.zip",

@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 20/10/2026 à 16:34
+* **HOMEBREW_PAGE**
+  * `VLC` (0.5.0) - *Mise à jour (Précédent: 0.4.6)*
+  * `PSFlyCast` (1.3.0) - *Mise à jour (Précédent: 1.2.0)*
+  * `Sahin` (01.003.000) - *Nouveau*
+  * `PS5LM` (0.9.1) - *Mise à jour (Précédent: 0.9.0)*
+
 ## Build du 20/10/2026 à 11:07
 * **APPS**
   * `Ppsa99000` (v1.000.103) - *Mise à jour (Précédent: v1.000.102)*

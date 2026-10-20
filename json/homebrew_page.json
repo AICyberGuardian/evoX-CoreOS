@@ -298,15 +298,15 @@
     {
       "name": "VLC",
       "filename": "PPSA85300.zip",
-      "url": "https://github.com/ZiZc3/VLC/releases/download/v0.4.6/PPSA85300.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA85300/0.4.6/PPSA85300.zip",
+      "url": "https://github.com/ZiZc3/VLC/releases/download/v0.5.0/PPSA85300.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA85300/0.5.0/PPSA85300.zip",
       "description": "VLC media player for PS5: videos, music, photos, subtitles, DVD images and more",
-      "version": "0.4.6",
+      "version": "0.5.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA85300",
       "author": "AZiZ",
-      "checksum": "3fd59590181813e68cbc9e77cf88d6d48ed675d21628640887a0dc20dfafc1fb",
+      "checksum": "3648a096d2ff1099cc930e58f9e33636091ef1222a4e17dfd94a8fd8cb513b2b",
       "source": "https://github.com/ZiZc3/VLC"
     },
     {
@@ -760,15 +760,15 @@
     {
       "name": "PSFlyCast",
       "filename": "PPSA99247.zip",
-      "url": "https://github.com/Press5elect/PSFlycast/releases/download/v1.2.0/PSFlyCast-v1.2.0.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99247/1.2.0/PPSA99247.zip",
+      "url": "https://github.com/Press5elect/PSFlycast/releases/download/v1.3.0/PSFlyCast-v1.3.0.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99247/1.3.0/PPSA99247.zip",
       "description": "Flycast (Dreamcast, NAOMI and Atomiswave) as a standalone PS5 title on RADV, with a controller-only interface.",
-      "version": "1.2.0",
+      "version": "1.3.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99247",
       "author": "Press5elect",
-      "checksum": "4685e6fe23c80c860e45202d3dbba6bc31f6a3e8e331383e810db6d2b8787c06",
+      "checksum": "1b7927ad1846034e143f09695e5a68dac0ea46c106443c7afa6224cb2331d034",
       "source": "https://github.com/Press5elect/PSFlycast"
     },
     {
@@ -968,6 +968,20 @@
       "source": "https://github.com/lavavex/nfs-blackbox-ps5"
     },
     {
+      "name": "Sahin",
+      "filename": "PPSA99404.zip",
+      "url": "https://github.com/7tg/sahin/releases/download/01.003.000/PPSA99404.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99404/01.003.000/PPSA99404.zip",
+      "description": "Your own PC copy of Blur as a homebrew app on a jailbroken PS5, through prospero-win, with split screen and Amax online play (bring your own copy).",
+      "version": "01.003.000",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99404",
+      "author": "7tg",
+      "checksum": "06bff92f089166aafcf518f76e9c67e39680b0d4d5ac27dafd794ad07cdeefe9",
+      "source": "https://github.com/7tg/sahin"
+    },
+    {
       "name": "PS5MC",
       "filename": "PPSA99420.zip",
       "url": "https://github.com/VivaLaVent/PS5MC/releases/download/1.2/PS5MC-1.2-kodi22-PPSA99420.zip",
@@ -1054,15 +1068,15 @@
     {
       "name": "PS5LM",
       "filename": "PPSA99575.zip",
-      "url": "https://github.com/cobanov/PS5LM/releases/download/v0.9.0/ps5lm-app-v0.9.0.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99575/0.9.0/PPSA99575.zip",
+      "url": "https://github.com/cobanov/PS5LM/releases/download/v0.9.1/ps5lm-app-v0.9.1.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99575/0.9.1/PPSA99575.zip",
       "description": "Runs language and decision models on the PS5's GPU with llama.cpp and serves them to your network over OpenAI and Anthropic APIs. Decision models powered by Ollaya.",
-      "version": "0.9.0",
+      "version": "0.9.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99575",
       "author": "Mert Cobanov",
-      "checksum": "f4b19ffaa5389536da30dc706ce3967cc0d7bb559508d451e033c205d93af504",
+      "checksum": "7b221d2b754f4d812cd0cb19e62e116f5191de144bb3763b13ead566a6a8b556",
       "source": "https://github.com/cobanov/PS5LM"
     },
     {
