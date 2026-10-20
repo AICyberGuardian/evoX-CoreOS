@@ -1,5 +1,13 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 20/10/2026 à 20:06
+* **APPS**
+  * `Ppsa99000` (v1.000.104) - *Mise à jour (Précédent: v1.000.103)*
+* **HOMEBREW_PAGE**
+  * `Prospero Themes` (01.000.011) - *Mise à jour (Précédent: 01.000.008)*
+  * `ProsperoStore` (1.000.104) - *Mise à jour (Précédent: 1.000.103)*
+  * `PS5SD` (0.1.0) - *Nouveau*
+
 ## Build du 20/10/2026 à 16:34
 * **HOMEBREW_PAGE**
   * `VLC` (0.5.0) - *Mise à jour (Précédent: 0.4.6)*

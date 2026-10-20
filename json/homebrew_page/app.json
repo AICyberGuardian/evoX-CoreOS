@@ -186,15 +186,15 @@
     {
       "name": "Prospero Themes",
       "filename": "PPSA90210.zip",
-      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.008/PPSA90210.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.008/PPSA90210.zip",
+      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.011/PPSA90210.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.011/PPSA90210.zip",
       "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
-      "version": "01.000.008",
+      "version": "01.000.011",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA90210",
       "author": "Darkatek7",
-      "checksum": "6abe1f3ec3b9c2f63ecee0284e6cf07b4ed4c8d9a0356b7f8b75e2ccdfc8dd77",
+      "checksum": "170d54fa113b4b277c6b63132503d42510ea3fa4b839bf0d1913c8782d75a76d",
       "source": "https://github.com/Darkatek7/ProsperoThemes"
     },
     {
@@ -298,15 +298,15 @@
     {
       "name": "ProsperoStore",
       "filename": "PPSA99000.zip",
-      "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.103/PPSA99000.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99000/1.000.103/PPSA99000.zip",
+      "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.104/PPSA99000.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99000/1.000.104/PPSA99000.zip",
       "description": "Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.",
-      "version": "1.000.103",
+      "version": "1.000.104",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99000",
       "author": "BlackBearReloaded",
-      "checksum": "94aa33dda62a348e78f71860584de76f439e1d1c73ad244d432a9061932214fe",
+      "checksum": "8219df628a65039291e98690c1b63a251dba114fc86c89944dfb356c2e3bc8da",
       "source": "https://github.com/darkxex/ProsperoStore"
     },
     {
@@ -672,6 +672,20 @@
       "author": "Mert Cobanov",
       "checksum": "7b221d2b754f4d812cd0cb19e62e116f5191de144bb3763b13ead566a6a8b556",
       "source": "https://github.com/cobanov/PS5LM"
+    },
+    {
+      "name": "PS5SD",
+      "filename": "PPSA99576.zip",
+      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.1.0/PPSA99576.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.1.0/PPSA99576.zip",
+      "description": "Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.",
+      "version": "0.1.0",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99576",
+      "author": "Darkatek7",
+      "checksum": "fb3fe3c5436e068abcc8a51b0f572f6eae02bc26d8193efd2dde179fb585f3a5",
+      "source": "https://github.com/Darkatek7/PS5SD"
     },
     {
       "name": "PS5LM Plus",

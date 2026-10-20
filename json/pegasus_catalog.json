@@ -1,225 +1,295 @@
 {
     "name": "Evox-CoreOS Catalog",
+    "description": "Catalogue automatisé Pegasus-DL pour PKG et FFPFSC",
     "packages": [
         {
-            "name": "Ps5Pkg Avatar-Changer V1.00",
-            "filename": "PS5PKG_Avatar-Changer_v1.00.pkg",
-            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Avatar-Changer_v1.00.pkg",
-            "local_path": "pkg/Avatar-Changer/Source-Fixe/PS5PKG_Avatar-Changer_v1.00.pkg",
-            "description": "Avatar-Changer.",
-            "version": "Source-Fixe",
-            "checksum": "32515b8253a027bbe65b95f574fb1484020bb0d65d6d0f6e418cb73ab739f2b3",
-            "category": "PKG",
             "titleId": "LAPY20016",
+            "title": "Avatar Changer PS5",
+            "version": "Source-Fixe",
+            "author": "Unknown Author",
+            "category": "PKG",
+            "description": "Avatar-Changer.",
+            "checksum": "32515b8253a027bbe65b95f574fb1484020bb0d65d6d0f6e418cb73ab739f2b3",
             "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/Avatar Changer PS5.png",
-            "title": "Avatar Changer PS5"
+            "filename": "PS5PKG_Avatar-Changer_v1.00.pkg",
+            "downloadLinks": [
+                {
+                    "name": "Mirror",
+                    "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Avatar-Changer_v1.00.pkg"
+                }
+            ]
         },
         {
-            "name": "Ps5Pkg Fpkgi V1.10.0",
-            "filename": "PS5PKG_FPKGi_v1.10.0.pkg",
-            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_FPKGi_v1.10.0.pkg",
-            "local_path": "pkg/FPKGi/Source-Fixe/PS5PKG_FPKGi_v1.10.0.pkg",
-            "description": "FPKGi.",
-            "version": "Source-Fixe",
-            "checksum": "cdc9b5f5384c42eff16adea3e128783e4946573894ec84c15cf9a2ea33df4bfe",
-            "category": "PKG",
             "titleId": "PKGI13337",
+            "title": "FPKGi",
+            "version": "Source-Fixe",
+            "author": "Unknown Author",
+            "category": "PKG",
+            "description": "FPKGi.",
+            "checksum": "cdc9b5f5384c42eff16adea3e128783e4946573894ec84c15cf9a2ea33df4bfe",
             "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/FPKGi.png",
-            "title": "FPKGi"
+            "filename": "PS5PKG_FPKGi_v1.10.0.pkg",
+            "downloadLinks": [
+                {
+                    "name": "Mirror",
+                    "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_FPKGi_v1.10.0.pkg"
+                }
+            ]
         },
         {
-            "name": "Ps5Pkg Homebrewloader V0.30",
-            "filename": "PS5PKG_HOMEBREWLOADER_v0.30.pkg",
-            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_HOMEBREWLOADER_v0.30.pkg",
-            "local_path": "pkg/HOMEBREWLOADER/Source-Fixe/PS5PKG_HOMEBREWLOADER_v0.30.pkg",
-            "description": "HOMEBREWLOADER.",
-            "version": "Source-Fixe",
-            "checksum": "c737b79be8c47b89b2e4e38ca404cdad6d30c0ff659aaf25c7e9ea1368341434",
-            "category": "PKG",
             "titleId": "FAKE00000",
+            "title": "Homebrew Launcher",
+            "version": "Source-Fixe",
+            "author": "Unknown Author",
+            "category": "PKG",
+            "description": "HOMEBREWLOADER.",
+            "checksum": "c737b79be8c47b89b2e4e38ca404cdad6d30c0ff659aaf25c7e9ea1368341434",
             "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/homebrew-launcher.png",
-            "title": "Homebrew Launcher"
+            "filename": "PS5PKG_HOMEBREWLOADER_v0.30.pkg",
+            "downloadLinks": [
+                {
+                    "name": "Mirror",
+                    "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_HOMEBREWLOADER_v0.30.pkg"
+                }
+            ]
         },
         {
-            "name": "Ps5Pkg Homebrew Store Installer",
-            "filename": "PS5PKG_Homebrew_Store_installer.pkg",
-            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Homebrew_Store_installer.pkg",
-            "local_path": "pkg/Homebrew_Store_installer/Source-Fixe/PS5PKG_Homebrew_Store_installer.pkg",
-            "description": "Homebrew_Store.",
-            "version": "Source-Fixe",
-            "checksum": "da24bf219241d57eccd59a57c0cc81811b15edb50c3b09d49e8bb792476d7015",
-            "category": "PKG",
             "titleId": "NPXS39041",
+            "title": "PS5 Homebrew Store",
+            "version": "Source-Fixe",
+            "author": "Unknown Author",
+            "category": "PKG",
+            "description": "Homebrew_Store.",
+            "checksum": "da24bf219241d57eccd59a57c0cc81811b15edb50c3b09d49e8bb792476d7015",
             "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/Homebrew-Store.png",
-            "title": "PS5 Homebrew Store"
+            "filename": "PS5PKG_Homebrew_Store_installer.pkg",
+            "downloadLinks": [
+                {
+                    "name": "Mirror",
+                    "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Homebrew_Store_installer.pkg"
+                }
+            ]
         },
         {
-            "name": "Ps5Pkg Internetbrowser-Game Menu V1.00",
-            "filename": "PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg",
-            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg",
-            "local_path": "pkg/InternetBrowser-Game_Menu/Source-Fixe/PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg",
+            "titleId": "MOUU12023",
+            "title": "Internet Brower-Game",
+            "version": "Source-Fixe",
+            "author": "Unknown Author",
+            "category": "PKG",
             "description": "InternetBrowser-Game_Menu.",
-            "version": "Source-Fixe",
             "checksum": "86792d0fd1aa6156ee93a55bd9dc767ef4961ade4250155b19573bf9bfd3adc8",
-            "category": "PKG",
-            "titleId": "MOUU12023",
             "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/Internet-browser_Media.png",
-            "title": "Internet Brower-Game"
+            "filename": "PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg",
+            "downloadLinks": [
+                {
+                    "name": "Mirror",
+                    "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg"
+                }
+            ]
         },
         {
-            "name": "Ps5Pkg Internetbrowser-Media Menu V1.00",
-            "filename": "PS5PKG_InternetBrowser-Media_Menu_v1.00.pkg",
-            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Media_Menu_v1.00.pkg",
-            "local_path": "pkg/InternetBrowser-Media_Menu/Source-Fixe/PS5PKG_InternetBrowser-Media_Menu_v1.00.pkg",
+            "titleId": "MOUU12023",
+            "title": "Internet Brower-Media",
+            "version": "Source-Fixe",
+            "author": "Unknown Author",
+            "category": "PKG",
             "description": "InternetBrowser-Media_Menu.",
-            "version": "Source-Fixe",
             "checksum": "90d29db230458acfd2e3332dc338afe6e63f3d0c0948517918286497c9ac17ca",
-            "category": "PKG",
-            "titleId": "MOUU12023",
             "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/Internet-browser_Media.png",
-            "title": "Internet Brower-Media"
+            "filename": "PS5PKG_InternetBrowser-Media_Menu_v1.00.pkg",
+            "downloadLinks": [
+                {
+                    "name": "Mirror",
+                    "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Media_Menu_v1.00.pkg"
+                }
+            ]
         },
         {
-            "name": "Ps5-Shop-Appkg",
-            "filename": "PS5-SHOP-APPKG.pkg",
-            "url": "https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/PS5-SHOP-APPKG.pkg",
-            "local_path": "pkg/PS5-SHOP-APPKG/Source-Fixe/PS5-SHOP-APPKG.pkg",
-            "description": "PS5-SHOP-APPKG need etahen or ps5shopappkg-dpi .",
-            "version": "Source-Fixe",
-            "checksum": "d3a428bbd15e31344764f0e2dc4bf3664d5dfa48d2c008687af974e68fd65807",
-            "category": "PKG",
             "titleId": "MOUS21425",
+            "title": "ps5shopappkg",
+            "version": "Source-Fixe",
+            "author": "Unknown Author",
+            "category": "PKG",
+            "description": "PS5-SHOP-APPKG need etahen or ps5shopappkg-dpi .",
+            "checksum": "d3a428bbd15e31344764f0e2dc4bf3664d5dfa48d2c008687af974e68fd65807",
             "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/ps5shopappkg.png",
-            "title": "ps5shopappkg"
+            "filename": "PS5-SHOP-APPKG.pkg",
+            "downloadLinks": [
+                {
+                    "name": "Mirror",
+                    "url": "https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/PS5-SHOP-APPKG.pkg"
+                }
+            ]
         },
         {
-            "name": "Ps5Library",
-            "filename": "PS5Library.pkg",
-            "url": "https://github.com/rdiol12/PS5Library/releases/download/v0.2.10/PS5Library.pkg",
-            "local_path": "pkg/PS5Library/Source-Fixe/PS5Library.pkg",
-            "description": "PS5Library need ps5library-agent.elf.",
-            "version": "Source-Fixe",
-            "checksum": "3b4532298dec8db8fb1e3c0f6e70a9d914d7e1d88f788e3edcbe1e626063f173",
-            "category": "PKG",
             "titleId": "PPSA99051",
+            "title": "PS5Library",
+            "version": "Source-Fixe",
+            "author": "Unknown Author",
+            "category": "PKG",
+            "description": "PS5Library need ps5library-agent.elf.",
+            "checksum": "3b4532298dec8db8fb1e3c0f6e70a9d914d7e1d88f788e3edcbe1e626063f173",
             "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/PS5Library.png",
-            "title": "PS5Library"
+            "filename": "PS5Library.pkg",
+            "downloadLinks": [
+                {
+                    "name": "Mirror",
+                    "url": "https://github.com/rdiol12/PS5Library/releases/download/v0.2.10/PS5Library.pkg"
+                }
+            ]
         },
         {
-            "name": "Ps5Pkg Itemzflow Game Manager V1.14",
-            "filename": "PS5PKG_Itemzflow_Game_Manager_v1.14.pkg",
-            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Itemzflow_Game_Manager_v1.14.pkg",
-            "local_path": "pkg/Itemzflow_Game_Manager/Source-Fixe/PS5PKG_Itemzflow_Game_Manager_v1.14.pkg",
-            "description": "Itemzflow_Game_Manager.",
-            "version": "Source-Fixe",
-            "checksum": "73cbbe1045c5d58dc9e25df306c96d60ab69e9eb91a43344c1df300d85f36462",
-            "category": "PKG",
             "titleId": "ITEM00001",
+            "title": "Itemzflow Game Manager",
+            "version": "Source-Fixe",
+            "author": "Unknown Author",
+            "category": "PKG",
+            "description": "Itemzflow_Game_Manager.",
+            "checksum": "73cbbe1045c5d58dc9e25df306c96d60ab69e9eb91a43344c1df300d85f36462",
             "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/Itemzflow Game Manager.png",
-            "title": "Itemzflow Game Manager"
+            "filename": "PS5PKG_Itemzflow_Game_Manager_v1.14.pkg",
+            "downloadLinks": [
+                {
+                    "name": "Mirror",
+                    "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Itemzflow_Game_Manager_v1.14.pkg"
+                }
+            ]
         },
         {
-            "name": "Ps5Pkg Ps5-Xplorer V1.05",
-            "filename": "PS5PKG_PS5-Xplorer_v1.05.pkg",
-            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5-Xplorer_v1.05.pkg",
-            "local_path": "pkg/PS5-Xplorer/Source-Fixe/PS5PKG_PS5-Xplorer_v1.05.pkg",
-            "description": "PS5-Xplorer.",
-            "version": "Source-Fixe",
-            "checksum": "ea13710e6ffaf290f11bdafa890f76e530e3015cdac6d2cf4a14085c824e6039",
-            "category": "PKG",
             "titleId": "LAPY20011",
+            "title": "PS5-Xplorer",
+            "version": "Source-Fixe",
+            "author": "Unknown Author",
+            "category": "PKG",
+            "description": "PS5-Xplorer.",
+            "checksum": "ea13710e6ffaf290f11bdafa890f76e530e3015cdac6d2cf4a14085c824e6039",
             "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/PS5-Xplorer.png",
-            "title": "PS5-Xplorer"
+            "filename": "PS5PKG_PS5-Xplorer_v1.05.pkg",
+            "downloadLinks": [
+                {
+                    "name": "Mirror",
+                    "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5-Xplorer_v1.05.pkg"
+                }
+            ]
         },
         {
-            "name": "Ps5Pkg Ps5Webit-Nexgen999 Installer V1.00",
-            "filename": "PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg",
-            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg",
-            "local_path": "pkg/PS5Webit-Nexgen999_Installer/Source-Fixe/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg",
-            "description": "PS5Webit-Nexgen999_Installer.",
-            "version": "Source-Fixe",
-            "checksum": "59e308b8264c0cfe1648650ab6989c7cd4496a03fa647f261a6f3e8b974bf4cb",
-            "category": "PKG",
             "titleId": "PPNX00999",
+            "title": "PS5 Webkit",
+            "version": "Source-Fixe",
+            "author": "Unknown Author",
+            "category": "PKG",
+            "description": "PS5Webit-Nexgen999_Installer.",
+            "checksum": "59e308b8264c0cfe1648650ab6989c7cd4496a03fa647f261a6f3e8b974bf4cb",
             "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/ps5webkit-nexgen.png",
-            "title": "PS5 Webkit"
+            "filename": "PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg",
+            "downloadLinks": [
+                {
+                    "name": "Mirror",
+                    "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg"
+                }
+            ]
         },
         {
-            "name": "Ps5Pkg Mk64 Port",
-            "filename": "PS5PKG_MK64_Port.pkg",
-            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_MK64_Port.pkg",
-            "local_path": "pkg/Mario_Kart_64_Port/Source-Fixe/PS5PKG_MK64_Port.pkg",
-            "description": "PS5PKG_MK64_Port.",
-            "version": "Source-Fixe",
-            "checksum": "a32ddaa9904082ea6bc6553eafc5f8c3e2af8bc0b985651405f7db1f0bb1decd",
-            "category": "PKG",
             "titleId": "MOMK27926",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/PS5PKG_MK64_Port.png",
-            "title": "Mario Kart 64"
-        },
-        {
-            "name": "Ps5Pkg Gow-Betrayal Port",
-            "filename": "PS5PKG_GOW-Betrayal_Port.pkg",
-            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_GOW-Betrayal_Port.pkg",
-            "local_path": "pkg/God_Of_War_-_Betrayal_Port/Source-Fixe/PS5PKG_GOW-Betrayal_Port.pkg",
+            "title": "Mario Kart 64",
+            "version": "Source-Fixe",
+            "author": "Unknown Author",
+            "category": "PKG",
             "description": "PS5PKG_MK64_Port.",
-            "version": "Source-Fixe",
-            "checksum": "132fdd785c3a7a7ac5220a87ec0f698d09ad6b4fdc7b8e422133867cd75998f1",
-            "category": "PKG",
+            "checksum": "a32ddaa9904082ea6bc6553eafc5f8c3e2af8bc0b985651405f7db1f0bb1decd",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/PS5PKG_MK64_Port.png",
+            "filename": "PS5PKG_MK64_Port.pkg",
+            "downloadLinks": [
+                {
+                    "name": "Mirror",
+                    "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_MK64_Port.pkg"
+                }
+            ]
+        },
+        {
             "titleId": "MOUG90926",
+            "title": "God of War Betrayal",
+            "version": "Source-Fixe",
+            "author": "Unknown Author",
+            "category": "PKG",
+            "description": "PS5PKG_MK64_Port.",
+            "checksum": "132fdd785c3a7a7ac5220a87ec0f698d09ad6b4fdc7b8e422133867cd75998f1",
             "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/PS5PKG_GOW-Betrayal_Port.png",
-            "title": "God of War Betrayal"
+            "filename": "PS5PKG_GOW-Betrayal_Port.pkg",
+            "downloadLinks": [
+                {
+                    "name": "Mirror",
+                    "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_GOW-Betrayal_Port.pkg"
+                }
+            ]
         },
         {
-            "name": "Markus Phu-Emupack-Ki-Arcade.Collection.Ps5",
-            "filename": "Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.pkg",
-            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.pkg",
-            "local_path": "pkg/Markus_PHU-EmuPack-KI-Arcade.Collection.PS5/Source-Fixe/Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.pkg",
-            "description": "Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.",
-            "version": "Source-Fixe",
-            "checksum": "aeb6624067ca058a359919d59a7a4be13a4b043d149bfe6f55cbbf5f205f16f8",
-            "category": "PKG",
             "titleId": "KILL00095",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/Killer.Instinct-Arcade.Collection.png",
-            "title": "Killer Instinct - Arcade Collection"
-        },
-        {
-            "name": "Markus Phu-Emupack-Paprium-Port.Ps5",
-            "filename": "Markus_PHU-EmuPack-Paprium-Port.PS5.pkg",
-            "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Paprium-Port.PS5.pkg",
-            "local_path": "pkg/Markus_PHU-EmuPack-Paprium-Port.PS5/Source-Fixe/Markus_PHU-EmuPack-Paprium-Port.PS5.pkg",
-            "description": "Markus_PHU-EmuPack-Paprium-Port.PS5.",
+            "title": "Killer Instinct - Arcade Collection",
             "version": "Source-Fixe",
-            "checksum": "e68c106367d5419be39a0f5eda39772fd9e7536829eecf74c8e0d3ec32114930",
+            "author": "Unknown Author",
             "category": "PKG",
+            "description": "Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.",
+            "checksum": "aeb6624067ca058a359919d59a7a4be13a4b043d149bfe6f55cbbf5f205f16f8",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/Killer.Instinct-Arcade.Collection.png",
+            "filename": "Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.pkg",
+            "downloadLinks": [
+                {
+                    "name": "Mirror",
+                    "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.pkg"
+                }
+            ]
+        },
+        {
             "titleId": "PAPR00095",
+            "title": "Paprium",
+            "version": "Source-Fixe",
+            "author": "Unknown Author",
+            "category": "PKG",
+            "description": "Markus_PHU-EmuPack-Paprium-Port.PS5.",
+            "checksum": "e68c106367d5419be39a0f5eda39772fd9e7536829eecf74c8e0d3ec32114930",
             "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/Markus_PHU-EmuPack-Paprium-Port.PS5.png",
-            "title": "Paprium"
+            "filename": "Markus_PHU-EmuPack-Paprium-Port.PS5.pkg",
+            "downloadLinks": [
+                {
+                    "name": "Mirror",
+                    "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Paprium-Port.PS5.pkg"
+                }
+            ]
         },
         {
-            "name": "Evoplayer-V0.12.5-Ppsa99039",
-            "filename": "EVOPlayer-v0.12.5-PPSA99039.ffpfsc",
-            "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.12.5/EVOPlayer-v0.12.5-PPSA99039.ffpfsc",
-            "local_path": "ffpfsc/EVO-PLAYER-PS5/v0.12.5/EVOPlayer-v0.12.5-PPSA99039.ffpfsc",
-            "description": "A media player for jailbroken PS5",
-            "version": "v0.12.5",
-            "checksum": "a7aa2e3af3af292d4c208c6b5a0dfa4e72e61e3c22ba3c22336f1d87cb15456a",
-            "category": "FFPFSC",
             "titleId": "CUSA00000",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg"
+            "title": "Evoplayer-V0.12.5-Ppsa99039",
+            "version": "v0.12.5",
+            "author": "Unknown Author",
+            "category": "FFPFSC",
+            "description": "A media player for jailbroken PS5",
+            "checksum": "a7aa2e3af3af292d4c208c6b5a0dfa4e72e61e3c22ba3c22336f1d87cb15456a",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "filename": "EVOPlayer-v0.12.5-PPSA99039.ffpfsc",
+            "downloadLinks": [
+                {
+                    "name": "Mirror",
+                    "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.12.5/EVOPlayer-v0.12.5-PPSA99039.ffpfsc"
+                }
+            ]
         },
         {
-            "name": "Prospero Radio",
-            "filename": "PROSPERO_RADIO.ffpfsc",
-            "url": "https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/02.000.055/PROSPERO_RADIO.ffpfsc",
-            "local_path": "ffpfsc/ProsperoRadio_Vulkan_Edition/02.000.055/PROSPERO_RADIO.ffpfsc",
-            "description": "An internet radio for PS5 with a real radio face — rendered with Vulkan.",
-            "version": "02.000.055",
-            "checksum": "7fc1350a77683c344b9098f1cdfc26fd9080fed3efce35891789bf08f0cfeeec",
-            "category": "FFPFSC",
             "titleId": "PPSA99001",
+            "title": "ProsperoRadio Vulkan Edition",
+            "version": "02.000.055",
+            "author": "Unknown Author",
+            "category": "FFPFSC",
+            "description": "An internet radio for PS5 with a real radio face — rendered with Vulkan.",
+            "checksum": "7fc1350a77683c344b9098f1cdfc26fd9080fed3efce35891789bf08f0cfeeec",
             "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/ProsperoRadio.png",
-            "title": "ProsperoRadio Vulkan Edition"
+            "filename": "PROSPERO_RADIO.ffpfsc",
+            "downloadLinks": [
+                {
+                    "name": "Mirror",
+                    "url": "https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/02.000.055/PROSPERO_RADIO.ffpfsc"
+                }
+            ]
         }
     ]
 }

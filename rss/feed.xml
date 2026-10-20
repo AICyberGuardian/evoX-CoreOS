@@ -912,9 +912,9 @@
     </item>
     <item>
       <title>[Applications] Ppsa99000</title>
-      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.103/PPSA99000.zip</link>
+      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.104/PPSA99000.zip</link>
       <description>homebrew store</description>
-      <pubDate>v1.000.103</pubDate>
+      <pubDate>v1.000.104</pubDate>
     </item>
     <item>
       <title>[Applications] Emustore-Ps5-V0.4.0</title>
@@ -1202,7 +1202,7 @@
       <title>[ProsperoStore] Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.008</pubDate>
+      <pubDate>01.000.011</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Capy Mobile</title>
@@ -1280,7 +1280,7 @@
       <title>[ProsperoStore] ProsperoStore</title>
       <link>https://github.com/darkxex/ProsperoStore</link>
       <description>Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.</description>
-      <pubDate>1.000.103</pubDate>
+      <pubDate>1.000.104</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ProsperoLight</title>
@@ -1527,6 +1527,12 @@
       <link>https://github.com/cobanov/PS5LM</link>
       <description>Runs language and decision models on the PS5's GPU with llama.cpp and serves them to your network over OpenAI and Anthropic APIs. Decision models powered by Ollaya.</description>
       <pubDate>0.9.1</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] PS5SD</title>
+      <link>https://github.com/Darkatek7/PS5SD</link>
+      <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
+      <pubDate>0.1.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5LM Plus</title>
