@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 21/10/2026 à 03:39
+* **PAYLOADS**
+  * `Poords4-Status V0.2.0` (v0.2.0) - *Nouveau*
+  * `Poords4-Stop V0.2.0` (v0.2.0) - *Nouveau*
+  * `Poords4 V0.2.0` (v0.2.0) - *Nouveau*
+  * `Poords4Rc51 V0.1.0-Rc51` (PoorDS4) - *Mise à jour (Précédent: v0.1.0-rc51)*
+
 ## Build du 21/10/2026 à 01:52
 * **PAYLOADS**
   * `Shadowmountplus` (1.7beta6-fix2) - *Mise à jour (Précédent: ShadowMountPlus)*
