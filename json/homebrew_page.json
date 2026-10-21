@@ -312,15 +312,15 @@
     {
       "name": "Prospero Themes",
       "filename": "PPSA90210.zip",
-      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.011/PPSA90210.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.011/PPSA90210.zip",
+      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.012/PPSA90210.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.012/PPSA90210.zip",
       "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
-      "version": "01.000.011",
+      "version": "01.000.012",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA90210",
       "author": "Darkatek7",
-      "checksum": "170d54fa113b4b277c6b63132503d42510ea3fa4b839bf0d1913c8782d75a76d",
+      "checksum": "99f8ea77fd44068f2f36bc7239bc8d1d036c0921d2a86f24cd64d0922caf7bc1",
       "source": "https://github.com/Darkatek7/ProsperoThemes"
     },
     {
@@ -494,15 +494,15 @@
     {
       "name": "ProsperoStore",
       "filename": "PPSA99000.zip",
-      "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.104/PPSA99000.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99000/1.000.104/PPSA99000.zip",
+      "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.105/PPSA99000.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99000/1.000.105/PPSA99000.zip",
       "description": "Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.",
-      "version": "1.000.104",
+      "version": "1.000.105",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99000",
       "author": "BlackBearReloaded",
-      "checksum": "8219df628a65039291e98690c1b63a251dba114fc86c89944dfb356c2e3bc8da",
+      "checksum": "c3d60cc649fd814c54c4d82c209050126d8e6fa7dd66838d35e44eecf6f4fa88",
       "source": "https://github.com/darkxex/ProsperoStore"
     },
     {
@@ -802,15 +802,15 @@
     {
       "name": "Nuvio Max'd",
       "filename": "PPSA99288.zip",
-      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v0.5.34-native-experimental/PPSA99288.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/0.5.34-native-experimental/PPSA99288.zip",
-      "description": "An unofficial native Nuvio client for PS5 with synced watch progress, addon streams, episode skipping and experimental HDR10 playback.",
-      "version": "0.5.34-native-experimental",
+      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0-native-experimental/PPSA99288.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0-native-experimental/PPSA99288.zip",
+      "description": "A native Nuvio client for PS5 with profiles, synced watch progress, addons, Live TV, trailers, anime skipping and optional playback engines.",
+      "version": "1.0.0-native-experimental",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99288",
       "author": "HandshakeHackin",
-      "checksum": "88173ce44ee4e0f7145d241a539deb767b9fc05d60b0d1d71a77194ff623b46d",
+      "checksum": "c86623a44acda55039e65bc04535488967b92b3e94c8f1fbaeab7de2e7958c74",
       "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
     },
     {
@@ -1124,15 +1124,15 @@
     {
       "name": "PS5SD",
       "filename": "PPSA99576.zip",
-      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.5.1/PPSA99576.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.5.1/PPSA99576.zip",
+      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.5.2/PPSA99576.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.5.2/PPSA99576.zip",
       "description": "Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.",
-      "version": "0.5.1",
+      "version": "0.5.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99576",
       "author": "Darkatek7",
-      "checksum": "0e21a99172fddb39a1eb12aed930960961769efdfc047f9721910e58753b7d12",
+      "checksum": "c4fefc44f5315f66195fbf68c12d988b44cf25fa2eeeba43bf5e7b1845e9643d",
       "source": "https://github.com/Darkatek7/PS5SD"
     },
     {
@@ -1348,15 +1348,15 @@
     {
       "name": "PSBox Cloud Gaming",
       "filename": "PPSA99810.zip",
-      "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.3.2/PPSA99810.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.3.2/PPSA99810.zip",
+      "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.3.3/PPSA99810.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.3.3/PPSA99810.zip",
       "description": "Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.",
-      "version": "1.3.2",
+      "version": "1.3.3",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99810",
       "author": "RafaelNGP",
-      "checksum": "b9810699def8d0dff5ffe5af2a961fe8263a2fd79a3424874d0bb96f7bf1ef0e",
+      "checksum": "835fc7069c9d9414c94a3e7d9f3505b4c9f8d1b1a62966533f605e623e30fd19",
       "source": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5"
     },
     {

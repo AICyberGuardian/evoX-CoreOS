@@ -3,6 +3,64 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA01575",
+      "title": "Avatar Frontiers of Pandora Complete Edition",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "v01.020",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0113/38ad0cc5b92af440d46ccebf5d1f271213d656684fce3385.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0113/38ad0cc5b92af440d46ccebf5d1f271213d656684fce3385.png",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA01575, v01.020, EUR, 4.xx BackPort\nSize: 319GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: Pippo &amp; DUPLEX\nHow to play: Need account with offact + np-fake-signin for unlock DLCs. FPKG atm is only working up to 11.60, use exFAT if you are above, DLCs Merged. About Dump: SDK is 4.xx, BackPort already included. About FPKG: BackPort already included on Base, DLCs PKG separated.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/6b9oetjifhbd/PPSA01575.7z"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/usxsuvylusc3/PPSA01575.7z"
+        },
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.to/APVma0LW5GXo/file"
+        },
+        {
+          "name": "DataVaults",
+          "url": "https://datavaults.co/snxd0zd9ixoz/PPSA01575.7z"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/wgsTbjs5E6"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/zcjon56mp7yc/DLCs_Pippo_DUPLEX.rar"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://datavaults.co/fz8bl02ivwn5/DLCs_Pippo_DUPLEX.rar"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/QN9mEd7l7G6d/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/nGkLopGUKO"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/susjf529cdjl/PPSA01575-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/umcc6az86sd3/PPSA01575-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 342523641856
+    },
+    {
       "titleId": "PPSA07642",
       "title": "The Last of Us Part I Deluxe Edition",
       "createdAt": "2026-10-21T01:31:06.716Z",
@@ -19655,40 +19713,6 @@
         }
       ],
       "sizeBytes": 173946175488
-    },
-    {
-      "titleId": "PPSA01575",
-      "title": "Avatar Frontiers of Pandora Complete Edition",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "v01.020",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0113/38ad0cc5b92af440d46ccebf5d1f271213d656684fce3385.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0113/38ad0cc5b92af440d46ccebf5d1f271213d656684fce3385.png",
-      "description": "Tags: PPSA01575, v01.020, EUR, DLCs Merged, 4.xx BackPort\nSize: 319GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX\nHow to play: Need account with offact + np-fake-signin for unlock DLCs.",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/APVma0LW5GXo/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/wgsTbjs5E6"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/6b9oetjifhbd"
-        },
-        {
-          "name": "Filek",
-          "url": "https://filekeeper.net/usxsuvylusc3"
-        },
-        {
-          "name": "Vault",
-          "url": "https://datavaults.co/snxd0zd9ixoz"
-        }
-      ],
-      "sizeBytes": 342523641856
     },
     {
       "titleId": "PPSA03233",

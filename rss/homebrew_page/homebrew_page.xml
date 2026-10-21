@@ -140,7 +140,7 @@
       <title>Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.011</pubDate>
+      <pubDate>01.000.012</pubDate>
     </item>
     <item>
       <title>Capy Mobile</title>
@@ -218,7 +218,7 @@
       <title>ProsperoStore</title>
       <link>https://github.com/darkxex/ProsperoStore</link>
       <description>Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.</description>
-      <pubDate>1.000.104</pubDate>
+      <pubDate>1.000.105</pubDate>
     </item>
     <item>
       <title>ProsperoLight</title>
@@ -349,8 +349,8 @@
     <item>
       <title>Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
-      <description>An unofficial native Nuvio client for PS5 with synced watch progress, addon streams, episode skipping and experimental HDR10 playback.</description>
-      <pubDate>0.5.34-native-experimental</pubDate>
+      <description>A native Nuvio client for PS5 with profiles, synced watch progress, addons, Live TV, trailers, anime skipping and optional playback engines.</description>
+      <pubDate>1.0.0-native-experimental</pubDate>
     </item>
     <item>
       <title>Spider-Man: Edge of Time</title>
@@ -488,7 +488,7 @@
       <title>PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>0.5.1</pubDate>
+      <pubDate>0.5.2</pubDate>
     </item>
     <item>
       <title>PS5LM Plus</title>
@@ -584,7 +584,7 @@
       <title>PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.3.2</pubDate>
+      <pubDate>1.3.3</pubDate>
     </item>
     <item>
       <title>Prospero Vibrate</title>

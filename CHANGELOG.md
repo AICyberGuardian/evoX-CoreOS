@@ -1,5 +1,15 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 21/10/2026 à 16:53
+* **APPS**
+  * `Ppsa99000` (v1.000.105) - *Mise à jour (Précédent: v1.000.104)*
+* **HOMEBREW_PAGE**
+  * `Prospero Themes` (01.000.012) - *Mise à jour (Précédent: 01.000.011)*
+  * `ProsperoStore` (1.000.105) - *Mise à jour (Précédent: 1.000.104)*
+  * `Nuvio Max'd` (1.0.0-native-experimental) - *Mise à jour (Précédent: 0.5.34-native-experimental)*
+  * `PS5SD` (0.5.2) - *Mise à jour (Précédent: 0.5.1)*
+  * `PSBox Cloud Gaming` (1.3.3) - *Mise à jour (Précédent: 1.3.2)*
+
 ## Build du 21/10/2026 à 14:26
 * **PAYLOADS**
   * `Garlic-Savemgr V1.14` (v1.14) - *Nouveau*
