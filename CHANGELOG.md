@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 21/10/2026 à 00:35
+* **PAYLOADS**
+  * `Ps5 Unified Autoloader V0.1.6-E7093Cd` (v0.1.6-e7093cd) - *Nouveau*
+  * `Shadowmountplus` (1.7beta6) - *Mise à jour (Précédent: 1.7beta5)*
+* **HOMEBREW_PAGE**
+  * `Seedee5` (1.22) - *Mise à jour (Précédent: 1.21)*
+
 ## Build du 20/10/2026 à 21:27
 * **PAYLOADS**
   * `Ps5Upload V7.1.9` (ps5upload) - *Mise à jour (Précédent: v7.1.9)*

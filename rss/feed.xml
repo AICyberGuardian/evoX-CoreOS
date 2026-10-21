@@ -335,10 +335,10 @@
       <pubDate>2.5B</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5 Unified Autoloader V0.1.5-915A65E</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.5-915a65e/PS5_Unified_Autoloader_v0.1.5-915a65e.elf</link>
+      <title>[Payloads] Ps5 Unified Autoloader V0.1.6-E7093Cd</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.6-e7093cd/PS5_Unified_Autoloader_v0.1.6-e7093cd.elf</link>
       <description>Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l</description>
-      <pubDate>v0.1.5-915a65e</pubDate>
+      <pubDate>v0.1.6-e7093cd</pubDate>
     </item>
     <item>
       <title>[Payloads] Pldmgr V0.6.3</title>
@@ -510,9 +510,9 @@
     </item>
     <item>
       <title>[Payloads] Shadowmountplus</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta5/shadowmountplus.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta6/shadowmountplus.elf</link>
       <description>ShadowMountPlus payload for game mounting.</description>
-      <pubDate>1.7beta5</pubDate>
+      <pubDate>1.7beta6</pubDate>
     </item>
     <item>
       <title>[Payloads] Backpork V0.1</title>
@@ -1376,7 +1376,7 @@
       <title>[ProsperoStore] Seedee5</title>
       <link>https://github.com/mortaljinx/Seedee5</link>
       <description>A Philips CD-i emulator (SAME_CDI) with a cover-wheel library, NAS support, 4K picture filters and game info; bring your own BIOS and games.</description>
-      <pubDate>1.21</pubDate>
+      <pubDate>1.22</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] RetroArch</title>

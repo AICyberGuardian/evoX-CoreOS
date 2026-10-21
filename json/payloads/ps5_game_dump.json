@@ -26,12 +26,12 @@
     {
       "name": "Shadowmountplus",
       "filename": "shadowmountplus.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta5/shadowmountplus.elf",
-      "local_path": "payloads/ps5_game_dump/ShadowMountPlus/1.7beta5/shadowmountplus.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta6/shadowmountplus.elf",
+      "local_path": "payloads/ps5_game_dump/ShadowMountPlus/1.7beta6/shadowmountplus.elf",
       "description": "ShadowMountPlus payload for game mounting.",
-      "version": "1.7beta5",
+      "version": "1.7beta6",
       "category": "PS5 Game Dump",
-      "checksum": "0d54a8467ec3544e1c7b365c9f100b2bf42bf4633cb768bde7c8f16b6cfb5375",
+      "checksum": "c2fb6f6bf39a94572f2b34390d5fae7ccd257c734417709a248acb6cd6e18522",
       "source": "https://github.com/drakmor/ShadowMountPlus/releases"
     },
     {

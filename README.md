@@ -200,7 +200,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Ps5-App-Dumper V2.10 | [v2.10](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ps5-app-dumper/v2.10/ps5-app-dumper_v2.10.elf) | `c850f1df6f27...` | PS5 App Dumper payload. |
 | Ps5-Game-Compressor Fork V1.1.1 | [v1.1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor_fork/v1.1.1/PS5-Game-Compressor_fork_v1.1.1.elf) | `5fec05b8a3cb...` | Fork Tool to compress PS5 games. |
 | Ps5-Game-Compressor V1.0.4 | [v1.0.4](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor/v1.0.4/PS5-Game-Compressor_v1.0.4.elf) | `e55e90aaade1...` | Tool to compress PS5 games. |
-| Shadowmountplus | [1.7beta5](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta5/shadowmountplus.elf) | `0d54a8467ec3...` | ShadowMountPlus payload for game mounting. |
+| Shadowmountplus | [1.7beta6](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta6/shadowmountplus.elf) | `c2fb6f6bf39a...` | ShadowMountPlus payload for game mounting. |
 
 ### 📂 PS5 HEN Loader
 
@@ -217,7 +217,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Pizza-Hen V2.00 | [v2.00](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PIZZA-HEN/v2.00/PIZZA-HEN_v2.00.elf) | `8535d399612d...` | PIZZA HEN is an experimental all-in-one PS5 homebrew environment. |
 | Pldmgr V0.6.3 | [v0.6.3](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.3/pldmgr_v0.6.3.elf) | `2a42054fd972...` | Interface d |
 | Prosperomgr | [v1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr.elf) | `e7a6bb544adb...` | A Web-Based All-In-One homebrew manager for your PlayStation 5 |
-| Ps5 Unified Autoloader V0.1.5-915A65E | [v0.1.5-915a65e](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.5-915a65e/PS5_Unified_Autoloader_v0.1.5-915a65e.elf) | `c8e36ea06cfd...` | Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l |
+| Ps5 Unified Autoloader V0.1.6-E7093Cd | [v0.1.6-e7093cd](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.6-e7093cd/PS5_Unified_Autoloader_v0.1.6-e7093cd.elf) | `edc4f805404f...` | Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l |
 
 ### 📂 PS5 Kstuff
 
@@ -258,7 +258,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `808a58de8a4a...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `fc9d20fa335d...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
@@ -535,7 +535,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | RommPS | s0liton | [1.2.1](https://github.com/s0liton/RommPS/releases/download/v1.2.1/PPSA76677.zip) | `afd77993de68...` | Syncs your emulator saves and states with a RomM server and downloads games from your RomM library. |
 | Ruffle Flash | AZiZ | [1.2.0](https://github.com/ZiZc3/Ruffle-Flash-PS5/releases/download/1.2.0/PPSA68091.zip) | `b34b40b69da3...` | PS5 Port of Ruffle Flash Emulator. |
 | Régie5 | Vivian | [0.7.0](https://github.com/viviandsx/regie5/releases/download/v0.7.0/PPSA99520.zip) | `c54af57f7c6f...` | A TV remote for your self-hosted media stack: Sonarr, Radarr, Seerr and Jellyfin, Emby or Plex at a glance, with request approval, playback diagnosis and an optional cleanup. |
-| Seedee5 | mortaljinx | [1.21](https://github.com/mortaljinx/Seedee5/releases/download/v1.21/Seedee5-1.21.zip) | `df06ad7a4c0b...` | A Philips CD-i emulator (SAME_CDI) with a cover-wheel library, NAS support, 4K picture filters and game info; bring your own BIOS and games. |
+| Seedee5 | mortaljinx | [1.22](https://github.com/mortaljinx/Seedee5/releases/download/v1.22/Seedee5-1.22.zip) | `28f46951e0b2...` | A Philips CD-i emulator (SAME_CDI) with a cover-wheel library, NAS support, 4K picture filters and game info; bring your own BIOS and games. |
 | Signal Companion | Marice | [00.004.002](https://github.com/Marice/ps5-signal-companion/releases/download/v00.004.002/PPSA69426.zip) | `0f74219e6991...` | Set your PS5's light colour and ps5-signal's startup tune, and manage the suite: start, update and autoload ps5-signal, ps5-exporter and ps5-homeassistant, and link the PS5 to Home Assistant. |
 | Spot5 | abhi245y | [1.1.0](https://github.com/abhi245y/spot5/releases/download/v1.1.0/PPSA99061.zip) | `af10d43f274d...` | Unofficial native Spotify player, not affiliated with Spotify: Home, Your Library, playlists, artists, Now Playing and more, with Spotify Connect. Needs Premium. |
 | Steam Remote Play | jmelovich | [1.0.0](https://github.com/jmelovich/Steam-Link-PS5/releases/download/v1.0.0/PPSA99350.zip) | `a955665b3b14...` | An unofficial Steam Remote Play client for PS5. |

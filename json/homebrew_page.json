@@ -718,15 +718,15 @@
     {
       "name": "Seedee5",
       "filename": "PPSA99142.zip",
-      "url": "https://github.com/mortaljinx/Seedee5/releases/download/v1.21/Seedee5-1.21.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99142/1.21/PPSA99142.zip",
+      "url": "https://github.com/mortaljinx/Seedee5/releases/download/v1.22/Seedee5-1.22.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99142/1.22/PPSA99142.zip",
       "description": "A Philips CD-i emulator (SAME_CDI) with a cover-wheel library, NAS support, 4K picture filters and game info; bring your own BIOS and games.",
-      "version": "1.21",
+      "version": "1.22",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99142",
       "author": "mortaljinx",
-      "checksum": "df06ad7a4c0b03f0dc80a9251138d613793f5425bc4a6ab8cac3b02188b3efbb",
+      "checksum": "28f46951e0b2aa044aada0e5d93a180ba6c613494f0387fa01aa55585297936e",
       "source": "https://github.com/mortaljinx/Seedee5"
     },
     {

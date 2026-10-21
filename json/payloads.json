@@ -605,14 +605,14 @@
       "source": "https://github.com/etaHEN/etaHEN/releases"
     },
     {
-      "name": "Ps5 Unified Autoloader V0.1.5-915A65E",
-      "filename": "PS5_Unified_Autoloader_v0.1.5-915a65e.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.5-915a65e/PS5_Unified_Autoloader_v0.1.5-915a65e.elf",
-      "local_path": "payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.5-915a65e/PS5_Unified_Autoloader_v0.1.5-915a65e.elf",
+      "name": "Ps5 Unified Autoloader V0.1.6-E7093Cd",
+      "filename": "PS5_Unified_Autoloader_v0.1.6-e7093cd.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.6-e7093cd/PS5_Unified_Autoloader_v0.1.6-e7093cd.elf",
+      "local_path": "payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.6-e7093cd/PS5_Unified_Autoloader_v0.1.6-e7093cd.elf",
       "description": "Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l",
-      "version": "v0.1.5-915a65e",
+      "version": "v0.1.6-e7093cd",
       "category": "PS5 HEN Loader",
-      "checksum": "c8e36ea06cfd37c5fad356ff9fcd09d3e62065d88170b5119ce8f1eeb3efacac",
+      "checksum": "edc4f805404f80497026ba2d74f675ee7043b1ef7f4ed92b82c1ef200aac123d",
       "source": "https://github.com/itsPLK/ps5-unified-autoloader/releases"
     },
     {
@@ -926,12 +926,12 @@
     {
       "name": "Shadowmountplus",
       "filename": "shadowmountplus.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta5/shadowmountplus.elf",
-      "local_path": "payloads/ps5_game_dump/ShadowMountPlus/1.7beta5/shadowmountplus.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta6/shadowmountplus.elf",
+      "local_path": "payloads/ps5_game_dump/ShadowMountPlus/1.7beta6/shadowmountplus.elf",
       "description": "ShadowMountPlus payload for game mounting.",
-      "version": "1.7beta5",
+      "version": "1.7beta6",
       "category": "PS5 Game Dump",
-      "checksum": "0d54a8467ec3544e1c7b365c9f100b2bf42bf4633cb768bde7c8f16b6cfb5375",
+      "checksum": "c2fb6f6bf39a94572f2b34390d5fae7ccd257c734417709a248acb6cd6e18522",
       "source": "https://github.com/drakmor/ShadowMountPlus/releases"
     },
     {
@@ -1184,7 +1184,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "808a58de8a4a1424a257225bff3fe4c906e55fd8aeb1117fe754fd782fed852b",
+      "checksum": "fc9d20fa335d478efb6ac2eb87805e53c3d0281b7906d32fbb421697a0018d7e",
       "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
     },
     {
