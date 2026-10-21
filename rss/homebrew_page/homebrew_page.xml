@@ -401,6 +401,12 @@
       <pubDate>0.9.5</pubDate>
     </item>
     <item>
+      <title>Art Swap</title>
+      <link>https://github.com/griches/PS5_ArtSwap</link>
+      <description>Change the home-screen icon and background of any title with SteamGridDB art (your own free key), crop it, keep the originals, and rename and refresh homebrew through ShadowMountPlus.</description>
+      <pubDate>1.2.0</pubDate>
+    </item>
+    <item>
       <title>Ship of Harkinian (Vulkan)</title>
       <link>https://github.com/damiantw/PS5_Shipwright</link>
       <description>Ship of Harkinian (Ocarina of Time PC port) on Vulkan: converts your own ROM on the console, 60 FPS at 4K, HD texture packs, right-stick camera and PS button prompts; tested on firmware 13.60.</description>
@@ -469,7 +475,7 @@
     <item>
       <title>Emby5</title>
       <link>https://github.com/bornaradusin/Emby5</link>
-      <description>A native Emby client for PlayStation 5 with media playback and optional Seerr requests.</description>
+      <description>A native Emby/Jellufin client for PlayStation 5 with media playback, optional Seerr requests, IPTV and VOD</description>
       <pubDate>1.2.6</pubDate>
     </item>
     <item>
@@ -488,7 +494,7 @@
       <title>PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>0.5.2</pubDate>
+      <pubDate>0.7.0</pubDate>
     </item>
     <item>
       <title>PS5LM Plus</title>
@@ -584,19 +590,13 @@
       <title>PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.3.3</pubDate>
-    </item>
-    <item>
-      <title>Prospero Vibrate</title>
-      <link>https://github.com/SvenGDK/Prospero-Vibrate</link>
-      <description>Controller vibration studio for PS5 with live motor control, preset patterns, a custom pattern editor and timed playback.</description>
-      <pubDate>1.0</pubDate>
+      <pubDate>1.3.4</pubDate>
     </item>
     <item>
       <title>Forwarder Manager</title>
       <link>https://github.com/heydemoura/ps5-forwarder-manager</link>
       <description>Create and edit home-screen forwarders that launch emulators and other apps with custom art, music and arguments.</description>
-      <pubDate>00.001.004</pubDate>
+      <pubDate>00.001.005</pubDate>
     </item>
     <item>
       <title>YouTube Max’d</title>

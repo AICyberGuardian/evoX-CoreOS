@@ -3,6 +3,106 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA30568",
+      "title": "Invincible VS Deluxe Edition",
+      "createdAt": "2026-10-21T17:50:11.069Z",
+      "version": "v01.016",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0223/1914db8ba62ff41798d0a89159d4028d927fe5b1e492dc67.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0223/1914db8ba62ff41798d0a89159d4028d927fe5b1e492dc67.png",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA30568, v01.016, USA, 4.xx BackPort\nSize: 23GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo &amp; DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 4.xx, BackPort already included. About FPKG: BackPort already included on Base.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/ixg3y0xq8lb0/DLCs_Pippo_DecKerr97.rar"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://datavaults.co/hh89ky7wfqos/DLCs_Pippo_DecKerr97.rar"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/dv2wqg6yz5wk/PPSA30568.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/lw04qocyv0rp/PPSA30568.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/N2p3DdrJn3Ma/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/HM6wDBJIPW"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/2WVGrWZQ4mkx/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/VR1tSnmjjs"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/4vohj8a8f6gd/PPSA30568-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/sdxxcxdfe8nv/PPSA30568-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 24696061952
+    },
+    {
+      "titleId": "PPSA03912",
+      "title": "Diablo 2 Resurrected Infernal Edition",
+      "createdAt": "2026-10-21T16:48:03.194Z",
+      "version": "v01.039",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2004/ab9XB7gTauWtV6qMEEIQ4d2G.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2004/ab9XB7gTauWtV6qMEEIQ4d2G.png",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA03912, v01.039, EUR, DLCs Merged, 3.xx and beyond\nSize: 49GB\nCredits: Files: DUPLEX; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/qiuj8x6p63la/PPSA03912.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/enrsq39hoi4o/PPSA03912.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/k0embkDx83Vb/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/lFmtiRAol9"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/M2BGwL5kPmj4/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/FnlQRJJLpt"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/k3rake8u22iw/PPSA03912-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/kvvo98f1xmxk/PPSA03912-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 52613349376
+    },
+    {
       "titleId": "PPSA01575",
       "title": "Avatar Frontiers of Pandora Complete Edition",
       "createdAt": "2026-10-16T21:48:35.923Z",
@@ -10,7 +110,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0113/38ad0cc5b92af440d46ccebf5d1f271213d656684fce3385.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0113/38ad0cc5b92af440d46ccebf5d1f271213d656684fce3385.png",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA01575, v01.020, EUR, 4.xx BackPort\nSize: 319GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: Pippo &amp; DUPLEX\nHow to play: Need account with offact + np-fake-signin for unlock DLCs. FPKG atm is only working up to 11.60, use exFAT if you are above, DLCs Merged. About Dump: SDK is 4.xx, BackPort already included. About FPKG: BackPort already included on Base, DLCs PKG separated.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA01575, v01.020, EUR, 4.xx BackPort\nSize: 319GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: Pippo &amp; DUPLEX\nHow to play: Need account with offact + np-fake-signin for unlock DLCs. FPKG atm is only working up to 11.60, use exFAT if you are above, DLCs Merged. About exFAT: SDK is 4.xx, BackPort already included. About FPKG: BackPort already included on Base, DLCs PKG separated.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {

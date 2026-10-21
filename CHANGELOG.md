@@ -1,5 +1,14 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 21/10/2026 à 21:31
+* **PAYLOADS**
+  * `Elfldr V0.27` (v0.27) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `Art Swap` (1.2.0) - *Nouveau*
+  * `PS5SD` (0.7.0) - *Mise à jour (Précédent: 0.5.2)*
+  * `PSBox Cloud Gaming` (1.3.4) - *Mise à jour (Précédent: 1.3.3)*
+  * `Forwarder Manager` (00.001.005) - *Mise à jour (Précédent: 00.001.004)*
+
 ## Build du 21/10/2026 à 16:53
 * **APPS**
   * `Ppsa99000` (v1.000.105) - *Mise à jour (Précédent: v1.000.104)*

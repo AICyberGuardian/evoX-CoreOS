@@ -2823,7 +2823,7 @@
     },
     {
       "titleId": "PPSA03671",
-      "title": "Wolverine",
+      "title": "Marvel's Wolverine",
       "createdAt": "2026-10-16T21:48:35.923Z",
       "version": "01.00.005",
       "category": "game",
@@ -2833,7 +2833,7 @@
       "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
       "downloadLinks": [
         {
-          "name": "LZ4 · Download - Backport",
+          "name": "LZ4 · Download",
           "url": "https://vik1ngfile.site/f/HekGA4cnx8"
         }
       ],

@@ -3,6 +3,42 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA34114",
+      "title": "RuneScape Dragonwilds",
+      "createdAt": "2026-10-21T20:53:19.824Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1117/252b7056c5ed89c910b3182d8ca3bc60e21ffa136fb8d96f.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1117/252b7056c5ed89c910b3182d8ca3bc60e21ffa136fb8d96f.png",
+      "description": "Region: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/runescape-dragonwilds-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 11.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/Z9dzBB71lzk1/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/0rpmv15l7GRg/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/HlWrI"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1MO3tY"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/krRXbi2C2Z"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/67nxjiyB9l"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA05038",
       "title": "Kings Bounty 2",
       "createdAt": "2026-10-21T12:42:20.233Z",
@@ -3019,7 +3055,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2004/ab9XB7gTauWtV6qMEEIQ4d2G.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2004/ab9XB7gTauWtV6qMEEIQ4d2G.png",
-      "description": "Region: EUR\nRelease note: Works on 3.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM",
+      "description": "Variant: EUR 3.xx\nRegion: EUR\nRelease note: Works on 3.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.039\nRegion: EUR\nRelease note: exFAT format — FW 01.039 — 3.xx and beyond\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/diablo-2-resurrected-infernal-edition-ps5/",
       "downloadLinks": [
         {
@@ -3057,6 +3093,22 @@
         {
           "name": "EUR 3.xx Base - Vikingfile part 3",
           "url": "https://vikingfile.com/f/gcSPtf58aZ"
+        },
+        {
+          "name": "EUR exFAT 01.039 Base - DataNodes",
+          "url": "https://datanodes.to/qiuj8x6p63la/PPSA03912.7z"
+        },
+        {
+          "name": "EUR exFAT 01.039 Base - FileKeeper",
+          "url": "https://filekeeper.net/enrsq39hoi4o/PPSA03912.7z"
+        },
+        {
+          "name": "EUR exFAT 01.039 Base - Akirabox",
+          "url": "https://akirabox.to/k0embkDx83Vb/file"
+        },
+        {
+          "name": "EUR exFAT 01.039 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/lFmtiRAol9"
         }
       ]
     },
@@ -134847,6 +134899,68 @@
       ]
     },
     {
+      "titleId": "PPSA30568",
+      "title": "[exFAT] Invincible VS Deluxe Edition",
+      "createdAt": "2026-10-21T20:53:19.824Z",
+      "version": "01.016",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0223/1914db8ba62ff41798d0a89159d4028d927fe5b1e492dc67.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0223/1914db8ba62ff41798d0a89159d4028d927fe5b1e492dc67.png",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.016 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.016 Base - DataNodes",
+          "url": "https://datanodes.to/dv2wqg6yz5wk/PPSA30568.7z"
+        },
+        {
+          "name": "USA exFAT 01.016 Base - FileKeeper",
+          "url": "https://filekeeper.net/lw04qocyv0rp/PPSA30568.7z"
+        },
+        {
+          "name": "USA exFAT 01.016 Base - Akirabox",
+          "url": "https://akirabox.to/N2p3DdrJn3Ma/file"
+        },
+        {
+          "name": "USA exFAT 01.016 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/HM6wDBJIPW"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA01575",
+      "title": "[exFAT] Avatar Frontiers of Pandora Complete Edition",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.020",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0113/38ad0cc5b92af440d46ccebf5d1f271213d656684fce3385.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0113/38ad0cc5b92af440d46ccebf5d1f271213d656684fce3385.png",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.020 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.020 Base - DataNodes",
+          "url": "https://datanodes.to/6b9oetjifhbd/PPSA01575.7z"
+        },
+        {
+          "name": "EUR exFAT 01.020 Base - FileKeeper",
+          "url": "https://filekeeper.net/usxsuvylusc3/PPSA01575.7z"
+        },
+        {
+          "name": "EUR exFAT 01.020 Base - Akirabox",
+          "url": "https://akirabox.to/APVma0LW5GXo/file"
+        },
+        {
+          "name": "EUR exFAT 01.020 Base - DataVaults",
+          "url": "https://datavaults.co/snxd0zd9ixoz/PPSA01575.7z"
+        },
+        {
+          "name": "EUR exFAT 01.020 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/wgsTbjs5E6"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA07642",
       "title": "[exFAT] The Last of Us Part I Deluxe Edition",
       "createdAt": "2026-10-21T06:36:20.437Z",
@@ -138595,39 +138709,6 @@
         {
           "name": "EUR exFAT 01.052 BackPort backport - Vault Backport (exFAT)",
           "url": "https://datavaults.co/qdw6jlgv1vxi"
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA01575",
-      "title": "[exFAT] Avatar Frontiers of Pandora Complete Edition",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "01.020",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0113/38ad0cc5b92af440d46ccebf5d1f271213d656684fce3385.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0113/38ad0cc5b92af440d46ccebf5d1f271213d656684fce3385.png",
-      "description": "Region: EUR\nRelease note: exFAT format — FW 01.020 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
-      "downloadLinks": [
-        {
-          "name": "EUR exFAT 01.020 Base - AKIA (exFAT)",
-          "url": "https://akirabox.com/APVma0LW5GXo/file"
-        },
-        {
-          "name": "EUR exFAT 01.020 Base - VIKI (exFAT)",
-          "url": "https://vikingfile.com/f/wgsTbjs5E6"
-        },
-        {
-          "name": "EUR exFAT 01.020 Base - DATA (exFAT)",
-          "url": "https://datanodes.to/6b9oetjifhbd"
-        },
-        {
-          "name": "EUR exFAT 01.020 Base - FileK (exFAT)",
-          "url": "https://filekeeper.net/usxsuvylusc3"
-        },
-        {
-          "name": "EUR exFAT 01.020 Base - Vault (exFAT)",
-          "url": "https://datavaults.co/snxd0zd9ixoz"
         }
       ]
     },
