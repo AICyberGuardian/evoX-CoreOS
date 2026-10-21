@@ -18,15 +18,15 @@
         {
             "name": "PS64",
             "filename": "PPSA06464.zip",
-            "url": "https://github.com/dantaipan/PS64/releases/download/01.000.000/PPSA06464.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA06464/01.000.000/PPSA06464.zip",
+            "url": "https://github.com/dantaipan/PS64/releases/download/01.000.001/PPSA06464.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA06464/01.000.001/PPSA06464.zip",
             "description": "Play the Commodore 64 on PS5: stream and control a C64 Ultimate, or use the built-in VICE emulator, with Assembly64 search.",
-            "version": "01.000.000",
+            "version": "01.000.001",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA06464",
             "author": "dantaipan",
-            "checksum": "c9927e906e0631d1e62fe99f48e56e21a6f055e340b85699eaba1ac3ce4b3f0f",
+            "checksum": "33992c816e19452429fd364229247b9cf37b467886fba1cfcf1999072cb04dea",
             "source": "https://github.com/dantaipan/PS64"
         },
         {

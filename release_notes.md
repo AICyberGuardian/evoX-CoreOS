@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.21-0111)
+### 🚀 Synthèse de la mise à jour (v2026.10.21-0152)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -144,6 +144,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `Chukei_DNS_v0.9.0.elf`
   * `PS5-Game-Compressor_v1.0.4.elf`
   * `ps5-app-dumper_v2.10.elf`
+  * `shadowmountplus.elf`
   * `BackPork_v0.1.elf`
   * `apr_emu_updater_v2.0.6.elf`
   * `PS5-Game-Compressor_fork_v1.1.1.elf`
@@ -155,7 +156,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5library-agent-0.2.70.elf`
   * `ps5library-agent-0.2.55.elf`
   * `Spectrum-Library_v1.4.8.elf`
-  * `shadowmountplus.elf`
   * `ps5_overlay.elf`
   * `ps5_overlay_shellui.elf`
   * `PS5X360_v0.5.7.elf`

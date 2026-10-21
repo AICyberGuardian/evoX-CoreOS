@@ -671,6 +671,12 @@
       <pubDate>v2.10</pubDate>
     </item>
     <item>
+      <title>[Payloads] Shadowmountplus</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta6-fix2/shadowmountplus.elf</link>
+      <description>ShadowMountPlus payload for game mounting.</description>
+      <pubDate>1.7beta6-fix2</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Backpork V0.1</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf</link>
       <description>BackPork PS5 tool.</description>
@@ -735,12 +741,6 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>Spectrum-Library</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Shadowmountplus</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>ShadowMountPlus</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5 Overlay</title>
@@ -1076,7 +1076,7 @@
       <title>[ProsperoStore] PS64</title>
       <link>https://github.com/dantaipan/PS64</link>
       <description>Play the Commodore 64 on PS5: stream and control a C64 Ultimate, or use the built-in VICE emulator, with Assembly64 search.</description>
-      <pubDate>01.000.000</pubDate>
+      <pubDate>01.000.001</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] SymphonyStation5</title>

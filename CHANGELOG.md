@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 21/10/2026 à 01:52
+* **PAYLOADS**
+  * `Shadowmountplus` (1.7beta6-fix2) - *Mise à jour (Précédent: ShadowMountPlus)*
+* **HOMEBREW_PAGE**
+  * `PS64` (01.000.001) - *Mise à jour (Précédent: 01.000.000)*
+
 ## Build du 21/10/2026 à 01:11
 * **PAYLOADS**
   * `Shadowmountplus` (ShadowMountPlus) - *Mise à jour (Précédent: 1.7beta6)*

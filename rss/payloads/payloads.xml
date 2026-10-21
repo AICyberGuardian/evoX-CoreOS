@@ -671,6 +671,12 @@
       <pubDate>v2.10</pubDate>
     </item>
     <item>
+      <title>Shadowmountplus</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta6-fix2/shadowmountplus.elf</link>
+      <description>ShadowMountPlus payload for game mounting.</description>
+      <pubDate>1.7beta6-fix2</pubDate>
+    </item>
+    <item>
       <title>Backpork V0.1</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf</link>
       <description>BackPork PS5 tool.</description>
@@ -735,12 +741,6 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>Spectrum-Library</pubDate>
-    </item>
-    <item>
-      <title>Shadowmountplus</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>ShadowMountPlus</pubDate>
     </item>
     <item>
       <title>Ps5 Overlay</title>
