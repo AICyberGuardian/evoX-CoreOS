@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 21/10/2026 à 01:11
+* **PAYLOADS**
+  * `Shadowmountplus` (ShadowMountPlus) - *Mise à jour (Précédent: 1.7beta6)*
+* **HOMEBREW_PAGE**
+  * `Halo: Combat Evolved` (build-111) - *Nouveau*
+
 ## Build du 21/10/2026 à 00:35
 * **PAYLOADS**
   * `Ps5 Unified Autoloader V0.1.6-E7093Cd` (v0.1.6-e7093cd) - *Nouveau*

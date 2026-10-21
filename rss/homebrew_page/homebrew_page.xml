@@ -443,6 +443,12 @@
       <pubDate>1.1.0</pubDate>
     </item>
     <item>
+      <title>Halo: Combat Evolved</title>
+      <link>https://github.com/thelinkin3000/halo-ce-universal</link>
+      <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
+      <pubDate>build-111</pubDate>
+    </item>
+    <item>
       <title>Jelly5</title>
       <link>https://github.com/02dnot/Jelly5</link>
       <description>A native Jellyfin client for jailbroken PS5: its own liquid-glass interface, hardware-decoded 4K HDR</description>

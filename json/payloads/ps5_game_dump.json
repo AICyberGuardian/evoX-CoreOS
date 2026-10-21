@@ -24,17 +24,6 @@
       "source": "https://github.com/EchoStretch/ps5-app-dumper/releases"
     },
     {
-      "name": "Shadowmountplus",
-      "filename": "shadowmountplus.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta6/shadowmountplus.elf",
-      "local_path": "payloads/ps5_game_dump/ShadowMountPlus/1.7beta6/shadowmountplus.elf",
-      "description": "ShadowMountPlus payload for game mounting.",
-      "version": "1.7beta6",
-      "category": "PS5 Game Dump",
-      "checksum": "c2fb6f6bf39a94572f2b34390d5fae7ccd257c734417709a248acb6cd6e18522",
-      "source": "https://github.com/drakmor/ShadowMountPlus/releases"
-    },
-    {
       "name": "Backpork V0.1",
       "filename": "BackPork_v0.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf",
