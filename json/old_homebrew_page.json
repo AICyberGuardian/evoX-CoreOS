@@ -144,15 +144,15 @@
         {
             "name": "Ruffle Flash",
             "filename": "PPSA68091.zip",
-            "url": "https://github.com/ZiZc3/Ruffle-Flash-PS5/releases/download/1.2.0/PPSA68091.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA68091/1.2.0/PPSA68091.zip",
+            "url": "https://github.com/ZiZc3/Ruffle-Flash-PS5/releases/download/v1.3.0/PPSA68091.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA68091/v1.3.0/PPSA68091.zip",
             "description": "PS5 Port of Ruffle Flash Emulator.",
-            "version": "1.2.0",
+            "version": "v1.3.0",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA68091",
             "author": "AZiZ",
-            "checksum": "b34b40b69da30dafce4ea67ee312a55b6bd9b07b59849741253b2c46147076be",
+            "checksum": "29ad7ac81979400da84ec70341be02f3e31c513cfc4a6307fdd9ed98162d3da0",
             "source": "https://github.com/ZiZc3/Ruffle-Flash-PS5"
         },
         {
@@ -830,15 +830,15 @@
         {
             "name": "Quake3e",
             "filename": "PPSA99303.zip",
-            "url": "https://github.com/griches/PS5_Quake3e/releases/download/v1.2.0/Quake3-PS5-v1.2.0.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA99303/1.2.0/PPSA99303.zip",
+            "url": "https://github.com/griches/PS5_Quake3e/releases/download/v1.3.0/Quake3-PS5-v1.3.0.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99303/1.3.0/PPSA99303.zip",
             "description": "Native PS5 port of Quake3e, the improved Quake III Arena engine, drawing with Vulkan at up to 4K with DualSense or USB mouse and keyboard input. Needs your own Quake III Arena game data.",
-            "version": "1.2.0",
+            "version": "1.3.0",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA99303",
             "author": "Gary Riches",
-            "checksum": "ce5ac7291cf90bfbd167a4b2f55cc071879f8ef45ade054227ac9c5bfe155cbe",
+            "checksum": "399a0c681e07f93ed2b14b577ce1f05fb79c657fdc759d0dc205d27d8896fa8a",
             "source": "https://github.com/griches/PS5_Quake3e"
         },
         {
@@ -998,15 +998,15 @@
         {
             "name": "FUTBOL13",
             "filename": "PPSA99405.zip",
-            "url": "https://github.com/7tg/futbol13/releases/download/01.000.000/PPSA99405.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA99405/01.000.000/PPSA99405.zip",
+            "url": "https://github.com/7tg/futbol13/releases/download/01.000.002/PPSA99405.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99405/01.000.002/PPSA99405.zip",
             "description": "Your own PC copy of Pro Evolution Soccer 2013 as a homebrew app on a jailbroken PS5, through prospero-win, squad updates and commentary mods included (bring your own copy).",
-            "version": "01.000.000",
+            "version": "01.000.002",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA99405",
             "author": "7tg",
-            "checksum": "b65872711846fa57f6f7518bc02949b0e1a38566686c09442d0e00633eac5e34",
+            "checksum": "6da4e6d24f5d51579a5ee78982f1c3b238d589cdbc893f101ebc1c2eae8c3fc8",
             "source": "https://github.com/7tg/futbol13"
         },
         {
@@ -1040,15 +1040,15 @@
         {
             "name": "Halo: Combat Evolved",
             "filename": "PPSA99500.zip",
-            "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-111/halo-ps5-release.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-111/PPSA99500.zip",
+            "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-113/halo-ps5-release.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-113/PPSA99500.zip",
             "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-            "version": "build-111",
+            "version": "build-113",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA99500",
             "author": "thelinkin3000",
-            "checksum": "085547a502bc2064ad9d5092a5bc9f02630fc8efecdcaecf28aaa731e417ef60",
+            "checksum": "794514508eff01338ec9c276736206233fbbe71782713c5c5350df2fa6392f72",
             "source": "https://github.com/thelinkin3000/halo-ce-universal"
         },
         {
@@ -1082,15 +1082,15 @@
         {
             "name": "Emby5",
             "filename": "PPSA99515.zip",
-            "url": "https://github.com/bornaradusin/Emby5/releases/download/1.2.5/Emby5-1.2.5.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99515/1.2.5/PPSA99515.zip",
+            "url": "https://github.com/bornaradusin/Emby5/releases/download/1.2.6/Emby5-1.2.6.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99515/1.2.6/PPSA99515.zip",
             "description": "A native Emby client for PlayStation 5 with media playback and optional Seerr requests.",
-            "version": "1.2.5",
+            "version": "1.2.6",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99515",
             "author": "bornaradusin",
-            "checksum": "84eb60b06df40873bbea3e4bb99208df653ffde3f3c8931813c1834966a0dbed",
+            "checksum": "eb820c6b315b5d1c90d3b75cba0c85a350c2fd46a3455c27180fa1cfe8c201b9",
             "source": "https://github.com/bornaradusin/Emby5"
         },
         {
@@ -1124,15 +1124,15 @@
         {
             "name": "PS5SD",
             "filename": "PPSA99576.zip",
-            "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.4.0/PPSA99576.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.4.0/PPSA99576.zip",
+            "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.5.1/PPSA99576.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.5.1/PPSA99576.zip",
             "description": "Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.",
-            "version": "0.4.0",
+            "version": "0.5.1",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99576",
             "author": "Darkatek7",
-            "checksum": "b9cb1b3f153067865f6b8e33d4b554d2a803329c64b9b9b5fb918e3546a11519",
+            "checksum": "0e21a99172fddb39a1eb12aed930960961769efdfc047f9721910e58753b7d12",
             "source": "https://github.com/Darkatek7/PS5SD"
         },
         {
@@ -1276,6 +1276,20 @@
             "source": "https://github.com/mshivam019/la-ps5"
         },
         {
+            "name": "Machete AI Studio",
+            "filename": "PPSA99699.zip",
+            "url": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID/releases/download/v0.5.0/PPSA99699.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99699/0.5.0/PPSA99699.zip",
+            "description": "Machete AI Studio: Local Video and Image generation (Wan 2.2, LTX-Video, SDXL, FLUX) on PS5 GPU with Web UI and TV QR dashboard.",
+            "version": "0.5.0",
+            "category": "Apps",
+            "kind": "app",
+            "titleid": "PPSA99699",
+            "author": "VenezuelanBiggie24",
+            "checksum": "2208f0ad98306325f8cc9a445373fbc70a3320a542cf53028a4de336255471a6",
+            "source": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID"
+        },
+        {
             "name": "OpenRCT2 Native Port",
             "filename": "PPSA99728.zip",
             "url": "https://github.com/lowbit/ps5-openrct2/releases/download/v1.0.0/PPSA99728.zip",
@@ -1334,15 +1348,15 @@
         {
             "name": "PSBox Cloud Gaming",
             "filename": "PPSA99810.zip",
-            "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.3.1/PPSA99810.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.3.1/PPSA99810.zip",
+            "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.3.2/PPSA99810.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.3.2/PPSA99810.zip",
             "description": "Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.",
-            "version": "1.3.1",
+            "version": "1.3.2",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99810",
             "author": "RafaelNGP",
-            "checksum": "80a57d2eb29e894fdac47333dec18b245a2b7835e8a5bbd3337bb2431c3d7c66",
+            "checksum": "b9810699def8d0dff5ffe5af2a961fe8263a2fd79a3424874d0bb96f7bf1ef0e",
             "source": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5"
         },
         {

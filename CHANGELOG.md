@@ -1,5 +1,20 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 21/10/2026 à 14:26
+* **PAYLOADS**
+  * `Garlic-Savemgr V1.14` (v1.14) - *Nouveau*
+  * `Snes9Xps5 V2.8` (v2.8) - *Nouveau*
+  * `Shadowmountplus` (1.7beta7) - *Mise à jour (Précédent: 1.7beta6-fix2)*
+* **HOMEBREW_PAGE**
+  * `Ruffle Flash` (v1.3.0) - *Mise à jour (Précédent: 1.2.0)*
+  * `Quake3e` (1.3.0) - *Mise à jour (Précédent: 1.2.0)*
+  * `FUTBOL13` (01.000.002) - *Mise à jour (Précédent: 01.000.000)*
+  * `Halo: Combat Evolved` (build-113) - *Mise à jour (Précédent: build-111)*
+  * `Emby5` (1.2.6) - *Mise à jour (Précédent: 1.2.5)*
+  * `PS5SD` (0.5.1) - *Mise à jour (Précédent: 0.4.0)*
+  * `Machete AI Studio` (0.5.0) - *Nouveau*
+  * `PSBox Cloud Gaming` (1.3.2) - *Mise à jour (Précédent: 1.3.1)*
+
 ## Build du 21/10/2026 à 11:21
 * **HOMEBREW_PAGE**
   * `Forever Launcher` (01.000.016) - *Mise à jour (Précédent: 01.000.015)*

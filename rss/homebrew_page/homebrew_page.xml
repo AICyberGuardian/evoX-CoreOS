@@ -68,7 +68,7 @@
       <title>Ruffle Flash</title>
       <link>https://github.com/ZiZc3/Ruffle-Flash-PS5</link>
       <description>PS5 Port of Ruffle Flash Emulator.</description>
-      <pubDate>1.2.0</pubDate>
+      <pubDate>v1.3.0</pubDate>
     </item>
     <item>
       <title>ScreenTester5</title>
@@ -362,7 +362,7 @@
       <title>Quake3e</title>
       <link>https://github.com/griches/PS5_Quake3e</link>
       <description>Native PS5 port of Quake3e, the improved Quake III Arena engine, drawing with Vulkan at up to 4K with DualSense or USB mouse and keyboard input. Needs your own Quake III Arena game data.</description>
-      <pubDate>1.2.0</pubDate>
+      <pubDate>1.3.0</pubDate>
     </item>
     <item>
       <title>Dusklight</title>
@@ -434,7 +434,7 @@
       <title>FUTBOL13</title>
       <link>https://github.com/7tg/futbol13</link>
       <description>Your own PC copy of Pro Evolution Soccer 2013 as a homebrew app on a jailbroken PS5, through prospero-win, squad updates and commentary mods included (bring your own copy).</description>
-      <pubDate>01.000.000</pubDate>
+      <pubDate>01.000.002</pubDate>
     </item>
     <item>
       <title>PS5MC</title>
@@ -452,7 +452,7 @@
       <title>Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/halo-ce-universal</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-111</pubDate>
+      <pubDate>build-113</pubDate>
     </item>
     <item>
       <title>Jelly5</title>
@@ -470,7 +470,7 @@
       <title>Emby5</title>
       <link>https://github.com/bornaradusin/Emby5</link>
       <description>A native Emby client for PlayStation 5 with media playback and optional Seerr requests.</description>
-      <pubDate>1.2.5</pubDate>
+      <pubDate>1.2.6</pubDate>
     </item>
     <item>
       <title>Régie5</title>
@@ -488,7 +488,7 @@
       <title>PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>0.4.0</pubDate>
+      <pubDate>0.5.1</pubDate>
     </item>
     <item>
       <title>PS5LM Plus</title>
@@ -551,6 +551,12 @@
       <pubDate>v0.1.0</pubDate>
     </item>
     <item>
+      <title>Machete AI Studio</title>
+      <link>https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID</link>
+      <description>Machete AI Studio: Local Video and Image generation (Wan 2.2, LTX-Video, SDXL, FLUX) on PS5 GPU with Web UI and TV QR dashboard.</description>
+      <pubDate>0.5.0</pubDate>
+    </item>
+    <item>
       <title>OpenRCT2 Native Port</title>
       <link>https://github.com/lowbit/ps5-openrct2</link>
       <description>OpenRCT2, the open-source RollerCoaster Tycoon 2, running natively on the PS5 and played with the DualSense alone. Send your own game files, even the GOG installer, from a PC or phone browser.</description>
@@ -578,7 +584,7 @@
       <title>PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.3.1</pubDate>
+      <pubDate>1.3.2</pubDate>
     </item>
     <item>
       <title>Prospero Vibrate</title>

@@ -88,15 +88,15 @@
     {
       "name": "Ruffle Flash",
       "filename": "PPSA68091.zip",
-      "url": "https://github.com/ZiZc3/Ruffle-Flash-PS5/releases/download/1.2.0/PPSA68091.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA68091/1.2.0/PPSA68091.zip",
+      "url": "https://github.com/ZiZc3/Ruffle-Flash-PS5/releases/download/v1.3.0/PPSA68091.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA68091/v1.3.0/PPSA68091.zip",
       "description": "PS5 Port of Ruffle Flash Emulator.",
-      "version": "1.2.0",
+      "version": "v1.3.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA68091",
       "author": "AZiZ",
-      "checksum": "b34b40b69da30dafce4ea67ee312a55b6bd9b07b59849741253b2c46147076be",
+      "checksum": "29ad7ac81979400da84ec70341be02f3e31c513cfc4a6307fdd9ed98162d3da0",
       "source": "https://github.com/ZiZc3/Ruffle-Flash-PS5"
     },
     {
@@ -648,15 +648,15 @@
     {
       "name": "Emby5",
       "filename": "PPSA99515.zip",
-      "url": "https://github.com/bornaradusin/Emby5/releases/download/1.2.5/Emby5-1.2.5.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99515/1.2.5/PPSA99515.zip",
+      "url": "https://github.com/bornaradusin/Emby5/releases/download/1.2.6/Emby5-1.2.6.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99515/1.2.6/PPSA99515.zip",
       "description": "A native Emby client for PlayStation 5 with media playback and optional Seerr requests.",
-      "version": "1.2.5",
+      "version": "1.2.6",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99515",
       "author": "bornaradusin",
-      "checksum": "84eb60b06df40873bbea3e4bb99208df653ffde3f3c8931813c1834966a0dbed",
+      "checksum": "eb820c6b315b5d1c90d3b75cba0c85a350c2fd46a3455c27180fa1cfe8c201b9",
       "source": "https://github.com/bornaradusin/Emby5"
     },
     {
@@ -690,15 +690,15 @@
     {
       "name": "PS5SD",
       "filename": "PPSA99576.zip",
-      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.4.0/PPSA99576.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.4.0/PPSA99576.zip",
+      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.5.1/PPSA99576.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.5.1/PPSA99576.zip",
       "description": "Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.",
-      "version": "0.4.0",
+      "version": "0.5.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99576",
       "author": "Darkatek7",
-      "checksum": "b9cb1b3f153067865f6b8e33d4b554d2a803329c64b9b9b5fb918e3546a11519",
+      "checksum": "0e21a99172fddb39a1eb12aed930960961769efdfc047f9721910e58753b7d12",
       "source": "https://github.com/Darkatek7/PS5SD"
     },
     {
@@ -728,6 +728,20 @@
       "author": "tertiumndatur",
       "checksum": "fa47dd13c4ec4c8f1acf8ae41cc38f1411710b40c4853cddd65b135dc45ebb70",
       "source": "https://github.com/tertiumndatur/ps5-cloud-play"
+    },
+    {
+      "name": "Machete AI Studio",
+      "filename": "PPSA99699.zip",
+      "url": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID/releases/download/v0.5.0/PPSA99699.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99699/0.5.0/PPSA99699.zip",
+      "description": "Machete AI Studio: Local Video and Image generation (Wan 2.2, LTX-Video, SDXL, FLUX) on PS5 GPU with Web UI and TV QR dashboard.",
+      "version": "0.5.0",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99699",
+      "author": "VenezuelanBiggie24",
+      "checksum": "2208f0ad98306325f8cc9a445373fbc70a3320a542cf53028a4de336255471a6",
+      "source": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID"
     },
     {
       "name": "Porpoise",
@@ -774,15 +788,15 @@
     {
       "name": "PSBox Cloud Gaming",
       "filename": "PPSA99810.zip",
-      "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.3.1/PPSA99810.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.3.1/PPSA99810.zip",
+      "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.3.2/PPSA99810.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.3.2/PPSA99810.zip",
       "description": "Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99810",
       "author": "RafaelNGP",
-      "checksum": "80a57d2eb29e894fdac47333dec18b245a2b7835e8a5bbd3337bb2431c3d7c66",
+      "checksum": "b9810699def8d0dff5ffe5af2a961fe8263a2fd79a3424874d0bb96f7bf1ef0e",
       "source": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5"
     },
     {

@@ -3,6 +3,30 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA05038",
+      "title": "Kings Bounty 2",
+      "createdAt": "2026-10-21T12:42:20.233Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1214/A880X9EIZraNYMt4I9plj6vp.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1214/A880X9EIZraNYMt4I9plj6vp.png",
+      "description": "Region: EUR\nRelease note: Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/kings-bounty-2-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/0rpmv154LGRg/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/aISae"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/vtCEroovFp"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA22394",
       "title": "PuzzMiX",
       "createdAt": "2026-10-21T06:36:20.437Z",
@@ -878,6 +902,138 @@
       ]
     },
     {
+      "titleId": "PPSA02019",
+      "title": "Tennis World Tour 2 Complete Edition",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA23445_00/2/i_645e0d50f2e7590987cc145f7dd97271044ff7216e2ae8fa23f9d4b9e10a9d8e/i/icon0.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA23445_00/2/i_645e0d50f2e7590987cc145f7dd97271044ff7216e2ae8fa23f9d4b9e10a9d8e/i/icon0.png",
+      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.000.007\nRegion: EUR\nRelease note: exFAT format — FW 01.000.007 — 2.xx and beyond\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/tennis-world-tour-2-complete-edition-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/obj3jkoLPzDx/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1tEs1A"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/8tqzkr8q1h"
+        },
+        {
+          "name": "EUR 4.xx Base - 1fichier",
+          "url": "https://1fichier.com/?n35drzarlwrwuhazuw4a"
+        },
+        {
+          "name": "EUR exFAT 01.000.007 Base - DataNodes",
+          "url": "https://datanodes.to/r9k7iv2rjtlx/PPSA02019.7z"
+        },
+        {
+          "name": "EUR exFAT 01.000.007 Base - FileKeeper",
+          "url": "https://filekeeper.net/o9elwyjcn1r0/PPSA02019.7z"
+        },
+        {
+          "name": "EUR exFAT 01.000.007 Base - Akirabox",
+          "url": "https://akirabox.com/rk9zKdnQRG0l/file"
+        },
+        {
+          "name": "EUR exFAT 01.000.007 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/vSTxBApHu2"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA02308",
+      "title": "Crusader Kings 3",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1607/czGau6hOvx9iQYOOkACdxqDl.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1607/czGau6hOvx9iQYOOkACdxqDl.png",
+      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.039\nRegion: EUR\nRelease note: exFAT format — FW 01.039 — 3.xx and beyond\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/crusader-kings-3-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/0rpmv1YBZGRg/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1WwiPo"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/EGfjiJGKaw"
+        },
+        {
+          "name": "EUR 4.xx Base - 1fichier",
+          "url": "https://1fichier.com/?gei1yw0t0ldz6xeq6nll"
+        },
+        {
+          "name": "EUR exFAT 01.039 Base - DataNodes",
+          "url": "https://datanodes.to/n3eug5mli1cc/PPSA02308.7z"
+        },
+        {
+          "name": "EUR exFAT 01.039 Base - FileKeeper",
+          "url": "https://filekeeper.net/4elcxrjuieas/PPSA02308.7z"
+        },
+        {
+          "name": "EUR exFAT 01.039 Base - Akirabox",
+          "url": "https://akirabox.com/vgKGx7Kjqz8Q/file"
+        },
+        {
+          "name": "EUR exFAT 01.039 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/l6qnKL70Uv"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA17226",
+      "title": "Coral Island",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png",
+      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.003.004\nRegion: EUR\nRelease note: exFAT format — FW 01.003.004 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/coral-island-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/RMKGJWD61m1o/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1pD19c"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/WNNlNMeNTs"
+        },
+        {
+          "name": "EUR 4.xx Base - 1fichier",
+          "url": "https://1fichier.com/?icmyiutg0ue8egj6i2ax"
+        },
+        {
+          "name": "EUR exFAT 01.003.004 Base - DataNodes",
+          "url": "https://datanodes.to/huw9ghlnqjdk/PPSA17226.7z"
+        },
+        {
+          "name": "EUR exFAT 01.003.004 Base - FileKeeper",
+          "url": "https://filekeeper.net/rcswc8phb01f/PPSA17226.7z"
+        },
+        {
+          "name": "EUR exFAT 01.003.004 Base - Akirabox",
+          "url": "https://akirabox.com/E9Qz965xwGOL/file"
+        },
+        {
+          "name": "EUR exFAT 01.003.004 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ugNUpnjeAt"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA32904",
       "title": "Madden NFL 27",
       "createdAt": "2026-10-16T21:48:35.923Z",
@@ -1718,138 +1874,6 @@
         {
           "name": "USA exFAT 03.000.010 Base - Vikingfile",
           "url": "https://vikingfile.com/f/SLxER2vAV0"
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA02019",
-      "title": "Tennis World Tour 2 Complete Edition",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA23445_00/2/i_645e0d50f2e7590987cc145f7dd97271044ff7216e2ae8fa23f9d4b9e10a9d8e/i/icon0.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA23445_00/2/i_645e0d50f2e7590987cc145f7dd97271044ff7216e2ae8fa23f9d4b9e10a9d8e/i/icon0.png",
-      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.000.007\nRegion: EUR\nRelease note: exFAT format — FW 01.000.007 — 2.xx and beyond\nContributor: pippo",
-      "downloadSource": "https://dlpsgame.com/tennis-world-tour-2-complete-edition-ps5/",
-      "downloadLinks": [
-        {
-          "name": "EUR 4.xx Base - Akirabox",
-          "url": "https://akirabox.com/obj3jkoLPzDx/file"
-        },
-        {
-          "name": "EUR 4.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/1tEs1A"
-        },
-        {
-          "name": "EUR 4.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/8tqzkr8q1h"
-        },
-        {
-          "name": "EUR 4.xx Base - 1fichier",
-          "url": "https://1fichier.com/?n35drzarlwrwuhazuw4a"
-        },
-        {
-          "name": "EUR exFAT 01.000.007 Base - DataNodes",
-          "url": "https://datanodes.to/r9k7iv2rjtlx/PPSA02019.7z"
-        },
-        {
-          "name": "EUR exFAT 01.000.007 Base - FileKeeper",
-          "url": "https://filekeeper.net/o9elwyjcn1r0/PPSA02019.7z"
-        },
-        {
-          "name": "EUR exFAT 01.000.007 Base - Akirabox",
-          "url": "https://akirabox.com/rk9zKdnQRG0l/file"
-        },
-        {
-          "name": "EUR exFAT 01.000.007 Base - Vikingfile",
-          "url": "https://vikingfile.com/f/vSTxBApHu2"
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA02308",
-      "title": "Crusader Kings 3",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1607/czGau6hOvx9iQYOOkACdxqDl.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1607/czGau6hOvx9iQYOOkACdxqDl.png",
-      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.039\nRegion: EUR\nRelease note: exFAT format — FW 01.039 — 3.xx and beyond\nContributor: pippo",
-      "downloadSource": "https://dlpsgame.com/crusader-kings-3-ps5/",
-      "downloadLinks": [
-        {
-          "name": "EUR 4.xx Base - Akirabox",
-          "url": "https://akirabox.com/0rpmv1YBZGRg/file"
-        },
-        {
-          "name": "EUR 4.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/1WwiPo"
-        },
-        {
-          "name": "EUR 4.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/EGfjiJGKaw"
-        },
-        {
-          "name": "EUR 4.xx Base - 1fichier",
-          "url": "https://1fichier.com/?gei1yw0t0ldz6xeq6nll"
-        },
-        {
-          "name": "EUR exFAT 01.039 Base - DataNodes",
-          "url": "https://datanodes.to/n3eug5mli1cc/PPSA02308.7z"
-        },
-        {
-          "name": "EUR exFAT 01.039 Base - FileKeeper",
-          "url": "https://filekeeper.net/4elcxrjuieas/PPSA02308.7z"
-        },
-        {
-          "name": "EUR exFAT 01.039 Base - Akirabox",
-          "url": "https://akirabox.com/vgKGx7Kjqz8Q/file"
-        },
-        {
-          "name": "EUR exFAT 01.039 Base - Vikingfile",
-          "url": "https://vikingfile.com/f/l6qnKL70Uv"
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA17226",
-      "title": "Coral Island",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png?w=260",
-      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png",
-      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.003.004\nRegion: EUR\nRelease note: exFAT format — FW 01.003.004 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://dlpsgame.com/coral-island-ps5/",
-      "downloadLinks": [
-        {
-          "name": "EUR 4.xx Base - Akirabox",
-          "url": "https://akirabox.com/RMKGJWD61m1o/file"
-        },
-        {
-          "name": "EUR 4.xx Base - Rootz",
-          "url": "https://www.rootz.so/d/1pD19c"
-        },
-        {
-          "name": "EUR 4.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/WNNlNMeNTs"
-        },
-        {
-          "name": "EUR 4.xx Base - 1fichier",
-          "url": "https://1fichier.com/?icmyiutg0ue8egj6i2ax"
-        },
-        {
-          "name": "EUR exFAT 01.003.004 Base - DataNodes",
-          "url": "https://datanodes.to/huw9ghlnqjdk/PPSA17226.7z"
-        },
-        {
-          "name": "EUR exFAT 01.003.004 Base - FileKeeper",
-          "url": "https://filekeeper.net/rcswc8phb01f/PPSA17226.7z"
-        },
-        {
-          "name": "EUR exFAT 01.003.004 Base - Akirabox",
-          "url": "https://akirabox.com/E9Qz965xwGOL/file"
-        },
-        {
-          "name": "EUR exFAT 01.003.004 Base - Vikingfile",
-          "url": "https://vikingfile.com/f/ugNUpnjeAt"
         }
       ]
     },
