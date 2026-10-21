@@ -70,7 +70,9 @@ def download_catalogs():
             description = item.get("description", "")
             category = item.get("category", "Games / Apps")
             checksum = item.get("checksum") or item.get("sha256") or ""
-            poster_url = item.get("posterUrl") or item.get("icon") or "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg"
+            
+            # Correction ici : on cherche d'abord le champ "cover" (ou "posterUrl"/"icon") de BlackBox, sinon l'image par défaut
+            poster_url = item.get("cover") or item.get("posterUrl") or item.get("icon") or "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg"
             
             # Récupération des liens de téléchargement bruts
             raw_url = item.get("url") or item.get("download_url") or ""
