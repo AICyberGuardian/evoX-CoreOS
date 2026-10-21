@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 21/10/2026 à 11:21
+* **HOMEBREW_PAGE**
+  * `Forever Launcher` (01.000.016) - *Mise à jour (Précédent: 01.000.015)*
+  * `Sahin` (01.004.000) - *Mise à jour (Précédent: 01.003.000)*
+  * `FUTBOL13` (01.000.000) - *Nouveau*
+  * `PS5SD` (0.4.0) - *Mise à jour (Précédent: 0.3.0)*
+
 ## Build du 21/10/2026 à 03:39
 * **PAYLOADS**
   * `Poords4-Status V0.2.0` (v0.2.0) - *Nouveau*

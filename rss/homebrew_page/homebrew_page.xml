@@ -260,7 +260,7 @@
       <title>Forever Launcher</title>
       <link>https://github.com/bizkut/ps5-forever</link>
       <description>Battle.net launcher for World of Warcraft (Retail, Classic and Forever) with a built-in add-on manager; press Options for the Forever menu and L3+R3 for the on-screen keyboard.</description>
-      <pubDate>01.000.015</pubDate>
+      <pubDate>01.000.016</pubDate>
     </item>
     <item>
       <title>EVO Player</title>
@@ -428,7 +428,13 @@
       <title>Sahin</title>
       <link>https://github.com/7tg/sahin</link>
       <description>Your own PC copy of Blur as a homebrew app on a jailbroken PS5, through prospero-win, with split screen and Amax online play (bring your own copy).</description>
-      <pubDate>01.003.000</pubDate>
+      <pubDate>01.004.000</pubDate>
+    </item>
+    <item>
+      <title>FUTBOL13</title>
+      <link>https://github.com/7tg/futbol13</link>
+      <description>Your own PC copy of Pro Evolution Soccer 2013 as a homebrew app on a jailbroken PS5, through prospero-win, squad updates and commentary mods included (bring your own copy).</description>
+      <pubDate>01.000.000</pubDate>
     </item>
     <item>
       <title>PS5MC</title>
@@ -482,7 +488,7 @@
       <title>PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>0.3.0</pubDate>
+      <pubDate>0.4.0</pubDate>
     </item>
     <item>
       <title>PS5LM Plus</title>

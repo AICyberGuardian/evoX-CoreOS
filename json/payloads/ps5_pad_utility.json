@@ -13,17 +13,6 @@
       "source": "https://github.com/ItsBlurf/PoorDS4/releases"
     },
     {
-      "name": "Poords4-Stop V0.2.0",
-      "filename": "PoorDS4-stop_v0.2.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4-stop_v0.2.0.elf",
-      "local_path": "payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4-stop_v0.2.0.elf",
-      "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
-      "version": "v0.2.0",
-      "category": "PS5 Pad Utility",
-      "checksum": "fab1ad04daf8346e5952c115f3a08621598d29e222ff80e328a14e73a0f968c8",
-      "source": "https://github.com/ItsBlurf/PoorDS4/releases"
-    },
-    {
       "name": "Poords4 V0.2.0",
       "filename": "PoorDS4_v0.2.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4_v0.2.0.elf",
@@ -32,6 +21,17 @@
       "version": "v0.2.0",
       "category": "PS5 Pad Utility",
       "checksum": "c5f257ca2bf2f95949d09f95dd6feb3353b2ad37e24c972d09fccc3beb11301c",
+      "source": "https://github.com/ItsBlurf/PoorDS4/releases"
+    },
+    {
+      "name": "Poords4-Stop V0.2.0",
+      "filename": "PoorDS4-stop_v0.2.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4-stop_v0.2.0.elf",
+      "local_path": "payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4-stop_v0.2.0.elf",
+      "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
+      "version": "v0.2.0",
+      "category": "PS5 Pad Utility",
+      "checksum": "fab1ad04daf8346e5952c115f3a08621598d29e222ff80e328a14e73a0f968c8",
       "source": "https://github.com/ItsBlurf/PoorDS4/releases"
     },
     {
@@ -86,7 +86,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "6a4bd7c8616d323d29b6bc04a516d6c6dba160c65628e4150cba5f65f10f0d2a",
+      "checksum": "99ba498a9de91f76f0b15a9d6f233d9d3a49000718f09198b3f54241ea4c1f05",
       "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
     }
   ]
