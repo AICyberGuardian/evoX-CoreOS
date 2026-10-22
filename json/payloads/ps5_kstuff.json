@@ -24,26 +24,15 @@
       "source": "https://github.com/EchoStretch/kstuff-lite/releases"
     },
     {
-      "name": "Kstuff-Lite Drakmor V1.2-Dr-Test1",
-      "filename": "kstuff-lite_drakmor_v1.2-dr-test1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-lite_drakmor/1.2-dr-test1/kstuff-lite_drakmor_v1.2-dr-test1.elf",
-      "local_path": "payloads/ps5_kstuff/kstuff-lite_drakmor/1.2-dr-test1/kstuff-lite_drakmor_v1.2-dr-test1.elf",
+      "name": "Kstuff-Lite Drakmor V1.2-Dr-Test2",
+      "filename": "kstuff-lite_drakmor_v1.2-dr-test2.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-lite_drakmor/1.2-dr-test2/kstuff-lite_drakmor_v1.2-dr-test2.elf",
+      "local_path": "payloads/ps5_kstuff/kstuff-lite_drakmor/1.2-dr-test2/kstuff-lite_drakmor_v1.2-dr-test2.elf",
       "description": "Drakmor",
-      "version": "1.2-dr-test1",
+      "version": "1.2-dr-test2",
       "category": "PS5 Kstuff",
-      "checksum": "9c1b242eaed3704ef18be45d001a2c4ebf2d9222cfe3cbb0f0c3db33309abac9",
+      "checksum": "2b699d411079a21dba7c39a02993fc0fb21e52f434103e884a0c892fafe56b75",
       "source": "https://github.com/drakmor/kstuff-lite/releases"
-    },
-    {
-      "name": "Kstuff-A53 Sonic V1.4",
-      "filename": "kstuff-a53_SoNic_v1.4.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-a53_SoNic/1.4/kstuff-a53_SoNic_v1.4.elf",
-      "local_path": "payloads/ps5_kstuff/kstuff-a53_SoNic/1.4/kstuff-a53_SoNic_v1.4.elf",
-      "description": "SoNic variant of kstuff-a53.",
-      "version": "1.4",
-      "category": "PS5 Kstuff",
-      "checksum": "675bef691b1bd1ee14956409aa3947ef9fd52dc36034dbd18d7c55d469e08d23",
-      "source": "https://github.com/Soonniicc/kstuff-a53/releases"
     }
   ]
 }

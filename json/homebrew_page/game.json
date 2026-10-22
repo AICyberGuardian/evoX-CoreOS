@@ -340,15 +340,15 @@
     {
       "name": "Sahin",
       "filename": "PPSA99404.zip",
-      "url": "https://github.com/7tg/sahin/releases/download/01.004.000/PPSA99404.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99404/01.004.000/PPSA99404.zip",
+      "url": "https://github.com/7tg/sahin/releases/download/01.005.000/PPSA99404.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99404/01.005.000/PPSA99404.zip",
       "description": "Your own PC copy of Blur as a homebrew app on a jailbroken PS5, through prospero-win, with split screen and Amax online play (bring your own copy).",
-      "version": "01.004.000",
+      "version": "01.005.000",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99404",
       "author": "7tg",
-      "checksum": "4bab6e06c0e29098fa6e4631e11e5ca742b1b30d1537192325567dd1b9a532b0",
+      "checksum": "6c88ec25529f503130eb7965a228619201934fc55321b477c8d32f5dae03dc35",
       "source": "https://github.com/7tg/sahin"
     },
     {

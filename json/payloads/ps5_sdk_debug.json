@@ -13,17 +13,6 @@
       "source": "https://github.com/OpenSourcereR-dev/ps5debug-NG/releases"
     },
     {
-      "name": "Ps5-Fw-Spoof",
-      "filename": "ps5-fw-spoof.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-fw-spoof/26616621599/ps5-fw-spoof.elf",
-      "local_path": "payloads/ps5_sdk_debug/ps5-fw-spoof/26616621599/ps5-fw-spoof.elf",
-      "description": "Firmware spoofer utility for PS5.",
-      "version": "26616621599",
-      "category": "PS5 Sdk Debug",
-      "checksum": "f1754521caa92a6a1ac313a1b6c969ec49d67750e290ba99870958290a0961f0",
-      "source": "https://github.com/illusionyy/ps5-fw-spoof/releases"
-    },
-    {
       "name": "Ps5-Self-Pager-System-Common-Lib",
       "filename": "ps5-self-pager-system-common-lib.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-system-common-lib.elf",

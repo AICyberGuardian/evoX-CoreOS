@@ -1,5 +1,20 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 22/10/2026 à 16:50
+* **PAYLOADS**
+  * `Kstuff-Lite Drakmor V1.2-Dr-Test2` (1.2-dr-test2) - *Nouveau*
+  * `Wfm-7Zip-Helper` (v1.12) - *Mise à jour (Précédent: v1.11b)*
+  * `Web-File-Mgr-V1.12` (v1.12) - *Nouveau*
+  * `Ps5-Fw-Spoof` (ps5-fw-spoof) - *Mise à jour (Précédent: 26616621599)*
+  * `Web-File-Mgr-V1.11B` (ps5-web-file-manager) - *Mise à jour (Précédent: v1.11b)*
+  * `Kstuff-A53 Sonic V1.4` (kstuff-a53_SoNic) - *Mise à jour (Précédent: 1.4)*
+* **HOMEBREW_PAGE**
+  * `Prospero Themes` (01.000.017) - *Mise à jour (Précédent: 01.000.014)*
+  * `Forever Launcher` (01.000.018) - *Mise à jour (Précédent: 01.000.016)*
+  * `Sahin` (01.005.000) - *Mise à jour (Précédent: 01.004.000)*
+  * `PS5SD` (0.9.0) - *Mise à jour (Précédent: 0.8.0)*
+  * `PS5MG` (0.2.1) - *Nouveau*
+
 ## Build du 22/10/2026 à 11:19
 * **HOMEBREW_PAGE**
   * `Prospero Themes` (01.000.014) - *Mise à jour (Précédent: 01.000.012)*

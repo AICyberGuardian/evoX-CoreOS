@@ -197,16 +197,10 @@
       <pubDate>v1.11</pubDate>
     </item>
     <item>
-      <title>[Payloads] Kstuff-Lite Drakmor V1.2-Dr-Test1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-lite_drakmor/1.2-dr-test1/kstuff-lite_drakmor_v1.2-dr-test1.elf</link>
+      <title>[Payloads] Kstuff-Lite Drakmor V1.2-Dr-Test2</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-lite_drakmor/1.2-dr-test2/kstuff-lite_drakmor_v1.2-dr-test2.elf</link>
       <description>Drakmor</description>
-      <pubDate>1.2-dr-test1</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Kstuff-A53 Sonic V1.4</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-a53_SoNic/1.4/kstuff-a53_SoNic_v1.4.elf</link>
-      <description>SoNic variant of kstuff-a53.</description>
-      <pubDate>1.4</pubDate>
+      <pubDate>1.2-dr-test2</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Custom-Tool-Manager- Vcustom</title>
@@ -387,12 +381,6 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5debug-NG/1.3.2/ps5debug-NG_v1.3.2.elf</link>
       <description>Next generation debugger payload for PS5.</description>
       <pubDate>1.3.2</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Ps5-Fw-Spoof</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-fw-spoof/26616621599/ps5-fw-spoof.elf</link>
-      <description>Firmware spoofer utility for PS5.</description>
-      <pubDate>26616621599</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Self-Pager-System-Common-Lib</title>
@@ -588,15 +576,15 @@
     </item>
     <item>
       <title>[Payloads] Wfm-7Zip-Helper</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.11b/wfm-7zip-helper.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.12/wfm-7zip-helper.elf</link>
       <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
-      <pubDate>v1.11b</pubDate>
+      <pubDate>v1.12</pubDate>
     </item>
     <item>
-      <title>[Payloads] Web-File-Mgr-V1.11B</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.11b/web-file-mgr-v1.11b.elf</link>
+      <title>[Payloads] Web-File-Mgr-V1.12</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.12/web-file-mgr-v1.12.elf</link>
       <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
-      <pubDate>v1.11b</pubDate>
+      <pubDate>v1.12</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-File-Explorer Vfile-Explorer-V0.2.1</title>
@@ -695,6 +683,12 @@
       <pubDate>v1.2.0</pubDate>
     </item>
     <item>
+      <title>[Payloads] Ps5-Fw-Spoof</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ps5-fw-spoof</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Poords4Rc51 V0.1.0-Rc51</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
@@ -714,6 +708,12 @@
     </item>
     <item>
       <title>[Payloads] Web-File-Mgr-V1.10</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ps5-web-file-manager</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Web-File-Mgr-V1.11B</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>ps5-web-file-manager</pubDate>
@@ -741,6 +741,12 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>PS5X360</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Kstuff-A53 Sonic V1.4</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>kstuff-a53_SoNic</pubDate>
     </item>
     <item>
       <title>[Payloads] Spectrum-Library V1.4.8</title>
@@ -1202,7 +1208,7 @@
       <title>[ProsperoStore] Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.014</pubDate>
+      <pubDate>01.000.017</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Capy Mobile</title>
@@ -1328,7 +1334,7 @@
       <title>[ProsperoStore] Forever Launcher</title>
       <link>https://github.com/bizkut/ps5-forever</link>
       <description>Battle.net launcher for World of Warcraft (Retail, Classic and Forever) with a built-in add-on manager; press Options for the Forever menu and L3+R3 for the on-screen keyboard.</description>
-      <pubDate>01.000.016</pubDate>
+      <pubDate>01.000.018</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] EVO Player</title>
@@ -1508,7 +1514,7 @@
       <title>[ProsperoStore] Sahin</title>
       <link>https://github.com/7tg/sahin</link>
       <description>Your own PC copy of Blur as a homebrew app on a jailbroken PS5, through prospero-win, with split screen and Amax online play (bring your own copy).</description>
-      <pubDate>01.004.000</pubDate>
+      <pubDate>01.005.000</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] FUTBOL13</title>
@@ -1574,7 +1580,13 @@
       <title>[ProsperoStore] PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>0.8.0</pubDate>
+      <pubDate>0.9.0</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] PS5MG</title>
+      <link>https://github.com/nikay99/PS5MG</link>
+      <description>Picture to textured 3D mesh (TRELLIS.2) on the PS5 GPU, with a web page and TV dashboard. Needs the model weights (not included): copy them over FTP, see the README on GitHub.</description>
+      <pubDate>0.2.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5LM Plus</title>

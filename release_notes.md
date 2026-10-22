@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.22-1119)
+### 🚀 Synthèse de la mise à jour (v2026.10.22-1650)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -65,8 +65,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `FGG-PlayPods_v1.0.elf`
   * `kstuff_EchoStretch_v1.6.7.elf`
   * `kstuff-lite_EchoStretch_v1.11.elf`
-  * `kstuff-lite_drakmor_v1.2-dr-test1.elf`
-  * `kstuff-a53_SoNic_v1.4.elf`
+  * `kstuff-lite_drakmor_v1.2-dr-test2.elf`
   * `PS5-Custom-Tool-Manager-_vCustom.elf`
   * `ps5-wallpaper-modd_v1.0.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
@@ -97,7 +96,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `etaHEN-2.6B.bin`
   * `ProsperoMgr.elf`
   * `ps5debug-NG_v1.3.2.elf`
-  * `ps5-fw-spoof.elf`
   * `ps5-self-pager-system-common-lib.elf`
   * `ps5-self-pager-shellcore.elf`
   * `ps5-self-pager-full-system.elf`
@@ -131,7 +129,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `BFpilot_v0.4.4.elf`
   * `lapy_jb_daemon.elf`
   * `wfm-7zip-helper.elf`
-  * `web-file-mgr-v1.11b.elf`
+  * `web-file-mgr-v1.12.elf`
   * `PS5-File-Explorer_vfile-explorer-v0.2.1.elf`
   * `PoorDS4-status_v0.2.0.elf`
   * `PoorDS4_v0.2.0.elf`
@@ -148,14 +146,17 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf`
+  * `ps5-fw-spoof.elf`
   * `PoorDS4rc51_v0.1.0-rc51.elf`
   * `web-file-mgr-v1.9.elf`
   * `web-file-mgr_v1.9.elf`
   * `web-file-mgr-v1.10.elf`
+  * `web-file-mgr-v1.11b.elf`
   * `web-file-mgr-v1.11.elf`
   * `ps5_overlay_shellui.elf`
   * `ps5_overlay.elf`
   * `PS5X360_v0.5.7.elf`
+  * `kstuff-a53_SoNic_v1.4.elf`
   * `Spectrum-Library_v1.4.8.elf`
   * `ps5library-agent-0.2.70.elf`
   * `ps5library-agent-0.2.55.elf`
@@ -323,6 +324,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99520.zip`
   * `PPSA99575.zip`
   * `PPSA99576.zip`
+  * `PPSA99577.zip`
   * `PPSA99581.zip`
   * `PPSA99600.zip`
   * `PPSA99620.zip`

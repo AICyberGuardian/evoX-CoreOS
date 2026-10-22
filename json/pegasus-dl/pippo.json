@@ -3,6 +3,304 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA99305",
+      "title": "Guitar Hero 5 (Unofficial Port)",
+      "createdAt": "2026-10-22T13:19:19.021Z",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/GH5_Port.jpg",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA99305, v01.000, USA, 4.xx and beyond\nSize: 5GB\nCredits: Files: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/d2f2xh2cam7v/PPSA99305.exfat"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/zyz9etnvo5vi/PPSA99305.exfat"
+        },
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.to/jJD3VegqOma5/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/qkYBB2z0IX"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/618s7bxibrpn/PPSA99305.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/7a7ivj1juaw4/PPSA99305.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/APVmaMOE6mXo/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/a5lfQi3f7f"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/9AqGQeDXEGMn/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/haxDzd9SeC"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/msc7quzvh5ug/PPSA99305-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/a1e3x5pxjzoh/PPSA99305-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
+      "titleId": "PPSA29802",
+      "title": "Plants vs. Zombies Replanted",
+      "createdAt": "2026-10-22T13:19:19.021Z",
+      "version": "v01.510",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA29802_8a2ba380c37d5be7546e0954a43884e0395b498f4e0ba58a5a1f9db446b57ce3/icon0.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA29802, v01.510, USA, 4.xx BackPort\nSize: 4GB\nCredits: Files: High-Speed007; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/pzx69oe2vg8n/PPSA29802.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/g8chqe8zr8pn/PPSA29802.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/5pVzNoklJG7w/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/5uzqhr5PHi"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/wgWGqWVKE34o/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/zTukPMJuTE"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/leufb1hy5zum/PPSA29802-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/avawz40ty5cq/PPSA29802-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 4294967296
+    },
+    {
+      "titleId": "PPSA06929",
+      "title": "DEADCRAFT Deluxe Edition",
+      "createdAt": "2026-10-22T13:19:19.021Z",
+      "version": "v01.004",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/0701/tUNDOJQF99Pc9iRbXfIYU9mc.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/0701/tUNDOJQF99Pc9iRbXfIYU9mc.png",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA06929, v01.004, USA, 3.xx and beyond\nSize: 4GB\nCredits: Files: High-Speed007; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/ncts17jvw11x/DLCs_Pippo.rar"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://datavaults.co/f3u90q2vlo5y/DLCs_Pippo.rar"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/7u9anl4hwdz9/PPSA06929.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/sr9d89i1y1fq/PPSA06929.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/0PdzyM784zeA/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/ZgeaUabqUE"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/0JgG7aZE13oY/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/Ni1Dcj227U"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/le6s4kxqkel0/PPSA06929-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/sjnq5kbtr4p1/PPSA06929-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 4294967296
+    },
+    {
+      "titleId": "PPSA03766",
+      "title": "FAR Changing Tides",
+      "createdAt": "2026-10-22T13:19:19.021Z",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2813/Os6biEZBZHzt6GU8qqo5eSMT.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2813/Os6biEZBZHzt6GU8qqo5eSMT.png",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA03766, v01.002, USA, 3.xx and beyond\nSize: 2GB\nCredits: Files: High-Speed007\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/8qg90z86va8e/PPSA03766.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/jhk27rpt4e5s/PPSA03766.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/2bJG8XawQGOB/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/Si6fZiAyyc"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/jar3XOB7Qm2d/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/MjOC5pDUNb"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/69bemerura1d/PPSA03766-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/lpsxiasn9a5m/PPSA03766-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 2147483648
+    },
+    {
+      "titleId": "PPSA03663",
+      "title": "Arcade Paradise",
+      "createdAt": "2026-10-22T13:19:19.021Z",
+      "version": "v01.910",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/R820g5SsJMLm5Zw95QPvZLTp.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/R820g5SsJMLm5Zw95QPvZLTp.png",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA03663, v01.910, USA, 4.xx and beyond\nSize: 4GB\nCredits: Files: High-Speed007\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/vng8nca3bobb/PPSA03663.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/dty5zz4tho7s/PPSA03663.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/LJlGnZPR6G15/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/ZlMepjQpPP"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/7d5GLoP0QzxR/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/RfjABofrE1"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/r70mu30675vx/PPSA03663-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/pjdqvr1hg78e/PPSA03663-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 4294967296
+    },
+    {
+      "titleId": "PPSA03446",
+      "title": "Pumpkin Jack",
+      "createdAt": "2026-10-22T13:19:19.021Z",
+      "version": "v02.000",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/0413/hBZYFzc7bkPS7XZs1U84d3lw.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/0413/hBZYFzc7bkPS7XZs1U84d3lw.png",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA03446, v02.000, USA, 2.xx and beyond\nSize: 1GB\nCredits: Files: Biogames\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/50lr7e4fmppx/PPSA03446.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/43zdl215zhcw/PPSA03446.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/dZxG5XyDNzVj/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/x4KvdKT2Z7"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/dkD3YDJyXmLQ/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/EH7vdqxwY1"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/zwjtgjqgyr0h/PPSA03446-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/n8uuommf5o37/PPSA03446-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
       "titleId": "PPSA30568",
       "title": "Invincible VS Deluxe Edition",
       "createdAt": "2026-10-21T17:50:11.069Z",
