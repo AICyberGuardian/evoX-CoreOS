@@ -75,7 +75,7 @@
       "description": "Kernel log server daemon. Port: 3232",
       "version": "v0.9",
       "category": "PS5 Server",
-      "checksum": "7e89c33eb90d44ea4644b80c56c29084d93faf415a9d64f1397a58ac7ca752d8",
+      "checksum": "e828ec144231f81547cb58bc7d2c396fa984be0c2295f31364b58017816dcceb",
       "source": "https://github.com/ps5-payload-dev/klogsrv/releases"
     },
     {
@@ -101,14 +101,14 @@
       "source": "https://github.com/cy33hc/ps5-ezremote-server/releases"
     },
     {
-      "name": "Ps5Upload V7.1.16",
-      "filename": "ps5upload_v7.1.16.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.1.16/ps5upload_v7.1.16.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v7.1.16/ps5upload_v7.1.16.elf",
+      "name": "Ps5Upload V7.1.18",
+      "filename": "ps5upload_v7.1.18.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.1.18/ps5upload_v7.1.18.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v7.1.18/ps5upload_v7.1.18.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v7.1.16",
+      "version": "v7.1.18",
       "category": "PS5 Server",
-      "checksum": "df095f4492602e5824297fb2cb45802ca4d415006b2ce8222b9940cb942bd880",
+      "checksum": "360529ccbd9f00b9341f8ca72ed15851e3324ff69341304b7e93e12977aa7470",
       "source": "https://github.com/phantomptr/ps5upload/releases"
     },
     {

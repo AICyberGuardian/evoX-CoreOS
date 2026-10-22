@@ -44,6 +44,20 @@
       "source": "https://github.com/kvaps/syobon-action-ps5"
     },
     {
+      "name": "SudokuZen",
+      "filename": "PPSA50001.zip",
+      "url": "https://github.com/Bruce303lee/sudokuzen/releases/download/01.000.010/PPSA50001.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA50001/01.000.010/PPSA50001.zip",
+      "description": "A quiet 9x9 Sudoku game for PS5 with six themes, a color-tile mode, animated backdrops, an undo stack, and a demo mode that narrates each solving technique.",
+      "version": "01.000.010",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA50001",
+      "author": "bruce303lee",
+      "checksum": "4e32913d63f9db2d116b9d18cc6534557f127c8221529a38ac9dc76aadc2093f",
+      "source": "https://github.com/Bruce303lee/sudokuzen"
+    },
+    {
       "name": "ccleste",
       "filename": "PPSA59322.zip",
       "url": "https://github.com/darkxex/PS5_Celeste/releases/download/1.00/PPSA59322.zip",
@@ -340,15 +354,15 @@
     {
       "name": "Sahin",
       "filename": "PPSA99404.zip",
-      "url": "https://github.com/7tg/sahin/releases/download/01.005.000/PPSA99404.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99404/01.005.000/PPSA99404.zip",
+      "url": "https://github.com/7tg/sahin/releases/download/01.006.000/PPSA99404.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99404/01.006.000/PPSA99404.zip",
       "description": "Your own PC copy of Blur as a homebrew app on a jailbroken PS5, through prospero-win, with split screen and Amax online play (bring your own copy).",
-      "version": "01.005.000",
+      "version": "01.006.000",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99404",
       "author": "7tg",
-      "checksum": "6c88ec25529f503130eb7965a228619201934fc55321b477c8d32f5dae03dc35",
+      "checksum": "a45d9bab256b5e94728da31379c2e2e5d4b99c23825f262132020b10588936ee",
       "source": "https://github.com/7tg/sahin"
     },
     {

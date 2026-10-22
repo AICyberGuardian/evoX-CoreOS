@@ -1,5 +1,21 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 22/10/2026 à 21:25
+* **PAYLOADS**
+  * `Orbit Store` (v1.4.0) - *Mise à jour (Précédent: v1.3.5)*
+  * `Pad2C V1.1.0` (v1.1.0) - *Nouveau*
+  * `Ps5-Fw-Spoof` (26616621599) - *Mise à jour (Précédent: ps5-fw-spoof)*
+  * `Kstuff-Lite Drakmor V1.2-Dr-Test2` (kstuff-lite_drakmor) - *Mise à jour (Précédent: 1.2-dr-test2)*
+  * `Kstuff-A53 Sonic V1.4` (1.4) - *Mise à jour (Précédent: kstuff-a53_SoNic)*
+* **HOMEBREW_PAGE**
+  * `SudokuZen` (01.000.010) - *Nouveau*
+  * `Prospero Themes` (01.000.018) - *Mise à jour (Précédent: 01.000.017)*
+  * `TubeBlock` (01.000.158) - *Mise à jour (Précédent: 01.000.157)*
+  * `PS5-ECAM` (5.0.1) - *Mise à jour (Précédent: 5.0.0)*
+  * `Sahin` (01.006.000) - *Mise à jour (Précédent: 01.005.000)*
+  * `PS5SD` (0.9.4) - *Mise à jour (Précédent: 0.9.0)*
+  * `PS5MG` (0.2.2) - *Mise à jour (Précédent: 0.2.1)*
+
 ## Build du 22/10/2026 à 16:50
 * **PAYLOADS**
   * `Kstuff-Lite Drakmor V1.2-Dr-Test2` (1.2-dr-test2) - *Nouveau*

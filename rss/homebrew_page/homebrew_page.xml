@@ -53,6 +53,12 @@
       <pubDate>01.000.006</pubDate>
     </item>
     <item>
+      <title>SudokuZen</title>
+      <link>https://github.com/Bruce303lee/sudokuzen</link>
+      <description>A quiet 9x9 Sudoku game for PS5 with six themes, a color-tile mode, animated backdrops, an undo stack, and a demo mode that narrates each solving technique.</description>
+      <pubDate>01.000.010</pubDate>
+    </item>
+    <item>
       <title>ccleste</title>
       <link>https://github.com/darkxex/PS5_Celeste</link>
       <description>This is a C source port of the original celeste (Celeste classic) for the PICO-8, designed to be portable. Now you can enjoy the port on your PS5.</description>
@@ -140,7 +146,7 @@
       <title>Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.017</pubDate>
+      <pubDate>01.000.018</pubDate>
     </item>
     <item>
       <title>Capy Mobile</title>
@@ -182,7 +188,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.157</pubDate>
+      <pubDate>01.000.158</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -434,7 +440,7 @@
       <title>PS5-ECAM</title>
       <link>https://github.com/premohq/PS5-ECAM</link>
       <description>Wii U, 3DS, DS and Switch emulation for jailbroken PS5, built on Cemu, Azahar, melonDS and Eden, with one launcher for all four.</description>
-      <pubDate>5.0.0</pubDate>
+      <pubDate>5.0.1</pubDate>
     </item>
     <item>
       <title>NFS Black Box</title>
@@ -446,7 +452,7 @@
       <title>Sahin</title>
       <link>https://github.com/7tg/sahin</link>
       <description>Your own PC copy of Blur as a homebrew app on a jailbroken PS5, through prospero-win, with split screen and Amax online play (bring your own copy).</description>
-      <pubDate>01.005.000</pubDate>
+      <pubDate>01.006.000</pubDate>
     </item>
     <item>
       <title>FUTBOL13</title>
@@ -512,13 +518,13 @@
       <title>PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>0.9.0</pubDate>
+      <pubDate>0.9.4</pubDate>
     </item>
     <item>
       <title>PS5MG</title>
       <link>https://github.com/nikay99/PS5MG</link>
-      <description>Picture to textured 3D mesh (TRELLIS.2) on the PS5 GPU, with a web page and TV dashboard. Needs the model weights (not included): copy them over FTP, see the README on GitHub.</description>
-      <pubDate>0.2.1</pubDate>
+      <description>Picture to textured 3D mesh (TRELLIS.2) on the PS5 GPU, with a web page and TV dashboard. Model files not included: one command on your PC fetches and copies them, see the README.</description>
+      <pubDate>0.2.2</pubDate>
     </item>
     <item>
       <title>PS5LM Plus</title>
