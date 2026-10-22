@@ -30,20 +30,6 @@
             "source": "https://github.com/dantaipan/PS64"
         },
         {
-            "name": "Blur5",
-            "filename": "PPSA11016.zip",
-            "url": "https://github.com/bornaradusin/Blur5/releases/download/1.0.0/PPSA11016.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA11016/1.0.0/PPSA11016.zip",
-            "description": "Play Blur (2010) on a jailbroken PlayStation 5 using your own PC game files, with controller support, customizable graphics, and optional online multiplayer via Amax.",
-            "version": "1.0.0",
-            "category": "Games",
-            "kind": "game",
-            "titleid": "PPSA11016",
-            "author": "bornaradusin",
-            "checksum": "23bef24dbf56670da72f2a12c5f4e0ffa0218c5823ba581a7b9c17aa02ffbb30",
-            "source": "https://github.com/bornaradusin/Blur5"
-        },
-        {
             "name": "SymphonyStation5",
             "filename": "PPSA17641.zip",
             "url": "https://github.com/TsvetomirGT/SymphonyStation5/releases/download/v0.1.0/SymphonyStation5-v0.1.0.zip",
@@ -326,15 +312,15 @@
         {
             "name": "Prospero Themes",
             "filename": "PPSA90210.zip",
-            "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.012/PPSA90210.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.012/PPSA90210.zip",
+            "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.014/PPSA90210.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.014/PPSA90210.zip",
             "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
-            "version": "01.000.012",
+            "version": "01.000.014",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA90210",
             "author": "Darkatek7",
-            "checksum": "99f8ea77fd44068f2f36bc7239bc8d1d036c0921d2a86f24cd64d0922caf7bc1",
+            "checksum": "fe817f1d160e27efa30a4a90938799b2391e9801f089adbbd22fb1506a489ffd",
             "source": "https://github.com/Darkatek7/ProsperoThemes"
         },
         {
@@ -520,6 +506,20 @@
             "source": "https://github.com/darkxex/ProsperoStore"
         },
         {
+            "name": "ProsperoRadio",
+            "filename": "PPSA99001.zip",
+            "url": "https://github.com/bornaradusin/ProsperoRadio/releases/download/01.000.010/PPSA99001.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99001/01.000.010/PPSA99001.zip",
+            "description": "Internet radio player for PlayStation 5 featuring thousands of stations worldwide, Radio Browser integration, favourites, DualSense controls, native audio playback, and a modern OpenGL interface.",
+            "version": "01.000.010",
+            "category": "Apps",
+            "kind": "app",
+            "titleid": "PPSA99001",
+            "author": "bornaradusin",
+            "checksum": "cadcb62e3a55ed0f81fa449dd53a9e52edbc2ebb1cb0e4148c9b1d7a3085e370",
+            "source": "https://github.com/bornaradusin/ProsperoRadio"
+        },
+        {
             "name": "ProsperoLight",
             "filename": "PPSA99002.zip",
             "url": "https://github.com/LedyBacer/ProsperoLight/releases/download/01.000.110/PPSA99002.zip",
@@ -536,15 +536,15 @@
         {
             "name": "ProsperoTV",
             "filename": "PPSA99003.zip",
-            "url": "https://github.com/ThatGuyKalvin/ProsperoTV/releases/download/01.000.080/PPSA99003.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99003/01.000.080/PPSA99003.zip",
+            "url": "https://github.com/ThatGuyKalvin/ProsperoTV/releases/download/01.000.090/PPSA99003.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99003/01.000.090/PPSA99003.zip",
             "description": "Native IPTV client for PS5.",
-            "version": "01.000.080",
+            "version": "01.000.090",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99003",
             "author": "ThatGuyKalvin",
-            "checksum": "8a6b89d82c25c3c22a866633312aebc29d8d026c01c791e3934a11ba70c4c064",
+            "checksum": "efbe68d8723bd2cbab3225e5945ea86aa7c28dab827412848f285cc7d9ef40b3",
             "source": "https://github.com/ThatGuyKalvin/ProsperoTV"
         },
         {
@@ -842,20 +842,6 @@
             "source": "https://github.com/KongaTime/PS5_EdgeOfTimeTitle"
         },
         {
-            "name": "Quake3e",
-            "filename": "PPSA99303.zip",
-            "url": "https://github.com/griches/PS5_Quake3e/releases/download/v1.3.0/Quake3-PS5-v1.3.0.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA99303/1.3.0/PPSA99303.zip",
-            "description": "Native PS5 port of Quake3e, the improved Quake III Arena engine, drawing with Vulkan at up to 4K with DualSense or USB mouse and keyboard input. Needs your own Quake III Arena game data.",
-            "version": "1.3.0",
-            "category": "Games",
-            "kind": "game",
-            "titleid": "PPSA99303",
-            "author": "Gary Riches",
-            "checksum": "399a0c681e07f93ed2b14b577ce1f05fb79c657fdc759d0dc205d27d8896fa8a",
-            "source": "https://github.com/griches/PS5_Quake3e"
-        },
-        {
             "name": "Dusklight",
             "filename": "PPSA99305.zip",
             "url": "https://github.com/griches/PS5_Dusklight/releases/download/v1.0.0/Dusklight-PS5-v1.0.0.zip",
@@ -940,6 +926,20 @@
             "source": "https://github.com/griches/PS5_EternalDarkness"
         },
         {
+            "name": "Burnout 3",
+            "filename": "PPSA99316.zip",
+            "url": "https://github.com/griches/PS5_Burnout3/releases/download/v0.2.2/Burnout3-PS5-0.2.2.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99316/0.2.2/PPSA99316.zip",
+            "description": "Burnout 3: Takedown (original Xbox) for PlayStation 5, a port of the Takedawn recompilation running natively at 60 fps with 4x resolution and widescreen. Bring your own USA disc.",
+            "version": "0.2.2",
+            "category": "Games",
+            "kind": "game",
+            "titleid": "PPSA99316",
+            "author": "Gary Riches",
+            "checksum": "6fbd56d5e67534cfc6679d2072dc3a753a8f976f37627f5670358b5d8f730053",
+            "source": "https://github.com/griches/PS5_Burnout3"
+        },
+        {
             "name": "Art Swap",
             "filename": "PPSA99318.zip",
             "url": "https://github.com/griches/PS5_ArtSwap/releases/download/v1.2.0/PS5_ArtSwap-v1.2.0.zip",
@@ -952,6 +952,20 @@
             "author": "Gary Riches",
             "checksum": "d73439a322c46381ca195df752d020327abd48968ef192c8153b49b4e5b2c283",
             "source": "https://github.com/griches/PS5_ArtSwap"
+        },
+        {
+            "name": "Quake3e",
+            "filename": "PPSA99319.zip",
+            "url": "https://github.com/griches/PS5_Quake3e/releases/download/v1.4.0/Quake3-PS5-v1.4.0.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99319/1.4.0/PPSA99319.zip",
+            "description": "Native PS5 port of Quake3e, the improved Quake III Arena engine, drawing with Vulkan at up to 4K with DualSense or USB mouse and keyboard input. Needs your own Quake III Arena game data.",
+            "version": "1.4.0",
+            "category": "Games",
+            "kind": "game",
+            "titleid": "PPSA99319",
+            "author": "Gary Riches",
+            "checksum": "56f337f5066e9c830788504ebce97b992df4a37444a7306a82d011dde5de8d8c",
+            "source": "https://github.com/griches/PS5_Quake3e"
         },
         {
             "name": "Ship of Harkinian (Vulkan)",
@@ -982,11 +996,11 @@
             "source": "https://github.com/jmelovich/Steam-Link-PS5"
         },
         {
-            "name": "PS5CEMU-HAR",
+            "name": "PS5-ECAM",
             "filename": "PPSA99360.zip",
             "url": "https://github.com/premohq/PS5-ECAM/releases/download/v5.0.0/PS5-ECAM-v5.0.0.zip",
             "local_path": "downloads/apps/homebrew_page/app/PPSA99360/5.0.0/PPSA99360.zip",
-            "description": "Wii U and 3DS emulation for jailbroken PS5, built on Cemu and Azahar, with one launcher for both.",
+            "description": "Wii U, 3DS, DS and Switch emulation for jailbroken PS5, built on Cemu, Azahar, melonDS and Eden, with one launcher for all four.",
             "version": "5.0.0",
             "category": "Apps",
             "kind": "app",
@@ -1050,6 +1064,20 @@
             "author": "VivaLaVent",
             "checksum": "5a9eeff4a0024a341a4924b8d283fe65b4ff94d7f5dbea446c8a677c4db157b6",
             "source": "https://github.com/VivaLaVent/PS5MC"
+        },
+        {
+            "name": "ApricotGS",
+            "filename": "PPSA99429.zip",
+            "url": "https://github.com/BaZZtian/PS5-ApricotGS/releases/download/v0.0.1/ApricotGS-v0.0.1-PS5.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99429/0.0.1/PPSA99429.zip",
+            "description": "Experimental native PS5 player for HeartGold and SoulSilver with a two-edition cartridge launcher; prepare your own supported game dump on PC. No game data included.",
+            "version": "0.0.1",
+            "category": "Games",
+            "kind": "game",
+            "titleid": "PPSA99429",
+            "author": "BaZZtian",
+            "checksum": "6a6e3fb5a2b37f05b87b70c804801d3e548dc222aa8136a8b5c68e2bbbf0dae4",
+            "source": "https://github.com/BaZZtian/PS5-ApricotGS"
         },
         {
             "name": "Twispero",
@@ -1152,15 +1180,15 @@
         {
             "name": "PS5SD",
             "filename": "PPSA99576.zip",
-            "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.7.0/PPSA99576.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.7.0/PPSA99576.zip",
+            "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.8.0/PPSA99576.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.8.0/PPSA99576.zip",
             "description": "Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.",
-            "version": "0.7.0",
+            "version": "0.8.0",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99576",
             "author": "Darkatek7",
-            "checksum": "7c4c923724f6bcde4a09c0f452a0b2c4268038975c8c738942ce16f82c1516cb",
+            "checksum": "48ee7cfbe5ea8ad697a00777f93025b281f132b63d1e5ba45b747892cda63cb9",
             "source": "https://github.com/Darkatek7/PS5SD"
         },
         {

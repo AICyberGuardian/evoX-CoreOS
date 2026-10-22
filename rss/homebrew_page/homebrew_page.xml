@@ -17,12 +17,6 @@
       <pubDate>01.000.002</pubDate>
     </item>
     <item>
-      <title>Blur5</title>
-      <link>https://github.com/bornaradusin/Blur5</link>
-      <description>Play Blur (2010) on a jailbroken PlayStation 5 using your own PC game files, with controller support, customizable graphics, and optional online multiplayer via Amax.</description>
-      <pubDate>1.0.0</pubDate>
-    </item>
-    <item>
       <title>SymphonyStation5</title>
       <link>https://github.com/TsvetomirGT/SymphonyStation5</link>
       <description>A native Navidrome music client for the PlayStation 5.</description>
@@ -146,7 +140,7 @@
       <title>Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.012</pubDate>
+      <pubDate>01.000.014</pubDate>
     </item>
     <item>
       <title>Capy Mobile</title>
@@ -227,6 +221,12 @@
       <pubDate>1.000.105</pubDate>
     </item>
     <item>
+      <title>ProsperoRadio</title>
+      <link>https://github.com/bornaradusin/ProsperoRadio</link>
+      <description>Internet radio player for PlayStation 5 featuring thousands of stations worldwide, Radio Browser integration, favourites, DualSense controls, native audio playback, and a modern OpenGL interface.</description>
+      <pubDate>01.000.010</pubDate>
+    </item>
+    <item>
       <title>ProsperoLight</title>
       <link>https://github.com/LedyBacer/ProsperoLight</link>
       <description>Unofficial Moonlight game streaming port for PS5.</description>
@@ -236,7 +236,7 @@
       <title>ProsperoTV</title>
       <link>https://github.com/ThatGuyKalvin/ProsperoTV</link>
       <description>Native IPTV client for PS5.</description>
-      <pubDate>01.000.080</pubDate>
+      <pubDate>01.000.090</pubDate>
     </item>
     <item>
       <title>ProsperoAI</title>
@@ -365,12 +365,6 @@
       <pubDate>V.1.1.1</pubDate>
     </item>
     <item>
-      <title>Quake3e</title>
-      <link>https://github.com/griches/PS5_Quake3e</link>
-      <description>Native PS5 port of Quake3e, the improved Quake III Arena engine, drawing with Vulkan at up to 4K with DualSense or USB mouse and keyboard input. Needs your own Quake III Arena game data.</description>
-      <pubDate>1.3.0</pubDate>
-    </item>
-    <item>
       <title>Dusklight</title>
       <link>https://github.com/griches/PS5_Dusklight</link>
       <description>Dusklight for PlayStation 5: a homebrew port on RADV (Aurora, Dawn WebGPU, SDL3). Bring your own disc image.</description>
@@ -407,10 +401,22 @@
       <pubDate>0.9.5</pubDate>
     </item>
     <item>
+      <title>Burnout 3</title>
+      <link>https://github.com/griches/PS5_Burnout3</link>
+      <description>Burnout 3: Takedown (original Xbox) for PlayStation 5, a port of the Takedawn recompilation running natively at 60 fps with 4x resolution and widescreen. Bring your own USA disc.</description>
+      <pubDate>0.2.2</pubDate>
+    </item>
+    <item>
       <title>Art Swap</title>
       <link>https://github.com/griches/PS5_ArtSwap</link>
       <description>Change the home-screen icon and background of any title with SteamGridDB art (your own free key), crop it, keep the originals, and rename and refresh homebrew through ShadowMountPlus.</description>
       <pubDate>1.2.0</pubDate>
+    </item>
+    <item>
+      <title>Quake3e</title>
+      <link>https://github.com/griches/PS5_Quake3e</link>
+      <description>Native PS5 port of Quake3e, the improved Quake III Arena engine, drawing with Vulkan at up to 4K with DualSense or USB mouse and keyboard input. Needs your own Quake III Arena game data.</description>
+      <pubDate>1.4.0</pubDate>
     </item>
     <item>
       <title>Ship of Harkinian (Vulkan)</title>
@@ -425,9 +431,9 @@
       <pubDate>1.0.0</pubDate>
     </item>
     <item>
-      <title>PS5CEMU-HAR</title>
+      <title>PS5-ECAM</title>
       <link>https://github.com/premohq/PS5-ECAM</link>
-      <description>Wii U and 3DS emulation for jailbroken PS5, built on Cemu and Azahar, with one launcher for both.</description>
+      <description>Wii U, 3DS, DS and Switch emulation for jailbroken PS5, built on Cemu, Azahar, melonDS and Eden, with one launcher for all four.</description>
       <pubDate>5.0.0</pubDate>
     </item>
     <item>
@@ -453,6 +459,12 @@
       <link>https://github.com/VivaLaVent/PS5MC</link>
       <description>PS5MC, an unofficial port of the Kodi 22 media center for PS5, with a 4K GPU interface, hardware H.264, HEVC and VP9 decoding and HDR output.</description>
       <pubDate>1.2</pubDate>
+    </item>
+    <item>
+      <title>ApricotGS</title>
+      <link>https://github.com/BaZZtian/PS5-ApricotGS</link>
+      <description>Experimental native PS5 player for HeartGold and SoulSilver with a two-edition cartridge launcher; prepare your own supported game dump on PC. No game data included.</description>
+      <pubDate>0.0.1</pubDate>
     </item>
     <item>
       <title>Twispero</title>
@@ -500,7 +512,7 @@
       <title>PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>0.7.0</pubDate>
+      <pubDate>0.8.0</pubDate>
     </item>
     <item>
       <title>PS5LM Plus</title>

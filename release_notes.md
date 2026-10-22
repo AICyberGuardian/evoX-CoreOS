@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.22-0320)
+### 🚀 Synthèse de la mise à jour (v2026.10.22-1119)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -23,7 +23,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
 - `prosperostore-app_aio_part3_latest.zip`
 - `prosperostore-game_aio_part1_latest.zip`
 - `prosperostore-game_aio_part2_latest.zip`
-- `prosperostore-game_aio_part3_latest.zip`
 - `prosperostore-tool_aio_latest.zip`
 
 #### 📂 Fichiers inclus / mis à jour :
@@ -241,7 +240,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
 * **Applications ProsperoStore**
   * `PPSA01153.zip`
   * `PPSA06464.zip`
-  * `PPSA11016.zip`
   * `PPSA17641.zip`
   * `PPSA19111.zip`
   * `PPSA28319.zip`
@@ -276,6 +274,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA98512.zip`
   * `PPSA98766.zip`
   * `PPSA99000.zip`
+  * `PPSA99001.zip`
   * `PPSA99002.zip`
   * `PPSA99003.zip`
   * `PPSA99004.zip`
@@ -299,14 +298,15 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99248.zip`
   * `PPSA99288.zip`
   * `PPSA99300.zip`
-  * `PPSA99303.zip`
   * `PPSA99305.zip`
   * `PPSA99309.zip`
   * `PPSA99310.zip`
   * `PPSA99312.zip`
   * `PPSA99313.zip`
   * `PPSA99314.zip`
+  * `PPSA99316.zip`
   * `PPSA99318.zip`
+  * `PPSA99319.zip`
   * `PPSA99320.zip`
   * `PPSA99350.zip`
   * `PPSA99360.zip`
@@ -314,6 +314,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99404.zip`
   * `PPSA99405.zip`
   * `PPSA99420.zip`
+  * `PPSA99429.zip`
   * `PPSA99474.zip`
   * `PPSA99500.zip`
   * `PPSA99505.zip`

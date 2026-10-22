@@ -1,5 +1,16 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 22/10/2026 à 11:19
+* **HOMEBREW_PAGE**
+  * `Prospero Themes` (01.000.014) - *Mise à jour (Précédent: 01.000.012)*
+  * `ProsperoRadio` (01.000.010) - *Nouveau*
+  * `ProsperoTV` (01.000.090) - *Mise à jour (Précédent: 01.000.080)*
+  * `Burnout 3` (0.2.2) - *Nouveau*
+  * `Quake3e` (1.4.0) - *Mise à jour (Précédent: 1.3.0)*
+  * `PS5-ECAM` (5.0.0) - *Nouveau*
+  * `ApricotGS` (0.0.1) - *Nouveau*
+  * `PS5SD` (0.8.0) - *Mise à jour (Précédent: 0.7.0)*
+
 ## Build du 22/10/2026 à 03:20
 * **APPS**
   * `Ppsa50011` (v1.0.0) - *Mise à jour (Précédent: v0.6.0)*

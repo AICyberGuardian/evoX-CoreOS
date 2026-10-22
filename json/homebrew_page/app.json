@@ -186,15 +186,15 @@
     {
       "name": "Prospero Themes",
       "filename": "PPSA90210.zip",
-      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.012/PPSA90210.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.012/PPSA90210.zip",
+      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.014/PPSA90210.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.014/PPSA90210.zip",
       "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
-      "version": "01.000.012",
+      "version": "01.000.014",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA90210",
       "author": "Darkatek7",
-      "checksum": "99f8ea77fd44068f2f36bc7239bc8d1d036c0921d2a86f24cd64d0922caf7bc1",
+      "checksum": "fe817f1d160e27efa30a4a90938799b2391e9801f089adbbd22fb1506a489ffd",
       "source": "https://github.com/Darkatek7/ProsperoThemes"
     },
     {
@@ -310,6 +310,20 @@
       "source": "https://github.com/darkxex/ProsperoStore"
     },
     {
+      "name": "ProsperoRadio",
+      "filename": "PPSA99001.zip",
+      "url": "https://github.com/bornaradusin/ProsperoRadio/releases/download/01.000.010/PPSA99001.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99001/01.000.010/PPSA99001.zip",
+      "description": "Internet radio player for PlayStation 5 featuring thousands of stations worldwide, Radio Browser integration, favourites, DualSense controls, native audio playback, and a modern OpenGL interface.",
+      "version": "01.000.010",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99001",
+      "author": "bornaradusin",
+      "checksum": "cadcb62e3a55ed0f81fa449dd53a9e52edbc2ebb1cb0e4148c9b1d7a3085e370",
+      "source": "https://github.com/bornaradusin/ProsperoRadio"
+    },
+    {
       "name": "ProsperoLight",
       "filename": "PPSA99002.zip",
       "url": "https://github.com/LedyBacer/ProsperoLight/releases/download/01.000.110/PPSA99002.zip",
@@ -326,15 +340,15 @@
     {
       "name": "ProsperoTV",
       "filename": "PPSA99003.zip",
-      "url": "https://github.com/ThatGuyKalvin/ProsperoTV/releases/download/01.000.080/PPSA99003.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99003/01.000.080/PPSA99003.zip",
+      "url": "https://github.com/ThatGuyKalvin/ProsperoTV/releases/download/01.000.090/PPSA99003.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99003/01.000.090/PPSA99003.zip",
       "description": "Native IPTV client for PS5.",
-      "version": "01.000.080",
+      "version": "01.000.090",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99003",
       "author": "ThatGuyKalvin",
-      "checksum": "8a6b89d82c25c3c22a866633312aebc29d8d026c01c791e3934a11ba70c4c064",
+      "checksum": "efbe68d8723bd2cbab3225e5945ea86aa7c28dab827412848f285cc7d9ef40b3",
       "source": "https://github.com/ThatGuyKalvin/ProsperoTV"
     },
     {
@@ -604,11 +618,11 @@
       "source": "https://github.com/jmelovich/Steam-Link-PS5"
     },
     {
-      "name": "PS5CEMU-HAR",
+      "name": "PS5-ECAM",
       "filename": "PPSA99360.zip",
       "url": "https://github.com/premohq/PS5-ECAM/releases/download/v5.0.0/PS5-ECAM-v5.0.0.zip",
       "local_path": "downloads/apps/homebrew_page/app/PPSA99360/5.0.0/PPSA99360.zip",
-      "description": "Wii U and 3DS emulation for jailbroken PS5, built on Cemu and Azahar, with one launcher for both.",
+      "description": "Wii U, 3DS, DS and Switch emulation for jailbroken PS5, built on Cemu, Azahar, melonDS and Eden, with one launcher for all four.",
       "version": "5.0.0",
       "category": "Apps",
       "kind": "app",
@@ -704,15 +718,15 @@
     {
       "name": "PS5SD",
       "filename": "PPSA99576.zip",
-      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.7.0/PPSA99576.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.7.0/PPSA99576.zip",
+      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.8.0/PPSA99576.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.8.0/PPSA99576.zip",
       "description": "Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.",
-      "version": "0.7.0",
+      "version": "0.8.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99576",
       "author": "Darkatek7",
-      "checksum": "7c4c923724f6bcde4a09c0f452a0b2c4268038975c8c738942ce16f82c1516cb",
+      "checksum": "48ee7cfbe5ea8ad697a00777f93025b281f132b63d1e5ba45b747892cda63cb9",
       "source": "https://github.com/Darkatek7/PS5SD"
     },
     {

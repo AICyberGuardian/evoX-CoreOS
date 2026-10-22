@@ -2,20 +2,6 @@
   "name": "Games",
   "apps": [
     {
-      "name": "Blur5",
-      "filename": "PPSA11016.zip",
-      "url": "https://github.com/bornaradusin/Blur5/releases/download/1.0.0/PPSA11016.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA11016/1.0.0/PPSA11016.zip",
-      "description": "Play Blur (2010) on a jailbroken PlayStation 5 using your own PC game files, with controller support, customizable graphics, and optional online multiplayer via Amax.",
-      "version": "1.0.0",
-      "category": "Games",
-      "kind": "game",
-      "titleid": "PPSA11016",
-      "author": "bornaradusin",
-      "checksum": "23bef24dbf56670da72f2a12c5f4e0ffa0218c5823ba581a7b9c17aa02ffbb30",
-      "source": "https://github.com/bornaradusin/Blur5"
-    },
-    {
       "name": "XashPS5",
       "filename": "PPSA19111.zip",
       "url": "https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.3/PPSA19111.zip",
@@ -212,20 +198,6 @@
       "source": "https://github.com/KongaTime/PS5_EdgeOfTimeTitle"
     },
     {
-      "name": "Quake3e",
-      "filename": "PPSA99303.zip",
-      "url": "https://github.com/griches/PS5_Quake3e/releases/download/v1.3.0/Quake3-PS5-v1.3.0.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99303/1.3.0/PPSA99303.zip",
-      "description": "Native PS5 port of Quake3e, the improved Quake III Arena engine, drawing with Vulkan at up to 4K with DualSense or USB mouse and keyboard input. Needs your own Quake III Arena game data.",
-      "version": "1.3.0",
-      "category": "Games",
-      "kind": "game",
-      "titleid": "PPSA99303",
-      "author": "Gary Riches",
-      "checksum": "399a0c681e07f93ed2b14b577ce1f05fb79c657fdc759d0dc205d27d8896fa8a",
-      "source": "https://github.com/griches/PS5_Quake3e"
-    },
-    {
       "name": "Dusklight",
       "filename": "PPSA99305.zip",
       "url": "https://github.com/griches/PS5_Dusklight/releases/download/v1.0.0/Dusklight-PS5-v1.0.0.zip",
@@ -310,6 +282,34 @@
       "source": "https://github.com/griches/PS5_EternalDarkness"
     },
     {
+      "name": "Burnout 3",
+      "filename": "PPSA99316.zip",
+      "url": "https://github.com/griches/PS5_Burnout3/releases/download/v0.2.2/Burnout3-PS5-0.2.2.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99316/0.2.2/PPSA99316.zip",
+      "description": "Burnout 3: Takedown (original Xbox) for PlayStation 5, a port of the Takedawn recompilation running natively at 60 fps with 4x resolution and widescreen. Bring your own USA disc.",
+      "version": "0.2.2",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99316",
+      "author": "Gary Riches",
+      "checksum": "6fbd56d5e67534cfc6679d2072dc3a753a8f976f37627f5670358b5d8f730053",
+      "source": "https://github.com/griches/PS5_Burnout3"
+    },
+    {
+      "name": "Quake3e",
+      "filename": "PPSA99319.zip",
+      "url": "https://github.com/griches/PS5_Quake3e/releases/download/v1.4.0/Quake3-PS5-v1.4.0.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99319/1.4.0/PPSA99319.zip",
+      "description": "Native PS5 port of Quake3e, the improved Quake III Arena engine, drawing with Vulkan at up to 4K with DualSense or USB mouse and keyboard input. Needs your own Quake III Arena game data.",
+      "version": "1.4.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99319",
+      "author": "Gary Riches",
+      "checksum": "56f337f5066e9c830788504ebce97b992df4a37444a7306a82d011dde5de8d8c",
+      "source": "https://github.com/griches/PS5_Quake3e"
+    },
+    {
       "name": "Ship of Harkinian (Vulkan)",
       "filename": "PPSA99320.zip",
       "url": "https://github.com/damiantw/PS5_Shipwright/releases/download/01.000.000/PPSA99320.zip",
@@ -364,6 +364,20 @@
       "author": "7tg",
       "checksum": "6da4e6d24f5d51579a5ee78982f1c3b238d589cdbc893f101ebc1c2eae8c3fc8",
       "source": "https://github.com/7tg/futbol13"
+    },
+    {
+      "name": "ApricotGS",
+      "filename": "PPSA99429.zip",
+      "url": "https://github.com/BaZZtian/PS5-ApricotGS/releases/download/v0.0.1/ApricotGS-v0.0.1-PS5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99429/0.0.1/PPSA99429.zip",
+      "description": "Experimental native PS5 player for HeartGold and SoulSilver with a two-edition cartridge launcher; prepare your own supported game dump on PC. No game data included.",
+      "version": "0.0.1",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99429",
+      "author": "BaZZtian",
+      "checksum": "6a6e3fb5a2b37f05b87b70c804801d3e548dc222aa8136a8b5c68e2bbbf0dae4",
+      "source": "https://github.com/BaZZtian/PS5-ApricotGS"
     },
     {
       "name": "Halo: Combat Evolved",
