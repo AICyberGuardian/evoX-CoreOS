@@ -2,6 +2,20 @@
   "name": "Games",
   "apps": [
     {
+      "name": "Blur5",
+      "filename": "PPSA11016.zip",
+      "url": "https://github.com/bornaradusin/Blur5/releases/download/1.0.0/PPSA11016.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA11016/1.0.0/PPSA11016.zip",
+      "description": "Play Blur (2010) on a jailbroken PlayStation 5 using your own PC game files, with controller support, customizable graphics, and optional online multiplayer via Amax.",
+      "version": "1.0.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA11016",
+      "author": "bornaradusin",
+      "checksum": "23bef24dbf56670da72f2a12c5f4e0ffa0218c5823ba581a7b9c17aa02ffbb30",
+      "source": "https://github.com/bornaradusin/Blur5"
+    },
+    {
       "name": "XashPS5",
       "filename": "PPSA19111.zip",
       "url": "https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.3/PPSA19111.zip",

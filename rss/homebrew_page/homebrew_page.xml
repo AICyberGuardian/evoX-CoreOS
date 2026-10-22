@@ -14,7 +14,13 @@
       <title>PS64</title>
       <link>https://github.com/dantaipan/PS64</link>
       <description>Play the Commodore 64 on PS5: stream and control a C64 Ultimate, or use the built-in VICE emulator, with Assembly64 search.</description>
-      <pubDate>01.000.001</pubDate>
+      <pubDate>01.000.002</pubDate>
+    </item>
+    <item>
+      <title>Blur5</title>
+      <link>https://github.com/bornaradusin/Blur5</link>
+      <description>Play Blur (2010) on a jailbroken PlayStation 5 using your own PC game files, with controller support, customizable graphics, and optional online multiplayer via Amax.</description>
+      <pubDate>1.0.0</pubDate>
     </item>
     <item>
       <title>SymphonyStation5</title>
@@ -134,7 +140,7 @@
       <title>VLC</title>
       <link>https://github.com/ZiZc3/VLC</link>
       <description>VLC media player for PS5: videos, music, photos, subtitles, DVD images and more</description>
-      <pubDate>0.5.0</pubDate>
+      <pubDate>0.6.0</pubDate>
     </item>
     <item>
       <title>Prospero Themes</title>
@@ -194,7 +200,7 @@
       <title>SwanStationPS5</title>
       <link>https://github.com/darkxex/SwanStationPS5</link>
       <description>SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.</description>
-      <pubDate>1.4.2</pubDate>
+      <pubDate>1.4.4</pubDate>
     </item>
     <item>
       <title>ReKHCoM</title>
@@ -314,7 +320,7 @@
       <title>Seedee5</title>
       <link>https://github.com/mortaljinx/Seedee5</link>
       <description>A Philips CD-i emulator (SAME_CDI) with a cover-wheel library, NAS support, 4K picture filters and game info; bring your own BIOS and games.</description>
-      <pubDate>1.22</pubDate>
+      <pubDate>1.23</pubDate>
     </item>
     <item>
       <title>RetroArch</title>
@@ -420,9 +426,9 @@
     </item>
     <item>
       <title>PS5CEMU-HAR</title>
-      <link>https://github.com/premohq/PS5CEMU-HAR</link>
+      <link>https://github.com/premohq/PS5-ECAM</link>
       <description>Wii U and 3DS emulation for jailbroken PS5, built on Cemu and Azahar, with one launcher for both.</description>
-      <pubDate>4.0.1</pubDate>
+      <pubDate>5.0.0</pubDate>
     </item>
     <item>
       <title>NFS Black Box</title>
@@ -475,7 +481,7 @@
     <item>
       <title>Emby5</title>
       <link>https://github.com/bornaradusin/Emby5</link>
-      <description>A native Emby/Jellufin client for PlayStation 5 with media playback, optional Seerr requests, IPTV and VOD</description>
+      <description>A native Emby/Jellyfin client for PlayStation 5 with media playback, optional Seerr requests, IPTV and VOD</description>
       <pubDate>1.2.6</pubDate>
     </item>
     <item>
@@ -560,7 +566,7 @@
       <title>Machete AI Studio</title>
       <link>https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID</link>
       <description>Machete AI Studio: Local Video and Image generation (Wan 2.2, LTX-Video, SDXL, FLUX) on PS5 GPU with Web UI and TV QR dashboard.</description>
-      <pubDate>0.5.0</pubDate>
+      <pubDate>0.5.1</pubDate>
     </item>
     <item>
       <title>OpenRCT2 Native Port</title>
@@ -572,7 +578,7 @@
       <title>Porpoise</title>
       <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5</link>
       <description>A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music.</description>
-      <pubDate>3.0</pubDate>
+      <pubDate>4.0</pubDate>
     </item>
     <item>
       <title>PShare</title>
@@ -590,7 +596,7 @@
       <title>PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.3.4</pubDate>
+      <pubDate>1.4.0</pubDate>
     </item>
     <item>
       <title>Forwarder Manager</title>

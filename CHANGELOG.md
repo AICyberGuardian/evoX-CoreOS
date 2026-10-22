@@ -1,5 +1,21 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 22/10/2026 à 03:20
+* **APPS**
+  * `Ppsa50011` (v1.0.0) - *Mise à jour (Précédent: v0.6.0)*
+  * `Ps5X360-Source-1.0.0-Changes` (v1.0.0) - *Nouveau*
+  * `Porpoise-4.0` (v4.0) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `PS64` (01.000.002) - *Mise à jour (Précédent: 01.000.001)*
+  * `Blur5` (1.0.0) - *Nouveau*
+  * `VLC` (0.6.0) - *Mise à jour (Précédent: 0.5.0)*
+  * `SwanStationPS5` (1.4.4) - *Mise à jour (Précédent: 1.4.2)*
+  * `Seedee5` (1.23) - *Mise à jour (Précédent: 1.22)*
+  * `PS5CEMU-HAR` (5.0.0) - *Mise à jour (Précédent: 4.0.1)*
+  * `Machete AI Studio` (0.5.1) - *Mise à jour (Précédent: 0.5.0)*
+  * `Porpoise` (4.0) - *Mise à jour (Précédent: 3.0)*
+  * `PSBox Cloud Gaming` (1.4.0) - *Mise à jour (Précédent: 1.3.4)*
+
 ## Build du 21/10/2026 à 21:31
 * **PAYLOADS**
   * `Elfldr V0.27` (v0.27) - *Nouveau*
