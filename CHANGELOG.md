@@ -1,5 +1,22 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 23/10/2026 à 21:16
+* **PAYLOADS**
+  * `Pad2C V1.3.1` (v1.3.1) - *Nouveau*
+  * `Snes9Xps5 V2.9` (v2.9) - *Nouveau*
+  * `Genplusgxps5 V2.2` (v2.2) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `Home5` (1.0.2) - *Mise à jour (Précédent: 1.0.1)*
+  * `Signal Companion` (00.005.000) - *Mise à jour (Précédent: 00.004.002)*
+  * `A2 Racer II` (00.001.000) - *Nouveau*
+  * `Prospero Themes` (01.000.022) - *Mise à jour (Précédent: 01.000.021)*
+  * `TubeBlock` (01.000.165) - *Mise à jour (Précédent: 01.000.162)*
+  * `DevilutionX` (ps5-v1.0.0) - *Nouveau*
+  * `Art Swap` (1.3.1) - *Mise à jour (Précédent: 1.3.0)*
+  * `ApricotGS` (0.2.23) - *Mise à jour (Précédent: 0.0.1)*
+  * `Régie5` (0.8.0) - *Mise à jour (Précédent: 0.7.0)*
+  * `PSBox Cloud Gaming` (1.5.1) - *Mise à jour (Précédent: 1.5.0)*
+
 ## Build du 23/10/2026 à 16:39
 * **PAYLOADS**
   * `Garlic-Savemgr V1.15-Beta1` (v1.15-beta1) - *Nouveau*

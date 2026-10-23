@@ -46,15 +46,15 @@
         {
             "name": "Home5",
             "filename": "PPSA11019.zip",
-            "url": "https://github.com/bornaradusin/Home5/releases/download/1.0.1/PPSA11019.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA11019/1.0.1/PPSA11019.zip",
+            "url": "https://github.com/bornaradusin/Home5/releases/download/1.0.2/PPSA11019.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA11019/1.0.2/PPSA11019.zip",
             "description": "Home Assistant on the PS5: your own rooms of lights, blinds, thermostats, scenes and sensors, with the DualSense. L2/R2 dim lights and the light bar follows them.",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA11019",
             "author": "bornaradusin",
-            "checksum": "67f67f74a1cf93bd26b3a852fb4a986b0e127099fe5ee0e0d570c57da15a8351",
+            "checksum": "3b12fddc9495ac2c011a8764e1a116a13a26020c742eb4cf43a8814d5cfa06f5",
             "source": "https://github.com/bornaradusin/Home5"
         },
         {
@@ -270,16 +270,30 @@
         {
             "name": "Signal Companion",
             "filename": "PPSA69426.zip",
-            "url": "https://github.com/Marice/ps5-signal-companion/releases/download/v00.004.002/PPSA69426.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA69426/00.004.002/PPSA69426.zip",
+            "url": "https://github.com/Marice/ps5-signal-companion/releases/download/v00.005.000/PPSA69426.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA69426/00.005.000/PPSA69426.zip",
             "description": "Set your PS5's light colour and ps5-signal's startup tune, and manage the suite: start, update and autoload ps5-signal, ps5-exporter and ps5-homeassistant, and link the PS5 to Home Assistant.",
-            "version": "00.004.002",
+            "version": "00.005.000",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA69426",
             "author": "Marice",
-            "checksum": "0f74219e6991f4b260e580fc44eb5f2f34bd3aed7f90e0fe5b5702c45939eed6",
+            "checksum": "a49abe8408f93b65868889929c3d83b27522373073f56af64997394519d1cb60",
             "source": "https://github.com/Marice/ps5-signal-companion"
+        },
+        {
+            "name": "A2 Racer II",
+            "filename": "PPSA69428.zip",
+            "url": "https://github.com/Marice/a2-racer-2-ps5/releases/download/v00.001.000/A2Racer2-PS5-00.001.000.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA69428/00.001.000/PPSA69428.zip",
+            "description": "Native PS5 port of A2 Racer II (Davilex, 1998) on berobloom's a2racer2-re, with DualSense, touchpad mouse and a police light bar; needs your own disc image.",
+            "version": "00.001.000",
+            "category": "Games",
+            "kind": "game",
+            "titleid": "PPSA69428",
+            "author": "Marice",
+            "checksum": "f7829d751aebb7f88db7085d9a619e7a71098f64eb63484200e4cf127e997891",
+            "source": "https://github.com/Marice/a2-racer-2-ps5"
         },
         {
             "name": "Stremio Plus",
@@ -368,15 +382,15 @@
         {
             "name": "Prospero Themes",
             "filename": "PPSA90210.zip",
-            "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.021/PPSA90210.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.021/PPSA90210.zip",
+            "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.022/PPSA90210.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.022/PPSA90210.zip",
             "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
-            "version": "01.000.021",
+            "version": "01.000.022",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA90210",
             "author": "Darkatek7",
-            "checksum": "65b5b87e26ec2e7b74320c29cf2089288e1d7fb3b2eae81d5a32ad1d10c89376",
+            "checksum": "61138fa5701bca0919e47ac6ae00abe1522805f363a002534db1ed7445dd7eb9",
             "source": "https://github.com/Darkatek7/ProsperoThemes"
         },
         {
@@ -480,15 +494,15 @@
         {
             "name": "TubeBlock",
             "filename": "PPSA98260.zip",
-            "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.162/SmartTube-PPSA98260.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.162/PPSA98260.zip",
+            "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.165/SmartTube-PPSA98260.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.165/PPSA98260.zip",
             "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-            "version": "01.000.162",
+            "version": "01.000.165",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA98260",
             "author": "animatian112",
-            "checksum": "b475ce714fb4550f1c73749262301e71c24096cc8de81b7a8d62cc1b2820a8f5",
+            "checksum": "eb5810c4b90be02d36b471541322b94119333b404e52dd2dfac85ebb68ed29a6",
             "source": "https://github.com/animatian112/ytps5-sponsorblock"
         },
         {
@@ -560,6 +574,20 @@
             "author": "AngelXex",
             "checksum": "b4630a93ba9eab9507877b28d344a21cbb8d7a8ec98eec989fe0c1f921a9fdae",
             "source": "https://github.com/darkxex/Apotris-PS5"
+        },
+        {
+            "name": "DevilutionX",
+            "filename": "PPSA98514.zip",
+            "url": "https://github.com/darkxex/DevilutionXPS5/releases/download/ps5-v1.0.0/DevilutionX-PS5-1.0.0.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA98514/ps5-v1.0.0/PPSA98514.zip",
+            "description": "native PS5 build of DevilutionX, as an installed title (PPSA98514). It is a separate port from the payload one in Packaging/ps5 and does not replace it.",
+            "version": "ps5-v1.0.0",
+            "category": "Games",
+            "kind": "game",
+            "titleid": "PPSA98514",
+            "author": "AngelXex",
+            "checksum": "b921871c14ee5f17ebf2a783e74b914e9bd27b08d02d2ee5cce37652c1ca6fd9",
+            "source": "https://github.com/darkxex/DevilutionXPS5"
         },
         {
             "name": "DriftCheck",
@@ -1054,15 +1082,15 @@
         {
             "name": "Art Swap",
             "filename": "PPSA99318.zip",
-            "url": "https://github.com/griches/PS5_ArtSwap/releases/download/v1.3.0/PS5_ArtSwap-v1.3.0.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99318/1.3.0/PPSA99318.zip",
+            "url": "https://github.com/griches/PS5_ArtSwap/releases/download/v1.3.1/PS5_ArtSwap-v1.3.1.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99318/1.3.1/PPSA99318.zip",
             "description": "Change any title's home-screen icon, background, logo and music with SteamGridDB art (your own free key) and your own songs, keep the originals, and rename homebrew through ShadowMountPlus.",
-            "version": "1.3.0",
+            "version": "1.3.1",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99318",
             "author": "Gary Riches",
-            "checksum": "66c738957283eef4edae5485913d16fc3990ef29fa59bc1fefa5c936c891fb0f",
+            "checksum": "b7db472827d8107e5128415d351e50f63217b8d294aadfaa25d90cffd45cd4da",
             "source": "https://github.com/griches/PS5_ArtSwap"
         },
         {
@@ -1180,15 +1208,15 @@
         {
             "name": "ApricotGS",
             "filename": "PPSA99429.zip",
-            "url": "https://github.com/BaZZtian/PS5-ApricotGS/releases/download/v0.0.1/ApricotGS-v0.0.1-PS5.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA99429/0.0.1/PPSA99429.zip",
+            "url": "https://github.com/BaZZtian/PS5-ApricotGS/releases/download/v0.2.23/ApricotGS-v0.2.23-PS5.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99429/0.2.23/PPSA99429.zip",
             "description": "Experimental native PS5 player for HeartGold and SoulSilver with a two-edition cartridge launcher; prepare your own supported game dump on PC. No game data included.",
-            "version": "0.0.1",
+            "version": "0.2.23",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA99429",
             "author": "BaZZtian",
-            "checksum": "6a6e3fb5a2b37f05b87b70c804801d3e548dc222aa8136a8b5c68e2bbbf0dae4",
+            "checksum": "c8a81d7fa66e2973ff0a6bd8501fd238ecbaab2f18477b1bea1429e8ab7a7730",
             "source": "https://github.com/BaZZtian/PS5-ApricotGS"
         },
         {
@@ -1264,15 +1292,15 @@
         {
             "name": "Régie5",
             "filename": "PPSA99520.zip",
-            "url": "https://github.com/viviandsx/regie5/releases/download/v0.7.0/PPSA99520.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99520/0.7.0/PPSA99520.zip",
+            "url": "https://github.com/viviandsx/regie5/releases/download/v0.8.0/PPSA99520.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99520/0.8.0/PPSA99520.zip",
             "description": "A TV remote for your self-hosted media stack: Sonarr, Radarr, Seerr and Jellyfin, Emby or Plex at a glance, with request approval, playback diagnosis and an optional cleanup.",
-            "version": "0.7.0",
+            "version": "0.8.0",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99520",
             "author": "Vivian",
-            "checksum": "c54af57f7c6fe7ff8a2322be5a09e0620f51c8c10473d5b58908fa84d6a3e023",
+            "checksum": "3375cb2d60a66935ca42159a0fcd336a24a0cae887efeb0972bf262a161f1e23",
             "source": "https://github.com/viviandsx/regie5"
         },
         {
@@ -1544,15 +1572,15 @@
         {
             "name": "PSBox Cloud Gaming",
             "filename": "PPSA99810.zip",
-            "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.5.0/PPSA99810.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.5.0/PPSA99810.zip",
+            "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.5.1/PPSA99810.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.5.1/PPSA99810.zip",
             "description": "Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.",
-            "version": "1.5.0",
+            "version": "1.5.1",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99810",
             "author": "RafaelNGP",
-            "checksum": "632dd01da5857d5e7d5199b926f6f64ab3aaa9d46befbc59e665858037d87e8f",
+            "checksum": "afed4c7340e7110e025454a7aedb4af9f134f6dd4820d2d4a549d25d342ed009",
             "source": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5"
         },
         {

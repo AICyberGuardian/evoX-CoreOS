@@ -407,10 +407,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Pad2C V1.3.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v1.3.0/pad2c_v1.3.0.elf</link>
+      <title>[Payloads] Pad2C V1.3.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v1.3.1/pad2c_v1.3.1.elf</link>
       <description>Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth.</description>
-      <pubDate>v1.3.0</pubDate>
+      <pubDate>v1.3.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Anypad-Ps5 V0.6.0</title>
@@ -431,16 +431,16 @@
       <pubDate>v2.5</pubDate>
     </item>
     <item>
-      <title>[Payloads] Snes9Xps5 V2.8</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.8/snes9xPS5_v2.8.elf</link>
+      <title>[Payloads] Snes9Xps5 V2.9</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.9/snes9xPS5_v2.9.elf</link>
       <description>snes9x emulator</description>
-      <pubDate>v2.8</pubDate>
+      <pubDate>v2.9</pubDate>
     </item>
     <item>
-      <title>[Payloads] Genplusgxps5 V2.1</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>genplusgxPS5</pubDate>
+      <title>[Payloads] Genplusgxps5 V2.2</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v2.2/genplusgxPS5_v2.2.elf</link>
+      <description>Port of Genesis-Plus-GX for PS55</description>
+      <pubDate>v2.2</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Romm V1.3.0</title>
@@ -1100,7 +1100,7 @@
       <title>[ProsperoStore] Home5</title>
       <link>https://github.com/bornaradusin/Home5</link>
       <description>Home Assistant on the PS5: your own rooms of lights, blinds, thermostats, scenes and sensors, with the DualSense. L2/R2 dim lights and the light bar follows them.</description>
-      <pubDate>1.0.1</pubDate>
+      <pubDate>1.0.2</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] SymphonyStation5</title>
@@ -1196,7 +1196,13 @@
       <title>[ProsperoStore] Signal Companion</title>
       <link>https://github.com/Marice/ps5-signal-companion</link>
       <description>Set your PS5's light colour and ps5-signal's startup tune, and manage the suite: start, update and autoload ps5-signal, ps5-exporter and ps5-homeassistant, and link the PS5 to Home Assistant.</description>
-      <pubDate>00.004.002</pubDate>
+      <pubDate>00.005.000</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] A2 Racer II</title>
+      <link>https://github.com/Marice/a2-racer-2-ps5</link>
+      <description>Native PS5 port of A2 Racer II (Davilex, 1998) on berobloom's a2racer2-re, with DualSense, touchpad mouse and a police light bar; needs your own disc image.</description>
+      <pubDate>00.001.000</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Stremio Plus</title>
@@ -1238,7 +1244,7 @@
       <title>[ProsperoStore] Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.021</pubDate>
+      <pubDate>01.000.022</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Capy Mobile</title>
@@ -1286,7 +1292,7 @@
       <title>[ProsperoStore] TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.162</pubDate>
+      <pubDate>01.000.165</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] CD Player</title>
@@ -1317,6 +1323,12 @@
       <link>https://github.com/darkxex/Apotris-PS5</link>
       <description>Apotris is a block stacking game for the Gameboy Advance! It features satisfying graphics, responsive controls and a large amount of customization so that you can tailor the game to your preferences!</description>
       <pubDate>v1.0.0</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] DevilutionX</title>
+      <link>https://github.com/darkxex/DevilutionXPS5</link>
+      <description>native PS5 build of DevilutionX, as an installed title (PPSA98514). It is a separate port from the payload one in Packaging/ps5 and does not replace it.</description>
+      <pubDate>ps5-v1.0.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] DriftCheck</title>
@@ -1532,7 +1544,7 @@
       <title>[ProsperoStore] Art Swap</title>
       <link>https://github.com/griches/PS5_ArtSwap</link>
       <description>Change any title's home-screen icon, background, logo and music with SteamGridDB art (your own free key) and your own songs, keep the originals, and rename homebrew through ShadowMountPlus.</description>
-      <pubDate>1.3.0</pubDate>
+      <pubDate>1.3.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Quake3e</title>
@@ -1586,7 +1598,7 @@
       <title>[ProsperoStore] ApricotGS</title>
       <link>https://github.com/BaZZtian/PS5-ApricotGS</link>
       <description>Experimental native PS5 player for HeartGold and SoulSilver with a two-edition cartridge launcher; prepare your own supported game dump on PC. No game data included.</description>
-      <pubDate>0.0.1</pubDate>
+      <pubDate>0.2.23</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Twispero</title>
@@ -1622,7 +1634,7 @@
       <title>[ProsperoStore] Régie5</title>
       <link>https://github.com/viviandsx/regie5</link>
       <description>A TV remote for your self-hosted media stack: Sonarr, Radarr, Seerr and Jellyfin, Emby or Plex at a glance, with request approval, playback diagnosis and an optional cleanup.</description>
-      <pubDate>0.7.0</pubDate>
+      <pubDate>0.8.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5LM</title>
@@ -1742,7 +1754,7 @@
       <title>[ProsperoStore] PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.5.0</pubDate>
+      <pubDate>1.5.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Forwarder Manager</title>
