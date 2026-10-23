@@ -1097,6 +1097,12 @@
       <pubDate>v1.0.0</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] Home5</title>
+      <link>https://github.com/bornaradusin/Home5</link>
+      <description>Home Assistant on the PS5: your own rooms of lights, blinds, thermostats, scenes and sensors, with the DualSense. L2/R2 dim lights and the light bar follows them.</description>
+      <pubDate>1.0.1</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] SymphonyStation5</title>
       <link>https://github.com/TsvetomirGT/SymphonyStation5</link>
       <description>A native Navidrome music client for the PlayStation 5.</description>
@@ -1137,6 +1143,12 @@
       <link>https://github.com/Bruce303lee/sudokuzen</link>
       <description>A quiet 9x9 Sudoku game for PS5 with six themes, a color-tile mode, animated backdrops, an undo stack, and a demo mode that narrates each solving technique.</description>
       <pubDate>01.000.010</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] PS5X360</title>
+      <link>https://github.com/BrinooTk/PS5X360</link>
+      <description>Experimental Xbox 360 emulator for PlayStation 5, built on Xenia Canary with native audio, DualSense input and RADV Vulkan graphics.</description>
+      <pubDate>v1.0.2</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ccleste</title>
@@ -1226,7 +1238,7 @@
       <title>[ProsperoStore] Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.019</pubDate>
+      <pubDate>01.000.020</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Capy Mobile</title>
@@ -1280,7 +1292,7 @@
       <title>[ProsperoStore] CD Player</title>
       <link>https://github.com/LoZazaMastro/CD-Player</link>
       <description>Rediscover your audio CDs and fall in love with your music again: a native PS5 player with USB drive support, album art and reactive visuals.</description>
-      <pubDate>1.1.1</pubDate>
+      <pubDate>1.1.2</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] SwanStationPS5</title>
@@ -1409,6 +1421,12 @@
       <pubDate>1</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] PSP5</title>
+      <link>https://github.com/tsuramatsu1/psp5</link>
+      <description>Native PSP port for the ps5 based on PPSSPP.</description>
+      <pubDate>v1.000.100</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] Mortalfin</title>
       <link>https://github.com/mortaljinx/mortalfin</link>
       <description>A native Jellyfin client for the PS5 with a cover-wheel interface, HDR and surround sound passthrough. Beta.</description>
@@ -1467,6 +1485,12 @@
       <link>https://github.com/griches/PS5_Dusklight</link>
       <description>Dusklight for PlayStation 5: a homebrew port on RADV (Aurora, Dawn WebGPU, SDL3). Bring your own disc image.</description>
       <pubDate>1.0.0</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] DevilutionX for PlayStation 5</title>
+      <link>https://github.com/griches/PS5_DevilutionX</link>
+      <description>A PS5 homebrew build of DevilutionX, the source port of Diablo and Hellfire, as an installed title (PPSA99308) with a controller, a keyboard and a mouse.</description>
+      <pubDate>v0.1.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Wind Waker</title>
@@ -1544,7 +1568,7 @@
       <title>[ProsperoStore] Sahin</title>
       <link>https://github.com/7tg/sahin</link>
       <description>Your own PC copy of Blur as a homebrew app on a jailbroken PS5, through prospero-win, with split screen and Amax online play (bring your own copy).</description>
-      <pubDate>01.006.000</pubDate>
+      <pubDate>01.008.000</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] FUTBOL13</title>
@@ -1616,7 +1640,7 @@
       <title>[ProsperoStore] PS5MG</title>
       <link>https://github.com/nikay99/PS5MG</link>
       <description>Picture to textured 3D mesh (TRELLIS.2) on the PS5 GPU, with a web page and TV dashboard. Model files not included: one command on your PC fetches and copies them, see the README.</description>
-      <pubDate>0.2.3</pubDate>
+      <pubDate>0.2.4</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5LM Plus</title>
@@ -1718,7 +1742,7 @@
       <title>[ProsperoStore] PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.4.0</pubDate>
+      <pubDate>1.5.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Forwarder Manager</title>
@@ -1730,7 +1754,7 @@
       <title>[ProsperoStore] YouTube Max’d</title>
       <link>https://github.com/HandshakeHackin/youtube-maxd</link>
       <description>Standalone PS5 YouTube client based on ProsperoTube, with local voice search, Smart playlists, adaptive quality and red/white DualSense effects.</description>
-      <pubDate>1.4.0</pubDate>
+      <pubDate>1.4.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Pulse</title>

@@ -44,6 +44,20 @@
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
+      "name": "Home5",
+      "filename": "PPSA11019.zip",
+      "url": "https://github.com/bornaradusin/Home5/releases/download/1.0.1/PPSA11019.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11019/1.0.1/PPSA11019.zip",
+      "description": "Home Assistant on the PS5: your own rooms of lights, blinds, thermostats, scenes and sensors, with the DualSense. L2/R2 dim lights and the light bar follows them.",
+      "version": "1.0.1",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA11019",
+      "author": "bornaradusin",
+      "checksum": "67f67f74a1cf93bd26b3a852fb4a986b0e127099fe5ee0e0d570c57da15a8351",
+      "source": "https://github.com/bornaradusin/Home5"
+    },
+    {
       "name": "SymphonyStation5",
       "filename": "PPSA17641.zip",
       "url": "https://github.com/TsvetomirGT/SymphonyStation5/releases/download/v0.1.0/SymphonyStation5-v0.1.0.zip",
@@ -140,6 +154,20 @@
       "author": "bruce303lee",
       "checksum": "4e32913d63f9db2d116b9d18cc6534557f127c8221529a38ac9dc76aadc2093f",
       "source": "https://github.com/Bruce303lee/sudokuzen"
+    },
+    {
+      "name": "PS5X360",
+      "filename": "PPSA50011.zip",
+      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v1.0.2/PPSA50011.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA50011/v1.0.2/PPSA50011.zip",
+      "description": "Experimental Xbox 360 emulator for PlayStation 5, built on Xenia Canary with native audio, DualSense input and RADV Vulkan graphics.",
+      "version": "v1.0.2",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA50011",
+      "author": "BrinooTk",
+      "checksum": "230359c2638f99add3972147e1690e62d8984a37c00181501680bdda7c1096c8",
+      "source": "https://github.com/BrinooTk/PS5X360"
     },
     {
       "name": "ccleste",
@@ -340,15 +368,15 @@
     {
       "name": "Prospero Themes",
       "filename": "PPSA90210.zip",
-      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.019/PPSA90210.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.019/PPSA90210.zip",
+      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.020/PPSA90210.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.020/PPSA90210.zip",
       "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
-      "version": "01.000.019",
+      "version": "01.000.020",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA90210",
       "author": "Darkatek7",
-      "checksum": "94ba33cc90a0ee44cb9c4f3979fbfa5d952a69aa07d2a13652f48c523708aefb",
+      "checksum": "4cb8b0cd09b30955b137fe7c06b23b3e13449b36ab65fb14f0a1b73fcaab785d",
       "source": "https://github.com/Darkatek7/ProsperoThemes"
     },
     {
@@ -466,15 +494,15 @@
     {
       "name": "CD Player",
       "filename": "PPSA98427.zip",
-      "url": "https://github.com/LoZazaMastro/CD-Player/releases/download/v1.1.1/PPSA98427.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98427/1.1.1/PPSA98427.zip",
+      "url": "https://github.com/LoZazaMastro/CD-Player/releases/download/v1.1.2/PPSA98427.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98427/1.1.2/PPSA98427.zip",
       "description": "Rediscover your audio CDs and fall in love with your music again: a native PS5 player with USB drive support, album art and reactive visuals.",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98427",
       "author": "LoZazaMastro",
-      "checksum": "a2e44a6211260b1dca2c0d42736143c8c563acc6ff9a42e0c1671477c96de45b",
+      "checksum": "f394c3a84ce61a95b67a7c0987edea596abdffe5f3b170f9e05983dc2286837d",
       "source": "https://github.com/LoZazaMastro/CD-Player"
     },
     {
@@ -772,6 +800,20 @@
       "source": "https://github.com/SvenGDK/Prospero-Multi-Tools"
     },
     {
+      "name": "PSP5",
+      "filename": "PPSA99131.zip",
+      "url": "https://github.com/tsuramatsu1/psp5/releases/download/v1.000.100/PPSA99131.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99131/v1.000.100/PPSA99131.zip",
+      "description": "Native PSP port for the ps5 based on PPSSPP.",
+      "version": "v1.000.100",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99131",
+      "author": "tsuramatsu1",
+      "checksum": "7944efe11211fe0299d4c68234fe3739e0f43f5ef076ee02c55c314828762c97",
+      "source": "https://github.com/tsuramatsu1/psp5"
+    },
+    {
       "name": "Mortalfin",
       "filename": "PPSA99141.zip",
       "url": "https://github.com/mortaljinx/mortalfin/releases/download/1.0.0-beta.5/Mortalfin-1.0.0-beta.5.zip",
@@ -910,6 +952,20 @@
       "author": "Gary Riches",
       "checksum": "343f8829803ecba03e8cf3168f543543771e6511dfec4e6761c60bb6f4ab8e8d",
       "source": "https://github.com/griches/PS5_Dusklight"
+    },
+    {
+      "name": "DevilutionX for PlayStation 5",
+      "filename": "PPSA99308.zip",
+      "url": "https://github.com/griches/PS5_DevilutionX/releases/download/v0.1.0/DevilutionX-PS5-v0.1.0.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99308/v0.1.0/PPSA99308.zip",
+      "description": "A PS5 homebrew build of DevilutionX, the source port of Diablo and Hellfire, as an installed title (PPSA99308) with a controller, a keyboard and a mouse.",
+      "version": "v0.1.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99308",
+      "author": "griches",
+      "checksum": "1d8a104320dd3fd6f1de44e32643089bb833e86d3ccd335fc1f9cc6e1f013758",
+      "source": "https://github.com/griches/PS5_DevilutionX"
     },
     {
       "name": "Wind Waker",
@@ -1082,15 +1138,15 @@
     {
       "name": "Sahin",
       "filename": "PPSA99404.zip",
-      "url": "https://github.com/7tg/sahin/releases/download/01.006.000/PPSA99404.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99404/01.006.000/PPSA99404.zip",
+      "url": "https://github.com/7tg/sahin/releases/download/01.008.000/PPSA99404.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99404/01.008.000/PPSA99404.zip",
       "description": "Your own PC copy of Blur as a homebrew app on a jailbroken PS5, through prospero-win, with split screen and Amax online play (bring your own copy).",
-      "version": "01.006.000",
+      "version": "01.008.000",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99404",
       "author": "7tg",
-      "checksum": "a45d9bab256b5e94728da31379c2e2e5d4b99c23825f262132020b10588936ee",
+      "checksum": "6135bf8983f5d6138052f965632c5380f4a167a2898cb4256aba3ac909be4398",
       "source": "https://github.com/7tg/sahin"
     },
     {
@@ -1250,15 +1306,15 @@
     {
       "name": "PS5MG",
       "filename": "PPSA99577.zip",
-      "url": "https://github.com/nikay99/PS5MG/releases/download/v0.2.3/PPSA99577.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99577/0.2.3/PPSA99577.zip",
+      "url": "https://github.com/nikay99/PS5MG/releases/download/v0.2.4/PPSA99577.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99577/0.2.4/PPSA99577.zip",
       "description": "Picture to textured 3D mesh (TRELLIS.2) on the PS5 GPU, with a web page and TV dashboard. Model files not included: one command on your PC fetches and copies them, see the README.",
-      "version": "0.2.3",
+      "version": "0.2.4",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99577",
       "author": "nikay99",
-      "checksum": "fe935e0dc91f76132116cfeb960f71847b0225f2f722217f35c91d9f661f9f27",
+      "checksum": "6bbd909e7ae2a43b6514909cbc0aec26e0c8d51e005ac42cba88229fd496d263",
       "source": "https://github.com/nikay99/PS5MG"
     },
     {
@@ -1488,15 +1544,15 @@
     {
       "name": "PSBox Cloud Gaming",
       "filename": "PPSA99810.zip",
-      "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.4.0/PPSA99810.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.4.0/PPSA99810.zip",
+      "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.5.0/PPSA99810.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.5.0/PPSA99810.zip",
       "description": "Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.",
-      "version": "1.4.0",
+      "version": "1.5.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99810",
       "author": "RafaelNGP",
-      "checksum": "6f1a4a57adbb927f547e3b431d8bdaf4db426bd107b7eff10143eed40b05e6b6",
+      "checksum": "632dd01da5857d5e7d5199b926f6f64ab3aaa9d46befbc59e665858037d87e8f",
       "source": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5"
     },
     {
@@ -1516,15 +1572,15 @@
     {
       "name": "YouTube Max’d",
       "filename": "PPSA99991.zip",
-      "url": "https://github.com/HandshakeHackin/youtube-maxd/releases/download/v1.4.0/PPSA99991.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99991/1.4.0/PPSA99991.zip",
+      "url": "https://github.com/HandshakeHackin/youtube-maxd/releases/download/v1.4.1/PPSA99991.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99991/1.4.1/PPSA99991.zip",
       "description": "Standalone PS5 YouTube client based on ProsperoTube, with local voice search, Smart playlists, adaptive quality and red/white DualSense effects.",
-      "version": "1.4.0",
+      "version": "1.4.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99991",
       "author": "HandshakeHackin",
-      "checksum": "16a4b5960f1369fd593cd17852bd04c940d2febfa535094a8a647a40e0ca741e",
+      "checksum": "18cecdfb565a13decd42046d2bc112aafa729ea53d00fdfc149a2ae4cf0fc003",
       "source": "https://github.com/HandshakeHackin/youtube-maxd"
     },
     {

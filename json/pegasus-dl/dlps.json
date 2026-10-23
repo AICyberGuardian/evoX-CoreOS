@@ -430,6 +430,50 @@
       ]
     },
     {
+      "titleId": "PPSA99305",
+      "title": "Guitar Hero 5 (Unofficial Port)",
+      "createdAt": "2026-10-23T06:46:23.394Z",
+      "version": "01.000",
+      "category": "game",
+      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/10/1-pec-1.jpg",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.000 — 4.xx and beyond\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/guitar-hero-5-unofficial-port-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.000 Base - DataNodes - Part 1",
+          "url": "https://datanodes.to/d2f2xh2cam7v/PPSA99305.exfat"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - FileKeeper - Part 1",
+          "url": "https://filekeeper.net/zyz9etnvo5vi/PPSA99305.exfat"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Akirabox - Part 1",
+          "url": "https://akirabox.to/jJD3VegqOma5/file"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Vikingfile - Part 1",
+          "url": "https://vikingfile.com/f/qkYBB2z0IX"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - DataNodes - Part 2",
+          "url": "https://datanodes.to/618s7bxibrpn/PPSA99305.7z"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - FileKeeper - Part 2",
+          "url": "https://filekeeper.net/7a7ivj1juaw4/PPSA99305.7z"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Akirabox - Part 2",
+          "url": "https://akirabox.to/APVmaMOE6mXo/file"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Vikingfile - Part 2",
+          "url": "https://vikingfile.com/f/a5lfQi3f7f"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA03446",
       "title": "Pumpkin Jack",
       "createdAt": "2026-10-20T12:16:55.046Z",
@@ -7241,7 +7285,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2408/619d09fd9e82617c0d3207bee7a4d7055c4181b7b4496c50.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2408/619d09fd9e82617c0d3207bee7a4d7055c4181b7b4496c50.png",
-      "description": "Region: ASIA\nRelease note: Works on 13.xx and higher\nContributor: @DLPS Team",
+      "description": "Variant: ASIA 13.xx\nRegion: ASIA\nRelease note: Works on 13.xx and higher\nContributor: @DLPS Team\n\nVariant: ASIA exFAT 01.002\nRegion: ASIA\nRelease note: exFAT format — FW 01.002 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/samson-a-tyndalston-story-ps5/",
       "downloadLinks": [
         {
@@ -7255,6 +7299,22 @@
         {
           "name": "ASIA 13.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/UETaDlAvOB"
+        },
+        {
+          "name": "ASIA exFAT 01.002 Base - DataNodes",
+          "url": "https://datanodes.to/qwrm2n8ib1d4/PPSA38474.7z"
+        },
+        {
+          "name": "ASIA exFAT 01.002 Base - FileKeeper",
+          "url": "https://filekeeper.net/rrhprfuucuk7/PPSA38474.7z"
+        },
+        {
+          "name": "ASIA exFAT 01.002 Base - Akirabox",
+          "url": "https://akirabox.to/EL73gke7E39B/file"
+        },
+        {
+          "name": "ASIA exFAT 01.002 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/AGKDgYcpHq"
         }
       ]
     },
@@ -16458,7 +16518,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1221/5e7b5321408d56da66ffbb45abae3d2f812b0a1dd03cee5d.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1221/5e7b5321408d56da66ffbb45abae3d2f812b0a1dd03cee5d.png",
-      "description": "Variant: EUR 10.xx\nRegion: EUR\nRelease note: Works on 10.xx and higher\nContributor: @MettMowgli and @DLPS Team\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.310\nRegion: EUR\nRelease note: exFAT format — FW 01.310 — 4.xx BackPort\nContributor: pippo",
+      "description": "Variant: EUR 10.xx\nRegion: EUR\nRelease note: Works on 10.xx and higher\nContributor: @MettMowgli and @DLPS Team\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.400\nRegion: EUR\nRelease note: exFAT format — FW 01.400 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/farming-simulator-25-ps5/",
       "downloadLinks": [
         {
@@ -16494,24 +16554,20 @@
           "url": "https://1fichier.com/?5eizcwfnv9r816qqshrx"
         },
         {
-          "name": "EUR exFAT 01.310 Base - AKIA (exFAT)",
-          "url": "https://akirabox.com/EL73g7bQj39B/file"
+          "name": "EUR exFAT 01.400 Base - DataNodes",
+          "url": "https://datanodes.to/562uiveaqjvf/PPSA19644.7z"
         },
         {
-          "name": "EUR exFAT 01.310 Base - VIKI (exFAT)",
-          "url": "https://vikingfile.com/f/8vzd8T3H0v"
+          "name": "EUR exFAT 01.400 Base - FileKeeper",
+          "url": "https://filekeeper.net/2urt0zi9xmd2/PPSA19644.7z"
         },
         {
-          "name": "EUR exFAT 01.310 Base - DATA (exFAT)",
-          "url": "https://datanodes.to/4i3qxnwoxhkc"
+          "name": "EUR exFAT 01.400 Base - Akirabox",
+          "url": "https://akirabox.to/Zvqzlpep6zaD/file"
         },
         {
-          "name": "EUR exFAT 01.310 Base - FileK (exFAT)",
-          "url": "https://filekeeper.net/6jvo9r37r1z6"
-        },
-        {
-          "name": "EUR exFAT 01.310 Base - Vault (exFAT)",
-          "url": "https://datavaults.co/7vm1fvrtxypd"
+          "name": "EUR exFAT 01.400 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/frDhqvKjMk"
         }
       ]
     },
@@ -50410,7 +50466,7 @@
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2009/15a5c2ccc34262d0b9c780f7b81c7d95816a0516dc05daaf.png?w=260",
       "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2009/15a5c2ccc34262d0b9c780f7b81c7d95816a0516dc05daaf.png",
-      "description": "Variant: USA 12.xx\nRegion: USA\nRelease note: Working 12.xx to 10.xx Make sure use latest update y2jb or bdj or p2jb Do not run game from the internal drive as this may cause the console to freeze and enter recovery mode Already add to game [ apr emu – playgo emu ] Before run game need run backpork payload without backpack payload apr emu will not work and game will crash\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: exFAT v01.018\nRelease note: F1 25 (v01.018) – BP 4.xx – PPSA24662 – exFAT etaHEN cause crash, use only kstuff lite 1.09 with ShadowMountPlus (not Alpha).\nContributor: Thanks to DUPLEX for the Files, drakmor for ampr-emu and DecKerr97 for the BackPort.\n\nVariant: USA exFAT 01.018\nRegion: USA\nRelease note: exFAT format — FW 01.018 — 4.xx BackPort\nContributor: pippo",
+      "description": "Variant: USA 12.xx\nRegion: USA\nRelease note: Working 12.xx to 10.xx Make sure use latest update y2jb or bdj or p2jb Do not run game from the internal drive as this may cause the console to freeze and enter recovery mode Already add to game [ apr emu – playgo emu ] Before run game need run backpork payload without backpack payload apr emu will not work and game will crash\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: exFAT v01.018\nRelease note: F1 25 (v01.018) – BP 4.xx – PPSA24662 – exFAT etaHEN cause crash, use only kstuff lite 1.09 with ShadowMountPlus (not Alpha).\nContributor: Thanks to DUPLEX for the Files, drakmor for ampr-emu and DecKerr97 for the BackPort.",
       "downloadSource": "https://dlpsgame.com/f1-25-ps5/",
       "downloadLinks": [
         {
@@ -50728,26 +50784,6 @@
         {
           "name": "exFAT v01.018 Base - Vikingfile",
           "url": "https://vikingfile.com/f/4LAPTl7DtM"
-        },
-        {
-          "name": "USA exFAT 01.018 Base - AKIA (exFAT)",
-          "url": "https://akirabox.com/QN9mEqjoom6d/file"
-        },
-        {
-          "name": "USA exFAT 01.018 Base - VIKI (exFAT)",
-          "url": "https://vikingfile.com/f/4LAPTl7DtM"
-        },
-        {
-          "name": "USA exFAT 01.018 Base - DATA (exFAT)",
-          "url": "https://datanodes.to/g237n7wu4in5"
-        },
-        {
-          "name": "USA exFAT 01.018 Base - FileK (exFAT)",
-          "url": "https://filekeeper.net/ug25lfcag2xo"
-        },
-        {
-          "name": "USA exFAT 01.018 Base - Vault (exFAT)",
-          "url": "https://datavaults.co/160fyetpz3wy"
         }
       ]
     },
@@ -135215,46 +135251,59 @@
       ]
     },
     {
-      "titleId": "PPSA99305",
-      "title": "[exFAT] Guitar Hero 5 (Unofficial Port)",
-      "createdAt": "2026-10-22T21:37:21.547Z",
-      "version": "01.000",
+      "titleId": "PPSA24662",
+      "title": "[exFAT] F1 25 Season 2026 Edition",
+      "createdAt": "2026-10-23T06:46:23.394Z",
+      "version": "01.026",
       "category": "game",
-      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/GH5_Port.jpg",
-      "description": "Region: USA\nRelease note: exFAT format — FW 01.000 — 4.xx and beyond\nContributor: pippo",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2009/15a5c2ccc34262d0b9c780f7b81c7d95816a0516dc05daaf.png?w=260",
+      "originalPosterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2009/15a5c2ccc34262d0b9c780f7b81c7d95816a0516dc05daaf.png",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.026 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
       "downloadLinks": [
         {
-          "name": "USA exFAT 01.000 Base - DataNodes - Part 1",
-          "url": "https://datanodes.to/d2f2xh2cam7v/PPSA99305.exfat"
+          "name": "USA exFAT 01.026 Base - DataNodes",
+          "url": "https://datanodes.to/cepn4djoubt3/PPSA24662.7z"
         },
         {
-          "name": "USA exFAT 01.000 Base - FileKeeper - Part 1",
-          "url": "https://filekeeper.net/zyz9etnvo5vi/PPSA99305.exfat"
+          "name": "USA exFAT 01.026 Base - FileKeeper",
+          "url": "https://filekeeper.net/k477eqbbhysd/PPSA24662.7z"
         },
         {
-          "name": "USA exFAT 01.000 Base - Akirabox - Part 1",
-          "url": "https://akirabox.to/jJD3VegqOma5/file"
+          "name": "USA exFAT 01.026 Base - Akirabox",
+          "url": "https://akirabox.to/k0embkRZ93Vb/file"
         },
         {
-          "name": "USA exFAT 01.000 Base - Vikingfile - Part 1",
-          "url": "https://vikingfile.com/f/qkYBB2z0IX"
+          "name": "USA exFAT 01.026 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/BQ9Dj1KtKm"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA18026",
+      "title": "[exFAT] Planet Zoo Ultimate Edition",
+      "createdAt": "2026-10-23T06:46:23.394Z",
+      "version": "01.009.002",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18026_3cc203a0378c9468919afc462907ee526ec39927e6bb5431ab37949fa513e658/icon0.webp",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.009.002 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.009.002 Base - DataNodes",
+          "url": "https://datanodes.to/3qjfubtcyscg/PPSA18026.7z"
         },
         {
-          "name": "USA exFAT 01.000 Base - DataNodes - Part 2",
-          "url": "https://datanodes.to/618s7bxibrpn/PPSA99305.7z"
+          "name": "EUR exFAT 01.009.002 Base - FileKeeper",
+          "url": "https://filekeeper.net/fpo282eendwo/PPSA18026.7z"
         },
         {
-          "name": "USA exFAT 01.000 Base - FileKeeper - Part 2",
-          "url": "https://filekeeper.net/7a7ivj1juaw4/PPSA99305.7z"
+          "name": "EUR exFAT 01.009.002 Base - Akirabox",
+          "url": "https://akirabox.to/2WVGrW9W4mkx/file"
         },
         {
-          "name": "USA exFAT 01.000 Base - Akirabox - Part 2",
-          "url": "https://akirabox.to/APVmaMOE6mXo/file"
-        },
-        {
-          "name": "USA exFAT 01.000 Base - Vikingfile - Part 2",
-          "url": "https://vikingfile.com/f/a5lfQi3f7f"
+          "name": "EUR exFAT 01.009.002 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/R18HR9gnLn"
         }
       ]
     },

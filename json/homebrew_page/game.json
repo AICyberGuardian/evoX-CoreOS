@@ -254,6 +254,20 @@
       "source": "https://github.com/griches/PS5_Dusklight"
     },
     {
+      "name": "DevilutionX for PlayStation 5",
+      "filename": "PPSA99308.zip",
+      "url": "https://github.com/griches/PS5_DevilutionX/releases/download/v0.1.0/DevilutionX-PS5-v0.1.0.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99308/v0.1.0/PPSA99308.zip",
+      "description": "A PS5 homebrew build of DevilutionX, the source port of Diablo and Hellfire, as an installed title (PPSA99308) with a controller, a keyboard and a mouse.",
+      "version": "v0.1.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99308",
+      "author": "griches",
+      "checksum": "1d8a104320dd3fd6f1de44e32643089bb833e86d3ccd335fc1f9cc6e1f013758",
+      "source": "https://github.com/griches/PS5_DevilutionX"
+    },
+    {
       "name": "Wind Waker",
       "filename": "PPSA99309.zip",
       "url": "https://github.com/griches/PS5_SwitchWaker/releases/download/v1.0.3/WindWaker-PS5-v1.0.3.zip",
@@ -382,15 +396,15 @@
     {
       "name": "Sahin",
       "filename": "PPSA99404.zip",
-      "url": "https://github.com/7tg/sahin/releases/download/01.006.000/PPSA99404.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99404/01.006.000/PPSA99404.zip",
+      "url": "https://github.com/7tg/sahin/releases/download/01.008.000/PPSA99404.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99404/01.008.000/PPSA99404.zip",
       "description": "Your own PC copy of Blur as a homebrew app on a jailbroken PS5, through prospero-win, with split screen and Amax online play (bring your own copy).",
-      "version": "01.006.000",
+      "version": "01.008.000",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99404",
       "author": "7tg",
-      "checksum": "a45d9bab256b5e94728da31379c2e2e5d4b99c23825f262132020b10588936ee",
+      "checksum": "6135bf8983f5d6138052f965632c5380f4a167a2898cb4256aba3ac909be4398",
       "source": "https://github.com/7tg/sahin"
     },
     {

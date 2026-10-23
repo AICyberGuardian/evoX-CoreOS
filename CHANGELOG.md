@@ -1,5 +1,18 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 23/10/2026 à 11:12
+* **HOMEBREW_PAGE**
+  * `Home5` (1.0.1) - *Nouveau*
+  * `PS5X360` (v1.0.2) - *Nouveau*
+  * `Prospero Themes` (01.000.020) - *Mise à jour (Précédent: 01.000.019)*
+  * `CD Player` (1.1.2) - *Mise à jour (Précédent: 1.1.1)*
+  * `PSP5` (v1.000.100) - *Nouveau*
+  * `DevilutionX for PlayStation 5` (v0.1.0) - *Nouveau*
+  * `Sahin` (01.008.000) - *Mise à jour (Précédent: 01.006.000)*
+  * `PS5MG` (0.2.4) - *Mise à jour (Précédent: 0.2.3)*
+  * `PSBox Cloud Gaming` (1.5.0) - *Mise à jour (Précédent: 1.4.0)*
+  * `YouTube Max’d` (1.4.1) - *Mise à jour (Précédent: 1.4.0)*
+
 ## Build du 23/10/2026 à 03:27
 * **PAYLOADS**
   * `Pad2C V1.2.0` (v1.2.0) - *Nouveau*
