@@ -5,10 +5,10 @@
     <link>https://nexgen999.github.io/evoX-CoreOS</link>
     <description>Flux RSS global de toutes les mises à jour du store PS5</description>
     <item>
-      <title>[Payloads] Garlic-Savemgr V1.14</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.14/garlic-savemgr_v1.14.elf</link>
+      <title>[Payloads] Garlic-Savemgr V1.15-Beta1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta1/garlic-savemgr_v1.15-beta1.elf</link>
       <description>Save manager utility hosted on Forgejo.</description>
-      <pubDate>v1.14</pubDate>
+      <pubDate>v1.15-beta1</pubDate>
     </item>
     <item>
       <title>[Payloads] Garlic-Worker V1.1.7</title>
@@ -269,12 +269,6 @@
       <pubDate>v1.4.0</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5-Phstore Vphstore</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5-PHStore/PHStore/PS5-PHStore_vPHStore.elf</link>
-      <description>Free PH Store client for PS5.</description>
-      <pubDate>PHStore</pubDate>
-    </item>
-    <item>
       <title>[Payloads] Actremotelink Agent V2.0</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Remote/ActRemoteLink-13.x/v2.0/actremotelink_agent_v2.0.elf</link>
       <description>ActRemoteLink is a set of payloads and utilities for PS5 jailbreak workflows focused on offline activation of a local account and Remote Play</description>
@@ -413,10 +407,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Pad2C V1.2.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v1.2.0/pad2c_v1.2.0.elf</link>
+      <title>[Payloads] Pad2C V1.3.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v1.3.0/pad2c_v1.3.0.elf</link>
       <description>Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth.</description>
-      <pubDate>v1.2.0</pubDate>
+      <pubDate>v1.3.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Anypad-Ps5 V0.6.0</title>
@@ -444,9 +438,9 @@
     </item>
     <item>
       <title>[Payloads] Genplusgxps5 V2.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v2.1/genplusgxPS5_v2.1.elf</link>
-      <description>Port of Genesis-Plus-GX for PS55</description>
-      <pubDate>v2.1</pubDate>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>genplusgxPS5</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Romm V1.3.0</title>
@@ -747,6 +741,12 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>Spectrum-Library</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Ps5-Phstore Vphstore</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>PS5-PHStore</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5 Overlay</title>
@@ -1220,7 +1220,7 @@
       <title>[ProsperoStore] RommPS</title>
       <link>https://github.com/s0liton/RommPS</link>
       <description>Syncs your emulator saves and states with a RomM server and downloads games from your RomM library.</description>
-      <pubDate>1.2.1</pubDate>
+      <pubDate>1.3.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Stremio</title>
@@ -1238,7 +1238,7 @@
       <title>[ProsperoStore] Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.020</pubDate>
+      <pubDate>01.000.021</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Capy Mobile</title>
@@ -1286,7 +1286,7 @@
       <title>[ProsperoStore] TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.160</pubDate>
+      <pubDate>01.000.162</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] CD Player</title>
@@ -1376,7 +1376,7 @@
       <title>[ProsperoStore] Forever Launcher</title>
       <link>https://github.com/bizkut/ps5-forever</link>
       <description>Battle.net launcher for World of Warcraft (Retail, Classic and Forever) with a built-in add-on manager; press Options for the Forever menu and L3+R3 for the on-screen keyboard.</description>
-      <pubDate>01.000.018</pubDate>
+      <pubDate>01.000.021</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] EVO Player</title>
@@ -1531,8 +1531,8 @@
     <item>
       <title>[ProsperoStore] Art Swap</title>
       <link>https://github.com/griches/PS5_ArtSwap</link>
-      <description>Change the home-screen icon and background of any title with SteamGridDB art (your own free key), crop it, keep the originals, and rename and refresh homebrew through ShadowMountPlus.</description>
-      <pubDate>1.2.0</pubDate>
+      <description>Change any title's home-screen icon, background, logo and music with SteamGridDB art (your own free key) and your own songs, keep the originals, and rename homebrew through ShadowMountPlus.</description>
+      <pubDate>1.3.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Quake3e</title>
@@ -1598,7 +1598,7 @@
       <title>[ProsperoStore] Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/halo-ce-universal</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-114</pubDate>
+      <pubDate>build-115</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Jelly5</title>
@@ -1634,7 +1634,7 @@
       <title>[ProsperoStore] PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>0.9.4</pubDate>
+      <pubDate>0.9.6</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5MG</title>

@@ -1,5 +1,20 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 23/10/2026 à 16:39
+* **PAYLOADS**
+  * `Garlic-Savemgr V1.15-Beta1` (v1.15-beta1) - *Nouveau*
+  * `Pad2C V1.3.0` (v1.3.0) - *Nouveau*
+  * `Genplusgxps5 V2.1` (genplusgxPS5) - *Mise à jour (Précédent: v2.1)*
+  * `Ps5-Phstore Vphstore` (PS5-PHStore) - *Mise à jour (Précédent: PHStore)*
+* **HOMEBREW_PAGE**
+  * `RommPS` (1.3.0) - *Mise à jour (Précédent: 1.2.1)*
+  * `Prospero Themes` (01.000.021) - *Mise à jour (Précédent: 01.000.020)*
+  * `TubeBlock` (01.000.162) - *Mise à jour (Précédent: 01.000.160)*
+  * `Forever Launcher` (01.000.021) - *Mise à jour (Précédent: 01.000.018)*
+  * `Art Swap` (1.3.0) - *Mise à jour (Précédent: 1.2.0)*
+  * `Halo: Combat Evolved` (build-115) - *Mise à jour (Précédent: build-114)*
+  * `PS5SD` (0.9.6) - *Mise à jour (Précédent: 0.9.4)*
+
 ## Build du 23/10/2026 à 11:12
 * **HOMEBREW_PAGE**
   * `Home5` (1.0.1) - *Nouveau*

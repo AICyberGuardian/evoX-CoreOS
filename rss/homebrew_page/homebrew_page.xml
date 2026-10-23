@@ -146,7 +146,7 @@
       <title>RommPS</title>
       <link>https://github.com/s0liton/RommPS</link>
       <description>Syncs your emulator saves and states with a RomM server and downloads games from your RomM library.</description>
-      <pubDate>1.2.1</pubDate>
+      <pubDate>1.3.0</pubDate>
     </item>
     <item>
       <title>Stremio</title>
@@ -164,7 +164,7 @@
       <title>Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.020</pubDate>
+      <pubDate>01.000.021</pubDate>
     </item>
     <item>
       <title>Capy Mobile</title>
@@ -212,7 +212,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.160</pubDate>
+      <pubDate>01.000.162</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -302,7 +302,7 @@
       <title>Forever Launcher</title>
       <link>https://github.com/bizkut/ps5-forever</link>
       <description>Battle.net launcher for World of Warcraft (Retail, Classic and Forever) with a built-in add-on manager; press Options for the Forever menu and L3+R3 for the on-screen keyboard.</description>
-      <pubDate>01.000.018</pubDate>
+      <pubDate>01.000.021</pubDate>
     </item>
     <item>
       <title>EVO Player</title>
@@ -457,8 +457,8 @@
     <item>
       <title>Art Swap</title>
       <link>https://github.com/griches/PS5_ArtSwap</link>
-      <description>Change the home-screen icon and background of any title with SteamGridDB art (your own free key), crop it, keep the originals, and rename and refresh homebrew through ShadowMountPlus.</description>
-      <pubDate>1.2.0</pubDate>
+      <description>Change any title's home-screen icon, background, logo and music with SteamGridDB art (your own free key) and your own songs, keep the originals, and rename homebrew through ShadowMountPlus.</description>
+      <pubDate>1.3.0</pubDate>
     </item>
     <item>
       <title>Quake3e</title>
@@ -524,7 +524,7 @@
       <title>Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/halo-ce-universal</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-114</pubDate>
+      <pubDate>build-115</pubDate>
     </item>
     <item>
       <title>Jelly5</title>
@@ -560,7 +560,7 @@
       <title>PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>0.9.4</pubDate>
+      <pubDate>0.9.6</pubDate>
     </item>
     <item>
       <title>PS5MG</title>
