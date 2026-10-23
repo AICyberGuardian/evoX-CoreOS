@@ -142,6 +142,20 @@
       "source": "https://github.com/ChaDea1/RaptorPS5"
     },
     {
+      "name": "Bedlam 2: Absolute Bedlam (PS5)",
+      "filename": "PPSA94003.zip",
+      "url": "https://github.com/ChaDea1/Bedlam2-PS5/releases/download/01.000.000-rc.4/PPSA94003.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA94003/01.000.000-rc.4/PPSA94003.zip",
+      "description": "Native PS5 port; user supplies game files in /data/Bedlam2PS5/content; saves and generated files persist in /data/Bedlam2PS5/saves.",
+      "version": "01.000.000-rc.4",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA94003",
+      "author": "GOREslinger",
+      "checksum": "cdd390a425e3fd651e0b9f90a0df0ae16a487f1607d6266471d9ef2853c0a229",
+      "source": "https://github.com/ChaDea1/Bedlam2-PS5"
+    },
+    {
       "name": "PokeMMO Prospero",
       "filename": "PPSA98001.zip",
       "url": "https://github.com/Shabbypenguin/PokeMMO-Prospero/releases/download/v1.0.2/PPSA98001.zip",
@@ -182,6 +196,20 @@
       "author": "AngelXex",
       "checksum": "380a34d5aa9c582f2fe9e8456185f3394ebc2993208c3e9c6439c834e2d429d8",
       "source": "https://github.com/darkxex/FFTARecomp-PS5"
+    },
+    {
+      "name": "Apotris",
+      "filename": "PPSA98513.zip",
+      "url": "https://github.com/darkxex/Apotris-PS5/releases/download/v1.0.0/PPSA98513.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA98513/v1.0.0/PPSA98513.zip",
+      "description": "Apotris is a block stacking game for the Gameboy Advance! It features satisfying graphics, responsive controls and a large amount of customization so that you can tailor the game to your preferences!",
+      "version": "v1.0.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA98513",
+      "author": "AngelXex",
+      "checksum": "b4630a93ba9eab9507877b28d344a21cbb8d7a8ec98eec989fe0c1f921a9fdae",
+      "source": "https://github.com/darkxex/Apotris-PS5"
     },
     {
       "name": "vkQuake",
@@ -396,16 +424,30 @@
     {
       "name": "Halo: Combat Evolved",
       "filename": "PPSA99500.zip",
-      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-113/halo-ps5-release.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-113/PPSA99500.zip",
+      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-114/halo-ps5-release.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-114/PPSA99500.zip",
       "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-      "version": "build-113",
+      "version": "build-114",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99500",
       "author": "thelinkin3000",
-      "checksum": "794514508eff01338ec9c276736206233fbbe71782713c5c5350df2fa6392f72",
+      "checksum": "a1fc0839457997bc2f0bfff671d8f0eda82e70ee8fcb051c83d7632bc5751e7e",
       "source": "https://github.com/thelinkin3000/halo-ce-universal"
+    },
+    {
+      "name": "GETSU-SAN",
+      "filename": "PPSA99604.zip",
+      "url": "https://github.com/CHI-GETSU/GTA-SA-PS5-Homebrew/releases/download/v0.1.0-beta/GTA-SA-PS5-PPSA99604-TEST.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99604/v0.1.0-beta/PPSA99604.zip",
+      "description": "GTA San Andreas for PS5: my GTA-specific Sahin/Prospero Win integration; supply legally obtained classic PC files separately, complete setup and select Joypad; upstream credits and licenses retained.",
+      "version": "v0.1.0-beta",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99604",
+      "author": "CHI-GETSU",
+      "checksum": "4aa16e1a012d07a92f29d4607e6d13d5a440b40fba4193b8afc9bfc6575206ee",
+      "source": "https://github.com/CHI-GETSU/GTA-SA-PS5-Homebrew"
     },
     {
       "name": "Ship of Harkinian (Ocarina of Time)",

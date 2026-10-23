@@ -14,7 +14,13 @@
       <title>PS64</title>
       <link>https://github.com/dantaipan/PS64</link>
       <description>Play the Commodore 64 on PS5: stream and control a C64 Ultimate, or use the built-in VICE emulator, with Assembly64 search.</description>
-      <pubDate>01.000.002</pubDate>
+      <pubDate>01.000.003</pubDate>
+    </item>
+    <item>
+      <title>PC5</title>
+      <link>https://github.com/bornaradusin/PC5</link>
+      <description>Runs PC games via Wine, DXVK and VKD3D-Proton: USB installs, auto covers, carousel, DualSense vibration, light bar, adaptive triggers. Games that need launchers are not supported.</description>
+      <pubDate>v1.0.0</pubDate>
     </item>
     <item>
       <title>SymphonyStation5</title>
@@ -146,7 +152,7 @@
       <title>Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.018</pubDate>
+      <pubDate>01.000.019</pubDate>
     </item>
     <item>
       <title>Capy Mobile</title>
@@ -165,6 +171,12 @@
       <link>https://github.com/ChaDea1/RaptorPS5</link>
       <description>Unofficial native PS5 port of Raptor: Call of the Shadows with DualSense controls and optional first-launch shareware download.</description>
       <pubDate>v1.0.0-rc.2</pubDate>
+    </item>
+    <item>
+      <title>Bedlam 2: Absolute Bedlam (PS5)</title>
+      <link>https://github.com/ChaDea1/Bedlam2-PS5</link>
+      <description>Native PS5 port; user supplies game files in /data/Bedlam2PS5/content; saves and generated files persist in /data/Bedlam2PS5/saves.</description>
+      <pubDate>01.000.000-rc.4</pubDate>
     </item>
     <item>
       <title>XPSemu</title>
@@ -188,7 +200,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.158</pubDate>
+      <pubDate>01.000.160</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -200,7 +212,7 @@
       <title>SwanStationPS5</title>
       <link>https://github.com/darkxex/SwanStationPS5</link>
       <description>SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.</description>
-      <pubDate>1.4.4</pubDate>
+      <pubDate>1.4.5</pubDate>
     </item>
     <item>
       <title>ReKHCoM</title>
@@ -213,6 +225,12 @@
       <link>https://github.com/darkxex/FFTARecomp-PS5</link>
       <description>inal Fantasy Tactics Advance, running natively on your PS5 (no ROM is included).</description>
       <pubDate>ps5-v1.0.0</pubDate>
+    </item>
+    <item>
+      <title>Apotris</title>
+      <link>https://github.com/darkxex/Apotris-PS5</link>
+      <description>Apotris is a block stacking game for the Gameboy Advance! It features satisfying graphics, responsive controls and a large amount of customization so that you can tailor the game to your preferences!</description>
+      <pubDate>v1.0.0</pubDate>
     </item>
     <item>
       <title>DriftCheck</title>
@@ -350,7 +368,7 @@
       <title>PSFlyCast</title>
       <link>https://github.com/Press5elect/PSFlycast</link>
       <description>Flycast (Dreamcast, NAOMI and Atomiswave) as a standalone PS5 title on RADV, with a controller-only interface.</description>
-      <pubDate>1.3.0</pubDate>
+      <pubDate>1.3.2</pubDate>
     </item>
     <item>
       <title>PSSwanStation</title>
@@ -434,7 +452,7 @@
       <title>Steam Remote Play</title>
       <link>https://github.com/jmelovich/Steam-Link-PS5</link>
       <description>An unofficial Steam Remote Play client for PS5.</description>
-      <pubDate>1.0.0</pubDate>
+      <pubDate>1.1.0</pubDate>
     </item>
     <item>
       <title>PS5-ECAM</title>
@@ -482,7 +500,7 @@
       <title>Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/halo-ce-universal</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-113</pubDate>
+      <pubDate>build-114</pubDate>
     </item>
     <item>
       <title>Jelly5</title>
@@ -524,7 +542,7 @@
       <title>PS5MG</title>
       <link>https://github.com/nikay99/PS5MG</link>
       <description>Picture to textured 3D mesh (TRELLIS.2) on the PS5 GPU, with a web page and TV dashboard. Model files not included: one command on your PC fetches and copies them, see the README.</description>
-      <pubDate>0.2.2</pubDate>
+      <pubDate>0.2.3</pubDate>
     </item>
     <item>
       <title>PS5LM Plus</title>
@@ -537,6 +555,12 @@
       <link>https://github.com/tertiumndatur/ps5-cloud-play</link>
       <description>A Chiaki-based cloud streaming client for PS5 that streams games from the PS Plus Premium catalog.</description>
       <pubDate>1.0.0</pubDate>
+    </item>
+    <item>
+      <title>GETSU-SAN</title>
+      <link>https://github.com/CHI-GETSU/GTA-SA-PS5-Homebrew</link>
+      <description>GTA San Andreas for PS5: my GTA-specific Sahin/Prospero Win integration; supply legally obtained classic PC files separately, complete setup and select Joypad; upstream credits and licenses retained.</description>
+      <pubDate>v0.1.0-beta</pubDate>
     </item>
     <item>
       <title>Ship of Harkinian (Ocarina of Time)</title>

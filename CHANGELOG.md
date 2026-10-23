@@ -1,5 +1,28 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 23/10/2026 à 03:27
+* **PAYLOADS**
+  * `Pad2C V1.2.0` (v1.2.0) - *Nouveau*
+  * `Genplusgxps5 V2.1` (v2.1) - *Nouveau*
+  * `Ps5-Romm V1.3.0` (v1.3.0) - *Nouveau*
+* **APPS**
+  * `Ppsa50011` (v1.0.2) - *Mise à jour (Précédent: v1.0.0)*
+  * `Ps5X360-Helper` (v1.0.2) - *Nouveau*
+  * `Ps5X360-Source-1.0.2-Changes` (v1.0.2) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `PS64` (01.000.003) - *Mise à jour (Précédent: 01.000.002)*
+  * `PC5` (v1.0.0) - *Nouveau*
+  * `Prospero Themes` (01.000.019) - *Mise à jour (Précédent: 01.000.018)*
+  * `Bedlam 2: Absolute Bedlam (PS5)` (01.000.000-rc.4) - *Nouveau*
+  * `TubeBlock` (01.000.160) - *Mise à jour (Précédent: 01.000.158)*
+  * `SwanStationPS5` (1.4.5) - *Mise à jour (Précédent: 1.4.4)*
+  * `Apotris` (v1.0.0) - *Nouveau*
+  * `PSFlyCast` (1.3.2) - *Mise à jour (Précédent: 1.3.0)*
+  * `Steam Remote Play` (1.1.0) - *Mise à jour (Précédent: 1.0.0)*
+  * `Halo: Combat Evolved` (build-114) - *Mise à jour (Précédent: build-113)*
+  * `PS5MG` (0.2.3) - *Mise à jour (Précédent: 0.2.2)*
+  * `GETSU-SAN` (v0.1.0-beta) - *Nouveau*
+
 ## Build du 22/10/2026 à 21:25
 * **PAYLOADS**
   * `Orbit Store` (v1.4.0) - *Mise à jour (Précédent: v1.3.5)*
