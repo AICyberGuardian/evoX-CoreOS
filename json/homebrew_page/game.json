@@ -142,6 +142,20 @@
       "source": "https://github.com/LoZazaMastro/TheSimpsonsGame-PS5-Builder"
     },
     {
+      "name": "PSteroid5",
+      "filename": "PPSA77305.zip",
+      "url": "https://github.com/futurepr0n/PSteroid5/releases/download/01.000.000/PPSA77305.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA77305/01.000.000/PPSA77305.zip",
+      "description": "Vector Asteroids with online high scores, co-op rooms, a shared MMO world with browser players, a public ship hangar and a controller ship editor.",
+      "version": "01.000.000",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA77305",
+      "author": "futurepr0n",
+      "checksum": "4ed9d0121f00460bcea681265a4f195fc3cf80a90fdb3bda746f5e5ff8f65410",
+      "source": "https://github.com/futurepr0n/PSteroid5"
+    },
+    {
       "name": "Raptor: Call of the Shadows (PS5)",
       "filename": "PPSA94002.zip",
       "url": "https://github.com/ChaDea1/RaptorPS5/releases/download/v1.0.0-rc.2/raptor-ps5-v1.0.0-rc.2.zip",
@@ -466,15 +480,15 @@
     {
       "name": "Halo: Combat Evolved",
       "filename": "PPSA99500.zip",
-      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-115/halo-ps5-release.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-115/PPSA99500.zip",
+      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-117/halo-ps5-release.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-117/PPSA99500.zip",
       "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-      "version": "build-115",
+      "version": "build-117",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99500",
       "author": "thelinkin3000",
-      "checksum": "16979fad654d06f68d9ed6c0e81b45ca968e028ba20373af8f0f3296ddae80e6",
+      "checksum": "41c0dff33e22c23083d82be46a36f54ac48fa25f33eec72c18d928f27c8a08d5",
       "source": "https://github.com/thelinkin3000/halo-ce-universal"
     },
     {

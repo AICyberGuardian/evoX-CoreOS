@@ -18,29 +18,29 @@
         {
             "name": "PS64",
             "filename": "PPSA06464.zip",
-            "url": "https://github.com/dantaipan/PS64/releases/download/01.000.003/PPSA06464.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA06464/01.000.003/PPSA06464.zip",
+            "url": "https://github.com/dantaipan/PS64/releases/download/01.000.004/PPSA06464.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA06464/01.000.004/PPSA06464.zip",
             "description": "Play the Commodore 64 on PS5: stream and control a C64 Ultimate, or use the built-in VICE emulator, with Assembly64 search.",
-            "version": "01.000.003",
+            "version": "01.000.004",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA06464",
             "author": "dantaipan",
-            "checksum": "17bb4be18694a73ec91f6e559f73baea336a7c76e92e5e38b73ff89f7b5f1b0d",
+            "checksum": "e13255f34de8a2dce551855243f8173ca765144c4b49f523dc3fcc113a88fa81",
             "source": "https://github.com/dantaipan/PS64"
         },
         {
             "name": "PC5",
             "filename": "PPSA11018.zip",
-            "url": "https://github.com/bornaradusin/PC5/releases/download/v1.0.0/PPSA11018.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/v1.0.0/PPSA11018.zip",
+            "url": "https://github.com/bornaradusin/PC5/releases/download/v1.1.0/PPSA11018.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/v1.1.0/PPSA11018.zip",
             "description": "Runs PC games via Wine, DXVK and VKD3D-Proton: USB installs, auto covers, carousel, DualSense vibration, light bar, adaptive triggers. Games that need launchers are not supported.",
-            "version": "v1.0.0",
+            "version": "v1.1.0",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA11018",
             "author": "bornaradusin",
-            "checksum": "ea6a757499ae97b30eea9563cb7194471b2557249671666c986a46b330c4e3c3",
+            "checksum": "9018be18d696225c4efc6deebc6cf30d782a8b8ccce2e9da22cb400abc275790",
             "source": "https://github.com/bornaradusin/PC5"
         },
         {
@@ -352,6 +352,20 @@
             "source": "https://github.com/s0liton/RommPS"
         },
         {
+            "name": "PSteroid5",
+            "filename": "PPSA77305.zip",
+            "url": "https://github.com/futurepr0n/PSteroid5/releases/download/01.000.000/PPSA77305.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA77305/01.000.000/PPSA77305.zip",
+            "description": "Vector Asteroids with online high scores, co-op rooms, a shared MMO world with browser players, a public ship hangar and a controller ship editor.",
+            "version": "01.000.000",
+            "category": "Games",
+            "kind": "game",
+            "titleid": "PPSA77305",
+            "author": "futurepr0n",
+            "checksum": "4ed9d0121f00460bcea681265a4f195fc3cf80a90fdb3bda746f5e5ff8f65410",
+            "source": "https://github.com/futurepr0n/PSteroid5"
+        },
+        {
             "name": "Stremio",
             "filename": "PPSA77711.zip",
             "url": "https://github.com/Sp9nky/unofficial-stremio-ps5-port/releases/download/v1.2/PPSA77711.ffpfsc",
@@ -494,15 +508,15 @@
         {
             "name": "TubeBlock",
             "filename": "PPSA98260.zip",
-            "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.165/SmartTube-PPSA98260.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.165/PPSA98260.zip",
+            "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.168/SmartTube-PPSA98260.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.168/PPSA98260.zip",
             "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-            "version": "01.000.165",
+            "version": "01.000.168",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA98260",
             "author": "animatian112",
-            "checksum": "eb5810c4b90be02d36b471541322b94119333b404e52dd2dfac85ebb68ed29a6",
+            "checksum": "fd3bf3d032b08859f28bf5fba1a5c5cc3d7dce502f00fac27cb10c9b3cc7b7b4",
             "source": "https://github.com/animatian112/ytps5-sponsorblock"
         },
         {
@@ -522,15 +536,15 @@
         {
             "name": "SwanStationPS5",
             "filename": "PPSA98510.zip",
-            "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.4.5/PPSA98510.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.4.5/PPSA98510.zip",
+            "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.4.8/PPSA98510.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.4.8/PPSA98510.zip",
             "description": "SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.",
-            "version": "1.4.5",
+            "version": "1.4.8",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA98510",
             "author": "AngelXex",
-            "checksum": "2c3fdd0adda968c3c9791a2dcd0999959a61f9022084e682e172770b373dbdd7",
+            "checksum": "3f4d82796a7af3092197a651080ab0737d76650529a4302fce6c3ecbbd84f4de",
             "source": "https://github.com/darkxex/SwanStationPS5"
         },
         {
@@ -662,7 +676,7 @@
         {
             "name": "ProsperoAI",
             "filename": "PPSA99004.zip",
-            "url": "https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.006.000/PPSA99004.zip",
+            "url": "https://github.com/quatrixone/ProsperoAI/releases/download/01.006.000/PPSA99004.zip",
             "local_path": "downloads/apps/homebrew_page/app/PPSA99004/01.006.000/PPSA99004.zip",
             "description": "Local LLM chat app for PS5.",
             "version": "01.006.000",
@@ -671,7 +685,7 @@
             "titleid": "PPSA99004",
             "author": "BlackBearReloaded",
             "checksum": "8b2241e003a22bffccee23e9424991533047e633e5ce337af60281b96868439e",
-            "source": "https://github.com/blackbearreloaded/ProsperoAI"
+            "source": "https://github.com/quatrixone/ProsperoAI"
         },
         {
             "name": "ProsperoEden",
@@ -882,6 +896,20 @@
             "author": "Mihawk",
             "checksum": "dad4f20204446a66dd05edb67cdf720988ca06119396f79a5e9ed876dc3d6012",
             "source": "https://github.com/mihawk-99/PS5_RetroArch"
+        },
+        {
+            "name": "PKG Folderizer",
+            "filename": "PPSA99180.zip",
+            "url": "https://github.com/desstannoz/ps5-pkg-folderizer/releases/download/01.022.000/PPSA99180.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.022.000/PPSA99180.zip",
+            "description": "Converts debug/fake .pkg files on the console into ShadowMount folders or .ffpfsc / .exfat images.",
+            "version": "01.022.000",
+            "category": "Apps",
+            "kind": "app",
+            "titleid": "PPSA99180",
+            "author": "desstannoz",
+            "checksum": "1b59996d83a8a5b681e92fdec87b5fe9d4dac8932811579423d8067a95b401ac",
+            "source": "https://github.com/desstannoz/ps5-pkg-folderizer"
         },
         {
             "name": "ForgeNX – Switch Emulator",
@@ -1236,15 +1264,15 @@
         {
             "name": "Halo: Combat Evolved",
             "filename": "PPSA99500.zip",
-            "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-115/halo-ps5-release.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-115/PPSA99500.zip",
+            "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-117/halo-ps5-release.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-117/PPSA99500.zip",
             "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-            "version": "build-115",
+            "version": "build-117",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA99500",
             "author": "thelinkin3000",
-            "checksum": "16979fad654d06f68d9ed6c0e81b45ca968e028ba20373af8f0f3296ddae80e6",
+            "checksum": "41c0dff33e22c23083d82be46a36f54ac48fa25f33eec72c18d928f27c8a08d5",
             "source": "https://github.com/thelinkin3000/halo-ce-universal"
         },
         {
@@ -1572,15 +1600,15 @@
         {
             "name": "PSBox Cloud Gaming",
             "filename": "PPSA99810.zip",
-            "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.5.1/PPSA99810.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.5.1/PPSA99810.zip",
+            "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.5.3/PPSA99810.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.5.3/PPSA99810.zip",
             "description": "Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.",
-            "version": "1.5.1",
+            "version": "1.5.3",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99810",
             "author": "RafaelNGP",
-            "checksum": "afed4c7340e7110e025454a7aedb4af9f134f6dd4820d2d4a549d25d342ed009",
+            "checksum": "546bacd1850f321d437f770d6aa59effd8e6b8d9115cf470d591447d4cca4292",
             "source": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5"
         },
         {

@@ -1,5 +1,16 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 24/10/2026 à 03:26
+* **HOMEBREW_PAGE**
+  * `PS64` (01.000.004) - *Mise à jour (Précédent: 01.000.003)*
+  * `PC5` (v1.1.0) - *Mise à jour (Précédent: v1.0.0)*
+  * `PSteroid5` (01.000.000) - *Nouveau*
+  * `TubeBlock` (01.000.168) - *Mise à jour (Précédent: 01.000.165)*
+  * `SwanStationPS5` (1.4.8) - *Mise à jour (Précédent: 1.4.5)*
+  * `PKG Folderizer` (01.022.000) - *Nouveau*
+  * `Halo: Combat Evolved` (build-117) - *Mise à jour (Précédent: build-115)*
+  * `PSBox Cloud Gaming` (1.5.3) - *Mise à jour (Précédent: 1.5.1)*
+
 ## Build du 23/10/2026 à 21:16
 * **PAYLOADS**
   * `Pad2C V1.3.1` (v1.3.1) - *Nouveau*

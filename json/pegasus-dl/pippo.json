@@ -3,6 +3,60 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA24913",
+      "title": "Ace Combat 8 Wings of Theve Deluxe Edition",
+      "createdAt": "2026-10-24T00:05:33.012Z",
+      "version": "v01.001.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e57a557103688def0036333d3c383f5820f1ff2bdb34cebc6bc81d5586c121e0",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/146f83b40ce74fae6994732d557e269bbd45b82dfef5993db6d59359ed486010",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA24913, v01.001.001, JPN, 4.xx BackPort + 5.xx BackPort\nSize: 232GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPorts Folder included. About FPKG: 5.xx BackPort already included on Base, separated 4.xx BackPort &amp; Original Files PKG included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/6wa7pmhrs5yd/DLCs_Pippo_DUPLEX.rar"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://datavaults.co/2nxj762j9353/DLCs_Pippo_DUPLEX.rar"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/qt3237vc7djk/PPSA24913.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/ox6jp6s90cn9/PPSA24913.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/RMKGJWoDWm1o/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/GHNaOT4du6"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/qPez4yVXNGOY/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/ilMnKCYvbl"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/e36qh8ip4k9i/PPSA24913-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/athtab8dh55w/PPSA24913-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 249108103168
+    },
+    {
       "titleId": "PPSA24662",
       "title": "F1 25 Season 2026 Edition",
       "createdAt": "2026-10-22T21:36:42.495Z",
@@ -10,7 +64,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/4eb596b0de83670724c3cc0f6b75cd29136e61a3e78362ab076c97ca0f4ebdcd",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/40adedf9b54a3e9c49800774c7caadd046dd8d99e9ff1b029642906239d30ebf",
-      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA24662, v01.026, USA, 4.xx BackPort\nSize: 93GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: Using HEN can cause crash. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA24662, v01.026, USA, 4.xx BackPort\nSize: 93GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo &amp; DecKerr97\nHow to play: Using HEN can cause crash. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -64,7 +118,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/38c5d6e808abf212418214772f2f24992d5bf4b2422ec1864291a63bf285a9b2",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/be52479b199bad9176d17ad359098dc252bbad06e832c511b275286a7ac86594",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA38474, v01.002, ASIA, 4.xx BackPort\nSize: 24GB\nCredits: Files: DecKerr97; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 13.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA38474, v01.002, ASIA, 4.xx BackPort\nSize: 24GB\nCredits: Files: Scene; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 13.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -155,7 +209,7 @@
       "version": "v01.009.002",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18026_3cc203a0378c9468919afc462907ee526ec39927e6bb5431ab37949fa513e658/icon0.webp",
-      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA18026, v01.009.002, EUR, 4.xx BackPort\nSize: 38GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA18026, v01.009.002, EUR, 4.xx BackPort\nSize: 38GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
