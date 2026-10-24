@@ -176,7 +176,7 @@
       <title>Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.022</pubDate>
+      <pubDate>01.000.024</pubDate>
     </item>
     <item>
       <title>Capy Mobile</title>
@@ -300,7 +300,7 @@
     </item>
     <item>
       <title>ProsperoEden</title>
-      <link>https://github.com/blackbearreloaded/ProsperoEden</link>
+      <link>https://github.com/Swordpdf/ProsperoEden</link>
       <description>Unofficial Eden emulator port for PS5.</description>
       <pubDate>1.005.000</pubDate>
     </item>
@@ -584,7 +584,7 @@
       <title>PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>0.9.6</pubDate>
+      <pubDate>0.9.8</pubDate>
     </item>
     <item>
       <title>PS5MG</title>
@@ -662,7 +662,7 @@
       <title>Machete AI Studio</title>
       <link>https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID</link>
       <description>Machete AI Studio: Local Video and Image generation (Wan 2.2, LTX-Video, SDXL, FLUX) on PS5 GPU with Web UI and TV QR dashboard.</description>
-      <pubDate>0.5.1</pubDate>
+      <pubDate>0.9.8</pubDate>
     </item>
     <item>
       <title>OpenRCT2 Native Port</title>
@@ -693,6 +693,12 @@
       <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
       <pubDate>1.5.3</pubDate>
+    </item>
+    <item>
+      <title>Estante</title>
+      <link>https://github.com/kauansilvalopes/estante</link>
+      <description>Native PS5 library organizer: 3D shelf and catalogue, collections, favourites and emulator libraries with covers. EN/PT.</description>
+      <pubDate>0.5.0</pubDate>
     </item>
     <item>
       <title>Forwarder Manager</title>

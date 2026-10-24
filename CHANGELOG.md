@@ -1,5 +1,15 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 24/10/2026 à 10:28
+* **PAYLOADS**
+  * `Bfpilot V0.5.0` (v0.5.0) - *Nouveau*
+  * `Ps5Upload V7.2.0` (v7.2.0) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `Prospero Themes` (01.000.024) - *Mise à jour (Précédent: 01.000.022)*
+  * `PS5SD` (0.9.8) - *Mise à jour (Précédent: 0.9.6)*
+  * `Machete AI Studio` (0.9.8) - *Mise à jour (Précédent: 0.5.1)*
+  * `Estante` (0.5.0) - *Nouveau*
+
 ## Build du 24/10/2026 à 03:26
 * **HOMEBREW_PAGE**
   * `PS64` (01.000.004) - *Mise à jour (Précédent: 01.000.003)*

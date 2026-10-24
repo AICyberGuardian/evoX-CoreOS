@@ -3,6 +3,75 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA07550",
+      "title": "MediEvil Resurrection",
+      "createdAt": "2026-10-24T07:10:26.953Z",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA07550_d5a21658978d661c105b052d08865a5c57120b8a2b2c69144ab0cd49c3496224/icon0.webp",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/medievil-resurrection-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/obj3jke49zDx/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1HaPS4"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/HAEuLKQzhT"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA20928",
+      "title": "Jak and Daxter The Precursor Legacy",
+      "createdAt": "2026-10-24T07:10:26.953Z",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA20928_b580eea605ca37c02abb039703d222f71d140302fcb98a906a48aeef10441acb/icon0.webp",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/jak-and-daxter-the-precursor-legacy-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/0Kezk0V4oGD1/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/J8cd6"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/bc2scib5M3"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07715",
+      "title": "GODS EATER BURST",
+      "createdAt": "2026-10-24T07:10:26.953Z",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA07715_21ecc41a7decf42cf2b4c4831edca2d4385e36b8f0cf78d13cbcd3f3e7dc4553/icon0.webp",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 7.xx and higher",
+      "downloadSource": "https://dlpsgame.com/gods-eater-burst-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/Z9dzBB9glzk1/file"
+        },
+        {
+          "name": "USA 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/4uAkq"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/AnpbdUtafz"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA31544",
       "title": "FINAL FANTASY RESONANCE Deluxe Edition",
       "createdAt": "2026-10-22T21:37:21.547Z",
@@ -135247,6 +135316,35 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://datavaults.co/6qmhde3tm198"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA24913",
+      "title": "[exFAT] Ace Combat 8 Wings of Theve Deluxe Edition",
+      "createdAt": "2026-10-24T07:10:26.953Z",
+      "version": "01.001.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e57a557103688def0036333d3c383f5820f1ff2bdb34cebc6bc81d5586c121e0",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/146f83b40ce74fae6994732d557e269bbd45b82dfef5993db6d59359ed486010",
+      "description": "Region: JPN\nRelease note: exFAT format — FW 01.001.001 — 4.xx BackPort + 5.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "JPN exFAT 01.001.001 Base - DataNodes",
+          "url": "https://datanodes.to/qt3237vc7djk/PPSA24913.7z"
+        },
+        {
+          "name": "JPN exFAT 01.001.001 Base - FileKeeper",
+          "url": "https://filekeeper.net/ox6jp6s90cn9/PPSA24913.7z"
+        },
+        {
+          "name": "JPN exFAT 01.001.001 Base - Akirabox",
+          "url": "https://akirabox.to/RMKGJWoDWm1o/file"
+        },
+        {
+          "name": "JPN exFAT 01.001.001 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/GHNaOT4du6"
         }
       ]
     },

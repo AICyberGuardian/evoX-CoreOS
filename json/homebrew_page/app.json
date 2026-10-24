@@ -228,15 +228,15 @@
     {
       "name": "Prospero Themes",
       "filename": "PPSA90210.zip",
-      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.022/PPSA90210.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.022/PPSA90210.zip",
+      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.024/PPSA90210.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.024/PPSA90210.zip",
       "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
-      "version": "01.000.022",
+      "version": "01.000.024",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA90210",
       "author": "Darkatek7",
-      "checksum": "61138fa5701bca0919e47ac6ae00abe1522805f363a002534db1ed7445dd7eb9",
+      "checksum": "3fd9ad1d78548b85c859d149cf5466a9ca0951d2f91b97465ed92f8313373d36",
       "source": "https://github.com/Darkatek7/ProsperoThemes"
     },
     {
@@ -410,7 +410,7 @@
     {
       "name": "ProsperoEden",
       "filename": "PPSA99008.zip",
-      "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/download/v1.005.000/ProsperoEden-v1.005.000.zip",
+      "url": "https://github.com/Swordpdf/ProsperoEden/releases/download/v1.005.000/ProsperoEden-v1.005.000.zip",
       "local_path": "downloads/apps/homebrew_page/app/PPSA99008/1.005.000/PPSA99008.zip",
       "description": "Unofficial Eden emulator port for PS5.",
       "version": "1.005.000",
@@ -419,7 +419,7 @@
       "titleid": "PPSA99008",
       "author": "BlackBearReloaded",
       "checksum": "9a726c3a4238bfc9651a8c2bd3952cf07972495a3f930cc6d0a5b487140a5991",
-      "source": "https://github.com/blackbearreloaded/ProsperoEden"
+      "source": "https://github.com/Swordpdf/ProsperoEden"
     },
     {
       "name": "Media Player Classic PS5",
@@ -788,15 +788,15 @@
     {
       "name": "PS5SD",
       "filename": "PPSA99576.zip",
-      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.9.6/PPSA99576.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.9.6/PPSA99576.zip",
+      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.9.8/PPSA99576.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.9.8/PPSA99576.zip",
       "description": "Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.",
-      "version": "0.9.6",
+      "version": "0.9.8",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99576",
       "author": "Darkatek7",
-      "checksum": "668d6895a55ec83aaf8060b49aed8b625e8edd2081a95fb926c6e8b904da85dc",
+      "checksum": "6b69162da77509d2156d9d13537936005b82a5bcd1517b2ac7aacb3c9722ab7a",
       "source": "https://github.com/Darkatek7/PS5SD"
     },
     {
@@ -844,15 +844,15 @@
     {
       "name": "Machete AI Studio",
       "filename": "PPSA99699.zip",
-      "url": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID/releases/download/v0.5.1/PPSA99699.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99699/0.5.1/PPSA99699.zip",
+      "url": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID/releases/download/v0.9.8/PPSA99699.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99699/0.9.8/PPSA99699.zip",
       "description": "Machete AI Studio: Local Video and Image generation (Wan 2.2, LTX-Video, SDXL, FLUX) on PS5 GPU with Web UI and TV QR dashboard.",
-      "version": "0.5.1",
+      "version": "0.9.8",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99699",
-      "author": "VenezuelanBiggie24",
-      "checksum": "09d951d736f7fdcb99ef0130a3f5fd7a8d7744a74bfeb785ef8ac0907913af08",
+      "author": "VenezuelanBiggie24 & Darkatek7",
+      "checksum": "cae4ddcd8f79fe8811541d5173b0688eaaf1d3efbf0f7d8daf7f3490059b017a",
       "source": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID"
     },
     {
@@ -910,6 +910,20 @@
       "author": "RafaelNGP",
       "checksum": "546bacd1850f321d437f770d6aa59effd8e6b8d9115cf470d591447d4cca4292",
       "source": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5"
+    },
+    {
+      "name": "Estante",
+      "filename": "PPSA99841.zip",
+      "url": "https://github.com/kauansilvalopes/estante/releases/download/v0.5.0/Estante-v0.5.0-PPSA99841.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99841/0.5.0/PPSA99841.zip",
+      "description": "Native PS5 library organizer: 3D shelf and catalogue, collections, favourites and emulator libraries with covers. EN/PT.",
+      "version": "0.5.0",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99841",
+      "author": "kauansilvalopes",
+      "checksum": "6a64625f5ebdd8d89b0759ac013af00adad58acecbc33ee3f812fee24c63fecf",
+      "source": "https://github.com/kauansilvalopes/estante"
     },
     {
       "name": "YouTube Max’d",

@@ -41,10 +41,10 @@
       <pubDate>v1.0.19</pubDate>
     </item>
     <item>
-      <title>[Payloads] Bfpilot V0.4.4</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/BFpilot/v0.4.4/BFpilot_v0.4.4.elf</link>
+      <title>[Payloads] Bfpilot V0.5.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/BFpilot/v0.5.0/BFpilot_v0.5.0.elf</link>
       <description>BFpilot is a lightweight PS5 payload that serves a browser-based file manager.</description>
-      <pubDate>v0.4.4</pubDate>
+      <pubDate>v0.5.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Lapy Jb Daemon</title>
@@ -191,10 +191,10 @@
       <pubDate>1.13</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V7.1.9</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>ps5upload</pubDate>
+      <title>[Payloads] Ps5Upload V7.2.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.2.0/ps5upload_v7.2.0.elf</link>
+      <description>PS5 Upload server / tool. Port: 9025</description>
+      <pubDate>v7.2.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -1250,7 +1250,7 @@
       <title>[ProsperoStore] Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.022</pubDate>
+      <pubDate>01.000.024</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Capy Mobile</title>
@@ -1374,7 +1374,7 @@
     </item>
     <item>
       <title>[ProsperoStore] ProsperoEden</title>
-      <link>https://github.com/blackbearreloaded/ProsperoEden</link>
+      <link>https://github.com/Swordpdf/ProsperoEden</link>
       <description>Unofficial Eden emulator port for PS5.</description>
       <pubDate>1.005.000</pubDate>
     </item>
@@ -1658,7 +1658,7 @@
       <title>[ProsperoStore] PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>0.9.6</pubDate>
+      <pubDate>0.9.8</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5MG</title>
@@ -1736,7 +1736,7 @@
       <title>[ProsperoStore] Machete AI Studio</title>
       <link>https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID</link>
       <description>Machete AI Studio: Local Video and Image generation (Wan 2.2, LTX-Video, SDXL, FLUX) on PS5 GPU with Web UI and TV QR dashboard.</description>
-      <pubDate>0.5.1</pubDate>
+      <pubDate>0.9.8</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] OpenRCT2 Native Port</title>
@@ -1767,6 +1767,12 @@
       <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
       <pubDate>1.5.3</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] Estante</title>
+      <link>https://github.com/kauansilvalopes/estante</link>
+      <description>Native PS5 library organizer: 3D shelf and catalogue, collections, favourites and emulator libraries with covers. EN/PT.</description>
+      <pubDate>0.5.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Forwarder Manager</title>
