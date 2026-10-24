@@ -32,15 +32,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v1.1.0/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/v1.1.0/PPSA11018.zip",
-      "description": "Runs PC games via Wine, DXVK and VKD3D-Proton: USB installs, auto covers, carousel, DualSense vibration, light bar, adaptive triggers. Games that need launchers are not supported.",
-      "version": "v1.1.0",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v1.2.1/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/v1.2.1/PPSA11018.zip",
+      "description": "Runs PC games via Wine, DXVK and VKD3D-Proton: USB installs, auto covers, video playback, 30 to 60 fps frame generation, DualSense features. Games that need launchers are not supported.",
+      "version": "v1.2.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "9018be18d696225c4efc6deebc6cf30d782a8b8ccce2e9da22cb400abc275790",
+      "checksum": "6741533e3e5c63b46346cf519dfb4b6d00bb6268090e9bfbaee1d420994a5631",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -298,15 +298,15 @@
     {
       "name": "Stremio Plus",
       "filename": "PPSA74126.zip",
-      "url": "https://github.com/LoZazaMastro/Stremio-Plus/releases/download/0.5.18/PPSA74126.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA74126/0.5.18/PPSA74126.zip",
+      "url": "https://github.com/LoZazaMastro/Stremio-Plus/releases/download/0.5.20/PPSA74126.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA74126/0.5.20/PPSA74126.zip",
       "description": "Unofficial native Stremio client for PS5 with Prospero UI, add-on sync, torrent streaming, offline downloads, enhanced playback stability and sortable high-resolution download artwork.",
-      "version": "0.5.18",
+      "version": "0.5.20",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA74126",
       "author": "LoZazaMastro",
-      "checksum": "1d261af1a999ce754e2110022f068db5b96eb4e61d0cb9b661e4f2750f85b7c3",
+      "checksum": "95f24d39bb4466cffa3873e43131d56e4c834fc91b833460df3362763935ee3a",
       "source": "https://github.com/LoZazaMastro/Stremio-Plus"
     },
     {
@@ -396,15 +396,15 @@
     {
       "name": "Prospero Themes",
       "filename": "PPSA90210.zip",
-      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.024/PPSA90210.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.024/PPSA90210.zip",
+      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.025/PPSA90210.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.025/PPSA90210.zip",
       "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
-      "version": "01.000.024",
+      "version": "01.000.025",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA90210",
       "author": "Darkatek7",
-      "checksum": "3fd9ad1d78548b85c859d149cf5466a9ca0951d2f91b97465ed92f8313373d36",
+      "checksum": "a03c32487df8a786c62fc36cdbf2a60c1afe520fad950c3b7ec1a72eb002714f",
       "source": "https://github.com/Darkatek7/ProsperoThemes"
     },
     {
@@ -508,15 +508,15 @@
     {
       "name": "TubeBlock",
       "filename": "PPSA98260.zip",
-      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.168/SmartTube-PPSA98260.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.168/PPSA98260.zip",
+      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.171/SmartTube-PPSA98260.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.171/PPSA98260.zip",
       "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-      "version": "01.000.168",
+      "version": "01.000.171",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98260",
       "author": "animatian112",
-      "checksum": "fd3bf3d032b08859f28bf5fba1a5c5cc3d7dce502f00fac27cb10c9b3cc7b7b4",
+      "checksum": "f3fd3eef211bf24769e5554854e7e7aaaf3b9789cf1fb12d899170dba385c34c",
       "source": "https://github.com/animatian112/ytps5-sponsorblock"
     },
     {
@@ -900,15 +900,15 @@
     {
       "name": "PKG Folderizer",
       "filename": "PPSA99180.zip",
-      "url": "https://github.com/desstannoz/ps5-pkg-folderizer/releases/download/01.022.000/PPSA99180.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.022.000/PPSA99180.zip",
+      "url": "https://github.com/desstannoz/ps5-pkg-folderizer/releases/download/01.025.000/PPSA99180.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.025.000/PPSA99180.zip",
       "description": "Converts debug/fake .pkg files on the console into ShadowMount folders or .ffpfsc / .exfat images.",
-      "version": "01.022.000",
+      "version": "01.025.000",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99180",
       "author": "desstannoz",
-      "checksum": "1b59996d83a8a5b681e92fdec87b5fe9d4dac8932811579423d8067a95b401ac",
+      "checksum": "6df6604f1fc8d0ff7d1cf556849d945e99a70536bbf748ab9bdccd12658e5cd3",
       "source": "https://github.com/desstannoz/ps5-pkg-folderizer"
     },
     {
@@ -1234,20 +1234,6 @@
       "source": "https://github.com/VivaLaVent/PS5MC"
     },
     {
-      "name": "ApricotGS",
-      "filename": "PPSA99429.zip",
-      "url": "https://github.com/BaZZtian/PS5-ApricotGS/releases/download/v0.2.23/ApricotGS-v0.2.23-PS5.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99429/0.2.23/PPSA99429.zip",
-      "description": "Experimental native PS5 player for HeartGold and SoulSilver with a two-edition cartridge launcher; prepare your own supported game dump on PC. No game data included.",
-      "version": "0.2.23",
-      "category": "Games",
-      "kind": "game",
-      "titleid": "PPSA99429",
-      "author": "BaZZtian",
-      "checksum": "c8a81d7fa66e2973ff0a6bd8501fd238ecbaab2f18477b1bea1429e8ab7a7730",
-      "source": "https://github.com/BaZZtian/PS5-ApricotGS"
-    },
-    {
       "name": "Twispero",
       "filename": "PPSA99474.zip",
       "url": "https://github.com/unicxrn/twispero/releases/download/v1.1.0/PPSA99474.zip",
@@ -1264,15 +1250,15 @@
     {
       "name": "Halo: Combat Evolved",
       "filename": "PPSA99500.zip",
-      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-117/halo-ps5-release.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-117/PPSA99500.zip",
+      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-119/halo-ps5-release.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-119/PPSA99500.zip",
       "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-      "version": "build-117",
+      "version": "build-119",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99500",
       "author": "thelinkin3000",
-      "checksum": "41c0dff33e22c23083d82be46a36f54ac48fa25f33eec72c18d928f27c8a08d5",
+      "checksum": "b914894b9d612c56e1a31e7b2487d758a5e5e891971f00b96bd5c524747d16ce",
       "source": "https://github.com/thelinkin3000/halo-ce-universal"
     },
     {
@@ -1348,15 +1334,15 @@
     {
       "name": "PS5SD",
       "filename": "PPSA99576.zip",
-      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.9.8/PPSA99576.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.9.8/PPSA99576.zip",
+      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.9.11/PPSA99576.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.9.11/PPSA99576.zip",
       "description": "Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.",
-      "version": "0.9.8",
+      "version": "0.9.11",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99576",
       "author": "Darkatek7",
-      "checksum": "6b69162da77509d2156d9d13537936005b82a5bcd1517b2ac7aacb3c9722ab7a",
+      "checksum": "d60fdced199274605d75a9374ac8739b1da6efbbb02f43d11979c15579511b66",
       "source": "https://github.com/Darkatek7/PS5SD"
     },
     {
@@ -1530,15 +1516,15 @@
     {
       "name": "Machete AI Studio",
       "filename": "PPSA99699.zip",
-      "url": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID/releases/download/v0.9.8/PPSA99699.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99699/0.9.8/PPSA99699.zip",
+      "url": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID/releases/download/v1.0.0/PPSA99699.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99699/1.0.0/PPSA99699.zip",
       "description": "Machete AI Studio: Local Video and Image generation (Wan 2.2, LTX-Video, SDXL, FLUX) on PS5 GPU with Web UI and TV QR dashboard.",
-      "version": "0.9.8",
+      "version": "1.0.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99699",
       "author": "VenezuelanBiggie24 & Darkatek7",
-      "checksum": "cae4ddcd8f79fe8811541d5173b0688eaaf1d3efbf0f7d8daf7f3490059b017a",
+      "checksum": "6efff2c46a888733cb4d743a24da8caf3ed00623c107d258af54084d51acf9c6",
       "source": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID"
     },
     {

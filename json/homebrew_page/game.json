@@ -464,31 +464,17 @@
       "source": "https://github.com/7tg/futbol13"
     },
     {
-      "name": "ApricotGS",
-      "filename": "PPSA99429.zip",
-      "url": "https://github.com/BaZZtian/PS5-ApricotGS/releases/download/v0.2.23/ApricotGS-v0.2.23-PS5.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99429/0.2.23/PPSA99429.zip",
-      "description": "Experimental native PS5 player for HeartGold and SoulSilver with a two-edition cartridge launcher; prepare your own supported game dump on PC. No game data included.",
-      "version": "0.2.23",
-      "category": "Games",
-      "kind": "game",
-      "titleid": "PPSA99429",
-      "author": "BaZZtian",
-      "checksum": "c8a81d7fa66e2973ff0a6bd8501fd238ecbaab2f18477b1bea1429e8ab7a7730",
-      "source": "https://github.com/BaZZtian/PS5-ApricotGS"
-    },
-    {
       "name": "Halo: Combat Evolved",
       "filename": "PPSA99500.zip",
-      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-117/halo-ps5-release.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-117/PPSA99500.zip",
+      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-119/halo-ps5-release.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-119/PPSA99500.zip",
       "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-      "version": "build-117",
+      "version": "build-119",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99500",
       "author": "thelinkin3000",
-      "checksum": "41c0dff33e22c23083d82be46a36f54ac48fa25f33eec72c18d928f27c8a08d5",
+      "checksum": "b914894b9d612c56e1a31e7b2487d758a5e5e891971f00b96bd5c524747d16ce",
       "source": "https://github.com/thelinkin3000/halo-ce-universal"
     },
     {

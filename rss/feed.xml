@@ -42,9 +42,9 @@
     </item>
     <item>
       <title>[Payloads] Bfpilot V0.5.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/BFpilot/v0.5.0/BFpilot_v0.5.0.elf</link>
-      <description>BFpilot is a lightweight PS5 payload that serves a browser-based file manager.</description>
-      <pubDate>v0.5.0</pubDate>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>BFpilot</pubDate>
     </item>
     <item>
       <title>[Payloads] Lapy Jb Daemon</title>
@@ -191,10 +191,10 @@
       <pubDate>1.13</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V7.2.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.2.0/ps5upload_v7.2.0.elf</link>
+      <title>[Payloads] Ps5Upload V7.3.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.3.0/ps5upload_v7.3.0.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v7.2.0</pubDate>
+      <pubDate>v7.3.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -438,9 +438,9 @@
     </item>
     <item>
       <title>[Payloads] Genplusgxps5 V2.2</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v2.2/genplusgxPS5_v2.2.elf</link>
-      <description>Port of Genesis-Plus-GX for PS55</description>
-      <pubDate>v2.2</pubDate>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>genplusgxPS5</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Romm V1.3.0</title>
@@ -1093,8 +1093,8 @@
     <item>
       <title>[ProsperoStore] PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
-      <description>Runs PC games via Wine, DXVK and VKD3D-Proton: USB installs, auto covers, carousel, DualSense vibration, light bar, adaptive triggers. Games that need launchers are not supported.</description>
-      <pubDate>v1.1.0</pubDate>
+      <description>Runs PC games via Wine, DXVK and VKD3D-Proton: USB installs, auto covers, video playback, 30 to 60 fps frame generation, DualSense features. Games that need launchers are not supported.</description>
+      <pubDate>v1.2.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Home5</title>
@@ -1208,7 +1208,7 @@
       <title>[ProsperoStore] Stremio Plus</title>
       <link>https://github.com/LoZazaMastro/Stremio-Plus</link>
       <description>Unofficial native Stremio client for PS5 with Prospero UI, add-on sync, torrent streaming, offline downloads, enhanced playback stability and sortable high-resolution download artwork.</description>
-      <pubDate>0.5.18</pubDate>
+      <pubDate>0.5.20</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] The Simpsons Game</title>
@@ -1250,7 +1250,7 @@
       <title>[ProsperoStore] Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.024</pubDate>
+      <pubDate>01.000.025</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Capy Mobile</title>
@@ -1298,7 +1298,7 @@
       <title>[ProsperoStore] TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.168</pubDate>
+      <pubDate>01.000.171</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] CD Player</title>
@@ -1466,7 +1466,7 @@
       <title>[ProsperoStore] PKG Folderizer</title>
       <link>https://github.com/desstannoz/ps5-pkg-folderizer</link>
       <description>Converts debug/fake .pkg files on the console into ShadowMount folders or .ffpfsc / .exfat images.</description>
-      <pubDate>01.022.000</pubDate>
+      <pubDate>01.025.000</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ForgeNX – Switch Emulator</title>
@@ -1607,12 +1607,6 @@
       <pubDate>1.2</pubDate>
     </item>
     <item>
-      <title>[ProsperoStore] ApricotGS</title>
-      <link>https://github.com/BaZZtian/PS5-ApricotGS</link>
-      <description>Experimental native PS5 player for HeartGold and SoulSilver with a two-edition cartridge launcher; prepare your own supported game dump on PC. No game data included.</description>
-      <pubDate>0.2.23</pubDate>
-    </item>
-    <item>
       <title>[ProsperoStore] Twispero</title>
       <link>https://github.com/unicxrn/twispero</link>
       <description>Twitch for jailbroken PS5: live streams with chat, past broadcasts and clips on the console's own video decoder.</description>
@@ -1622,7 +1616,7 @@
       <title>[ProsperoStore] Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/halo-ce-universal</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-117</pubDate>
+      <pubDate>build-119</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Jelly5</title>
@@ -1658,7 +1652,7 @@
       <title>[ProsperoStore] PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>0.9.8</pubDate>
+      <pubDate>0.9.11</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5MG</title>
@@ -1736,7 +1730,7 @@
       <title>[ProsperoStore] Machete AI Studio</title>
       <link>https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID</link>
       <description>Machete AI Studio: Local Video and Image generation (Wan 2.2, LTX-Video, SDXL, FLUX) on PS5 GPU with Web UI and TV QR dashboard.</description>
-      <pubDate>0.9.8</pubDate>
+      <pubDate>1.0.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] OpenRCT2 Native Port</title>

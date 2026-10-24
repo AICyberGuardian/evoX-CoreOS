@@ -3,6 +3,78 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA02195",
+      "title": "Trackmania Free Starter Access",
+      "createdAt": "2026-10-24T13:15:55.613Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/3f5c8f84edaf26d7178437ba700f068e81adecd6ff8f24fca5b6cab4278dab74",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ba03f88712fbfc863deef3da37360e30e9d4a61dd57dd7b6be1ba3cd80d71a94",
+      "description": "Region: EUR\nRelease note: Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/trackmania-free-starter-access-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/2bJG8XoBQGOB/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/HgRzE"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/jTxcioO1oV"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA34474",
+      "title": "eBaseball PRO SPIRIT 2026",
+      "createdAt": "2026-10-24T13:15:55.613Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/8656bb0105a14563469b121f5f4e7dc62ecc0ed9aeb2ddb4881de80dac9ad72a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/8656bb0105a14563469b121f5f4e7dc62ecc0ed9aeb2ddb4881de80dac9ad72a",
+      "description": "Region: JPN\nRelease note: Works on 4.xx and higher",
+      "downloadSource": "https://dlpsgame.com/ebaseball-pro-spirit-2026-ps5/",
+      "downloadLinks": [
+        {
+          "name": "JPN 4.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/N2p3Dd1Kk3Ma/file"
+        },
+        {
+          "name": "JPN 4.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/gXeGOeEXJ3Aa/file"
+        },
+        {
+          "name": "JPN 4.xx Base - Akirabox part 3",
+          "url": "https://akirabox.to/0rpmv1wj7GRg/file"
+        },
+        {
+          "name": "JPN 4.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1sXnnc"
+        },
+        {
+          "name": "JPN 4.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1wZefA"
+        },
+        {
+          "name": "JPN 4.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/nvGlM"
+        },
+        {
+          "name": "JPN 4.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/WLoqxnJi6o"
+        },
+        {
+          "name": "JPN 4.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/aP6wrmxnDV"
+        },
+        {
+          "name": "JPN 4.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/KrF7J8hXsa"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA07550",
       "title": "MediEvil Resurrection",
       "createdAt": "2026-10-24T07:10:26.953Z",
@@ -68,6 +140,30 @@
         {
           "name": "USA 7.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/AnpbdUtafz"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA06788",
+      "title": "Resistance Retribution",
+      "createdAt": "2026-10-24T13:15:55.613Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/0622fa3e482bee3916a32c941d4e205ab1238d83261aefcb1d6492bd66109cba",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/9f806b28bb04ee2a2f329d378cedda81c16453bda9271f930291695902df76d8",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/resistance-retribution-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/dkD3YDxLJmLQ/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1lwGmW"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/5Q2UUU2GoV"
         }
       ]
     },
@@ -9614,7 +9710,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/21dd9e7d520160684687cc84787f51fb132c8fa4b690c0caf1033333df776f76",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b741bda67d5272b91986e0557819eb829ade3332708196f9b37106baadaa018f",
-      "description": "Region: USA\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: USA 11.xx\nRegion: USA\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.001\nRegion: USA\nRelease note: exFAT format — FW 01.001 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/south-of-midnight-ps5/",
       "downloadLinks": [
         {
@@ -9648,6 +9744,22 @@
         {
           "name": "USA 11.xx Base - Rootz part 4",
           "url": "https://www.rootz.so/d/jkzuS"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - DataNodes",
+          "url": "https://datanodes.to/o99w81jxmbey/PPSA29642.7z"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - FileKeeper",
+          "url": "https://filekeeper.net/2as4yjvtsxy6/PPSA29642.7z"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - Akirabox",
+          "url": "https://akirabox.to/LJlGnZ8MVG15/file"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/DxseSyjQrj"
         }
       ]
     },
@@ -135316,6 +135428,50 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://datavaults.co/6qmhde3tm198"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA99903",
+      "title": "[exFAT] Sonic the Hedgehog 2006 (Unofficial Port)",
+      "createdAt": "2026-10-24T13:15:55.613Z",
+      "version": "01.000",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Sonic_the_Hedgehog_2006.webp",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.000 — 4.xx and beyond\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.000 Base - Akirabox - Part 1",
+          "url": "https://akirabox.to/Z9dzBB06gzk1/file"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Vikingfile - Part 1",
+          "url": "https://vikingfile.com/f/J9Y8Ogz8Xs"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - DataNodes - Part 1",
+          "url": "https://datanodes.to/ffugbaftzjr5/PPSA99903.exfat"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - FileKeeper - Part 1",
+          "url": "https://filekeeper.net/f4acbz3pwhdh/PPSA99903.exfat"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - DataNodes - Part 2",
+          "url": "https://datanodes.to/8rv43qrefl8k/PPSA99903.7z"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - FileKeeper - Part 2",
+          "url": "https://filekeeper.net/0dxm85cxlptg/PPSA99903.7z"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Akirabox - Part 2",
+          "url": "https://akirabox.to/2WVGrWOa9mkx/file"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Vikingfile - Part 2",
+          "url": "https://vikingfile.com/f/1jIKxs1Usr"
         }
       ]
     },

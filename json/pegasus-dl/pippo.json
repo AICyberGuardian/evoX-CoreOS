@@ -3,6 +3,113 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA99903",
+      "title": "Sonic the Hedgehog 2006 (Unofficial Port)",
+      "createdAt": "2026-10-24T11:19:19.286Z",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Sonic_the_Hedgehog_2006.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA99903, v01.000, USA, 4.xx and beyond\nSize: 5GB\nCredits: Files: Nazky\nHow to play: Use ShadowMountPlus 1.7beta4+. FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.to/Z9dzBB06gzk1/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/J9Y8Ogz8Xs"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/ffugbaftzjr5/PPSA99903.exfat"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/f4acbz3pwhdh/PPSA99903.exfat"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/8rv43qrefl8k/PPSA99903.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/0dxm85cxlptg/PPSA99903.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/2WVGrWOa9mkx/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/1jIKxs1Usr"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/EL73gk8a839B/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/mgLMFSJaRB"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/6j58zhn4ayd1/PPSA99903-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/5gm3jnj8ag0o/PPSA99903-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
+      "titleId": "PPSA29642",
+      "title": "South of Midnight",
+      "createdAt": "2026-10-24T11:19:19.286Z",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/21dd9e7d520160684687cc84787f51fb132c8fa4b690c0caf1033333df776f76",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b741bda67d5272b91986e0557819eb829ade3332708196f9b37106baadaa018f",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA29642, v01.001, USA, 4.xx BackPort\nSize: 59GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/o99w81jxmbey/PPSA29642.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/2as4yjvtsxy6/PPSA29642.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/LJlGnZ8MVG15/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/DxseSyjQrj"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/jar3XOpe7m2d/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/AXS2tSyJlE"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/v5wki4jy191x/PPSA29642-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/vzh678r4any8/PPSA29642-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 63350767616
+    },
+    {
       "titleId": "PPSA24913",
       "title": "Ace Combat 8 Wings of Theve Deluxe Edition",
       "createdAt": "2026-10-24T00:05:33.012Z",

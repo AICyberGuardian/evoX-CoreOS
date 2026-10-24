@@ -1,5 +1,20 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 24/10/2026 à 15:35
+* **PAYLOADS**
+  * `Bfpilot V0.5.0` (BFpilot) - *Mise à jour (Précédent: v0.5.0)*
+  * `Ps5Upload V7.3.0` (v7.3.0) - *Nouveau*
+  * `Genplusgxps5 V2.2` (genplusgxPS5) - *Mise à jour (Précédent: v2.2)*
+* **HOMEBREW_PAGE**
+  * `PC5` (v1.2.1) - *Mise à jour (Précédent: v1.1.0)*
+  * `Stremio Plus` (0.5.20) - *Mise à jour (Précédent: 0.5.18)*
+  * `Prospero Themes` (01.000.025) - *Mise à jour (Précédent: 01.000.024)*
+  * `TubeBlock` (01.000.171) - *Mise à jour (Précédent: 01.000.168)*
+  * `PKG Folderizer` (01.025.000) - *Mise à jour (Précédent: 01.022.000)*
+  * `Halo: Combat Evolved` (build-119) - *Mise à jour (Précédent: build-117)*
+  * `PS5SD` (0.9.11) - *Mise à jour (Précédent: 0.9.8)*
+  * `Machete AI Studio` (1.0.0) - *Mise à jour (Précédent: 0.9.8)*
+
 ## Build du 24/10/2026 à 10:28
 * **PAYLOADS**
   * `Bfpilot V0.5.0` (v0.5.0) - *Nouveau*

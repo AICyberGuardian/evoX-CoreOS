@@ -19,8 +19,8 @@
     <item>
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
-      <description>Runs PC games via Wine, DXVK and VKD3D-Proton: USB installs, auto covers, carousel, DualSense vibration, light bar, adaptive triggers. Games that need launchers are not supported.</description>
-      <pubDate>v1.1.0</pubDate>
+      <description>Runs PC games via Wine, DXVK and VKD3D-Proton: USB installs, auto covers, video playback, 30 to 60 fps frame generation, DualSense features. Games that need launchers are not supported.</description>
+      <pubDate>v1.2.1</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -134,7 +134,7 @@
       <title>Stremio Plus</title>
       <link>https://github.com/LoZazaMastro/Stremio-Plus</link>
       <description>Unofficial native Stremio client for PS5 with Prospero UI, add-on sync, torrent streaming, offline downloads, enhanced playback stability and sortable high-resolution download artwork.</description>
-      <pubDate>0.5.18</pubDate>
+      <pubDate>0.5.20</pubDate>
     </item>
     <item>
       <title>The Simpsons Game</title>
@@ -176,7 +176,7 @@
       <title>Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.024</pubDate>
+      <pubDate>01.000.025</pubDate>
     </item>
     <item>
       <title>Capy Mobile</title>
@@ -224,7 +224,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.168</pubDate>
+      <pubDate>01.000.171</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -392,7 +392,7 @@
       <title>PKG Folderizer</title>
       <link>https://github.com/desstannoz/ps5-pkg-folderizer</link>
       <description>Converts debug/fake .pkg files on the console into ShadowMount folders or .ffpfsc / .exfat images.</description>
-      <pubDate>01.022.000</pubDate>
+      <pubDate>01.025.000</pubDate>
     </item>
     <item>
       <title>ForgeNX – Switch Emulator</title>
@@ -533,12 +533,6 @@
       <pubDate>1.2</pubDate>
     </item>
     <item>
-      <title>ApricotGS</title>
-      <link>https://github.com/BaZZtian/PS5-ApricotGS</link>
-      <description>Experimental native PS5 player for HeartGold and SoulSilver with a two-edition cartridge launcher; prepare your own supported game dump on PC. No game data included.</description>
-      <pubDate>0.2.23</pubDate>
-    </item>
-    <item>
       <title>Twispero</title>
       <link>https://github.com/unicxrn/twispero</link>
       <description>Twitch for jailbroken PS5: live streams with chat, past broadcasts and clips on the console's own video decoder.</description>
@@ -548,7 +542,7 @@
       <title>Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/halo-ce-universal</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-117</pubDate>
+      <pubDate>build-119</pubDate>
     </item>
     <item>
       <title>Jelly5</title>
@@ -584,7 +578,7 @@
       <title>PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>0.9.8</pubDate>
+      <pubDate>0.9.11</pubDate>
     </item>
     <item>
       <title>PS5MG</title>
@@ -662,7 +656,7 @@
       <title>Machete AI Studio</title>
       <link>https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID</link>
       <description>Machete AI Studio: Local Video and Image generation (Wan 2.2, LTX-Video, SDXL, FLUX) on PS5 GPU with Web UI and TV QR dashboard.</description>
-      <pubDate>0.9.8</pubDate>
+      <pubDate>1.0.0</pubDate>
     </item>
     <item>
       <title>OpenRCT2 Native Port</title>
