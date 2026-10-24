@@ -464,6 +464,20 @@
       "source": "https://github.com/7tg/futbol13"
     },
     {
+      "name": "ApricotGS",
+      "filename": "PPSA99429.zip",
+      "url": "https://github.com/BaZZtian/PS5-ApricotGS/releases/download/v00.030.005/ApricotGS-v00.030.005-PS5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99429/00.030.005/PPSA99429.zip",
+      "description": "Play supported German HeartGold and SoulSilver dumps on PS5. Add your own .nds file; the app prepares it locally and keeps separate saves. No game data included.",
+      "version": "00.030.005",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99429",
+      "author": "BaZZtian",
+      "checksum": "af68328ccacc76d2d351685e4f5b17e0ab8855f22d01a1b0c156c77fa7ab2f3d",
+      "source": "https://github.com/BaZZtian/PS5-ApricotGS"
+    },
+    {
       "name": "Halo: Combat Evolved",
       "filename": "PPSA99500.zip",
       "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-119/halo-ps5-release.zip",

@@ -1,5 +1,20 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 24/10/2026 à 20:23
+* **PAYLOADS**
+  * `Ps5Upload V7.4.3` (v7.4.3) - *Nouveau*
+  * `Orbit Store` (v1.5.0) - *Mise à jour (Précédent: v1.4.0)*
+  * `Fbneo-Ps5 V2.0` (v2.0) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `Chiral-FTP` (1.1) - *Nouveau*
+  * `TubeBlock` (01.000.172) - *Mise à jour (Précédent: 01.000.171)*
+  * `SwanStationPS5` (1.4.9) - *Mise à jour (Précédent: 1.4.8)*
+  * `ORION Media Center` (01.103.000) - *Nouveau*
+  * `wiliwili` (1.6.0.1) - *Nouveau*
+  * `PKG Folderizer` (01.030.000) - *Mise à jour (Précédent: 01.025.000)*
+  * `ApricotGS` (00.030.005) - *Nouveau*
+  * `TokenStation5` (01.000.001) - *Nouveau*
+
 ## Build du 24/10/2026 à 15:35
 * **PAYLOADS**
   * `Bfpilot V0.5.0` (BFpilot) - *Mise à jour (Précédent: v0.5.0)*

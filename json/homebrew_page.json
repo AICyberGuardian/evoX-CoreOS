@@ -464,6 +464,20 @@
       "source": "https://github.com/ChaDea1/Bedlam2-PS5"
     },
     {
+      "name": "Chiral-FTP",
+      "filename": "PPSA96024.zip",
+      "url": "https://github.com/Herbrax/Chiral-FTP/releases/download/v1.1/chiral-ftp-ps5-1.1.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA96024/1.1/PPSA96024.zip",
+      "description": "File manager, FTP server, FTP/SFTP client and browser web app for the PS5, with Quick connect to chiral-ftp on your Switch, Mac, Windows or Linux.",
+      "version": "1.1",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA96024",
+      "author": "Herbrax",
+      "checksum": "ff5dcee48e4c853c039af444bb3d16172b1b14dd6a71e948d0715d55f4c9e067",
+      "source": "https://github.com/Herbrax/Chiral-FTP"
+    },
+    {
       "name": "XPSemu",
       "filename": "PPSA97358.zip",
       "url": "https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2.1/PPSA97358.zip",
@@ -508,15 +522,15 @@
     {
       "name": "TubeBlock",
       "filename": "PPSA98260.zip",
-      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.171/SmartTube-PPSA98260.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.171/PPSA98260.zip",
+      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.172/SmartTube-PPSA98260.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.172/PPSA98260.zip",
       "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-      "version": "01.000.171",
+      "version": "01.000.172",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98260",
       "author": "animatian112",
-      "checksum": "f3fd3eef211bf24769e5554854e7e7aaaf3b9789cf1fb12d899170dba385c34c",
+      "checksum": "0c553e5539a7df55e5a61ce0bae75f20ae14e105f142fb333dfbf3909b0329cb",
       "source": "https://github.com/animatian112/ytps5-sponsorblock"
     },
     {
@@ -536,15 +550,15 @@
     {
       "name": "SwanStationPS5",
       "filename": "PPSA98510.zip",
-      "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.4.8/PPSA98510.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.4.8/PPSA98510.zip",
+      "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.4.9/PPSA98510.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.4.9/PPSA98510.zip",
       "description": "SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.",
-      "version": "1.4.8",
+      "version": "1.4.9",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98510",
       "author": "AngelXex",
-      "checksum": "3f4d82796a7af3092197a651080ab0737d76650529a4302fce6c3ecbbd84f4de",
+      "checksum": "c05fa475c9a6bf7bd736aee9da9088b77836f0ea6c6b8c3dabde65fe047f20a6",
       "source": "https://github.com/darkxex/SwanStationPS5"
     },
     {
@@ -786,6 +800,20 @@
       "source": "https://github.com/abhi245y/spot5"
     },
     {
+      "name": "ORION Media Center",
+      "filename": "PPSA99062.zip",
+      "url": "https://github.com/XeN-Made/Orion-Media-Center/releases/download/01.103.000/PPSA99062.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99062/01.103.000/PPSA99062.zip",
+      "description": "A launcher that shows your PS5 and PS4 games, homebrew, media apps and emulated games in one library, with box art, tabs, themes and autoboot.",
+      "version": "01.103.000",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99062",
+      "author": "XeN-Made",
+      "checksum": "d7a6fc98f1c0494d289d928a710a18f91bcaf3f9c6a2683b98f78a4d7a57e5cf",
+      "source": "https://github.com/XeN-Made/Orion-Media-Center"
+    },
+    {
       "name": "OpenNOW PS5 - Prototype",
       "filename": "PPSA99082.zip",
       "url": "https://github.com/OpenCloudGaming/OpenNOW-PS5/releases/download/0.3.0/OpenNOW-PS5-0.3.0.zip",
@@ -798,6 +826,20 @@
       "author": "OpenCloudGaming",
       "checksum": "027ad6f1cf77fa605927b9523e755505d7a64b0b89b1c7b14b949ac0dc0040c2",
       "source": "https://github.com/OpenCloudGaming/OpenNOW-PS5"
+    },
+    {
+      "name": "wiliwili",
+      "filename": "PPSA99099.zip",
+      "url": "https://github.com/carlchina/wiliwili/releases/download/v1.6.0.1/wiliwili-PS5-v1.6.0.1.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99099/1.6.0.1/PPSA99099.zip",
+      "description": "Bilibili client for PS5 with 1080P/4K playback, danmaku and DLNA casting.",
+      "version": "1.6.0.1",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99099",
+      "author": "xfangfang, carlchina",
+      "checksum": "3929aa2966d4184beae9066315c86c335004f82eb121d3d2ce9cd7140ae4cdba",
+      "source": "https://github.com/carlchina/wiliwili"
     },
     {
       "name": "Codex PS5 - Prototype",
@@ -900,15 +942,15 @@
     {
       "name": "PKG Folderizer",
       "filename": "PPSA99180.zip",
-      "url": "https://github.com/desstannoz/ps5-pkg-folderizer/releases/download/01.025.000/PPSA99180.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.025.000/PPSA99180.zip",
+      "url": "https://github.com/desstannoz/ps5-pkg-folderizer/releases/download/01.030.000/PPSA99180.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.030.000/PPSA99180.zip",
       "description": "Converts debug/fake .pkg files on the console into ShadowMount folders or .ffpfsc / .exfat images.",
-      "version": "01.025.000",
+      "version": "01.030.000",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99180",
       "author": "desstannoz",
-      "checksum": "6df6604f1fc8d0ff7d1cf556849d945e99a70536bbf748ab9bdccd12658e5cd3",
+      "checksum": "8f1ea44d00420432da5a6d26a19d32355ebd8936e2b56ebc47c690a0f9d183fc",
       "source": "https://github.com/desstannoz/ps5-pkg-folderizer"
     },
     {
@@ -1234,6 +1276,20 @@
       "source": "https://github.com/VivaLaVent/PS5MC"
     },
     {
+      "name": "ApricotGS",
+      "filename": "PPSA99429.zip",
+      "url": "https://github.com/BaZZtian/PS5-ApricotGS/releases/download/v00.030.005/ApricotGS-v00.030.005-PS5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99429/00.030.005/PPSA99429.zip",
+      "description": "Play supported German HeartGold and SoulSilver dumps on PS5. Add your own .nds file; the app prepares it locally and keeps separate saves. No game data included.",
+      "version": "00.030.005",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99429",
+      "author": "BaZZtian",
+      "checksum": "af68328ccacc76d2d351685e4f5b17e0ab8855f22d01a1b0c156c77fa7ab2f3d",
+      "source": "https://github.com/BaZZtian/PS5-ApricotGS"
+    },
+    {
       "name": "Twispero",
       "filename": "PPSA99474.zip",
       "url": "https://github.com/unicxrn/twispero/releases/download/v1.1.0/PPSA99474.zip",
@@ -1316,6 +1372,20 @@
       "author": "Vivian",
       "checksum": "3375cb2d60a66935ca42159a0fcd336a24a0cae887efeb0972bf262a161f1e23",
       "source": "https://github.com/viviandsx/regie5"
+    },
+    {
+      "name": "TokenStation5",
+      "filename": "PPSA99555.zip",
+      "url": "https://github.com/ThatRetiredDude/TokenStation5/releases/download/01.000.001/PPSA99555.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99555/01.000.001/PPSA99555.zip",
+      "description": "Local AI endpoint for PS5 built on ts5, a from-scratch Vulkan LLM engine, serving an OpenAI-compatible API on your network.",
+      "version": "01.000.001",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99555",
+      "author": "ThatRetiredDude",
+      "checksum": "33cb888269d8afb94ec9de78fb7ceb827b1a987388925eb045b205f50304b68f",
+      "source": "https://github.com/ThatRetiredDude/TokenStation5"
     },
     {
       "name": "PS5LM",

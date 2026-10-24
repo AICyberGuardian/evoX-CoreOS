@@ -191,10 +191,10 @@
       <pubDate>1.13</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V7.3.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.3.0/ps5upload_v7.3.0.elf</link>
+      <title>[Payloads] Ps5Upload V7.4.3</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.4.3/ps5upload_v7.4.3.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v7.3.0</pubDate>
+      <pubDate>v7.4.3</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -264,9 +264,9 @@
     </item>
     <item>
       <title>[Payloads] Orbit Store</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.4.0/orbit_store.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.5.0/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.4.0</pubDate>
+      <pubDate>v1.5.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Actremotelink Agent V2.0</title>
@@ -449,10 +449,10 @@
       <pubDate>v1.3.0</pubDate>
     </item>
     <item>
-      <title>[Payloads] Fbneo-Ps5 V1.9</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v1.9/fbneo-ps5_v1.9.elf</link>
+      <title>[Payloads] Fbneo-Ps5 V2.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v2.0/fbneo-ps5_v2.0.elf</link>
       <description>FBNeo for ps5</description>
-      <pubDate>v1.9</pubDate>
+      <pubDate>v2.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Phu-Sandbox.Exit V1.0</title>
@@ -1277,6 +1277,12 @@
       <pubDate>01.000.000-rc.4</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] Chiral-FTP</title>
+      <link>https://github.com/Herbrax/Chiral-FTP</link>
+      <description>File manager, FTP server, FTP/SFTP client and browser web app for the PS5, with Quick connect to chiral-ftp on your Switch, Mac, Windows or Linux.</description>
+      <pubDate>1.1</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] XPSemu</title>
       <link>https://github.com/ZiZc3/XPSemu</link>
       <description>Original Xbox emulator for PS5, based on xemu.</description>
@@ -1298,7 +1304,7 @@
       <title>[ProsperoStore] TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.171</pubDate>
+      <pubDate>01.000.172</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] CD Player</title>
@@ -1310,7 +1316,7 @@
       <title>[ProsperoStore] SwanStationPS5</title>
       <link>https://github.com/darkxex/SwanStationPS5</link>
       <description>SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.</description>
-      <pubDate>1.4.8</pubDate>
+      <pubDate>1.4.9</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ReKHCoM</title>
@@ -1415,10 +1421,22 @@
       <pubDate>1.1.0</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] ORION Media Center</title>
+      <link>https://github.com/XeN-Made/Orion-Media-Center</link>
+      <description>A launcher that shows your PS5 and PS4 games, homebrew, media apps and emulated games in one library, with box art, tabs, themes and autoboot.</description>
+      <pubDate>01.103.000</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] OpenNOW PS5 - Prototype</title>
       <link>https://github.com/OpenCloudGaming/OpenNOW-PS5</link>
       <description>Experimental native PS5 GeForce NOW client: a working, console-tested prototype with hardware decoding and GPU presentation.</description>
       <pubDate>0.3.0</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] wiliwili</title>
+      <link>https://github.com/carlchina/wiliwili</link>
+      <description>Bilibili client for PS5 with 1080P/4K playback, danmaku and DLNA casting.</description>
+      <pubDate>1.6.0.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Codex PS5 - Prototype</title>
@@ -1466,7 +1484,7 @@
       <title>[ProsperoStore] PKG Folderizer</title>
       <link>https://github.com/desstannoz/ps5-pkg-folderizer</link>
       <description>Converts debug/fake .pkg files on the console into ShadowMount folders or .ffpfsc / .exfat images.</description>
-      <pubDate>01.025.000</pubDate>
+      <pubDate>01.030.000</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ForgeNX – Switch Emulator</title>
@@ -1607,6 +1625,12 @@
       <pubDate>1.2</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] ApricotGS</title>
+      <link>https://github.com/BaZZtian/PS5-ApricotGS</link>
+      <description>Play supported German HeartGold and SoulSilver dumps on PS5. Add your own .nds file; the app prepares it locally and keeps separate saves. No game data included.</description>
+      <pubDate>00.030.005</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] Twispero</title>
       <link>https://github.com/unicxrn/twispero</link>
       <description>Twitch for jailbroken PS5: live streams with chat, past broadcasts and clips on the console's own video decoder.</description>
@@ -1641,6 +1665,12 @@
       <link>https://github.com/viviandsx/regie5</link>
       <description>A TV remote for your self-hosted media stack: Sonarr, Radarr, Seerr and Jellyfin, Emby or Plex at a glance, with request approval, playback diagnosis and an optional cleanup.</description>
       <pubDate>0.8.0</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] TokenStation5</title>
+      <link>https://github.com/ThatRetiredDude/TokenStation5</link>
+      <description>Local AI endpoint for PS5 built on ts5, a from-scratch Vulkan LLM engine, serving an OpenAI-compatible API on your network.</description>
+      <pubDate>01.000.001</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5LM</title>

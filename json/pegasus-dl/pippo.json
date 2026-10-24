@@ -3,6 +3,98 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA25636",
+      "title": "Echoes of the End Enhanced Edition",
+      "createdAt": "2026-10-24T17:26:37.748Z",
+      "version": "v01.012",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/00b79f0fcbc08506ce5c7f0d377c962cabb699082e2bc21f97eb978fd1537d9d",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/fc22c20ae248e2b62e542ecdba2ac0f0e23fddb6af166b7c46ae1affe3d83061",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA25636, v01.012, EUR, 4.xx BackPort\nSize: 37GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/5667y6n5d74n/PPSA25636.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/agjyw08dzulq/PPSA25636.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/RMKGJWbgXm1o/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/hT0SUjY2RK"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/2bJG8XonDGOB/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/EASwQfia2J"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/gxm7j7togfup/PPSA25636-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/c0qklyyqgftu/PPSA25636-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 39728447488
+    },
+    {
+      "titleId": "PPSA31291",
+      "title": "TEKKEN 3",
+      "createdAt": "2026-10-24T17:26:37.748Z",
+      "version": "v01.000.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/af15dfae246d19c29e8949a4de1e4602461dfbaa74bc2be1e226ee80e28c086c",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/53f3046a8147cb52f92d0eb4c0592a308fca6f03f8ea37d3d99e018eca43c1a0",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA31291, v01.000.001, USA, 4.xx BackPort\nSize: 1GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/s2ny57hcsaww/PPSA31291.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/xblynigge8s1/PPSA31291.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/RMKGJWoY8m1o/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/hoo2Eiu0Yb"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/Z9dzBB0Aqzk1/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/uZKoX5LQWK"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/1umyndpfvba8/PPSA31291-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/wbopnoqyxwdt/PPSA31291-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
       "titleId": "PPSA99903",
       "title": "Sonic the Hedgehog 2006 (Unofficial Port)",
       "createdAt": "2026-10-24T11:19:19.286Z",
