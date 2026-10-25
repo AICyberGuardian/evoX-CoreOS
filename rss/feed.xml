@@ -1105,8 +1105,8 @@
     <item>
       <title>[ProsperoStore] PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
-      <description>Runs PC games via Wine, DXVK and VKD3D-Proton: USB installs, auto covers, home screen tiles, video playback, 30 to 60 fps frame generation, DualSense features. Games needing launchers unsupported.</description>
-      <pubDate>v1.5.0</pubDate>
+      <description>Runs PC games via Wine, DXVK and VKD3D-Proton: USB installs, auto covers, home screen tiles, video playback, 30 to 60 fps frame generation, DualSense features. Store launchers unsupported.</description>
+      <pubDate>v1.6.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Home5</title>
@@ -1796,7 +1796,7 @@
       <title>[ProsperoStore] Machete AI Studio</title>
       <link>https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID</link>
       <description>Machete AI Studio: Local Video and Image generation (Wan 2.2, LTX-Video, SDXL, FLUX) on PS5 GPU with Web UI and TV QR dashboard.</description>
-      <pubDate>1.1.0</pubDate>
+      <pubDate>1.1.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] OpenRCT2 Native Port</title>

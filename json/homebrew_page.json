@@ -32,15 +32,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v1.5.0/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/v1.5.0/PPSA11018.zip",
-      "description": "Runs PC games via Wine, DXVK and VKD3D-Proton: USB installs, auto covers, home screen tiles, video playback, 30 to 60 fps frame generation, DualSense features. Games needing launchers unsupported.",
-      "version": "v1.5.0",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v1.6.0/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/v1.6.0/PPSA11018.zip",
+      "description": "Runs PC games via Wine, DXVK and VKD3D-Proton: USB installs, auto covers, home screen tiles, video playback, 30 to 60 fps frame generation, DualSense features. Store launchers unsupported.",
+      "version": "v1.6.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "84c3169825f76c51d6acdb0352c02be08f3fb4ee30917fcdd6c65c30f1064730",
+      "checksum": "b2aaab0579939a6837dde568fcad4007f16589c4ae639e515e827d3c4a676d67",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -1642,15 +1642,15 @@
     {
       "name": "Machete AI Studio",
       "filename": "PPSA99699.zip",
-      "url": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID/releases/download/v1.1.0/PPSA99699.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99699/1.1.0/PPSA99699.zip",
+      "url": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID/releases/download/v1.1.1/PPSA99699.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99699/1.1.1/PPSA99699.zip",
       "description": "Machete AI Studio: Local Video and Image generation (Wan 2.2, LTX-Video, SDXL, FLUX) on PS5 GPU with Web UI and TV QR dashboard.",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99699",
       "author": "VenezuelanBiggie24 & Darkatek7",
-      "checksum": "c74118af887751e3d45d6582dd07122555a3fbf857daace7222973527dff9f4b",
+      "checksum": "1886de67b6f2eb7a5234140b342f8ded39a217b4a29e10a2bf6693d9e04cfefb",
       "source": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID"
     },
     {

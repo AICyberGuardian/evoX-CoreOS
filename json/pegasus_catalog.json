@@ -20,14 +20,14 @@
             ]
         },
         {
-            "titleId": "CUSA00000",
-            "title": "Evxs40000",
+            "titleId": "EVXS40000",
+            "title": "evoX Start Page",
             "version": "Source-Fixe",
             "author": "Unknown Author",
             "category": "PKG",
             "description": "evoX-CoreOS Start Page.",
             "checksum": "3d3caaf9774c2ea31930f023ddd49d9f8e2862178dbf20ddf5fb2aeb90f88c6a",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/evox-start_page.png",
             "filename": "EVXS40000.pkg",
             "downloadLinks": [
                 {
@@ -44,7 +44,7 @@
             "category": "PKG",
             "description": "Avatar-Changer.",
             "checksum": "32515b8253a027bbe65b95f574fb1484020bb0d65d6d0f6e418cb73ab739f2b3",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/AvatarChangerPS5.png",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/Avatar Changer PS5.png",
             "filename": "PS5PKG_Avatar-Changer_v1.00.pkg",
             "downloadLinks": [
                 {
@@ -180,7 +180,7 @@
             "category": "PKG",
             "description": "Itemzflow_Game_Manager.",
             "checksum": "73cbbe1045c5d58dc9e25df306c96d60ab69e9eb91a43344c1df300d85f36462",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/ItemzflowGameManager.png",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/Itemzflow Game Manager.png",
             "filename": "PS5PKG_Itemzflow_Game_Manager_v1.14.pkg",
             "downloadLinks": [
                 {
@@ -275,14 +275,14 @@
             ]
         },
         {
-            "titleId": "CUSA00000",
-            "title": "Evoplayer-V0.13.0-Ppsa99039-Pro",
+            "titleId": "PPSA99039",
+            "title": "EVO Player Pro",
             "version": "v0.13.0",
             "author": "Unknown Author",
             "category": "FFPFSC",
             "description": "A media player for jailbroken PS5",
             "checksum": "19ebe6d5add2d63f9b1fe94784a3da3b7f5be27750f8627934c72fbbded4481a",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/PPSA99039.png",
             "filename": "EVOPlayer-v0.13.0-PPSA99039-pro.ffpfsc",
             "downloadLinks": [
                 {
@@ -292,14 +292,14 @@
             ]
         },
         {
-            "titleId": "CUSA00000",
-            "title": "Evoplayer-V0.13.0-Ppsa99039",
+            "titleId": "PPSA99039",
+            "title": "EVO Player",
             "version": "v0.13.0",
             "author": "Unknown Author",
             "category": "FFPFSC",
             "description": "A media player for jailbroken PS5",
             "checksum": "967cf30ce9f402194ab1902cddd24ff01324c3c9f8b831afbf9a0f57c78dea3e",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/PPSA99039.png",
             "filename": "EVOPlayer-v0.13.0-PPSA99039.ffpfsc",
             "downloadLinks": [
                 {

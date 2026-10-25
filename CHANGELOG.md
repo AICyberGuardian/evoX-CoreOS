@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 25/10/2026 à 14:17
+* **HOMEBREW_PAGE**
+  * `PC5` (v1.6.0) - *Mise à jour (Précédent: v1.5.0)*
+  * `Machete AI Studio` (1.1.1) - *Mise à jour (Précédent: 1.1.0)*
+
 ## Build du 25/10/2026 à 13:33
 * **PKG**
   * `Evxs40000` (Source-Fixe) - *Nouveau*
