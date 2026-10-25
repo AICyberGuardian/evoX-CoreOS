@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 25/10/2026 à 15:44
+* **HOMEBREW_PAGE**
+  * `Prospero Themes` (01.000.031) - *Mise à jour (Précédent: 01.000.030)*
+  * `Alembic` (0.3.1) - *Nouveau*
+  * `MacheteSaveGameManager` (1.3.0) - *Nouveau*
+
 ## Build du 25/10/2026 à 14:17
 * **HOMEBREW_PAGE**
   * `PC5` (v1.6.0) - *Mise à jour (Précédent: v1.5.0)*

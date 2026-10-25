@@ -259,7 +259,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `91b506c36109...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `0423473e25c3...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
@@ -494,6 +494,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Application | Auteur | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | Afterglow | DevvNirvana | [01.000.006](https://github.com/DevvNirvana/afterglow/releases/download/01.000.006/PPSA47770.zip) | `3c6d57ab4282...` | Internet radio with 220+ stations and 56 full-screen music visualizer scenes. |
+| Alembic | Fatih Doğan | [0.3.1](https://github.com/fthdgn-gh/Alembic/releases/download/v0.3.1/alembic-app-v0.3.1.zip) | `7c8212f2fe99...` | Converts PS5 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC. |
 | Art Swap | Gary Riches | [1.3.1](https://github.com/griches/PS5_ArtSwap/releases/download/v1.3.1/PS5_ArtSwap-v1.3.1.zip) | `b7db472827d8...` | Change any title's home-screen icon, background, logo and music with SteamGridDB art (your own free key) and your own songs, keep the originals, and rename homebrew through ShadowMountPlus. |
 | Breeze | Milad | [1.9](https://github.com/MiladRTX/Breeze/releases/download/v1.9/PPSA92878.zip) | `b8b0e01950ca...` | Custom fan curve for the PS5: choose how fast the fan runs at each temperature, with live readings, 24-hour history and presets. |
 | Capy Mobile | Khalifa Al-Khatri | [0.5.0](https://github.com/khalifa007/CapyMobile/releases/download/v0.5.0/CapyMobile-00.005.000.zip) | `80b14507838c...` | Java phone games (J2ME) on the PS5: a native homebrew emulator app |
@@ -522,7 +523,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | PICO-8 for PS5 | RafaelNGP | [0.1.2](https://github.com/RafaelNGP/pico8-ps5/releases/download/v0.1.2/PPSA99808.zip) | `d76e2bd55ea3...` | Unofficial loader that runs your own copy of the PICO-8 Linux build as a native PS5 app. |
 | PKG Folderizer | desstannsoft | [01.036.000](https://github.com/desstannsoft/ps5-pkg-folderizer/releases/download/01.036.000/PPSA99180.zip) | `01857f7e3700...` | Converts debug/fake .pkg files on the console into ShadowMount folders or .ffpfsc / .exfat images. |
 | Porpoise | Ruben Ripalda | [4.0](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v4.0/Porpoise-4.0.zip) | `bce438cc8f43...` | A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music. |
-| Prospero Themes | Darkatek7 | [01.000.030](https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.030/PPSA90210.zip) | `0606d2d88329...` | Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals. |
+| Prospero Themes | Darkatek7 | [01.000.031](https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.031/PPSA90210.zip) | `3b966b065361...` | Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals. |
 | Prospero Win | mpereiraesaa | [0.2.0](https://github.com/mpereiraesaa/prospero-win/releases/download/v0.2.0/prospero-win-v0.2.0.zip) | `7585efc624c2...` | Windows compatibility runtime for native PlayStation 5 homebrew. |
 | ProsperoAI | BlackBearReloaded | [01.006.000](https://github.com/quatrixone/ProsperoAI/releases/download/01.006.000/PPSA99004.zip) | `8b2241e003a2...` | Local LLM chat app for PS5. |
 | ProsperoEden | BlackBearReloaded | [1.005.000](https://github.com/Swordpdf/ProsperoEden/releases/download/v1.005.000/ProsperoEden-v1.005.000.zip) | `9a726c3a4238...` | Unofficial Eden emulator port for PS5. |
@@ -635,6 +636,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | DriftCheck | Felipe Melchior | [01.000.000](https://github.com/felipemelchior/driftcheck5/releases/download/01.000.000/PPSA98766.zip) | `06fa838c0747...` | Controller tester: live sticks with circularity, a rest test that measures stick drift and suggests a deadzone, triggers, buttons, touchpad and motion sensors. |
 | Forwarder Manager | heydemoura | [00.001.005](https://github.com/heydemoura/ps5-forwarder-manager/releases/download/00.001.005/PPSA99930.zip) | `1cc330e29324...` | Create and edit home-screen forwarders that launch emulators and other apps with custom art, music and arguments. |
 | GyroAim | jmelovich | [1.0.2](https://github.com/jmelovich/ps5-gyroaim/releases/download/v1.0.2/PPSA99510.zip) | `b748ef79e029...` | Gyro aiming in any game: the controller's gyroscope drives the stick, tuned from your phone while you play. |
+| MacheteSaveGameManager | VenezuelanBiggie24 | [1.3.0](https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager/releases/download/v1.3.0/PPSA99700.zip) | `ec31a52ba89f...` | PS5/PS4 save manager in active development. PS5 root keys unreleased; cross-console saves use local dummy injection. Compatibility varies; share logs and feedback to help improve and fix titles. |
 | Prospero Explorer | SvenGDK | [1.0](https://github.com/SvenGDK/Prospero-Explorer/releases/download/v1.0/ProsperoExplorer-v1.zip) | `3eaee706e8ac...` | File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network. |
 | Prospero Multi Tools | SvenGDK | [1](https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/ProsperoMultiTools.zip) | `0e7c60d0e860...` | Backup manager for PS5: browse and edit PS1 to PS5, PSP and PS Vita backups, install packages and launch PS1/PS2/PSP titles. Needs the unjail payload. |
 | ScreenTester5 | Marice | [01.000.000](https://github.com/Marice/ScreenTester5/releases/download/01.000.000/PPSA69420.zip) | `49a5c6d7bbb0...` | Screen tester: solid colours and test patterns to find dead or stuck pixels, check uniformity and geometry, and run stuck-pixel recovery. |
@@ -689,6 +691,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **FGGstore** : [FGG-PlayPods](https://github.com/FGGstore/FGG-PlayPods)
 - **FGGstore** : [FGG-Unpack](https://github.com/FGGstore/FGG-Unpack)
 - **FGGstore** : [FGG-XSense](https://github.com/FGGstore/FGG-XSense)
+- **Fatih Doğan** : [Alembic (ProsperoStore)](https://prosperostore.net/app/PPSA99594)
 - **Felipe Melchior** : [DriftCheck (ProsperoStore)](https://prosperostore.net/app/PPSA98766)
 - **GOREslinger** : [Bedlam 2: Absolute Bedlam (PS5) (ProsperoStore)](https://prosperostore.net/app/PPSA94003)
 - **Gary Riches** : [Art Swap (ProsperoStore)](https://prosperostore.net/app/PPSA99318)
@@ -794,6 +797,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **ThatRetiredDude** : [TokenStation5 (ProsperoStore)](https://prosperostore.net/app/PPSA99555)
 - **TsvetomirGT** : [SymphonyStation5 (ProsperoStore)](https://prosperostore.net/app/PPSA17641)
 - **VenezuelanBiggie24 & Darkatek7** : [Machete AI Studio (ProsperoStore)](https://prosperostore.net/app/PPSA99699)
+- **VenezuelanBiggie24** : [MacheteSaveGameManager (ProsperoStore)](https://prosperostore.net/app/PPSA99700)
 - **VivaLaVent** : [PS5MC (ProsperoStore)](https://prosperostore.net/app/PPSA99420)
 - **VivaLaVent** : [kodi-ps5](https://github.com/VivaLaVent/PS5MC)
 - **Vivian** : [Régie5 (ProsperoStore)](https://prosperostore.net/app/PPSA99520)

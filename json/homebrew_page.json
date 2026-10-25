@@ -410,15 +410,15 @@
     {
       "name": "Prospero Themes",
       "filename": "PPSA90210.zip",
-      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.030/PPSA90210.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.030/PPSA90210.zip",
+      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.031/PPSA90210.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.031/PPSA90210.zip",
       "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
-      "version": "01.000.030",
+      "version": "01.000.031",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA90210",
       "author": "Darkatek7",
-      "checksum": "0606d2d883292fd253118d1575c02ff4fe32397b4ca48696c96f7da030e7bb1e",
+      "checksum": "3b966b065361abeee3180d0c58c445ab29a4d76f045c156d43ba0bca0276f0b4",
       "source": "https://github.com/Darkatek7/ProsperoThemes"
     },
     {
@@ -1486,6 +1486,20 @@
       "source": "https://github.com/abhi245y/PS5LM-Plus"
     },
     {
+      "name": "Alembic",
+      "filename": "PPSA99594.zip",
+      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.3.1/alembic-app-v0.3.1.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.3.1/PPSA99594.zip",
+      "description": "Converts PS5 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC.",
+      "version": "0.3.1",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99594",
+      "author": "Fatih Doğan",
+      "checksum": "7c8212f2fe997aef3de95ddaef04ae5bcd3d3417c88856e3d8bea46969d1c2fc",
+      "source": "https://github.com/fthdgn-gh/Alembic"
+    },
+    {
       "name": "Cloud Play",
       "filename": "PPSA99600.zip",
       "url": "https://github.com/tertiumndatur/ps5-cloud-play/releases/download/v1.0.0/CloudPlay-PS5.zip",
@@ -1652,6 +1666,20 @@
       "author": "VenezuelanBiggie24 & Darkatek7",
       "checksum": "1886de67b6f2eb7a5234140b342f8ded39a217b4a29e10a2bf6693d9e04cfefb",
       "source": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID"
+    },
+    {
+      "name": "MacheteSaveGameManager",
+      "filename": "PPSA99700.zip",
+      "url": "https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager/releases/download/v1.3.0/PPSA99700.zip",
+      "local_path": "downloads/apps/homebrew_page/tool/PPSA99700/1.3.0/PPSA99700.zip",
+      "description": "PS5/PS4 save manager in active development. PS5 root keys unreleased; cross-console saves use local dummy injection. Compatibility varies; share logs and feedback to help improve and fix titles.",
+      "version": "1.3.0",
+      "category": "Tools",
+      "kind": "tool",
+      "titleid": "PPSA99700",
+      "author": "VenezuelanBiggie24",
+      "checksum": "ec31a52ba89f9adc1eb98f8785667869ab369549463b503f93880c8fb8f47745",
+      "source": "https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager"
     },
     {
       "name": "OpenRCT2 Native Port",
