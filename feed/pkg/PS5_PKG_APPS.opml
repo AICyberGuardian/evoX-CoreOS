@@ -4,6 +4,8 @@
     <title>PS5_PKG_APPS</title>
   </head>
   <body>
+    <outline text="PS5Webit-Nexgen999_Installer" title="PS5Webit-Nexgen999_Installer" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg" author="Master0" description="PS5Webit-Nexgen999_Installer." />
+    <outline text="evoX-CoreOS_Start-Page" title="evoX-CoreOS_Start-Page" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS_Start-Page/releases/download/v1.00/EVXS40000.pkg" author="Master0" description="evoX-CoreOS Start Page." />
     <outline text="Avatar-Changer" title="Avatar-Changer" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Avatar-Changer_v1.00.pkg" author="Lapy" description="Avatar-Changer." />
     <outline text="FPKGi" title="FPKGi" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_FPKGi_v1.10.0.pkg" author="ItsJokerZz" description="FPKGi." />
 	<outline text="HOMEBREWLOADER" title="HOMEBREWLOADER" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_HOMEBREWLOADER_v0.30.pkg" author="ps5-payload-dev" description="HOMEBREWLOADER." />
@@ -14,7 +16,6 @@
     <outline text="PS5Library" title="PS5Library" type="rss" xmlUrl="https://github.com/rdiol12/PS5Library/releases/download/v0.2.10/PS5Library.pkg" author="rdiol12" description="PS5Library need ps5library-agent.elf." />
     <outline text="Itemzflow_Game_Manager" title="Itemzflow_Game_Manager" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Itemzflow_Game_Manager_v1.14.pkg" author="Itemzflow" description="Itemzflow_Game_Manager." />
     <outline text="PS5-Xplorer" title="PS5-Xplorer" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5-Xplorer_v1.05.pkg" author="Lapy" description="PS5-Xplorer." />
-	<outline text="PS5Webit-Nexgen999_Installer" title="PS5Webit-Nexgen999_Installer" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg" author="Master0" description="PS5Webit-Nexgen999_Installer." />
     <outline text="Mario Kart 64 Port" title="Mario Kart 64 Port" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_MK64_Port.pkg" author="m0ur0ne" description="PS5PKG_MK64_Port." />
     <outline text="God Of War - Betrayal Port" title="God Of War - Betrayal Port" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v2.0/PS5PKG_GOW-Betrayal_Port.pkg" author="m0ur0ne" description="PS5PKG_MK64_Port." />
     <outline text="Spectrum-Library" title="Spectrum-Library" type="rss" xmlUrl="https://github.com/Phoenixx1202/Spectrum-Library" author="Phoenixx1202" description="Spectrum-Library FreeShop." />
