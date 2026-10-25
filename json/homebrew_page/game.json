@@ -158,15 +158,15 @@
     {
       "name": "PSteroid5",
       "filename": "PPSA77305.zip",
-      "url": "https://github.com/futurepr0n/PSteroid5/releases/download/01.001.000/PPSA77305.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA77305/01.001.000/PPSA77305.zip",
+      "url": "https://github.com/futurepr0n/PSteroid5/releases/download/01.002.001/PPSA77305.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA77305/01.002.001/PPSA77305.zip",
       "description": "Vector Asteroids with online high scores, co-op rooms, a shared MMO world with browser players, a public ship hangar and a controller ship editor.",
-      "version": "01.001.000",
+      "version": "01.002.001",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA77305",
       "author": "futurepr0n",
-      "checksum": "e1fd2a0ec93eddb5ce16cf639648782c03ae6774f2957bb88335824ab09bd07e",
+      "checksum": "7111d4a23d541862ab1b87a20598443492f301ece6d123a99667e85b2ee3983b",
       "source": "https://github.com/futurepr0n/PSteroid5"
     },
     {
@@ -522,15 +522,15 @@
     {
       "name": "I Wanna Be The Guy: Remastered Tribute Edition",
       "filename": "PPSA99616.zip",
-      "url": "https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition/releases/download/v1.6.6.6/IWBTGR-TributeEdition-PS5-PPSA99616.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99616/1.6.6.6/PPSA99616.zip",
+      "url": "https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition/releases/download/v1.6.6.6-switch/IWBTGR-TributeEdition-Switch.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99616/1.6.6.6-switch/PPSA99616.zip",
       "description": "Native PS5 port of I Wanna Be The Guy: Remastered on a new GameMaker 8 runtime, with Tribute mode, full DualSense support and 16 languages.",
-      "version": "1.6.6.6",
+      "version": "1.6.6.6-switch",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99616",
       "author": "shaman",
-      "checksum": "9639d75baa443805a198e239f623f0a8eb147893ac05e3cbde7be40cb54d71fb",
+      "checksum": "7f54e808d5e32b85ed874865a226b637e617dafb0a678de3a9db15bd7cd51812",
       "source": "https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition"
     },
     {

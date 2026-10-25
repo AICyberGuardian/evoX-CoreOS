@@ -191,10 +191,10 @@
       <pubDate>1.13</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V7.5.2</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.5.2/ps5upload_v7.5.2.elf</link>
+      <title>[Payloads] Ps5Upload V7.5.3</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.5.3/ps5upload_v7.5.3.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v7.5.2</pubDate>
+      <pubDate>v7.5.3</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -258,9 +258,9 @@
     </item>
     <item>
       <title>[Payloads] Orbit Store</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.5.0/orbit_store.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.6.0/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.5.0</pubDate>
+      <pubDate>v1.6.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Actremotelink Agent V2.0</title>
@@ -1105,8 +1105,8 @@
     <item>
       <title>[ProsperoStore] PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
-      <description>Runs PC games via Wine, DXVK and VKD3D-Proton: USB installs, auto covers, home screen tiles, video playback, 30 to 60 fps frame generation, DualSense features. Store launchers unsupported.</description>
-      <pubDate>v1.6.0</pubDate>
+      <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support and easy crash reports.</description>
+      <pubDate>1.6.2</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Home5</title>
@@ -1250,7 +1250,7 @@
       <title>[ProsperoStore] PSteroid5</title>
       <link>https://github.com/futurepr0n/PSteroid5</link>
       <description>Vector Asteroids with online high scores, co-op rooms, a shared MMO world with browser players, a public ship hangar and a controller ship editor.</description>
-      <pubDate>01.001.000</pubDate>
+      <pubDate>01.002.001</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Stremio</title>
@@ -1268,7 +1268,7 @@
       <title>[ProsperoStore] Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.031</pubDate>
+      <pubDate>01.000.033</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Capy Mobile</title>
@@ -1322,7 +1322,7 @@
       <title>[ProsperoStore] TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.179</pubDate>
+      <pubDate>01.000.181</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] CD Player</title>
@@ -1523,16 +1523,22 @@
       <pubDate>vk-285-177</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] RuneScape Launcher</title>
+      <link>https://github.com/bizkut/ps5-runescape</link>
+      <description>Jagex Launcher on PS5 for Old School RuneScape, with the official client or RuneLite; press L3+R3 for the on-screen keyboard.</description>
+      <pubDate>01.000.021</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] PSFlyCast</title>
       <link>https://github.com/Press5elect/PSFlycast</link>
       <description>Flycast (Dreamcast, NAOMI and Atomiswave) as a standalone PS5 title on RADV, with a controller-only interface.</description>
-      <pubDate>1.3.2</pubDate>
+      <pubDate>1.3.3</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PSSwanStation</title>
       <link>https://github.com/Press5elect/PSSwanStation</link>
       <description>A PlayStation (PS1) emulator built on SwanStation, with a controller-first library, ES-DE themes and game videos, network shares, USB disc drives, CRT shaders and RetroAchievements.</description>
-      <pubDate>build24</pubDate>
+      <pubDate>build25</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Crux2</title>
@@ -1700,7 +1706,7 @@
       <title>[ProsperoStore] TokenStation5</title>
       <link>https://github.com/ThatRetiredDude/TokenStation5</link>
       <description>Local AI endpoint for PS5: runs LLMs on the console GPU behind an OpenAI-compatible API, with API keys, Hugging Face model downloads, chat history and search, voice, and web search.</description>
-      <pubDate>01.001.000</pubDate>
+      <pubDate>01.002.000</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5LM</title>
@@ -1748,7 +1754,7 @@
       <title>[ProsperoStore] I Wanna Be The Guy: Remastered Tribute Edition</title>
       <link>https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition</link>
       <description>Native PS5 port of I Wanna Be The Guy: Remastered on a new GameMaker 8 runtime, with Tribute mode, full DualSense support and 16 languages.</description>
-      <pubDate>1.6.6.6</pubDate>
+      <pubDate>1.6.6.6-switch</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Ship of Harkinian (Ocarina of Time)</title>
@@ -1801,14 +1807,14 @@
     <item>
       <title>[ProsperoStore] Machete AI Studio</title>
       <link>https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID</link>
-      <description>Machete AI Studio: Local Video and Image generation (Wan 2.2, LTX-Video, SDXL, FLUX) on PS5 GPU with Web UI and TV QR dashboard.</description>
-      <pubDate>1.1.1</pubDate>
+      <description>Machete AI Studio: Local Video, Image and Audio generation (Sana, Kokoro, SD 3.5, Wan 2.2, LTX-Video, SDXL, FLUX) on PS5 GPU with Web UI, DualSense controls and TV dashboard.</description>
+      <pubDate>1.2.2</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] MacheteSaveGameManager</title>
       <link>https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager</link>
       <description>PS5/PS4 save manager in active development. PS5 root keys unreleased; cross-console saves use local dummy injection. Compatibility varies; share logs and feedback to help improve and fix titles.</description>
-      <pubDate>1.3.0</pubDate>
+      <pubDate>1.3.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] OpenRCT2 Native Port</title>

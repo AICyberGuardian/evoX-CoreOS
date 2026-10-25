@@ -1,5 +1,22 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 25/10/2026 à 20:38
+* **PAYLOADS**
+  * `Ps5Upload V7.5.3` (v7.5.3) - *Nouveau*
+  * `Orbit Store` (v1.6.0) - *Mise à jour (Précédent: v1.5.0)*
+* **HOMEBREW_PAGE**
+  * `PC5` (1.6.2) - *Mise à jour (Précédent: v1.6.0)*
+  * `PSteroid5` (01.002.001) - *Mise à jour (Précédent: 01.001.000)*
+  * `Prospero Themes` (01.000.033) - *Mise à jour (Précédent: 01.000.031)*
+  * `TubeBlock` (01.000.181) - *Mise à jour (Précédent: 01.000.179)*
+  * `RuneScape Launcher` (01.000.021) - *Nouveau*
+  * `PSFlyCast` (1.3.3) - *Mise à jour (Précédent: 1.3.2)*
+  * `PSSwanStation` (build25) - *Mise à jour (Précédent: build24)*
+  * `TokenStation5` (01.002.000) - *Mise à jour (Précédent: 01.001.000)*
+  * `I Wanna Be The Guy: Remastered Tribute Edition` (1.6.6.6-switch) - *Mise à jour (Précédent: 1.6.6.6)*
+  * `Machete AI Studio` (1.2.2) - *Mise à jour (Précédent: 1.1.1)*
+  * `MacheteSaveGameManager` (1.3.1) - *Mise à jour (Précédent: 1.3.0)*
+
 ## Build du 25/10/2026 à 15:44
 * **HOMEBREW_PAGE**
   * `Prospero Themes` (01.000.031) - *Mise à jour (Précédent: 01.000.030)*
