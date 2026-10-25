@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.25-1053)
+### 🚀 Synthèse de la mise à jour (v2026.10.25-1333)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -171,6 +171,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>🎮 Pack PKG</b></summary>
 
 * **packages**
+  * `PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg`
+  * `EVXS40000.pkg`
   * `PS5PKG_Avatar-Changer_v1.00.pkg`
   * `PS5PKG_FPKGi_v1.10.0.pkg`
   * `PS5PKG_HOMEBREWLOADER_v0.30.pkg`
@@ -181,7 +183,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5Library.pkg`
   * `PS5PKG_Itemzflow_Game_Manager_v1.14.pkg`
   * `PS5PKG_PS5-Xplorer_v1.05.pkg`
-  * `PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg`
   * `PS5PKG_MK64_Port.pkg`
   * `PS5PKG_GOW-Betrayal_Port.pkg`
   * `Markus_PHU-EmuPack-KI-Arcade.Collection.PS5.pkg`
@@ -318,6 +319,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99203.zip`
   * `PPSA99247.zip`
   * `PPSA99248.zip`
+  * `PPSA99249.zip`
   * `PPSA99288.zip`
   * `PPSA99300.zip`
   * `PPSA99305.zip`

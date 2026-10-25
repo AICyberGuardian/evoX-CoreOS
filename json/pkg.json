@@ -2,6 +2,26 @@
   "name": "AIO Store PKG",
   "packages": [
     {
+      "name": "Ps5Pkg Ps5Webit-Nexgen999 Installer V1.00",
+      "filename": "PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg",
+      "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg",
+      "local_path": "pkg/PS5Webit-Nexgen999_Installer/Source-Fixe/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg",
+      "description": "PS5Webit-Nexgen999_Installer.",
+      "version": "Source-Fixe",
+      "checksum": "59e308b8264c0cfe1648650ab6989c7cd4496a03fa647f261a6f3e8b974bf4cb",
+      "category": "PKG"
+    },
+    {
+      "name": "Evxs40000",
+      "filename": "EVXS40000.pkg",
+      "url": "https://github.com/nexgen999/evoX-CoreOS_Start-Page/releases/download/v1.00/EVXS40000.pkg",
+      "local_path": "pkg/evoX-CoreOS_Start-Page/Source-Fixe/EVXS40000.pkg",
+      "description": "evoX-CoreOS Start Page.",
+      "version": "Source-Fixe",
+      "checksum": "3d3caaf9774c2ea31930f023ddd49d9f8e2862178dbf20ddf5fb2aeb90f88c6a",
+      "category": "PKG"
+    },
+    {
       "name": "Ps5Pkg Avatar-Changer V1.00",
       "filename": "PS5PKG_Avatar-Changer_v1.00.pkg",
       "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Avatar-Changer_v1.00.pkg",
@@ -99,16 +119,6 @@
       "description": "PS5-Xplorer.",
       "version": "Source-Fixe",
       "checksum": "ea13710e6ffaf290f11bdafa890f76e530e3015cdac6d2cf4a14085c824e6039",
-      "category": "PKG"
-    },
-    {
-      "name": "Ps5Pkg Ps5Webit-Nexgen999 Installer V1.00",
-      "filename": "PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg",
-      "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg",
-      "local_path": "pkg/PS5Webit-Nexgen999_Installer/Source-Fixe/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg",
-      "description": "PS5Webit-Nexgen999_Installer.",
-      "version": "Source-Fixe",
-      "checksum": "59e308b8264c0cfe1648650ab6989c7cd4496a03fa647f261a6f3e8b974bf4cb",
       "category": "PKG"
     },
     {

@@ -32,15 +32,15 @@
         {
             "name": "PC5",
             "filename": "PPSA11018.zip",
-            "url": "https://github.com/bornaradusin/PC5/releases/download/v1.3.1/PPSA11018.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/v1.3.1/PPSA11018.zip",
+            "url": "https://github.com/bornaradusin/PC5/releases/download/v1.5.0/PPSA11018.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/v1.5.0/PPSA11018.zip",
             "description": "Runs PC games via Wine, DXVK and VKD3D-Proton: USB installs, auto covers, home screen tiles, video playback, 30 to 60 fps frame generation, DualSense features. Games needing launchers unsupported.",
-            "version": "v1.3.1",
+            "version": "v1.5.0",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA11018",
             "author": "bornaradusin",
-            "checksum": "2b87ec14dec76c7e2e0d46ea5e0e8cdac7f82c50d034fa861c639dc5b14bbb45",
+            "checksum": "84c3169825f76c51d6acdb0352c02be08f3fb4ee30917fcdd6c65c30f1064730",
             "source": "https://github.com/bornaradusin/PC5"
         },
         {
@@ -410,15 +410,15 @@
         {
             "name": "Prospero Themes",
             "filename": "PPSA90210.zip",
-            "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.028/PPSA90210.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.028/PPSA90210.zip",
+            "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.030/PPSA90210.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.030/PPSA90210.zip",
             "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
-            "version": "01.000.028",
+            "version": "01.000.030",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA90210",
             "author": "Darkatek7",
-            "checksum": "a760767c6401d5463e35b1fb1f96cdda69421bc521970c94a4217556d4ba5910",
+            "checksum": "0606d2d883292fd253118d1575c02ff4fe32397b4ca48696c96f7da030e7bb1e",
             "source": "https://github.com/Darkatek7/ProsperoThemes"
         },
         {
@@ -536,15 +536,15 @@
         {
             "name": "TubeBlock",
             "filename": "PPSA98260.zip",
-            "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.177/SmartTube-PPSA98260.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.177/PPSA98260.zip",
+            "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.179/SmartTube-PPSA98260.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.179/PPSA98260.zip",
             "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-            "version": "01.000.177",
+            "version": "01.000.179",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA98260",
             "author": "animatian112",
-            "checksum": "fdc046e0c6c9c9a864b74e0de6b11963794da7cf21c0c085e884fefbde8a46eb",
+            "checksum": "36a617dacc3623271b6956beb10a1038740fc822ddbd6555502bd8a6a0aee640",
             "source": "https://github.com/animatian112/ytps5-sponsorblock"
         },
         {
@@ -774,15 +774,15 @@
         {
             "name": "EVO Player",
             "filename": "PPSA99039.zip",
-            "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.12.5/EVOPlayer-v0.12.5-PPSA99039.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99039/0.12.5/PPSA99039.zip",
+            "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.0/EVOPlayer-v0.13.0-PPSA99039.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99039/0.13.0/PPSA99039.zip",
             "description": "Media player for PS5 that plays video from USB or internal storage, with hardware decoding up to 4K, 10-bit HDR and surround audio.",
-            "version": "0.12.5",
+            "version": "0.13.0",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99039",
             "author": "Sain Saji",
-            "checksum": "79b18f57ce4573bd237a1a20d9feb21b9bdb3e2f872b0ef208c106e748a447c8",
+            "checksum": "d9f8b664191b651c45b403ac842352671f72595a65f5d5c06342c28aef1dd470",
             "source": "https://github.com/sainsaji/EVO-PLAYER-PS5"
         },
         {
@@ -956,15 +956,15 @@
         {
             "name": "PKG Folderizer",
             "filename": "PPSA99180.zip",
-            "url": "https://github.com/desstannsoft/ps5-pkg-folderizer/releases/download/01.033.000/PPSA99180.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.033.000/PPSA99180.zip",
+            "url": "https://github.com/desstannsoft/ps5-pkg-folderizer/releases/download/01.036.000/PPSA99180.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.036.000/PPSA99180.zip",
             "description": "Converts debug/fake .pkg files on the console into ShadowMount folders or .ffpfsc / .exfat images.",
-            "version": "01.033.000",
+            "version": "01.036.000",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99180",
             "author": "desstannsoft",
-            "checksum": "4004488a7bae1a171a65ed7ac15632d0c476db0342c3746621df8b2b850e042d",
+            "checksum": "01857f7e370002338a37c9690a598dfca3c9aaf16feda856fdee59c8014307a1",
             "source": "https://github.com/desstannsoft/ps5-pkg-folderizer"
         },
         {
@@ -1036,6 +1036,20 @@
             "author": "Press5elect",
             "checksum": "7366078ce4f8c31fb6137ab9059c2886902315d432ee56662ed6ba246b32a53f",
             "source": "https://github.com/Press5elect/PSSwanStation"
+        },
+        {
+            "name": "Crux2",
+            "filename": "PPSA99249.zip",
+            "url": "https://github.com/Press5elect/Crux2/releases/download/v1.0.15/Crux2-v1.0.15.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99249/v1.0.15/PPSA99249.zip",
+            "description": "PCSX2 (PlayStation 2) as a standalone PS5 title on RADV, with a controller-first Big Picture library, network shares, USB disc drives and RetroAchievements.",
+            "version": "v1.0.15",
+            "category": "Apps",
+            "kind": "app",
+            "titleid": "PPSA99249",
+            "author": "Press5elect",
+            "checksum": "c7e7415b37a40f9f1e0947a6a1584fe76dcc5260ac1c7760bf9859ce583ca015",
+            "source": "https://github.com/Press5elect/Crux2"
         },
         {
             "name": "Nuvio Max'd",
@@ -1334,15 +1348,15 @@
         {
             "name": "Halo: Combat Evolved",
             "filename": "PPSA99500.zip",
-            "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-120/halo-ps5-release.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-120/PPSA99500.zip",
+            "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-122/halo-ps5-release.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-122/PPSA99500.zip",
             "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-            "version": "build-120",
+            "version": "build-122",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA99500",
             "author": "thelinkin3000",
-            "checksum": "54d6d3a3f413c2757b9891a868275fc74a7b636af00761ea0c6a14b1222a34b5",
+            "checksum": "9bbc59c8bd15feb6a54deacbb1ead5a4f6f53c45899bf8ac5987db418f05797b",
             "source": "https://github.com/thelinkin3000/halo-ce-universal"
         },
         {
@@ -1628,15 +1642,15 @@
         {
             "name": "Machete AI Studio",
             "filename": "PPSA99699.zip",
-            "url": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID/releases/download/v1.0.0/PPSA99699.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99699/1.0.0/PPSA99699.zip",
+            "url": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID/releases/download/v1.1.0/PPSA99699.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99699/1.1.0/PPSA99699.zip",
             "description": "Machete AI Studio: Local Video and Image generation (Wan 2.2, LTX-Video, SDXL, FLUX) on PS5 GPU with Web UI and TV QR dashboard.",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99699",
             "author": "VenezuelanBiggie24 & Darkatek7",
-            "checksum": "6efff2c46a888733cb4d743a24da8caf3ed00623c107d258af54084d51acf9c6",
+            "checksum": "c74118af887751e3d45d6582dd07122555a3fbf857daace7222973527dff9f4b",
             "source": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID"
         },
         {

@@ -1,5 +1,18 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 25/10/2026 à 13:33
+* **PKG**
+  * `Evxs40000` (Source-Fixe) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `PC5` (v1.5.0) - *Mise à jour (Précédent: v1.3.1)*
+  * `Prospero Themes` (01.000.030) - *Mise à jour (Précédent: 01.000.028)*
+  * `TubeBlock` (01.000.179) - *Mise à jour (Précédent: 01.000.177)*
+  * `EVO Player` (0.13.0) - *Mise à jour (Précédent: 0.12.5)*
+  * `PKG Folderizer` (01.036.000) - *Mise à jour (Précédent: 01.033.000)*
+  * `Crux2` (v1.0.15) - *Nouveau*
+  * `Halo: Combat Evolved` (build-122) - *Mise à jour (Précédent: build-120)*
+  * `Machete AI Studio` (1.1.0) - *Mise à jour (Précédent: 1.0.0)*
+
 ## Build du 25/10/2026 à 10:53
 * **PAYLOADS**
   * `Ps5Upload V7.5.2` (v7.5.2) - *Nouveau*

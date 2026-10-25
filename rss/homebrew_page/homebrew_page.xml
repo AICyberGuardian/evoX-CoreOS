@@ -20,7 +20,7 @@
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Runs PC games via Wine, DXVK and VKD3D-Proton: USB installs, auto covers, home screen tiles, video playback, 30 to 60 fps frame generation, DualSense features. Games needing launchers unsupported.</description>
-      <pubDate>v1.3.1</pubDate>
+      <pubDate>v1.5.0</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -182,7 +182,7 @@
       <title>Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.028</pubDate>
+      <pubDate>01.000.030</pubDate>
     </item>
     <item>
       <title>Capy Mobile</title>
@@ -236,7 +236,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.177</pubDate>
+      <pubDate>01.000.179</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -338,7 +338,7 @@
       <title>EVO Player</title>
       <link>https://github.com/sainsaji/EVO-PLAYER-PS5</link>
       <description>Media player for PS5 that plays video from USB or internal storage, with hardware decoding up to 4K, 10-bit HDR and surround audio.</description>
-      <pubDate>0.12.5</pubDate>
+      <pubDate>0.13.0</pubDate>
     </item>
     <item>
       <title>Surround Sound Studio</title>
@@ -416,7 +416,7 @@
       <title>PKG Folderizer</title>
       <link>https://github.com/desstannsoft/ps5-pkg-folderizer</link>
       <description>Converts debug/fake .pkg files on the console into ShadowMount folders or .ffpfsc / .exfat images.</description>
-      <pubDate>01.033.000</pubDate>
+      <pubDate>01.036.000</pubDate>
     </item>
     <item>
       <title>ForgeNX – Switch Emulator</title>
@@ -447,6 +447,12 @@
       <link>https://github.com/Press5elect/PSSwanStation</link>
       <description>A PlayStation (PS1) emulator built on SwanStation, with a controller-first library, ES-DE themes and game videos, network shares, USB disc drives, CRT shaders and RetroAchievements.</description>
       <pubDate>build24</pubDate>
+    </item>
+    <item>
+      <title>Crux2</title>
+      <link>https://github.com/Press5elect/Crux2</link>
+      <description>PCSX2 (PlayStation 2) as a standalone PS5 title on RADV, with a controller-first Big Picture library, network shares, USB disc drives and RetroAchievements.</description>
+      <pubDate>v1.0.15</pubDate>
     </item>
     <item>
       <title>Nuvio Max'd</title>
@@ -578,7 +584,7 @@
       <title>Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/halo-ce-universal</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-120</pubDate>
+      <pubDate>build-122</pubDate>
     </item>
     <item>
       <title>Jelly5</title>
@@ -704,7 +710,7 @@
       <title>Machete AI Studio</title>
       <link>https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID</link>
       <description>Machete AI Studio: Local Video and Image generation (Wan 2.2, LTX-Video, SDXL, FLUX) on PS5 GPU with Web UI and TV QR dashboard.</description>
-      <pubDate>1.0.0</pubDate>
+      <pubDate>1.1.0</pubDate>
     </item>
     <item>
       <title>OpenRCT2 Native Port</title>

@@ -3,6 +3,128 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA24913",
+      "title": "Ace Combat 8 Wings of Theve",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.001.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e57a557103688def0036333d3c383f5820f1ff2bdb34cebc6bc81d5586c121e0",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/146f83b40ce74fae6994732d557e269bbd45b82dfef5993db6d59359ed486010",
+      "description": "Format: LZ4\nACE COMBAT 8: WINGS OF THEVE delivers high-octane aerial action! Step into the cockpit and take flight as an elite pilot across stunning skies. Enter intense dogfights, eliminate threats, and rise through gripping missions to earn your wings in this game developed by PROJECT ACES, the acclaimed team behind the franchise. Aerial Warfare in Living Skies. Campaign Mode showcases stunning visuals with dynamic multi-layered cloudscapes that capture the majesty of living skies. Feel the rush of fast-paced arcade-style gameplay while deploying powerful weapons to dominate the battlefield. A visceral journey from cockpit to ground. Beyond the chaos in the air, exhilarating first-person scenes reveal your pilot’s story through breathtaking cinematics. Experience the pressure of command, the weight of decisions, and the bonds forged in battle. Between missions, bond with your squad members, rise to meet adversity, and prove yourself as a true ace. The Largest Online Mode of the Series ACE COMBAT ONLINE delivers the most expansive multiplayer experience in franchise history. Step into the series’ first online lobby, explore an air base with your custom avatar before diving into multiplayer games. Sortie into online missions with pilots worldwide in a variety of modes including Co-Op and cross platform play. *This is the Standard Edition of the game. A Deluxe Edition is also available. Please take care to avoid duplicate purchases.\nRegion: JPN to EUR Languages\nFirmware: 12.xx+\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-10-25T11:25:18.741Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "LZ4 · Download - pt.1",
+          "url": "https://vikingfile.com/f/MfanQG0r1s"
+        },
+        {
+          "name": "LZ4 · Download - pt.2",
+          "url": "https://vikingfile.com/f/okOtoMDO9h"
+        },
+        {
+          "name": "LZ4 · Download - pt.3",
+          "url": "https://vikingfile.com/f/mFD9KO3Oul"
+        },
+        {
+          "name": "LZ4 · Download - pt.4",
+          "url": "https://vikingfile.com/f/FCTxu3WeT8"
+        },
+        {
+          "name": "LZ4 · Download - pt.5",
+          "url": "https://vikingfile.com/f/Z1im2ovnKn"
+        },
+        {
+          "name": "LZ4 · Download - pt.6",
+          "url": "https://vikingfile.com/f/SBF8FvZ5xF"
+        },
+        {
+          "name": "LZ4 · Download - pt.7",
+          "url": "https://vikingfile.com/f/VL7EfLLgih"
+        },
+        {
+          "name": "LZ4 · Download - pt.8",
+          "url": "https://vikingfile.com/f/yY5PWtktEC"
+        },
+        {
+          "name": "LZ4 · Download - pt.9",
+          "url": "https://vikingfile.com/f/Z8LQsATVhr"
+        },
+        {
+          "name": "LZ4 · Download - pt.10",
+          "url": "https://vikingfile.com/f/GL9LzQJ2i3"
+        },
+        {
+          "name": "LZ4 · Download - pt.11",
+          "url": "https://vikingfile.com/f/PZxuReSDjU"
+        },
+        {
+          "name": "LZ4 · Download - pt.12",
+          "url": "https://vikingfile.com/f/WX6Qj1FiJJ"
+        },
+        {
+          "name": "LZ4 · Download - pt.13",
+          "url": "https://vikingfile.com/f/Ab3z58x4Nf"
+        },
+        {
+          "name": "LZ4 · Download - pt.14",
+          "url": "https://vikingfile.com/f/1BnkKAhl2Z"
+        },
+        {
+          "name": "LZ4 · Download - pt.15",
+          "url": "https://vikingfile.com/f/7thSHqH0w4"
+        },
+        {
+          "name": "LZ4 · Download - pt.16",
+          "url": "https://vikingfile.com/f/s9HgImM8ea"
+        },
+        {
+          "name": "LZ4 · Download - pt.17",
+          "url": "https://vikingfile.com/f/8ErQ4VKora"
+        },
+        {
+          "name": "LZ4 · Download - pt.18",
+          "url": "https://vikingfile.com/f/SJwoEoe61A"
+        },
+        {
+          "name": "LZ4 · Download - pt.19",
+          "url": "https://vikingfile.com/f/QNwRGhtQh4"
+        },
+        {
+          "name": "LZ4 · Download - pt.20",
+          "url": "https://vikingfile.com/f/U5Icspr15E"
+        },
+        {
+          "name": "LZ4 · Download - pt.21",
+          "url": "https://vikingfile.com/f/5fONcdPZvU"
+        },
+        {
+          "name": "LZ4 · Download - pt.22",
+          "url": "https://vikingfile.com/f/pgxU5H0KeB"
+        },
+        {
+          "name": "LZ4 · Download - pt.23",
+          "url": "https://vikingfile.com/f/eF90ULeBbW"
+        },
+        {
+          "name": "LZ4 · Download - pt.24",
+          "url": "https://vikingfile.com/f/pSH0RmlTaZ"
+        },
+        {
+          "name": "LZ4 · Download - pt.25",
+          "url": "https://vikingfile.com/f/VgvXGwSAFi"
+        },
+        {
+          "name": "LZ4 · Download - pt.26",
+          "url": "https://vikingfile.com/f/IXmYm8aRvI"
+        },
+        {
+          "name": "LZ4 · Download - pt.27",
+          "url": "https://vikingfile.com/f/cIZ1Vz6msN"
+        }
+      ],
+      "sizeBytes": 162135015424
+    },
+    {
       "titleId": "PPSA01317",
       "title": "Gran Turismo 7 + Offline Patch Spec III",
       "createdAt": "2026-10-24T23:59:52.687Z",
