@@ -17,7 +17,7 @@
     "PS5PKG_Avatar-Changer_v1.00.pkg": {
         "titleId": "LAPY20016",
         "title": "Avatar Changer PS5",
-        "icon": "AvatarChangerPS5.png"
+        "icon": "Avatar Changer PS5.png"
     },
     "PS5PKG_FPKGi_v1.10.0.pkg": {
         "titleId": "PKGI13337",
@@ -32,7 +32,7 @@
     "PS5PKG_Itemzflow_Game_Manager_v1.14.pkg": {
         "titleId": "ITEM00001",
         "title": "Itemzflow Game Manager",
-        "icon": "ItemzflowGameManager.png"
+        "icon": "Itemzflow Game Manager.png"
     },
     "PS5PKG_Homebrew_Store_installer.pkg": {
         "titleId": "NPXS39041",
@@ -43,11 +43,6 @@
         "titleId": "PPNX00999",
         "title": "PS5 Webkit",
         "icon": "ps5webkit-nexgen.png"
-    },
-    "EVXS40000.pkg_v1.00.pkg": {
-        "titleId": "EVXS40000",
-        "title": "evoX Start Page",
-        "icon": "evox-start_page.png"
     },
     "PS5-SHOP-APPKG.pkg": {
         "titleId": "MOUS21425",
@@ -108,5 +103,20 @@
         "titleId": "PAPR00095",
         "title": "Paprium",
         "icon": "Markus_PHU-EmuPack-Paprium-Port.PS5.png"
+    },
+    "EVXS40000.pkg": {
+        "titleId": "EVXS40000",
+        "title": "evoX Start Page",
+        "icon": "evox-start_page.png"
+    },
+    "EVOPlayer-v0.13.0-PPSA99039-pro.ffpfsc": {
+        "titleId": "PPSA99039",
+        "title": "EVO Player Pro",
+        "icon": "PPSA99039.png"
+    },
+    "EVOPlayer-v0.13.0-PPSA99039.ffpfsc": {
+        "titleId": "PPSA99039",
+        "title": "EVO Player",
+        "icon": "PPSA99039.png"
     }
 }
