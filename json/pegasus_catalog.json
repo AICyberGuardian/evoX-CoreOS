@@ -259,18 +259,35 @@
         },
         {
             "titleId": "CUSA00000",
-            "title": "Evoplayer-V0.12.5-Ppsa99039",
-            "version": "v0.12.5",
+            "title": "Evoplayer-V0.13.0-Ppsa99039-Pro",
+            "version": "v0.13.0",
             "author": "Unknown Author",
             "category": "FFPFSC",
             "description": "A media player for jailbroken PS5",
-            "checksum": "a7aa2e3af3af292d4c208c6b5a0dfa4e72e61e3c22ba3c22336f1d87cb15456a",
+            "checksum": "19ebe6d5add2d63f9b1fe94784a3da3b7f5be27750f8627934c72fbbded4481a",
             "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
-            "filename": "EVOPlayer-v0.12.5-PPSA99039.ffpfsc",
+            "filename": "EVOPlayer-v0.13.0-PPSA99039-pro.ffpfsc",
             "downloadLinks": [
                 {
                     "name": "Mirror",
-                    "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.12.5/EVOPlayer-v0.12.5-PPSA99039.ffpfsc"
+                    "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.0/EVOPlayer-v0.13.0-PPSA99039-pro.ffpfsc"
+                }
+            ]
+        },
+        {
+            "titleId": "CUSA00000",
+            "title": "Evoplayer-V0.13.0-Ppsa99039",
+            "version": "v0.13.0",
+            "author": "Unknown Author",
+            "category": "FFPFSC",
+            "description": "A media player for jailbroken PS5",
+            "checksum": "967cf30ce9f402194ab1902cddd24ff01324c3c9f8b831afbf9a0f57c78dea3e",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "filename": "EVOPlayer-v0.13.0-PPSA99039.ffpfsc",
+            "downloadLinks": [
+                {
+                    "name": "Mirror",
+                    "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.0/EVOPlayer-v0.13.0-PPSA99039.ffpfsc"
                 }
             ]
         },

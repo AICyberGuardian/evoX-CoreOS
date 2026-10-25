@@ -32,15 +32,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v1.3.0/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/v1.3.0/PPSA11018.zip",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v1.3.1/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/v1.3.1/PPSA11018.zip",
       "description": "Runs PC games via Wine, DXVK and VKD3D-Proton: USB installs, auto covers, home screen tiles, video playback, 30 to 60 fps frame generation, DualSense features. Games needing launchers unsupported.",
-      "version": "v1.3.0",
+      "version": "v1.3.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "025074a4a370e454438d4cf47982bf930dd36dfe93d46b6982aada0562b1e276",
+      "checksum": "2b87ec14dec76c7e2e0d46ea5e0e8cdac7f82c50d034fa861c639dc5b14bbb45",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -368,15 +368,15 @@
     {
       "name": "PSteroid5",
       "filename": "PPSA77305.zip",
-      "url": "https://github.com/futurepr0n/PSteroid5/releases/download/01.000.000/PPSA77305.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA77305/01.000.000/PPSA77305.zip",
+      "url": "https://github.com/futurepr0n/PSteroid5/releases/download/01.001.000/PPSA77305.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA77305/01.001.000/PPSA77305.zip",
       "description": "Vector Asteroids with online high scores, co-op rooms, a shared MMO world with browser players, a public ship hangar and a controller ship editor.",
-      "version": "01.000.000",
+      "version": "01.001.000",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA77305",
       "author": "futurepr0n",
-      "checksum": "4ed9d0121f00460bcea681265a4f195fc3cf80a90fdb3bda746f5e5ff8f65410",
+      "checksum": "e1fd2a0ec93eddb5ce16cf639648782c03ae6774f2957bb88335824ab09bd07e",
       "source": "https://github.com/futurepr0n/PSteroid5"
     },
     {
@@ -410,15 +410,15 @@
     {
       "name": "Prospero Themes",
       "filename": "PPSA90210.zip",
-      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.027/PPSA90210.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.027/PPSA90210.zip",
+      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.028/PPSA90210.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.028/PPSA90210.zip",
       "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
-      "version": "01.000.027",
+      "version": "01.000.028",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA90210",
       "author": "Darkatek7",
-      "checksum": "038eab32a5c3dab251a8f26942e7307ad27a8cb36a66fd1372887a6a5682b6f9",
+      "checksum": "a760767c6401d5463e35b1fb1f96cdda69421bc521970c94a4217556d4ba5910",
       "source": "https://github.com/Darkatek7/ProsperoThemes"
     },
     {
@@ -564,15 +564,15 @@
     {
       "name": "SwanStationPS5",
       "filename": "PPSA98510.zip",
-      "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.5.0/PPSA98510.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.5.0/PPSA98510.zip",
+      "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.5.1/PPSA98510.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.5.1/PPSA98510.zip",
       "description": "SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.",
-      "version": "1.5.0",
+      "version": "1.5.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98510",
       "author": "AngelXex",
-      "checksum": "f9bf9e3059b71525780309125f4f880b052d8c64f7ddf41f8e2956fa929fb824",
+      "checksum": "25e14db88507adc9c28e3da6afc47154c69edc7cc00f881f2a81241acbefe0fd",
       "source": "https://github.com/darkxex/SwanStationPS5"
     },
     {
@@ -956,15 +956,15 @@
     {
       "name": "PKG Folderizer",
       "filename": "PPSA99180.zip",
-      "url": "https://github.com/desstannsoft/ps5-pkg-folderizer/releases/download/01.032.000/PPSA99180.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.032.000/PPSA99180.zip",
+      "url": "https://github.com/desstannsoft/ps5-pkg-folderizer/releases/download/01.033.000/PPSA99180.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.033.000/PPSA99180.zip",
       "description": "Converts debug/fake .pkg files on the console into ShadowMount folders or .ffpfsc / .exfat images.",
-      "version": "01.032.000",
+      "version": "01.033.000",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99180",
       "author": "desstannsoft",
-      "checksum": "04bd7ac291921b9fa83dd217bb85507591ea92acf261d1443740979bda7712d8",
+      "checksum": "4004488a7bae1a171a65ed7ac15632d0c476db0342c3746621df8b2b850e042d",
       "source": "https://github.com/desstannsoft/ps5-pkg-folderizer"
     },
     {

@@ -1,5 +1,18 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 25/10/2026 à 10:53
+* **PAYLOADS**
+  * `Ps5Upload V7.5.2` (v7.5.2) - *Nouveau*
+* **FFPFSC**
+  * `Evoplayer-V0.13.0-Ppsa99039-Pro` (v0.13.0) - *Nouveau*
+  * `Evoplayer-V0.13.0-Ppsa99039` (v0.13.0) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `PC5` (v1.3.1) - *Mise à jour (Précédent: v1.3.0)*
+  * `PSteroid5` (01.001.000) - *Mise à jour (Précédent: 01.000.000)*
+  * `Prospero Themes` (01.000.028) - *Mise à jour (Précédent: 01.000.027)*
+  * `SwanStationPS5` (1.5.1) - *Mise à jour (Précédent: 1.5.0)*
+  * `PKG Folderizer` (01.033.000) - *Mise à jour (Précédent: 01.032.000)*
+
 ## Build du 25/10/2026 à 03:22
 * **PAYLOADS**
   * `Ps5Upload V7.5.1` (v7.5.1) - *Nouveau*
