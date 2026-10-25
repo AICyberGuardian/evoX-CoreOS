@@ -1,5 +1,29 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 25/10/2026 à 03:22
+* **PAYLOADS**
+  * `Ps5Upload V7.5.1` (v7.5.1) - *Nouveau*
+  * `Pegasus-Dl V1.11.0` (pegasus-dl) - *Mise à jour (Précédent: v1.11.0)*
+* **APPS**
+  * `Ppsa99000` (v1.000.106) - *Mise à jour (Précédent: v1.000.105)*
+* **HOMEBREW_PAGE**
+  * `PC5` (v1.3.0) - *Mise à jour (Précédent: v1.2.1)*
+  * `Source Port` (0.1.0-alpha) - *Nouveau*
+  * `Prospero Themes` (01.000.027) - *Mise à jour (Précédent: 01.000.025)*
+  * `TubeBlock` (01.000.177) - *Mise à jour (Précédent: 01.000.172)*
+  * `SwanStationPS5` (1.5.0) - *Mise à jour (Précédent: 1.4.9)*
+  * `ProsperoStore` (1.000.106) - *Mise à jour (Précédent: 1.000.105)*
+  * `Media Player Classic PS5` (1.3.1) - *Mise à jour (Précédent: 1.2.3)*
+  * `ORION Media Center` (01.104.000) - *Mise à jour (Précédent: 01.103.000)*
+  * `PKG Folderizer` (01.032.000) - *Mise à jour (Précédent: 01.030.000)*
+  * `PSCord` (01.000.007) - *Nouveau*
+  * `Halo: Combat Evolved` (build-120) - *Mise à jour (Précédent: build-119)*
+  * `TokenStation5` (01.001.000) - *Mise à jour (Précédent: 01.000.001)*
+  * `PS5SD` (0.9.12) - *Mise à jour (Précédent: 0.9.11)*
+  * `I Wanna Be The Guy: Remastered Tribute Edition` (1.6.6.6) - *Nouveau*
+  * `PSBox Cloud Gaming` (1.5.4) - *Mise à jour (Précédent: 1.5.3)*
+  * `Estante` (0.5.3) - *Mise à jour (Précédent: 0.5.0)*
+
 ## Build du 24/10/2026 à 20:23
 * **PAYLOADS**
   * `Ps5Upload V7.4.3` (v7.4.3) - *Nouveau*

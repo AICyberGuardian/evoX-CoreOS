@@ -16,6 +16,20 @@
       "source": "https://github.com/Marice/ScreenTester5"
     },
     {
+      "name": "Chiral-FTP",
+      "filename": "PPSA96024.zip",
+      "url": "https://github.com/Herbrax/Chiral-FTP/releases/download/v1.1/chiral-ftp-ps5-1.1.zip",
+      "local_path": "downloads/apps/homebrew_page/tool/PPSA96024/1.1/PPSA96024.zip",
+      "description": "File manager, FTP server, FTP/SFTP client and browser web app for the PS5, with Quick connect to chiral-ftp on your Switch, Mac, Windows or Linux.",
+      "version": "1.1",
+      "category": "Tools",
+      "kind": "tool",
+      "titleid": "PPSA96024",
+      "author": "Herbrax",
+      "checksum": "ff5dcee48e4c853c039af444bb3d16172b1b14dd6a71e948d0715d55f4c9e067",
+      "source": "https://github.com/Herbrax/Chiral-FTP"
+    },
+    {
       "name": "DriftCheck",
       "filename": "PPSA98766.zip",
       "url": "https://github.com/felipemelchior/driftcheck5/releases/download/01.000.000/PPSA98766.zip",

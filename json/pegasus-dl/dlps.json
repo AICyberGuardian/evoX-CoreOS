@@ -144,6 +144,50 @@
       ]
     },
     {
+      "titleId": "PPSA99903",
+      "title": "Sonic The Hedgehog 2006 (Unofficial Port)",
+      "createdAt": "2026-10-24T20:23:23.941Z",
+      "version": "01.000",
+      "category": "game",
+      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/10/1-red-1-1.jpg",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.000 — 4.xx and beyond\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/sonic-the-hedgehog-2006-unofficial-port-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.000 Base - Akirabox - Part 1",
+          "url": "https://akirabox.to/Z9dzBB06gzk1/file"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Vikingfile - Part 1",
+          "url": "https://vikingfile.com/f/J9Y8Ogz8Xs"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - DataNodes - Part 1",
+          "url": "https://datanodes.to/ffugbaftzjr5/PPSA99903.exfat"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - FileKeeper - Part 1",
+          "url": "https://filekeeper.net/f4acbz3pwhdh/PPSA99903.exfat"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - DataNodes - Part 2",
+          "url": "https://datanodes.to/8rv43qrefl8k/PPSA99903.7z"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - FileKeeper - Part 2",
+          "url": "https://filekeeper.net/0dxm85cxlptg/PPSA99903.7z"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Akirabox - Part 2",
+          "url": "https://akirabox.to/2WVGrWOa9mkx/file"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Vikingfile - Part 2",
+          "url": "https://vikingfile.com/f/1jIKxs1Usr"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA06788",
       "title": "Resistance Retribution",
       "createdAt": "2026-10-24T13:15:55.613Z",
@@ -1724,7 +1768,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/af15dfae246d19c29e8949a4de1e4602461dfbaa74bc2be1e226ee80e28c086c",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/53f3046a8147cb52f92d0eb4c0592a308fca6f03f8ea37d3d99e018eca43c1a0",
-      "description": "Region: USA\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: USA 4.xx\nRegion: USA\nRelease note: Dump &amp; Backport by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.000.001\nRegion: USA\nRelease note: exFAT format — FW 01.000.001 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/tekken-3-ps5/",
       "downloadLinks": [
         {
@@ -1738,6 +1782,22 @@
         {
           "name": "USA 4.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/SWLjEoC0F5"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - DataNodes",
+          "url": "https://datanodes.to/s2ny57hcsaww/PPSA31291.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - FileKeeper",
+          "url": "https://filekeeper.net/xblynigge8s1/PPSA31291.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - Akirabox",
+          "url": "https://akirabox.to/RMKGJWoY8m1o/file"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/hoo2Eiu0Yb"
         }
       ]
     },
@@ -135432,46 +135492,31 @@
       ]
     },
     {
-      "titleId": "PPSA99903",
-      "title": "[exFAT] Sonic the Hedgehog 2006 (Unofficial Port)",
-      "createdAt": "2026-10-24T13:15:55.613Z",
-      "version": "01.000",
+      "titleId": "PPSA25636",
+      "title": "[exFAT] Echoes of the End Enhanced Edition",
+      "createdAt": "2026-10-24T20:23:23.941Z",
+      "version": "01.012",
       "category": "game",
-      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Sonic_the_Hedgehog_2006.webp",
-      "description": "Region: USA\nRelease note: exFAT format — FW 01.000 — 4.xx and beyond\nContributor: pippo",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/00b79f0fcbc08506ce5c7f0d377c962cabb699082e2bc21f97eb978fd1537d9d",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/fc22c20ae248e2b62e542ecdba2ac0f0e23fddb6af166b7c46ae1affe3d83061",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.012 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
       "downloadLinks": [
         {
-          "name": "USA exFAT 01.000 Base - Akirabox - Part 1",
-          "url": "https://akirabox.to/Z9dzBB06gzk1/file"
+          "name": "EUR exFAT 01.012 Base - DataNodes",
+          "url": "https://datanodes.to/5667y6n5d74n/PPSA25636.7z"
         },
         {
-          "name": "USA exFAT 01.000 Base - Vikingfile - Part 1",
-          "url": "https://vikingfile.com/f/J9Y8Ogz8Xs"
+          "name": "EUR exFAT 01.012 Base - FileKeeper",
+          "url": "https://filekeeper.net/agjyw08dzulq/PPSA25636.7z"
         },
         {
-          "name": "USA exFAT 01.000 Base - DataNodes - Part 1",
-          "url": "https://datanodes.to/ffugbaftzjr5/PPSA99903.exfat"
+          "name": "EUR exFAT 01.012 Base - Akirabox",
+          "url": "https://akirabox.to/RMKGJWbgXm1o/file"
         },
         {
-          "name": "USA exFAT 01.000 Base - FileKeeper - Part 1",
-          "url": "https://filekeeper.net/f4acbz3pwhdh/PPSA99903.exfat"
-        },
-        {
-          "name": "USA exFAT 01.000 Base - DataNodes - Part 2",
-          "url": "https://datanodes.to/8rv43qrefl8k/PPSA99903.7z"
-        },
-        {
-          "name": "USA exFAT 01.000 Base - FileKeeper - Part 2",
-          "url": "https://filekeeper.net/0dxm85cxlptg/PPSA99903.7z"
-        },
-        {
-          "name": "USA exFAT 01.000 Base - Akirabox - Part 2",
-          "url": "https://akirabox.to/2WVGrWOa9mkx/file"
-        },
-        {
-          "name": "USA exFAT 01.000 Base - Vikingfile - Part 2",
-          "url": "https://vikingfile.com/f/1jIKxs1Usr"
+          "name": "EUR exFAT 01.012 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/hT0SUjY2RK"
         }
       ]
     },

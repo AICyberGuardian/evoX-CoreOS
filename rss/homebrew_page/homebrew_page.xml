@@ -19,8 +19,8 @@
     <item>
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
-      <description>Runs PC games via Wine, DXVK and VKD3D-Proton: USB installs, auto covers, video playback, 30 to 60 fps frame generation, DualSense features. Games that need launchers are not supported.</description>
-      <pubDate>v1.2.1</pubDate>
+      <description>Runs PC games via Wine, DXVK and VKD3D-Proton: USB installs, auto covers, home screen tiles, video playback, 30 to 60 fps frame generation, DualSense features. Games needing launchers unsupported.</description>
+      <pubDate>v1.3.0</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -39,6 +39,12 @@
       <link>https://github.com/GordonProsperoMan/xash3d-ps5</link>
       <description>Native PS5 port of Xash3D FWGS: Half-Life, Opposing Force and Blue Shift up to 4K at 60 FPS with DualSense input. Needs your own Half-Life game data.</description>
       <pubDate>1.3</pubDate>
+    </item>
+    <item>
+      <title>Source Port</title>
+      <link>https://github.com/gmorb/source-port-ps5</link>
+      <description>Native PS5 port of the Source engine that runs Half-Life 2 from your own steam_legacy game files, with sound and DualSense controls.</description>
+      <pubDate>0.1.0-alpha</pubDate>
     </item>
     <item>
       <title>Middle Ages Ping Pong</title>
@@ -176,7 +182,7 @@
       <title>Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.025</pubDate>
+      <pubDate>01.000.027</pubDate>
     </item>
     <item>
       <title>Capy Mobile</title>
@@ -230,7 +236,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.172</pubDate>
+      <pubDate>01.000.177</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -242,7 +248,7 @@
       <title>SwanStationPS5</title>
       <link>https://github.com/darkxex/SwanStationPS5</link>
       <description>SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.</description>
-      <pubDate>1.4.9</pubDate>
+      <pubDate>1.5.0</pubDate>
     </item>
     <item>
       <title>ReKHCoM</title>
@@ -278,7 +284,7 @@
       <title>ProsperoStore</title>
       <link>https://github.com/darkxex/ProsperoStore</link>
       <description>Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.</description>
-      <pubDate>1.000.105</pubDate>
+      <pubDate>1.000.106</pubDate>
     </item>
     <item>
       <title>ProsperoRadio</title>
@@ -320,7 +326,7 @@
       <title>Media Player Classic PS5</title>
       <link>https://github.com/MisterTemaki/MediaPlayerClassicPS5</link>
       <description>Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.</description>
-      <pubDate>1.2.3</pubDate>
+      <pubDate>1.3.1</pubDate>
     </item>
     <item>
       <title>Forever Launcher</title>
@@ -350,7 +356,7 @@
       <title>ORION Media Center</title>
       <link>https://github.com/XeN-Made/Orion-Media-Center</link>
       <description>A launcher that shows your PS5 and PS4 games, homebrew, media apps and emulated games in one library, with box art, tabs, themes and autoboot.</description>
-      <pubDate>01.103.000</pubDate>
+      <pubDate>01.104.000</pubDate>
     </item>
     <item>
       <title>OpenNOW PS5 - Prototype</title>
@@ -408,15 +414,21 @@
     </item>
     <item>
       <title>PKG Folderizer</title>
-      <link>https://github.com/desstannoz/ps5-pkg-folderizer</link>
+      <link>https://github.com/desstannsoft/ps5-pkg-folderizer</link>
       <description>Converts debug/fake .pkg files on the console into ShadowMount folders or .ffpfsc / .exfat images.</description>
-      <pubDate>01.030.000</pubDate>
+      <pubDate>01.032.000</pubDate>
     </item>
     <item>
       <title>ForgeNX – Switch Emulator</title>
       <link>https://github.com/KernelForgeLabs/ProsperoEden-Switch-UI</link>
       <description>An independent Nintendo Switch emulator for PS5 based on ProsperoEden, featuring a redesigned launcher, customizable themes, and game library navigation.</description>
       <pubDate>v6.000.000</pubDate>
+    </item>
+    <item>
+      <title>PSCord</title>
+      <link>https://github.com/desstannsoft/pscord</link>
+      <description>A native Discord client for jailbroken PS5: servers, direct messages, voice chat and a built-in unblock.</description>
+      <pubDate>01.000.007</pubDate>
     </item>
     <item>
       <title>PS5SX2</title>
@@ -566,7 +578,7 @@
       <title>Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/halo-ce-universal</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-119</pubDate>
+      <pubDate>build-120</pubDate>
     </item>
     <item>
       <title>Jelly5</title>
@@ -595,8 +607,8 @@
     <item>
       <title>TokenStation5</title>
       <link>https://github.com/ThatRetiredDude/TokenStation5</link>
-      <description>Local AI endpoint for PS5 built on ts5, a from-scratch Vulkan LLM engine, serving an OpenAI-compatible API on your network.</description>
-      <pubDate>01.000.001</pubDate>
+      <description>Local AI endpoint for PS5: runs LLMs on the console GPU behind an OpenAI-compatible API, with API keys, Hugging Face model downloads, chat history and search, voice, and web search.</description>
+      <pubDate>01.001.000</pubDate>
     </item>
     <item>
       <title>PS5LM</title>
@@ -608,7 +620,7 @@
       <title>PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>0.9.11</pubDate>
+      <pubDate>0.9.12</pubDate>
     </item>
     <item>
       <title>PS5MG</title>
@@ -633,6 +645,12 @@
       <link>https://github.com/CHI-GETSU/GTA-SA-PS5-Homebrew</link>
       <description>GTA San Andreas for PS5: my GTA-specific Sahin/Prospero Win integration; supply legally obtained classic PC files separately, complete setup and select Joypad; upstream credits and licenses retained.</description>
       <pubDate>v0.1.0-beta</pubDate>
+    </item>
+    <item>
+      <title>I Wanna Be The Guy: Remastered Tribute Edition</title>
+      <link>https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition</link>
+      <description>Native PS5 port of I Wanna Be The Guy: Remastered on a new GameMaker 8 runtime, with Tribute mode, full DualSense support and 16 languages.</description>
+      <pubDate>1.6.6.6</pubDate>
     </item>
     <item>
       <title>Ship of Harkinian (Ocarina of Time)</title>
@@ -716,13 +734,13 @@
       <title>PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.5.3</pubDate>
+      <pubDate>1.5.4</pubDate>
     </item>
     <item>
       <title>Estante</title>
       <link>https://github.com/kauansilvalopes/estante</link>
       <description>Native PS5 library organizer: 3D shelf and catalogue, collections, favourites and emulator libraries with covers. EN/PT.</description>
-      <pubDate>0.5.0</pubDate>
+      <pubDate>0.5.3</pubDate>
     </item>
     <item>
       <title>Forwarder Manager</title>

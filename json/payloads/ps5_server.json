@@ -101,14 +101,14 @@
       "source": "https://github.com/cy33hc/ps5-ezremote-server/releases"
     },
     {
-      "name": "Ps5Upload V7.4.3",
-      "filename": "ps5upload_v7.4.3.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.4.3/ps5upload_v7.4.3.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v7.4.3/ps5upload_v7.4.3.elf",
+      "name": "Ps5Upload V7.5.1",
+      "filename": "ps5upload_v7.5.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.5.1/ps5upload_v7.5.1.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v7.5.1/ps5upload_v7.5.1.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v7.4.3",
+      "version": "v7.5.1",
       "category": "PS5 Server",
-      "checksum": "1a7dfaff37d131adac59a74a454dd0a756a503d1022bddda5b5b7e619299e667",
+      "checksum": "021c03c15d1b077558f8966ca46f38636f1934c084b930545098167e11abbc7b",
       "source": "https://github.com/phantomptr/ps5upload/releases"
     },
     {

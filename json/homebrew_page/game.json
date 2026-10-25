@@ -16,6 +16,20 @@
       "source": "https://github.com/GordonProsperoMan/xash3d-ps5"
     },
     {
+      "name": "Source Port",
+      "filename": "PPSA20040.zip",
+      "url": "https://github.com/gmorb/source-port-ps5/releases/download/v0.1.0-alpha/PPSA20040.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA20040/0.1.0-alpha/PPSA20040.zip",
+      "description": "Native PS5 port of the Source engine that runs Half-Life 2 from your own steam_legacy game files, with sound and DualSense controls.",
+      "version": "0.1.0-alpha",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA20040",
+      "author": "Gm0rb",
+      "checksum": "c2b37045462624854a09e9d1f131d5cffa43984296b9e923d150acbd4d663c54",
+      "source": "https://github.com/gmorb/source-port-ps5"
+    },
+    {
       "name": "Middle Ages Ping Pong",
       "filename": "PPSA28319.zip",
       "url": "https://github.com/STL1te/MedievalTennis/releases/download/01.000.000/PPSA28319.zip",
@@ -480,15 +494,15 @@
     {
       "name": "Halo: Combat Evolved",
       "filename": "PPSA99500.zip",
-      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-119/halo-ps5-release.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-119/PPSA99500.zip",
+      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-120/halo-ps5-release.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-120/PPSA99500.zip",
       "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-      "version": "build-119",
+      "version": "build-120",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99500",
       "author": "thelinkin3000",
-      "checksum": "b914894b9d612c56e1a31e7b2487d758a5e5e891971f00b96bd5c524747d16ce",
+      "checksum": "54d6d3a3f413c2757b9891a868275fc74a7b636af00761ea0c6a14b1222a34b5",
       "source": "https://github.com/thelinkin3000/halo-ce-universal"
     },
     {
@@ -504,6 +518,20 @@
       "author": "CHI-GETSU",
       "checksum": "4aa16e1a012d07a92f29d4607e6d13d5a440b40fba4193b8afc9bfc6575206ee",
       "source": "https://github.com/CHI-GETSU/GTA-SA-PS5-Homebrew"
+    },
+    {
+      "name": "I Wanna Be The Guy: Remastered Tribute Edition",
+      "filename": "PPSA99616.zip",
+      "url": "https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition/releases/download/v1.6.6.6/IWBTGR-TributeEdition-PS5-PPSA99616.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99616/1.6.6.6/PPSA99616.zip",
+      "description": "Native PS5 port of I Wanna Be The Guy: Remastered on a new GameMaker 8 runtime, with Tribute mode, full DualSense support and 16 languages.",
+      "version": "1.6.6.6",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99616",
+      "author": "shaman",
+      "checksum": "9639d75baa443805a198e239f623f0a8eb147893ac05e3cbde7be40cb54d71fb",
+      "source": "https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition"
     },
     {
       "name": "Ship of Harkinian (Ocarina of Time)",

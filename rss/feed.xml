@@ -191,10 +191,10 @@
       <pubDate>1.13</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V7.4.3</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.4.3/ps5upload_v7.4.3.elf</link>
+      <title>[Payloads] Ps5Upload V7.5.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v7.5.1/ps5upload_v7.5.1.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v7.4.3</pubDate>
+      <pubDate>v7.5.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -243,12 +243,6 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-Unpack/v0.1/FGG-Unpack_v0.1.elf</link>
       <description>Extract .zip and .7z archives directly on a jailbroken PlayStation 5.</description>
       <pubDate>v0.1</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Pegasus-Dl V1.11.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.11.0/pegasus-dl_v1.11.0.elf</link>
-      <description>free store webadmin http://your-ps5-ip:6970.</description>
-      <pubDate>v1.11.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5Shopappkg-Dpi</title>
@@ -743,6 +737,12 @@
       <pubDate>Spectrum-Library</pubDate>
     </item>
     <item>
+      <title>[Payloads] Pegasus-Dl V1.11.0</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>pegasus-dl</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Ps5-Phstore Vphstore</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
@@ -924,9 +924,9 @@
     </item>
     <item>
       <title>[Applications] Ppsa99000</title>
-      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.105/PPSA99000.zip</link>
+      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.106/PPSA99000.zip</link>
       <description>homebrew store</description>
-      <pubDate>v1.000.105</pubDate>
+      <pubDate>v1.000.106</pubDate>
     </item>
     <item>
       <title>[Applications] Emustore-Ps5-V0.4.0</title>
@@ -1093,8 +1093,8 @@
     <item>
       <title>[ProsperoStore] PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
-      <description>Runs PC games via Wine, DXVK and VKD3D-Proton: USB installs, auto covers, video playback, 30 to 60 fps frame generation, DualSense features. Games that need launchers are not supported.</description>
-      <pubDate>v1.2.1</pubDate>
+      <description>Runs PC games via Wine, DXVK and VKD3D-Proton: USB installs, auto covers, home screen tiles, video playback, 30 to 60 fps frame generation, DualSense features. Games needing launchers unsupported.</description>
+      <pubDate>v1.3.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Home5</title>
@@ -1113,6 +1113,12 @@
       <link>https://github.com/GordonProsperoMan/xash3d-ps5</link>
       <description>Native PS5 port of Xash3D FWGS: Half-Life, Opposing Force and Blue Shift up to 4K at 60 FPS with DualSense input. Needs your own Half-Life game data.</description>
       <pubDate>1.3</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] Source Port</title>
+      <link>https://github.com/gmorb/source-port-ps5</link>
+      <description>Native PS5 port of the Source engine that runs Half-Life 2 from your own steam_legacy game files, with sound and DualSense controls.</description>
+      <pubDate>0.1.0-alpha</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Middle Ages Ping Pong</title>
@@ -1250,7 +1256,7 @@
       <title>[ProsperoStore] Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.025</pubDate>
+      <pubDate>01.000.027</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Capy Mobile</title>
@@ -1304,7 +1310,7 @@
       <title>[ProsperoStore] TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.172</pubDate>
+      <pubDate>01.000.177</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] CD Player</title>
@@ -1316,7 +1322,7 @@
       <title>[ProsperoStore] SwanStationPS5</title>
       <link>https://github.com/darkxex/SwanStationPS5</link>
       <description>SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.</description>
-      <pubDate>1.4.9</pubDate>
+      <pubDate>1.5.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ReKHCoM</title>
@@ -1352,7 +1358,7 @@
       <title>[ProsperoStore] ProsperoStore</title>
       <link>https://github.com/darkxex/ProsperoStore</link>
       <description>Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.</description>
-      <pubDate>1.000.105</pubDate>
+      <pubDate>1.000.106</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ProsperoRadio</title>
@@ -1394,7 +1400,7 @@
       <title>[ProsperoStore] Media Player Classic PS5</title>
       <link>https://github.com/MisterTemaki/MediaPlayerClassicPS5</link>
       <description>Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.</description>
-      <pubDate>1.2.3</pubDate>
+      <pubDate>1.3.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Forever Launcher</title>
@@ -1424,7 +1430,7 @@
       <title>[ProsperoStore] ORION Media Center</title>
       <link>https://github.com/XeN-Made/Orion-Media-Center</link>
       <description>A launcher that shows your PS5 and PS4 games, homebrew, media apps and emulated games in one library, with box art, tabs, themes and autoboot.</description>
-      <pubDate>01.103.000</pubDate>
+      <pubDate>01.104.000</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] OpenNOW PS5 - Prototype</title>
@@ -1482,15 +1488,21 @@
     </item>
     <item>
       <title>[ProsperoStore] PKG Folderizer</title>
-      <link>https://github.com/desstannoz/ps5-pkg-folderizer</link>
+      <link>https://github.com/desstannsoft/ps5-pkg-folderizer</link>
       <description>Converts debug/fake .pkg files on the console into ShadowMount folders or .ffpfsc / .exfat images.</description>
-      <pubDate>01.030.000</pubDate>
+      <pubDate>01.032.000</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ForgeNX – Switch Emulator</title>
       <link>https://github.com/KernelForgeLabs/ProsperoEden-Switch-UI</link>
       <description>An independent Nintendo Switch emulator for PS5 based on ProsperoEden, featuring a redesigned launcher, customizable themes, and game library navigation.</description>
       <pubDate>v6.000.000</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] PSCord</title>
+      <link>https://github.com/desstannsoft/pscord</link>
+      <description>A native Discord client for jailbroken PS5: servers, direct messages, voice chat and a built-in unblock.</description>
+      <pubDate>01.000.007</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5SX2</title>
@@ -1640,7 +1652,7 @@
       <title>[ProsperoStore] Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/halo-ce-universal</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-119</pubDate>
+      <pubDate>build-120</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Jelly5</title>
@@ -1669,8 +1681,8 @@
     <item>
       <title>[ProsperoStore] TokenStation5</title>
       <link>https://github.com/ThatRetiredDude/TokenStation5</link>
-      <description>Local AI endpoint for PS5 built on ts5, a from-scratch Vulkan LLM engine, serving an OpenAI-compatible API on your network.</description>
-      <pubDate>01.000.001</pubDate>
+      <description>Local AI endpoint for PS5: runs LLMs on the console GPU behind an OpenAI-compatible API, with API keys, Hugging Face model downloads, chat history and search, voice, and web search.</description>
+      <pubDate>01.001.000</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5LM</title>
@@ -1682,7 +1694,7 @@
       <title>[ProsperoStore] PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>0.9.11</pubDate>
+      <pubDate>0.9.12</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5MG</title>
@@ -1707,6 +1719,12 @@
       <link>https://github.com/CHI-GETSU/GTA-SA-PS5-Homebrew</link>
       <description>GTA San Andreas for PS5: my GTA-specific Sahin/Prospero Win integration; supply legally obtained classic PC files separately, complete setup and select Joypad; upstream credits and licenses retained.</description>
       <pubDate>v0.1.0-beta</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] I Wanna Be The Guy: Remastered Tribute Edition</title>
+      <link>https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition</link>
+      <description>Native PS5 port of I Wanna Be The Guy: Remastered on a new GameMaker 8 runtime, with Tribute mode, full DualSense support and 16 languages.</description>
+      <pubDate>1.6.6.6</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Ship of Harkinian (Ocarina of Time)</title>
@@ -1790,13 +1808,13 @@
       <title>[ProsperoStore] PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.5.3</pubDate>
+      <pubDate>1.5.4</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Estante</title>
       <link>https://github.com/kauansilvalopes/estante</link>
       <description>Native PS5 library organizer: 3D shelf and catalogue, collections, favourites and emulator libraries with covers. EN/PT.</description>
-      <pubDate>0.5.0</pubDate>
+      <pubDate>0.5.3</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Forwarder Manager</title>
