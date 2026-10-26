@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.25-2038)
+### 🚀 Synthèse de la mise à jour (v2026.10.26-0323)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -110,7 +110,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `snes9xPS5_v2.9.elf`
   * `genplusgxPS5_v2.2.elf`
   * `ps5-romm_v1.3.0.elf`
-  * `fbneo-ps5_v2.0.elf`
+  * `fbneo-ps5_v2.1.elf`
   * `PHU-Sandbox.Exit_v1.0.elf`
   * `ps5-fan-control_v0.3.elf`
   * `fan_target_85c_v0.1.elf`
@@ -348,6 +348,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99510.zip`
   * `PPSA99515.zip`
   * `PPSA99520.zip`
+  * `PPSA99541.zip`
   * `PPSA99555.zip`
   * `PPSA99575.zip`
   * `PPSA99576.zip`

@@ -32,15 +32,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v1.6.2/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/1.6.2/PPSA11018.zip",
-      "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support and easy crash reports.",
-      "version": "1.6.2",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v1.6.5/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/1.6.5/PPSA11018.zip",
+      "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support, up to four players and easy crash reports.",
+      "version": "1.6.5",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "3e4eedef3349b87c84f6ebbe08f75f05379a50f5926ba16ba3a9ae0d51346762",
+      "checksum": "d8cb97b960fa8446381ddbae91c3c6a2e3a03b4a8c95ae439ea247620ef07b5a",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -228,15 +228,15 @@
     {
       "name": "Prospero Themes",
       "filename": "PPSA90210.zip",
-      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.033/PPSA90210.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.033/PPSA90210.zip",
+      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.035/PPSA90210.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.035/PPSA90210.zip",
       "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
-      "version": "01.000.033",
+      "version": "01.000.035",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA90210",
       "author": "Darkatek7",
-      "checksum": "3c37f116cf5d0ef0f6c8321a5411b298f21396d982070f58a9286c011264afd4",
+      "checksum": "e313950b72d8d38b5a0a61080e1e78126281f9c575e4fec9fd4055599ad963ad",
       "source": "https://github.com/Darkatek7/ProsperoThemes"
     },
     {
@@ -298,15 +298,15 @@
     {
       "name": "TubeBlock",
       "filename": "PPSA98260.zip",
-      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.181/SmartTube-PPSA98260.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.181/PPSA98260.zip",
+      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.183/SmartTube-PPSA98260.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.183/PPSA98260.zip",
       "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-      "version": "01.000.181",
+      "version": "01.000.183",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98260",
       "author": "animatian112",
-      "checksum": "3dfd6d51a57254120b1d020daf1fc76043aa81c05b8fc3843e1bb3564da595d9",
+      "checksum": "d703b25ba31cc79c46de054e9ddb0334840fd770da813b704154b09c122ea6bb",
       "source": "https://github.com/animatian112/ytps5-sponsorblock"
     },
     {
@@ -340,15 +340,15 @@
     {
       "name": "ProsperoStore",
       "filename": "PPSA99000.zip",
-      "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.106/PPSA99000.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99000/1.000.106/PPSA99000.zip",
+      "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.107/PPSA99000.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99000/1.000.107/PPSA99000.zip",
       "description": "Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.",
-      "version": "1.000.106",
+      "version": "1.000.107",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99000",
       "author": "BlackBearReloaded",
-      "checksum": "72b72b753bcc54e4d8a7b4e74c8f70c97b7804189320b677661d37f0c8262b0c",
+      "checksum": "71254544bb6668d86a9b19b61219bd7c56e217a77a2bc8fcffb22916c095400c",
       "source": "https://github.com/darkxex/ProsperoStore"
     },
     {
@@ -816,15 +816,15 @@
     {
       "name": "Emby5",
       "filename": "PPSA99515.zip",
-      "url": "https://github.com/bornaradusin/Emby5/releases/download/1.2.6/Emby5-1.2.6.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99515/1.2.6/PPSA99515.zip",
+      "url": "https://github.com/bornaradusin/Emby5/releases/download/1.2.9/Emby5-1.2.9.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99515/1.2.9/PPSA99515.zip",
       "description": "A native Emby/Jellyfin client for PlayStation 5 with media playback, optional Seerr requests, IPTV and VOD",
-      "version": "1.2.6",
+      "version": "1.2.9",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99515",
       "author": "bornaradusin",
-      "checksum": "eb820c6b315b5d1c90d3b75cba0c85a350c2fd46a3455c27180fa1cfe8c201b9",
+      "checksum": "a1592d81312bebb14b46490fb4aeb410e59e5d5f7e428847b3dc7952e0ae5155",
       "source": "https://github.com/bornaradusin/Emby5"
     },
     {
@@ -840,6 +840,20 @@
       "author": "Vivian",
       "checksum": "3375cb2d60a66935ca42159a0fcd336a24a0cae887efeb0972bf262a161f1e23",
       "source": "https://github.com/viviandsx/regie5"
+    },
+    {
+      "name": "isShelf",
+      "filename": "PPSA99541.zip",
+      "url": "https://github.com/Iswebro/console-shelf-ps5/releases/download/v0.1.0-beta.1/PPSA99541.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99541/v0.1.0-beta.1/PPSA99541.zip",
+      "description": "A native PS5 library front end with 52 system categories, saved layouts and clearly labelled emulator launch routes.",
+      "version": "v0.1.0-beta.1",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99541",
+      "author": "Iswebro",
+      "checksum": "4cca4e0c05b58b74733f8bc4392ba5b26bbd05232dde41932be11093a4ab91d6",
+      "source": "https://github.com/Iswebro/console-shelf-ps5"
     },
     {
       "name": "TokenStation5",
@@ -872,15 +886,15 @@
     {
       "name": "PS5SD",
       "filename": "PPSA99576.zip",
-      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.9.12/PPSA99576.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.9.12/PPSA99576.zip",
+      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.9.13/PPSA99576.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.9.13/PPSA99576.zip",
       "description": "Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.",
-      "version": "0.9.12",
+      "version": "0.9.13",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99576",
       "author": "Darkatek7",
-      "checksum": "093bb4108776e59005ba1baf773c7ba685c07fb4ab3b8cc0c0d62ac960dcf690",
+      "checksum": "53e36c1a3ab5e58b52d1fa681370cbe49d767c1626e5540b7e9f3c7c78c97b7e",
       "source": "https://github.com/Darkatek7/PS5SD"
     },
     {
@@ -942,15 +956,15 @@
     {
       "name": "Machete AI Studio",
       "filename": "PPSA99699.zip",
-      "url": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID/releases/download/v1.2.2/PPSA99699.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99699/1.2.2/PPSA99699.zip",
+      "url": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID/releases/download/v1.2.4/PPSA99699.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99699/1.2.4/PPSA99699.zip",
       "description": "Machete AI Studio: Local Video, Image and Audio generation (Sana, Kokoro, SD 3.5, Wan 2.2, LTX-Video, SDXL, FLUX) on PS5 GPU with Web UI, DualSense controls and TV dashboard.",
-      "version": "1.2.2",
+      "version": "1.2.4",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99699",
       "author": "VenezuelanBiggie24 & Darkatek7",
-      "checksum": "a47ee3dcef3bdd88b6a45936102c2cba4a5f3512b15c8caf9f15664cce7d1226",
+      "checksum": "4a2f71155950d4f56b168ae52ddd847af2d9c1d7a1a1d78e0c3b70b22102c5b2",
       "source": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID"
     },
     {
@@ -1012,15 +1026,15 @@
     {
       "name": "Estante",
       "filename": "PPSA99841.zip",
-      "url": "https://github.com/kauansilvalopes/estante/releases/download/v0.5.3/Estante-v0.5.3-PPSA99841.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99841/0.5.3/PPSA99841.zip",
+      "url": "https://github.com/kauansilvalopes/estante/releases/download/v0.5.4/Estante-v0.5.4-PPSA99841.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99841/0.5.4/PPSA99841.zip",
       "description": "Native PS5 library organizer: 3D shelf and catalogue, collections, favourites and emulator libraries with covers. EN/PT.",
-      "version": "0.5.3",
+      "version": "0.5.4",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99841",
       "author": "kauansilvalopes",
-      "checksum": "d34ed492b9a28809ed227849419b3e36986ce05e6ad54e80ad0c1b0e4e30e8c6",
+      "checksum": "eb3e1d5b30ba6581a51f823ef1107cf168d43c357e0af9e70bbbdcd7fc15da80",
       "source": "https://github.com/kauansilvalopes/estante"
     },
     {

@@ -19,8 +19,8 @@
     <item>
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
-      <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support and easy crash reports.</description>
-      <pubDate>1.6.2</pubDate>
+      <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support, up to four players and easy crash reports.</description>
+      <pubDate>1.6.5</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -182,7 +182,7 @@
       <title>Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.033</pubDate>
+      <pubDate>01.000.035</pubDate>
     </item>
     <item>
       <title>Capy Mobile</title>
@@ -236,7 +236,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.181</pubDate>
+      <pubDate>01.000.183</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -284,7 +284,7 @@
       <title>ProsperoStore</title>
       <link>https://github.com/darkxex/ProsperoStore</link>
       <description>Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.</description>
-      <pubDate>1.000.106</pubDate>
+      <pubDate>1.000.107</pubDate>
     </item>
     <item>
       <title>ProsperoRadio</title>
@@ -608,13 +608,19 @@
       <title>Emby5</title>
       <link>https://github.com/bornaradusin/Emby5</link>
       <description>A native Emby/Jellyfin client for PlayStation 5 with media playback, optional Seerr requests, IPTV and VOD</description>
-      <pubDate>1.2.6</pubDate>
+      <pubDate>1.2.9</pubDate>
     </item>
     <item>
       <title>Régie5</title>
       <link>https://github.com/viviandsx/regie5</link>
       <description>A TV remote for your self-hosted media stack: Sonarr, Radarr, Seerr and Jellyfin, Emby or Plex at a glance, with request approval, playback diagnosis and an optional cleanup.</description>
       <pubDate>0.8.0</pubDate>
+    </item>
+    <item>
+      <title>isShelf</title>
+      <link>https://github.com/Iswebro/console-shelf-ps5</link>
+      <description>A native PS5 library front end with 52 system categories, saved layouts and clearly labelled emulator launch routes.</description>
+      <pubDate>v0.1.0-beta.1</pubDate>
     </item>
     <item>
       <title>TokenStation5</title>
@@ -632,7 +638,7 @@
       <title>PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>0.9.12</pubDate>
+      <pubDate>0.9.13</pubDate>
     </item>
     <item>
       <title>PS5MG</title>
@@ -668,7 +674,7 @@
       <title>I Wanna Be The Guy: Remastered Tribute Edition</title>
       <link>https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition</link>
       <description>Native PS5 port of I Wanna Be The Guy: Remastered on a new GameMaker 8 runtime, with Tribute mode, full DualSense support and 16 languages.</description>
-      <pubDate>1.6.6.6-switch</pubDate>
+      <pubDate>1.6.6.6-tribute-ps5</pubDate>
     </item>
     <item>
       <title>Ship of Harkinian (Ocarina of Time)</title>
@@ -722,13 +728,13 @@
       <title>Machete AI Studio</title>
       <link>https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID</link>
       <description>Machete AI Studio: Local Video, Image and Audio generation (Sana, Kokoro, SD 3.5, Wan 2.2, LTX-Video, SDXL, FLUX) on PS5 GPU with Web UI, DualSense controls and TV dashboard.</description>
-      <pubDate>1.2.2</pubDate>
+      <pubDate>1.2.4</pubDate>
     </item>
     <item>
       <title>MacheteSaveGameManager</title>
       <link>https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager</link>
       <description>PS5/PS4 save manager in active development. PS5 root keys unreleased; cross-console saves use local dummy injection. Compatibility varies; share logs and feedback to help improve and fix titles.</description>
-      <pubDate>1.3.1</pubDate>
+      <pubDate>1.3.8</pubDate>
     </item>
     <item>
       <title>OpenRCT2 Native Port</title>
@@ -764,7 +770,7 @@
       <title>Estante</title>
       <link>https://github.com/kauansilvalopes/estante</link>
       <description>Native PS5 library organizer: 3D shelf and catalogue, collections, favourites and emulator libraries with covers. EN/PT.</description>
-      <pubDate>0.5.3</pubDate>
+      <pubDate>0.5.4</pubDate>
     </item>
     <item>
       <title>Forwarder Manager</title>

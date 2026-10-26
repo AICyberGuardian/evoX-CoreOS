@@ -3,6 +3,190 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA35999",
+      "title": "KINGDOM HEARTS 3 + Re Mind",
+      "createdAt": "2026-10-25T22:58:44.938Z",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ec352a88f5c8c7218baeaf8124e87a1831250abe87aaa451a0055cfbd058f688",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/16092e286efb2d1b890f0fb8c2f810861c60541b11bba11ea2e0a47fb00338b9",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA35999, v01.001, USA, 4.xx BackPort\nSize: 55GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/68pxbzt0z2zt/PPSA35999.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/svsuax8ss3xe/PPSA35999.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/APVmaMyQqmXo/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/2UBtUTudfI"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/qw1zeVLQMGXy/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/58hIVgjZV9"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/vf3kufkdp3yc/PPSA35999-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/t0nn2vgqq9il/PPSA35999-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 59055800320
+    },
+    {
+      "titleId": "PPSA35909",
+      "title": "KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE",
+      "createdAt": "2026-10-25T22:58:44.938Z",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ec352a88f5c8c7218baeaf8124e87a1831250abe87aaa451a0055cfbd058f688",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/16092e286efb2d1b890f0fb8c2f810861c60541b11bba11ea2e0a47fb00338b9",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA35909, v01.001, USA, 4.xx BackPort\nSize: 35GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/eg61j90ljh3u/PPSA35909.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/q1lo2he1s0z8/PPSA35909.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/0Kezk0L6jGD1/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/m907laj3fB"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/l76mZv4W2man/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/wBVzRYxCa2"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/s9at4nxnqchn/PPSA35909-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/jifqwbewe96s/PPSA35909-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 37580963840
+    },
+    {
+      "titleId": "PPSA35901",
+      "title": "KINGDOM HEARTS HD 1.5+2.5 ReMIX",
+      "createdAt": "2026-10-25T22:58:44.938Z",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ec352a88f5c8c7218baeaf8124e87a1831250abe87aaa451a0055cfbd058f688",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/16092e286efb2d1b890f0fb8c2f810861c60541b11bba11ea2e0a47fb00338b9",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA35901, v01.001, USA, 4.xx BackPort\nSize: 74GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/61k80aj3dc7k/PPSA35901.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/xonuwylfs774/PPSA35901.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/0JgG7anyK3oY/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/O1QhsIU9D4"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/gXeGOejQk3Aa/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/3gHmfAtmIk"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/tdd25xelg1w4/PPSA35901-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/k8vump9kejvm/PPSA35901-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 79456894976
+    },
+    {
+      "titleId": "PPSA12544",
+      "title": "Hollow Knight Silksong",
+      "createdAt": "2026-10-25T22:58:44.938Z",
+      "version": "v01.000.010",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/63615813f659e65e42c8a8ddbaff42432b8975f44d7304d0ae89e7bbfacae547",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ade1d6755bb3f843a513d52ad5a281b3495c4c7f116679c10b773bf95b3e80fc",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA12544, v01.000.010, USA, 4.xx BackPort\nSize: 8GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/sfkfiy9etzuq/PPSA12544.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/iimd168wxpnu/PPSA12544.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/0PdzyMEb6zeA/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/PZMIJWh6ld"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/9AqGQePWnGMn/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/oq3g4pr0PQ"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/et74rtib59im/PPSA12544-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/lf9bufyu1cfk/PPSA12544-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 8589934592
+    },
+    {
       "titleId": "PPSA25636",
       "title": "Echoes of the End Enhanced Edition",
       "createdAt": "2026-10-24T17:26:37.748Z",

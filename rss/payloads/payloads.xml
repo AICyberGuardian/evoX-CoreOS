@@ -443,10 +443,10 @@
       <pubDate>v1.3.0</pubDate>
     </item>
     <item>
-      <title>Fbneo-Ps5 V2.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v2.0/fbneo-ps5_v2.0.elf</link>
+      <title>Fbneo-Ps5 V2.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v2.1/fbneo-ps5_v2.1.elf</link>
       <description>FBNeo for ps5</description>
-      <pubDate>v2.0</pubDate>
+      <pubDate>v2.1</pubDate>
     </item>
     <item>
       <title>Phu-Sandbox.Exit V1.0</title>
@@ -660,9 +660,9 @@
     </item>
     <item>
       <title>Shadowmountplus</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta7/shadowmountplus.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta8/shadowmountplus.elf</link>
       <description>ShadowMountPlus payload for game mounting.</description>
-      <pubDate>1.7beta7</pubDate>
+      <pubDate>1.7beta8</pubDate>
     </item>
     <item>
       <title>Backpork V0.1</title>

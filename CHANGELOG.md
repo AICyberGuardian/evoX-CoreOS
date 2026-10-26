@@ -1,5 +1,24 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 26/10/2026 à 03:23
+* **PAYLOADS**
+  * `Fbneo-Ps5 V2.1` (v2.1) - *Nouveau*
+  * `Shadowmountplus` (1.7beta8) - *Mise à jour (Précédent: 1.7beta7)*
+* **APPS**
+  * `Ppsa99000` (v1.000.107) - *Mise à jour (Précédent: v1.000.106)*
+* **HOMEBREW_PAGE**
+  * `PC5` (1.6.5) - *Mise à jour (Précédent: 1.6.2)*
+  * `Prospero Themes` (01.000.035) - *Mise à jour (Précédent: 01.000.033)*
+  * `TubeBlock` (01.000.183) - *Mise à jour (Précédent: 01.000.181)*
+  * `ProsperoStore` (1.000.107) - *Mise à jour (Précédent: 1.000.106)*
+  * `Emby5` (1.2.9) - *Mise à jour (Précédent: 1.2.6)*
+  * `isShelf` (v0.1.0-beta.1) - *Nouveau*
+  * `PS5SD` (0.9.13) - *Mise à jour (Précédent: 0.9.12)*
+  * `I Wanna Be The Guy: Remastered Tribute Edition` (1.6.6.6-tribute-ps5) - *Mise à jour (Précédent: 1.6.6.6-switch)*
+  * `Machete AI Studio` (1.2.4) - *Mise à jour (Précédent: 1.2.2)*
+  * `MacheteSaveGameManager` (1.3.8) - *Mise à jour (Précédent: 1.3.1)*
+  * `Estante` (0.5.4) - *Mise à jour (Précédent: 0.5.3)*
+
 ## Build du 25/10/2026 à 20:38
 * **PAYLOADS**
   * `Ps5Upload V7.5.3` (v7.5.3) - *Nouveau*
