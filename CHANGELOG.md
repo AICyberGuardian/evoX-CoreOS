@@ -1,5 +1,29 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 26/10/2026 à 22:32
+* **PAYLOADS**
+  * `Ps5Upload V8.3.0` (v8.3.0) - *Nouveau*
+  * `Orbit Store` (v1.7.0) - *Mise à jour (Précédent: v1.6.0)*
+* **APPS**
+  * `Ppsa99000` (v1.000.111) - *Mise à jour (Précédent: v1.000.107)*
+* **HOMEBREW_PAGE**
+  * `PC5` (1.7.0) - *Mise à jour (Précédent: 1.6.6)*
+  * `Breeze` (1.9.1) - *Mise à jour (Précédent: 1.9)*
+  * `TubeBlock` (01.000.186) - *Mise à jour (Précédent: 01.000.183)*
+  * `SwanStationPS5` (1.5.4) - *Mise à jour (Précédent: 1.5.1)*
+  * `ProsperoStore` (1.000.111) - *Mise à jour (Précédent: 1.000.107)*
+  * `Media Player Classic PS5` (1.4) - *Mise à jour (Précédent: 1.3.1)*
+  * `PKG Folderizer` (01.046.000) - *Mise à jour (Précédent: 01.037.000)*
+  * `PSCord` (01.000.007) - *Nouveau*
+  * `James Pond 2: Codename RoboCod` (1.0.2) - *Nouveau*
+  * `Halo: Combat Evolved` (build-123) - *Mise à jour (Précédent: build-122)*
+  * `TokenStation5` (01.003.000) - *Mise à jour (Précédent: 01.002.000)*
+  * `Alembic` (0.3.2) - *Mise à jour (Précédent: 0.3.1)*
+  * `Estante` (0.5.5) - *Mise à jour (Précédent: 0.5.4)*
+  * `Trophy Manager` (0.1.0) - *Nouveau*
+  * `ProsperoCraft` (01.000.083) - *Nouveau*
+  * `YouTube Max’d` (1.4.2) - *Mise à jour (Précédent: 1.4.1)*
+
 ## Build du 26/10/2026 à 12:30
 * **PAYLOADS**
   * `Ps5Upload V8.1.1` (v8.1.1) - *Nouveau*

@@ -3,6 +3,198 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA33627",
+      "title": "Toy Story Retro Roundup!",
+      "createdAt": "2026-10-26T13:15:53.236Z",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/13eae56bcec8709378531ec5eeaac20f5c7837fcba9ce0d2d202a39df4bb9c47",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/c24904cd7985a96e93390e0c5c7cba854898c514d6bd82fcc13281e13f095276",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA33627, v01.000, USA, 4.xx BackPort\nSize: 13GB\nCredits: Files: Biogames; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/4jhiy7q2twb8/PPSA33627.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/2i85tf00azhe/PPSA33627.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/N2p3Dd2L93Ma/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/zUdlS8qMqK"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/gXeGOe2Ld3Aa/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/TVtqXgqXAE"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/nqacz4uemkei/PPSA33627-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/dwehspbglo7e/PPSA33627-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 13958643712
+    },
+    {
+      "titleId": "PPSA33626",
+      "title": "Toy Story 3 Complete Edition",
+      "createdAt": "2026-10-26T13:15:53.236Z",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/0828090dc1c8e771053f3f624b5dcace338518c6c995ad1c04092fff637ab351",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/fba9a4fbcbc69bb415993a3c60168d386c625af1ad68ae9a7583b24cbc65023d",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA33626, v01.000, USA, 4.xx BackPort\nSize: 8GB\nCredits: Files: Biogames; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/rcpupa39l9zk/PPSA33626.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/i0wfpetpo3bf/PPSA33626.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/0rpmv1vMBGRg/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/4RDfbutLK8"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/BnkmW628QGR0/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/O5UDjuTpDt"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/e8man9ls5rit/PPSA33626-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/2dtcqhyfj12y/PPSA33626-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 8589934592
+    },
+    {
+      "titleId": "PPSA27597",
+      "title": "Stellaris Console Edition",
+      "createdAt": "2026-10-26T13:15:53.236Z",
+      "version": "v02.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/bcc6f85a35d57aff98b02b2e883e5b7bcbffea78c5ba8333bbec2d297b36ba95",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/efecb5607eb974d2658f0cdac75d0591aae1688e9bf083651be439b8dece3a3a",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA27597, v02.002, USA, 4.xx BackPort\nSize: 17GB\nCredits: Files: b0mba1992; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/fodviybeicuk/PPSA27597.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/hkkrtvx2q65p/PPSA27597.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/ZvqzlpZxazaD/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/o0L9yMS5at"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/qLQ36XRP7G19/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/5w7othftPz"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/0zccamojqr1d/PPSA27597-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/usnd32hylsgg/PPSA27597-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 18253611008
+    },
+    {
+      "titleId": "PPSA21703",
+      "title": "Vampire Survivors",
+      "createdAt": "2026-10-26T13:15:53.236Z",
+      "version": "v01.016.107",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ac1517d06aec79f8fe25db7a676885ad5e715dfda5057e70aa2a6719fb0a92c4",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/a42d71dced1cd9a64cb4aef7b3adb31a8f166fdbba28f67aa5eaae696d61bda2",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA21703, v01.016.107, EUR, 4.xx BackPort\nSize: 1GB\nCredits: Files: SyrenRemix; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/k6f49dx1ie6j/DLCs_Pippo.rar"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://datavaults.co/xyjl3dc8zvit/DLCs_Pippo.rar"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/z9ggk5cuzeku/PPSA21703.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/wa0y6mwnsgpc/PPSA21703.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/jJD3Ve275ma5/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/BefZZFSlPf"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/ex5z2XpJDmKq/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/FMoUM8oYoZ"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/h13x5r8wt25r/PPSA21703-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/ha599u7ue626/PPSA21703-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
       "titleId": "PPSA35999",
       "title": "KINGDOM HEARTS 3 + Re Mind",
       "createdAt": "2026-10-25T22:58:44.938Z",

@@ -32,15 +32,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v1.6.6/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/1.6.6/PPSA11018.zip",
-      "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support, up to four players and easy crash reports.",
-      "version": "1.6.6",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v1.7.0/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/1.7.0/PPSA11018.zip",
+      "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support, up to four players, easy crash reports and built-in updates.",
+      "version": "1.7.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "43731afef5f9eabc5c83ca9664600e8f40e6991a5930b01a3996b473a63f5d92",
+      "checksum": "86d4397c159274c82f4fccf0456abc031154af967e297d232be0b3f95c0b9154",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -438,15 +438,15 @@
     {
       "name": "Breeze",
       "filename": "PPSA92878.zip",
-      "url": "https://github.com/MiladRTX/Breeze/releases/download/v1.9/PPSA92878.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA92878/1.9/PPSA92878.zip",
+      "url": "https://github.com/MiladRTX/Breeze/releases/download/v1.9.1/PPSA92878.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA92878/1.9.1/PPSA92878.zip",
       "description": "Custom fan curve for the PS5: choose how fast the fan runs at each temperature, with live readings, 24-hour history and presets.",
-      "version": "1.9",
+      "version": "1.9.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA92878",
       "author": "Milad",
-      "checksum": "b8b0e01950ca823c8eaac8cd80a3e44ee41731b016ed8ef6c59209d93f887950",
+      "checksum": "1feb0321a4b79c965b86e8ebd3b7b6a7294a19ef311df5ba831a642dd4dd527e",
       "source": "https://github.com/MiladRTX/Breeze"
     },
     {
@@ -536,15 +536,15 @@
     {
       "name": "TubeBlock",
       "filename": "PPSA98260.zip",
-      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.183/SmartTube-PPSA98260.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.183/PPSA98260.zip",
+      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.186/SmartTube-PPSA98260.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.186/PPSA98260.zip",
       "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-      "version": "01.000.183",
+      "version": "01.000.186",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98260",
       "author": "animatian112",
-      "checksum": "d703b25ba31cc79c46de054e9ddb0334840fd770da813b704154b09c122ea6bb",
+      "checksum": "9fdd896584e07bdbeab66bd5228e9a2c083af560f96d41b348a0337d9b670fe0",
       "source": "https://github.com/animatian112/ytps5-sponsorblock"
     },
     {
@@ -564,15 +564,15 @@
     {
       "name": "SwanStationPS5",
       "filename": "PPSA98510.zip",
-      "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.5.1/PPSA98510.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.5.1/PPSA98510.zip",
+      "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.5.4/PPSA98510.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.5.4/PPSA98510.zip",
       "description": "SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.",
-      "version": "1.5.1",
+      "version": "1.5.4",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98510",
       "author": "AngelXex",
-      "checksum": "25e14db88507adc9c28e3da6afc47154c69edc7cc00f881f2a81241acbefe0fd",
+      "checksum": "7c5db831f2c771c657bed5f1a4609d747c578de9226ecab1c7f59e3b15d39606",
       "source": "https://github.com/darkxex/SwanStationPS5"
     },
     {
@@ -648,15 +648,15 @@
     {
       "name": "ProsperoStore",
       "filename": "PPSA99000.zip",
-      "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.107/PPSA99000.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99000/1.000.107/PPSA99000.zip",
+      "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.111/PPSA99000.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99000/1.000.111/PPSA99000.zip",
       "description": "Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.",
-      "version": "1.000.107",
+      "version": "1.000.111",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99000",
       "author": "BlackBearReloaded",
-      "checksum": "71254544bb6668d86a9b19b61219bd7c56e217a77a2bc8fcffb22916c095400c",
+      "checksum": "d03599d850aa16e29e0c72961bc436b98b58178fc679a66537fca1240c8e4291",
       "source": "https://github.com/darkxex/ProsperoStore"
     },
     {
@@ -746,15 +746,15 @@
     {
       "name": "Media Player Classic PS5",
       "filename": "PPSA99015.zip",
-      "url": "https://github.com/MisterTemaki/MediaPlayerClassicPS5/releases/download/v1.3.1/MediaPlayerClassicPS5-v1.3.1-PPSA99015.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99015/1.3.1/PPSA99015.zip",
+      "url": "https://github.com/MisterTemaki/MediaPlayerClassicPS5/releases/download/v1.4/MediaPlayerClassicPS5-v1.4-PPSA99015.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99015/1.4/PPSA99015.zip",
       "description": "Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.",
-      "version": "1.3.1",
+      "version": "1.4",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99015",
       "author": "MisterTemaki",
-      "checksum": "945d67c561324209f868fc623b2f9d2b97fb2dd94412d7cb39d37dc1c0fd90f9",
+      "checksum": "34a73bfcadc8c0b99a6b2224128c16a95b17a93d4e825152b49f70a7becd6170",
       "source": "https://github.com/MisterTemaki/MediaPlayerClassicPS5"
     },
     {
@@ -956,16 +956,16 @@
     {
       "name": "PKG Folderizer",
       "filename": "PPSA99180.zip",
-      "url": "https://github.com/omerbicer/ps5-pkg-folderizer/releases/download/01.037.000/PPSA99180.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.037.000/PPSA99180.zip",
+      "url": "https://github.com/desstannsoftware/ps5-pkg-folderizer/releases/download/01.046.000/PPSA99180.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.046.000/PPSA99180.zip",
       "description": "Converts PS5 and PS4 debug .pkg files on the console into ShadowMount folders or .ffpkg / .ffpfs / .ffpfsc / .exfat images.",
-      "version": "01.037.000",
+      "version": "01.046.000",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99180",
       "author": "desstannsoft",
-      "checksum": "c7ec926ef87df4e88b6fb88201131c91f873b79c3c296afcbc2a1285e57c07b5",
-      "source": "https://github.com/omerbicer/ps5-pkg-folderizer"
+      "checksum": "5ffc9500410536e27d2b45a729259053e789ac6bf682cd00a3a9106f7d16d2ec",
+      "source": "https://github.com/desstannsoftware/ps5-pkg-folderizer"
     },
     {
       "name": "ForgeNX – Switch Emulator",
@@ -982,6 +982,20 @@
       "source": "https://github.com/KernelForgeLabs/ProsperoEden-Switch-UI"
     },
     {
+      "name": "PSCord",
+      "filename": "PPSA99190.zip",
+      "url": "https://github.com/desstannsoftware/pscord/releases/download/v01.000.007/PPSA99190.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99190/01.000.007/PPSA99190.zip",
+      "description": "A native Discord client for jailbroken PS5: servers, direct messages, voice chat and a built-in unblock.",
+      "version": "01.000.007",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99190",
+      "author": "desstannsoft",
+      "checksum": "cb434222ec843eaaa9d20857b4eae578e79d7936aabc7c6aea74733074d2cae4",
+      "source": "https://github.com/desstannsoftware/pscord"
+    },
+    {
       "name": "PS5SX2",
       "filename": "PPSA99203.zip",
       "url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-177/PS5SX2-vk-285-177.zip",
@@ -994,20 +1008,6 @@
       "author": "Sword",
       "checksum": "4a63f445a904808382a11b1f84d7affdf3a7a3e47a6facb3eec2bb0b1524569b",
       "source": "https://github.com/Swordpdf/PS5SX2"
-    },
-    {
-      "name": "RuneScape Launcher",
-      "filename": "PPSA99225.zip",
-      "url": "https://github.com/bizkut/ps5-runescape/releases/download/01.000.021/PPSA99225.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99225/01.000.021/PPSA99225.zip",
-      "description": "Jagex Launcher on PS5 for Old School RuneScape, with the official client or RuneLite; press L3+R3 for the on-screen keyboard.",
-      "version": "01.000.021",
-      "category": "Apps",
-      "kind": "app",
-      "titleid": "PPSA99225",
-      "author": "bizkut",
-      "checksum": "284c4904759eac4d5104a615d83026f3b1680baed18092c7237cdf405da60770",
-      "source": "https://github.com/bizkut/ps5-runescape"
     },
     {
       "name": "PSFlyCast",
@@ -1234,6 +1234,20 @@
       "source": "https://github.com/damiantw/PS5_Shipwright"
     },
     {
+      "name": "James Pond 2: Codename RoboCod",
+      "filename": "PPSA99323.zip",
+      "url": "https://github.com/griches/JamesPond2RobocodRecomp/releases/download/v1.0.2/JamesPond2-PS5-1.0.2.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99323/1.0.2/PPSA99323.zip",
+      "description": "James Pond 2: Codename RoboCod (Amiga) for PlayStation 5: a static recompilation to C++ with SDL3, in widescreen with smooth motion and Amiga 500 sound. Bring your own disk image.",
+      "version": "1.0.2",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99323",
+      "author": "Gary Riches",
+      "checksum": "261c1bba95c87d07f9aec187af4e676cbb9db5774676d7f9b9ee62f33bb0608a",
+      "source": "https://github.com/griches/JamesPond2RobocodRecomp"
+    },
+    {
       "name": "Steam Remote Play",
       "filename": "PPSA99350.zip",
       "url": "https://github.com/jmelovich/Steam-Link-PS5/releases/download/v1.1.0/PPSA99350.zip",
@@ -1348,15 +1362,15 @@
     {
       "name": "Halo: Combat Evolved",
       "filename": "PPSA99500.zip",
-      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-122/halo-ps5-release.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-122/PPSA99500.zip",
+      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-123/halo-ps5-release.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-123/PPSA99500.zip",
       "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-      "version": "build-122",
+      "version": "build-123",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99500",
       "author": "thelinkin3000",
-      "checksum": "9bbc59c8bd15feb6a54deacbb1ead5a4f6f53c45899bf8ac5987db418f05797b",
+      "checksum": "9604159b6a0006db3bad7391fd7d600857a38ab66395450b947ef94cdc5e6fc9",
       "source": "https://github.com/thelinkin3000/halo-ce-universal"
     },
     {
@@ -1432,15 +1446,15 @@
     {
       "name": "TokenStation5",
       "filename": "PPSA99555.zip",
-      "url": "https://github.com/ThatRetiredDude/TokenStation5/releases/download/01.002.000/PPSA99555.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99555/01.002.000/PPSA99555.zip",
-      "description": "Local AI endpoint for PS5: runs LLMs on the console GPU behind an OpenAI-compatible API, with API keys, Hugging Face model downloads, chat history and search, voice, and web search.",
-      "version": "01.002.000",
+      "url": "https://github.com/ThatRetiredDude/TokenStation5/releases/download/01.003.000/PPSA99555.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99555/01.003.000/PPSA99555.zip",
+      "description": "Private AI server on your PS5: Qwen and Llama on its GPU behind an OpenAI-compatible API, with API keys, Tailscale for away from home, voice in and out, chat on the TV and Hugging Face downloads.",
+      "version": "01.003.000",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99555",
       "author": "ThatRetiredDude",
-      "checksum": "29da8b827143dcbf6f5554189a2fc5a925698eb36d6c242a49b15bb21e00ac81",
+      "checksum": "0144e1d7511d27e4c727f5f12c79049bb1ed1c98817b19004049be1e4031747e",
       "source": "https://github.com/ThatRetiredDude/TokenStation5"
     },
     {
@@ -1502,15 +1516,15 @@
     {
       "name": "Alembic",
       "filename": "PPSA99594.zip",
-      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.3.1/alembic-app-v0.3.1.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.3.1/PPSA99594.zip",
-      "description": "Converts PS5 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC.",
-      "version": "0.3.1",
+      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.3.2/alembic-app-v0.3.2.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.3.2/PPSA99594.zip",
+      "description": "Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC.",
+      "version": "0.3.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99594",
       "author": "Fatih Doğan",
-      "checksum": "7c8212f2fe997aef3de95ddaef04ae5bcd3d3417c88856e3d8bea46969d1c2fc",
+      "checksum": "c440557a028e4cbb8b6eec24003a23e4d6162d8c8a795b4b4db35cd094c87fb9",
       "source": "https://github.com/fthdgn-gh/Alembic"
     },
     {
@@ -1768,16 +1782,44 @@
     {
       "name": "Estante",
       "filename": "PPSA99841.zip",
-      "url": "https://github.com/kauansilvalopes/estante/releases/download/v0.5.4/Estante-v0.5.4-PPSA99841.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99841/0.5.4/PPSA99841.zip",
-      "description": "Native PS5 library organizer: 3D shelf and catalogue, collections, favourites and emulator libraries with covers. EN/PT.",
-      "version": "0.5.4",
+      "url": "https://github.com/kauansilvalopes/estante/releases/download/v0.5.5/Estante-v0.5.5-PPSA99841.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99841/0.5.5/PPSA99841.zip",
+      "description": "Native PS5 library organizer: 3D shelf and catalogue, collections, favourites and emulator libraries with covers. EN/PT/ES.",
+      "version": "0.5.5",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99841",
       "author": "kauansilvalopes",
-      "checksum": "eb3e1d5b30ba6581a51f823ef1107cf168d43c357e0af9e70bbbdcd7fc15da80",
+      "checksum": "b34244490a5c65e2abf324b47f5dd6b6c441962fe8818f2c7486174968053c84",
       "source": "https://github.com/kauansilvalopes/estante"
+    },
+    {
+      "name": "Trophy Manager",
+      "filename": "PPSA99842.zip",
+      "url": "https://github.com/kauansilvalopes/trophy/releases/download/v0.1.0/Trophy-Manager-v0.1.0-PPSA99842.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99842/0.1.0/PPSA99842.zip",
+      "description": "Native PS5 trophy manager: see, unlock, lock and back up the trophies of your games, from the console with the controller. EN/PT/ES.",
+      "version": "0.1.0",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99842",
+      "author": "kauansilvalopes",
+      "checksum": "a7c405da208bdf3572eb55b2ca0c51fca2b7dcb99a57e5f6d16be7e9361d53b1",
+      "source": "https://github.com/kauansilvalopes/trophy"
+    },
+    {
+      "name": "ProsperoCraft",
+      "filename": "PPSA99874.zip",
+      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.083/PPSA99874.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.083/PPSA99874.zip",
+      "description": "Native Minecraft Java launcher for PS5. Download and play the 26.3 demo, manage isolated instances and use DualSense controls. Microsoft app approval pending.",
+      "version": "01.000.083",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99874",
+      "author": "mateo-cogeanu",
+      "checksum": "8fcbdc8cb9cc8065aa0eaac26457a834fffb15098725e987df1d33257a76444e",
+      "source": "https://github.com/mateo-cogeanu/ProsperoCraft"
     },
     {
       "name": "Forwarder Manager",
@@ -1796,15 +1838,15 @@
     {
       "name": "YouTube Max’d",
       "filename": "PPSA99991.zip",
-      "url": "https://github.com/HandshakeHackin/youtube-maxd/releases/download/v1.4.1/PPSA99991.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99991/1.4.1/PPSA99991.zip",
+      "url": "https://github.com/HandshakeHackin/youtube-maxd/releases/download/v1.4.2/PPSA99991.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99991/1.4.2/PPSA99991.zip",
       "description": "Standalone PS5 YouTube client based on ProsperoTube, with local voice search, Smart playlists, adaptive quality and red/white DualSense effects.",
-      "version": "1.4.1",
+      "version": "1.4.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99991",
       "author": "HandshakeHackin",
-      "checksum": "18cecdfb565a13decd42046d2bc112aafa729ea53d00fdfc149a2ae4cf0fc003",
+      "checksum": "a0bc2b8d13425eae776324ee1d01064ecc4816b47db1f65cede129fbfe8e0d9b",
       "source": "https://github.com/HandshakeHackin/youtube-maxd"
     },
     {

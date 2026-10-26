@@ -436,6 +436,20 @@
       "source": "https://github.com/damiantw/PS5_Shipwright"
     },
     {
+      "name": "James Pond 2: Codename RoboCod",
+      "filename": "PPSA99323.zip",
+      "url": "https://github.com/griches/JamesPond2RobocodRecomp/releases/download/v1.0.2/JamesPond2-PS5-1.0.2.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99323/1.0.2/PPSA99323.zip",
+      "description": "James Pond 2: Codename RoboCod (Amiga) for PlayStation 5: a static recompilation to C++ with SDL3, in widescreen with smooth motion and Amiga 500 sound. Bring your own disk image.",
+      "version": "1.0.2",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99323",
+      "author": "Gary Riches",
+      "checksum": "261c1bba95c87d07f9aec187af4e676cbb9db5774676d7f9b9ee62f33bb0608a",
+      "source": "https://github.com/griches/JamesPond2RobocodRecomp"
+    },
+    {
       "name": "NFS Black Box",
       "filename": "PPSA99403.zip",
       "url": "https://github.com/lavavex/nfs-blackbox-ps5/releases/download/01.000.000/PPSA99403.zip",
@@ -494,15 +508,15 @@
     {
       "name": "Halo: Combat Evolved",
       "filename": "PPSA99500.zip",
-      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-122/halo-ps5-release.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-122/PPSA99500.zip",
+      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-123/halo-ps5-release.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-123/PPSA99500.zip",
       "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-      "version": "build-122",
+      "version": "build-123",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99500",
       "author": "thelinkin3000",
-      "checksum": "9bbc59c8bd15feb6a54deacbb1ead5a4f6f53c45899bf8ac5987db418f05797b",
+      "checksum": "9604159b6a0006db3bad7391fd7d600857a38ab66395450b947ef94cdc5e6fc9",
       "source": "https://github.com/thelinkin3000/halo-ce-universal"
     },
     {
@@ -658,6 +672,20 @@
       "author": "lowbit",
       "checksum": "f5c3d0a2168b5527a08ab2f335ab89057ab93082cde08813b6567b156fb1667e",
       "source": "https://github.com/lowbit/ps5-openrct2"
+    },
+    {
+      "name": "ProsperoCraft",
+      "filename": "PPSA99874.zip",
+      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.083/PPSA99874.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.083/PPSA99874.zip",
+      "description": "Native Minecraft Java launcher for PS5. Download and play the 26.3 demo, manage isolated instances and use DualSense controls. Microsoft app approval pending.",
+      "version": "01.000.083",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99874",
+      "author": "mateo-cogeanu",
+      "checksum": "8fcbdc8cb9cc8065aa0eaac26457a834fffb15098725e987df1d33257a76444e",
+      "source": "https://github.com/mateo-cogeanu/ProsperoCraft"
     },
     {
       "name": "Pulse",

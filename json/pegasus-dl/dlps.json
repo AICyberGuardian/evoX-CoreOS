@@ -3,6 +3,121 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA04075",
+      "title": "River City Girls",
+      "createdAt": "2026-10-26T13:03:45.575Z",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA04075_c9659daf567ceea1c1ff0fa650cde32fe86c994e41b8723e9fc8d190a01b596c/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 3.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/river-city-girls-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 3.xx Base - Akirabox",
+          "url": "https://akirabox.to/9AqGQePAJGMn/file"
+        },
+        {
+          "name": "USA 3.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/yCbCa"
+        },
+        {
+          "name": "USA 3.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/dsGBSUHxUR"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA06094",
+      "title": "GigaBash",
+      "createdAt": "2026-10-26T13:03:45.575Z",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06094_d47e5196802d8abc9e49afad2f58606b99d201d7b454729cbf560d1fec932d75/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 6.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/gigabash-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 6.xx Base - Akirabox",
+          "url": "https://akirabox.to/BnkmW6K1QGR0/file"
+        },
+        {
+          "name": "USA 6.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1CR38y"
+        },
+        {
+          "name": "USA 6.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/HrokJoFoB2"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA22715",
+      "title": "Story of Seasons Grand Bazaar",
+      "createdAt": "2026-10-26T13:03:45.575Z",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA22715_03e9bb6aa98589e3292b6660d82cc48c9a7b17fc3076e853ec96270a412570df/icon0.webp",
+      "description": "Region: JPN\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/story-of-seasons-grand-bazaar-ps5/",
+      "downloadLinks": [
+        {
+          "name": "JPN 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/ex5z2XnWDmKq/file"
+        },
+        {
+          "name": "JPN 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/12ES48"
+        },
+        {
+          "name": "JPN 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/j3K2WzfRS0"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA28548",
+      "title": "Harvest Moon The Winds of Anthos Complete",
+      "createdAt": "2026-10-26T13:03:45.575Z",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28548_16913369fcdd074863e2379e08fca0858311890fad5902d3f4980017d6137985/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/harvest-moon-the-winds-of-anthos-complete-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/0JgG7an2n3oY/file"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/uAkL2"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/TMQCYPweHQ"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA17837",
+      "title": "Ib",
+      "createdAt": "2026-10-26T13:03:45.575Z",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA17837_685cf651f87a3b5aa16ad9a7b3cd4cf24dc58ab2669420d30b25cba9ec41d5f6/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 7.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/ib-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/7d5GLoBkLzxR/file"
+        },
+        {
+          "name": "USA 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/q8tTU"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/KuWyK01H0p"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA14300",
       "title": "LEGO Star Wars 2 The Original Trilogy",
       "createdAt": "2026-10-26T06:57:03.026Z",
@@ -3491,7 +3606,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/bcc6f85a35d57aff98b02b2e883e5b7bcbffea78c5ba8333bbec2d297b36ba95",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/efecb5607eb974d2658f0cdac75d0591aae1688e9bf083651be439b8dece3a3a",
-      "description": "Region: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: EUR 11.xx\nRegion: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 02.002\nRegion: USA\nRelease note: exFAT format — FW 02.002 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/stellaris-console-edition-ps5/",
       "downloadLinks": [
         {
@@ -3501,6 +3616,22 @@
         {
           "name": "EUR 11.xx Base - Rootz",
           "url": "https://www.rootz.so/d/zQZpQ"
+        },
+        {
+          "name": "USA exFAT 02.002 Base - DataNodes",
+          "url": "https://datanodes.to/fodviybeicuk/PPSA27597.7z"
+        },
+        {
+          "name": "USA exFAT 02.002 Base - FileKeeper",
+          "url": "https://filekeeper.net/hkkrtvx2q65p/PPSA27597.7z"
+        },
+        {
+          "name": "USA exFAT 02.002 Base - Akirabox",
+          "url": "https://akirabox.to/ZvqzlpZxazaD/file"
+        },
+        {
+          "name": "USA exFAT 02.002 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/o0L9yMS5at"
         }
       ]
     },
@@ -4738,7 +4869,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/ac1517d06aec79f8fe25db7a676885ad5e715dfda5057e70aa2a6719fb0a92c4",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/a42d71dced1cd9a64cb4aef7b3adb31a8f166fdbba28f67aa5eaae696d61bda2",
-      "description": "Region: EUR\nRelease note: Works on 9.xx and higher\nContributor: @SyrenRemix and DLPS Team\nPassword: DLPSGAME.COM",
+      "description": "Variant: EUR 9.xx\nRegion: EUR\nRelease note: Works on 9.xx and higher\nContributor: @SyrenRemix and DLPS Team\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.016.107\nRegion: EUR\nRelease note: exFAT format — FW 01.016.107 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/vampire-survivors-ps5/",
       "downloadLinks": [
         {
@@ -4752,6 +4883,22 @@
         {
           "name": "EUR 9.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/tCWitVYNbW"
+        },
+        {
+          "name": "EUR exFAT 01.016.107 Base - DataNodes",
+          "url": "https://datanodes.to/z9ggk5cuzeku/PPSA21703.7z"
+        },
+        {
+          "name": "EUR exFAT 01.016.107 Base - FileKeeper",
+          "url": "https://filekeeper.net/wa0y6mwnsgpc/PPSA21703.7z"
+        },
+        {
+          "name": "EUR exFAT 01.016.107 Base - Akirabox",
+          "url": "https://akirabox.to/jJD3Ve275ma5/file"
+        },
+        {
+          "name": "EUR exFAT 01.016.107 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/BefZZFSlPf"
         }
       ]
     },
@@ -10130,20 +10277,32 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/63615813f659e65e42c8a8ddbaff42432b8975f44d7304d0ae89e7bbfacae547",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ade1d6755bb3f843a513d52ad5a281b3495c4c7f116679c10b773bf95b3e80fc",
-      "description": "Variant: EUR 11.xx\nRegion: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.000.010\nRegion: USA\nRelease note: exFAT format — FW 01.000.010 — 4.xx BackPort\nContributor: pippo",
+      "description": "Variant: EUR 11.xx\nRegion: EUR\nRelease note: Works on 11.xx and higher\nContributor: Thanks to Duplex for the game files and EGod Lelgo for the backport\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.000.010\nRegion: USA\nRelease note: exFAT format — FW 01.000.010 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/hollow-knight-silksong-ps5/",
       "downloadLinks": [
         {
-          "name": "EUR 11.xx Base - Akirabox",
+          "name": "EUR 11.xx Base - Akirabox part 1",
           "url": "https://akirabox.com/0JgG757Nn3oY/file"
         },
         {
-          "name": "EUR 11.xx Base - Rootz",
+          "name": "EUR 11.xx Base - Rootz part 1",
           "url": "https://www.rootz.so/d/ArPyS"
         },
         {
-          "name": "EUR 11.xx Base - Vikingfile",
+          "name": "EUR 11.xx Base - Vikingfile part 1",
           "url": "https://vikingfile.com/f/yFp3IDkAFn"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/APVmabAVV3Xo/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/rjchM"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/B8XMPG4Atz"
         },
         {
           "name": "USA exFAT 01.000.010 Base - DataNodes",
@@ -137316,6 +137475,64 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://datavaults.co/6qmhde3tm198"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA33627",
+      "title": "[exFAT] Toy Story Retro Roundup!",
+      "createdAt": "2026-10-26T21:11:01.647Z",
+      "version": "01.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/13eae56bcec8709378531ec5eeaac20f5c7837fcba9ce0d2d202a39df4bb9c47",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/c24904cd7985a96e93390e0c5c7cba854898c514d6bd82fcc13281e13f095276",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.000 Base - DataNodes",
+          "url": "https://datanodes.to/4jhiy7q2twb8/PPSA33627.7z"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - FileKeeper",
+          "url": "https://filekeeper.net/2i85tf00azhe/PPSA33627.7z"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Akirabox",
+          "url": "https://akirabox.to/N2p3Dd2L93Ma/file"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/zUdlS8qMqK"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA33626",
+      "title": "[exFAT] Toy Story 3 Complete Edition",
+      "createdAt": "2026-10-26T21:11:01.647Z",
+      "version": "01.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/0828090dc1c8e771053f3f624b5dcace338518c6c995ad1c04092fff637ab351",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/fba9a4fbcbc69bb415993a3c60168d386c625af1ad68ae9a7583b24cbc65023d",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.000 Base - DataNodes",
+          "url": "https://datanodes.to/rcpupa39l9zk/PPSA33626.7z"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - FileKeeper",
+          "url": "https://filekeeper.net/i0wfpetpo3bf/PPSA33626.7z"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Akirabox",
+          "url": "https://akirabox.to/0rpmv1vMBGRg/file"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/4RDfbutLK8"
         }
       ]
     },

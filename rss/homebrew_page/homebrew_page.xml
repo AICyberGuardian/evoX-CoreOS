@@ -19,8 +19,8 @@
     <item>
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
-      <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support, up to four players and easy crash reports.</description>
-      <pubDate>1.6.6</pubDate>
+      <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support, up to four players, easy crash reports and built-in updates.</description>
+      <pubDate>1.7.0</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -194,7 +194,7 @@
       <title>Breeze</title>
       <link>https://github.com/MiladRTX/Breeze</link>
       <description>Custom fan curve for the PS5: choose how fast the fan runs at each temperature, with live readings, 24-hour history and presets.</description>
-      <pubDate>1.9</pubDate>
+      <pubDate>1.9.1</pubDate>
     </item>
     <item>
       <title>Raptor: Call of the Shadows (PS5)</title>
@@ -236,7 +236,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.183</pubDate>
+      <pubDate>01.000.186</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -248,7 +248,7 @@
       <title>SwanStationPS5</title>
       <link>https://github.com/darkxex/SwanStationPS5</link>
       <description>SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.</description>
-      <pubDate>1.5.1</pubDate>
+      <pubDate>1.5.4</pubDate>
     </item>
     <item>
       <title>ReKHCoM</title>
@@ -284,7 +284,7 @@
       <title>ProsperoStore</title>
       <link>https://github.com/darkxex/ProsperoStore</link>
       <description>Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.</description>
-      <pubDate>1.000.107</pubDate>
+      <pubDate>1.000.111</pubDate>
     </item>
     <item>
       <title>ProsperoRadio</title>
@@ -326,7 +326,7 @@
       <title>Media Player Classic PS5</title>
       <link>https://github.com/MisterTemaki/MediaPlayerClassicPS5</link>
       <description>Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.</description>
-      <pubDate>1.3.1</pubDate>
+      <pubDate>1.4</pubDate>
     </item>
     <item>
       <title>Forever Launcher</title>
@@ -414,9 +414,9 @@
     </item>
     <item>
       <title>PKG Folderizer</title>
-      <link>https://github.com/omerbicer/ps5-pkg-folderizer</link>
+      <link>https://github.com/desstannsoftware/ps5-pkg-folderizer</link>
       <description>Converts PS5 and PS4 debug .pkg files on the console into ShadowMount folders or .ffpkg / .ffpfs / .ffpfsc / .exfat images.</description>
-      <pubDate>01.037.000</pubDate>
+      <pubDate>01.046.000</pubDate>
     </item>
     <item>
       <title>ForgeNX – Switch Emulator</title>
@@ -425,16 +425,16 @@
       <pubDate>v6.000.000</pubDate>
     </item>
     <item>
+      <title>PSCord</title>
+      <link>https://github.com/desstannsoftware/pscord</link>
+      <description>A native Discord client for jailbroken PS5: servers, direct messages, voice chat and a built-in unblock.</description>
+      <pubDate>01.000.007</pubDate>
+    </item>
+    <item>
       <title>PS5SX2</title>
       <link>https://github.com/Swordpdf/PS5SX2</link>
       <description>PCSX2 port for PS5 that runs PS2 games natively with a Vulkan renderer, up to 6x resolution and settings from your phone. Bring your own BIOS and games.</description>
       <pubDate>vk-285-177</pubDate>
-    </item>
-    <item>
-      <title>RuneScape Launcher</title>
-      <link>https://github.com/bizkut/ps5-runescape</link>
-      <description>Jagex Launcher on PS5 for Old School RuneScape, with the official client or RuneLite; press L3+R3 for the on-screen keyboard.</description>
-      <pubDate>01.000.021</pubDate>
     </item>
     <item>
       <title>PSFlyCast</title>
@@ -533,6 +533,12 @@
       <pubDate>01.000.000</pubDate>
     </item>
     <item>
+      <title>James Pond 2: Codename RoboCod</title>
+      <link>https://github.com/griches/JamesPond2RobocodRecomp</link>
+      <description>James Pond 2: Codename RoboCod (Amiga) for PlayStation 5: a static recompilation to C++ with SDL3, in widescreen with smooth motion and Amiga 500 sound. Bring your own disk image.</description>
+      <pubDate>1.0.2</pubDate>
+    </item>
+    <item>
       <title>Steam Remote Play</title>
       <link>https://github.com/jmelovich/Steam-Link-PS5</link>
       <description>An unofficial Steam Remote Play client for PS5.</description>
@@ -584,7 +590,7 @@
       <title>Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/halo-ce-universal</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-122</pubDate>
+      <pubDate>build-123</pubDate>
     </item>
     <item>
       <title>Jelly5</title>
@@ -619,8 +625,8 @@
     <item>
       <title>TokenStation5</title>
       <link>https://github.com/ThatRetiredDude/TokenStation5</link>
-      <description>Local AI endpoint for PS5: runs LLMs on the console GPU behind an OpenAI-compatible API, with API keys, Hugging Face model downloads, chat history and search, voice, and web search.</description>
-      <pubDate>01.002.000</pubDate>
+      <description>Private AI server on your PS5: Qwen and Llama on its GPU behind an OpenAI-compatible API, with API keys, Tailscale for away from home, voice in and out, chat on the TV and Hugging Face downloads.</description>
+      <pubDate>01.003.000</pubDate>
     </item>
     <item>
       <title>PS5LM</title>
@@ -649,8 +655,8 @@
     <item>
       <title>Alembic</title>
       <link>https://github.com/fthdgn-gh/Alembic</link>
-      <description>Converts PS5 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC.</description>
-      <pubDate>0.3.1</pubDate>
+      <description>Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC.</description>
+      <pubDate>0.3.2</pubDate>
     </item>
     <item>
       <title>Cloud Play</title>
@@ -763,8 +769,20 @@
     <item>
       <title>Estante</title>
       <link>https://github.com/kauansilvalopes/estante</link>
-      <description>Native PS5 library organizer: 3D shelf and catalogue, collections, favourites and emulator libraries with covers. EN/PT.</description>
-      <pubDate>0.5.4</pubDate>
+      <description>Native PS5 library organizer: 3D shelf and catalogue, collections, favourites and emulator libraries with covers. EN/PT/ES.</description>
+      <pubDate>0.5.5</pubDate>
+    </item>
+    <item>
+      <title>Trophy Manager</title>
+      <link>https://github.com/kauansilvalopes/trophy</link>
+      <description>Native PS5 trophy manager: see, unlock, lock and back up the trophies of your games, from the console with the controller. EN/PT/ES.</description>
+      <pubDate>0.1.0</pubDate>
+    </item>
+    <item>
+      <title>ProsperoCraft</title>
+      <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
+      <description>Native Minecraft Java launcher for PS5. Download and play the 26.3 demo, manage isolated instances and use DualSense controls. Microsoft app approval pending.</description>
+      <pubDate>01.000.083</pubDate>
     </item>
     <item>
       <title>Forwarder Manager</title>
@@ -776,7 +794,7 @@
       <title>YouTube Max’d</title>
       <link>https://github.com/HandshakeHackin/youtube-maxd</link>
       <description>Standalone PS5 YouTube client based on ProsperoTube, with local voice search, Smart playlists, adaptive quality and red/white DualSense effects.</description>
-      <pubDate>1.4.1</pubDate>
+      <pubDate>1.4.2</pubDate>
     </item>
     <item>
       <title>Pulse</title>
