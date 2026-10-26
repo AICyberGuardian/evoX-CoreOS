@@ -1,5 +1,14 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 26/10/2026 à 12:30
+* **PAYLOADS**
+  * `Ps5Upload V8.1.1` (v8.1.1) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `PC5` (1.6.6) - *Mise à jour (Précédent: 1.6.5)*
+  * `Prospero Themes` (01.000.037) - *Mise à jour (Précédent: 01.000.035)*
+  * `PKG Folderizer` (01.037.000) - *Mise à jour (Précédent: 01.036.000)*
+  * `MacheteSaveGameManager` (1.3.11) - *Mise à jour (Précédent: 1.3.8)*
+
 ## Build du 26/10/2026 à 03:23
 * **PAYLOADS**
   * `Fbneo-Ps5 V2.1` (v2.1) - *Nouveau*

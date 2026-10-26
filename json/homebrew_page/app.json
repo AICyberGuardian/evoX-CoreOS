@@ -32,15 +32,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v1.6.5/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/1.6.5/PPSA11018.zip",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v1.6.6/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/1.6.6/PPSA11018.zip",
       "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support, up to four players and easy crash reports.",
-      "version": "1.6.5",
+      "version": "1.6.6",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "d8cb97b960fa8446381ddbae91c3c6a2e3a03b4a8c95ae439ea247620ef07b5a",
+      "checksum": "43731afef5f9eabc5c83ca9664600e8f40e6991a5930b01a3996b473a63f5d92",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -228,15 +228,15 @@
     {
       "name": "Prospero Themes",
       "filename": "PPSA90210.zip",
-      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.035/PPSA90210.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.035/PPSA90210.zip",
+      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.037/PPSA90210.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.037/PPSA90210.zip",
       "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
-      "version": "01.000.035",
+      "version": "01.000.037",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA90210",
       "author": "Darkatek7",
-      "checksum": "e313950b72d8d38b5a0a61080e1e78126281f9c575e4fec9fd4055599ad963ad",
+      "checksum": "8f246efc717445db92a361b4f608f8384bc48b9b4dded5302cab5c158bee60dd",
       "source": "https://github.com/Darkatek7/ProsperoThemes"
     },
     {
@@ -606,16 +606,16 @@
     {
       "name": "PKG Folderizer",
       "filename": "PPSA99180.zip",
-      "url": "https://github.com/desstannsoft/ps5-pkg-folderizer/releases/download/01.036.000/PPSA99180.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.036.000/PPSA99180.zip",
-      "description": "Converts debug/fake .pkg files on the console into ShadowMount folders or .ffpfsc / .exfat images.",
-      "version": "01.036.000",
+      "url": "https://github.com/omerbicer/ps5-pkg-folderizer/releases/download/01.037.000/PPSA99180.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.037.000/PPSA99180.zip",
+      "description": "Converts PS5 and PS4 debug .pkg files on the console into ShadowMount folders or .ffpkg / .ffpfs / .ffpfsc / .exfat images.",
+      "version": "01.037.000",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99180",
       "author": "desstannsoft",
-      "checksum": "01857f7e370002338a37c9690a598dfca3c9aaf16feda856fdee59c8014307a1",
-      "source": "https://github.com/desstannsoft/ps5-pkg-folderizer"
+      "checksum": "c7ec926ef87df4e88b6fb88201131c91f873b79c3c296afcbc2a1285e57c07b5",
+      "source": "https://github.com/omerbicer/ps5-pkg-folderizer"
     },
     {
       "name": "ForgeNX – Switch Emulator",
@@ -630,20 +630,6 @@
       "author": "KernelForgeLabs",
       "checksum": "e18ce297a1834f98e4faad58f83f03b064b797d956ccc46138b5a8ad257399a3",
       "source": "https://github.com/KernelForgeLabs/ProsperoEden-Switch-UI"
-    },
-    {
-      "name": "PSCord",
-      "filename": "PPSA99190.zip",
-      "url": "https://github.com/desstannsoft/pscord/releases/download/v01.000.007/PSCord-01.000.007.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99190/01.000.007/PPSA99190.zip",
-      "description": "A native Discord client for jailbroken PS5: servers, direct messages, voice chat and a built-in unblock.",
-      "version": "01.000.007",
-      "category": "Apps",
-      "kind": "app",
-      "titleid": "PPSA99190",
-      "author": "desstannsoft",
-      "checksum": "a56cc8f00bcf267a7cc5748c00cde21394bae3c572541dc972e979ebbd197983",
-      "source": "https://github.com/desstannsoft/pscord"
     },
     {
       "name": "PS5SX2",

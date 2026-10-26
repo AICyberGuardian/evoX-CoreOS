@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.26-0323)
+### 🚀 Synthèse de la mise à jour (v2026.10.26-1230)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -68,7 +68,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-server_v1.13.elf`
-  * `ps5upload_v7.5.3.elf`
+  * `ps5upload_v8.1.1.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `PS_Game_State_Lib_v0.1.elf`
@@ -316,7 +316,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99169.zip`
   * `PPSA99180.zip`
   * `PPSA99186.zip`
-  * `PPSA99190.zip`
   * `PPSA99203.zip`
   * `PPSA99225.zip`
   * `PPSA99247.zip`
