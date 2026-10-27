@@ -3,6 +3,52 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA27836",
+      "title": "Onimusha Way of The Sword",
+      "createdAt": "2026-10-27T17:49:15.190Z",
+      "version": "v01.000.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/5968b7e17c68278572e376260490ed13bdaedafcbfcafef8d9b308a7aa54b968",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ddd4bdde4a674e42db85d017de8a875a148a3dd31051e0ff422e94a837f6c5a2",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA27836, v01.000.001, USA, 4.xx BackPort\nSize: 77GB\nCredits: Files: DUPLEX; Backport: ManwonHp\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/ni01mfb9fkqg/PPSA27836.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/dxzku5j4scjz/PPSA27836.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/k0embky183Vb/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/Qtuv25FfvV"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/1RgzRLdlombp/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/ezGSmZtzxW"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/n9v3icv06amh/PPSA27836-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/d582r2hiyv8g/PPSA27836-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 82678120448
+    },
+    {
       "titleId": "PPSA24249",
       "title": "1348 Ex Voto",
       "createdAt": "2026-10-27T10:41:40.083Z",

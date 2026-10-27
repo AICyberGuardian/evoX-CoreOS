@@ -1,5 +1,24 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 27/10/2026 à 22:06
+* **PAYLOADS**
+  * `Shadowmountplus` (1.7beta9) - *Mise à jour (Précédent: 1.7beta8)*
+* **APPS**
+  * `Ppsa99000` (v1.000.114) - *Mise à jour (Précédent: v1.000.113)*
+* **HOMEBREW_PAGE**
+  * `Playden` (0.8.0-beta.1) - *Mise à jour (Précédent: 0.7.2)*
+  * `PC5` (1.8.7) - *Mise à jour (Précédent: 1.8.6)*
+  * `JSRF Unleashed` (00.001.000) - *Nouveau*
+  * `TubeBlock` (01.000.187) - *Mise à jour (Précédent: 01.000.186)*
+  * `SwanStationPS5` (1.5.6) - *Mise à jour (Précédent: 1.5.5)*
+  * `ProsperoStore` (1.000.114) - *Mise à jour (Précédent: 1.000.113)*
+  * `PKG Folderizer` (01.049.000) - *Mise à jour (Précédent: 01.048.000)*
+  * `PSCord` (01.000.009) - *Mise à jour (Précédent: 01.000.007)*
+  * `PSFlyCast` (1.3.4) - *Mise à jour (Précédent: 1.3.3)*
+  * `Nuvio Max'd` (1.0.0.2-native-experimental) - *Mise à jour (Précédent: 1.0.0.1-native-experimental)*
+  * `PS5SD` (0.9.14) - *Mise à jour (Précédent: 0.9.13)*
+  * `ProsperoCraft` (01.000.108) - *Mise à jour (Précédent: 01.000.101)*
+
 ## Build du 27/10/2026 à 18:02
 * **APPS**
   * `Ppsa99000` (v1.000.113) - *Mise à jour (Précédent: v1.000.112)*

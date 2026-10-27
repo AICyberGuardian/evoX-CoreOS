@@ -142,6 +142,20 @@
       "source": "https://github.com/Marice/a2-racer-2-ps5"
     },
     {
+      "name": "JSRF Unleashed",
+      "filename": "PPSA69431.zip",
+      "url": "https://github.com/Marice/jsrf-ps5/releases/download/v00.001.000/JSRFUnleashed-PS5-00.001.000.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA69431/00.001.000/PPSA69431.zip",
+      "description": "Native PS5 port of JuMatt's JSRF Unleashed, Jet Set Radio Future recompiled, with a Vulkan renderer at up to 4K; needs your own Jet Set Radio Future (USA) disc image.",
+      "version": "00.001.000",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA69431",
+      "author": "Marice",
+      "checksum": "7497b7313f8adf9d13204fc3a4ae626abf922efb45cda9d7a9887e52bfe22995",
+      "source": "https://github.com/Marice/jsrf-ps5"
+    },
+    {
       "name": "The Simpsons Game",
       "filename": "PPSA74207.zip",
       "url": "https://github.com/LoZazaMastro/TheSimpsonsGame-PS5-Builder/releases/download/v3.10.6/TheSimpsonsGame-PS5-Builder-v3.10.6-Source.zip",
@@ -333,7 +347,7 @@
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99308",
-      "author": "griches",
+      "author": "Gary Riches",
       "checksum": "1d8a104320dd3fd6f1de44e32643089bb833e86d3ccd335fc1f9cc6e1f013758",
       "source": "https://github.com/griches/PS5_DevilutionX"
     },
@@ -704,15 +718,15 @@
     {
       "name": "ProsperoCraft",
       "filename": "PPSA99874.zip",
-      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.101/PPSA99874.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.101/PPSA99874.zip",
-      "description": "Minecraft Java 26.3 on PS5: login, instances, custom skins and up to 120 Hz play. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.",
-      "version": "01.000.101",
+      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.108/PPSA99874.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.108/PPSA99874.zip",
+      "description": "Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.",
+      "version": "01.000.108",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99874",
       "author": "mateo-cogeanu",
-      "checksum": "c784e08043314b02ff49cc9bb2a7c1643f558b35b1cee23ba278091a5d05e131",
+      "checksum": "545678bd4801cbf9e00b7209c25a89a9dfb0b3be7b645e3cd98f75633e455560",
       "source": "https://github.com/mateo-cogeanu/ProsperoCraft"
     },
     {

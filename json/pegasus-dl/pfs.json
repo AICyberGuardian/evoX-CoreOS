@@ -3,6 +3,28 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA06094",
+      "title": "Gigabash + ALL DLC",
+      "createdAt": "2026-10-27T21:06:02.038Z",
+      "version": "1.092",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/58f9bc0c527afb470f57f8616b93efb59fdeae4c355ef45151f6403bf78e93fa",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/58f9bc0c527afb470f57f8616b93efb59fdeae4c355ef45151f6403bf78e93fa",
+      "description": "Format: PFS\nGigaBash combines the chaos and creativity of titles like Power Stone, Super Smash Bros Ultimate and War of Monsters with the jaw-dropping scale of the classic kaiju movies. Play as either a rampaging Titan or a Titan-hunting mecha; summon lightning from the heavens, use a radio tower as a baton, or roll a whole district (and your enemies) into a single massive snowball. Wreak enough havoc and you'll evolve into your final form, the terrifyingly titanic S-Class.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: When the game's installed, install DLCs and have fun!\nUpdated: 2026-10-27T20:26:53.632Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "PFS · Viki",
+          "url": "https://vik1ngfile.site/f/GlgWJCcEL2"
+        },
+        {
+          "name": "PFS · Viki - DLC",
+          "url": "https://vik1ngfile.site/f/um7l4shzTR"
+        }
+      ],
+      "sizeBytes": 17716740096
+    },
+    {
       "titleId": "PPSA28336",
       "title": "Stalker 2 Heart of Chornobyl",
       "createdAt": "2026-10-27T15:02:02.048Z",

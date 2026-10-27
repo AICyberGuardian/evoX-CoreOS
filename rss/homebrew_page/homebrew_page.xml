@@ -8,7 +8,7 @@
       <title>Playden</title>
       <link>https://github.com/leolobato/playden-ps5</link>
       <description>Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.</description>
-      <pubDate>0.7.2</pubDate>
+      <pubDate>0.8.0-beta.1</pubDate>
     </item>
     <item>
       <title>OliSe Player</title>
@@ -26,7 +26,7 @@
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support, up to four players, easy crash reports and built-in updates.</description>
-      <pubDate>1.8.6</pubDate>
+      <pubDate>1.8.7</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -143,6 +143,12 @@
       <pubDate>00.001.000</pubDate>
     </item>
     <item>
+      <title>JSRF Unleashed</title>
+      <link>https://github.com/Marice/jsrf-ps5</link>
+      <description>Native PS5 port of JuMatt's JSRF Unleashed, Jet Set Radio Future recompiled, with a Vulkan renderer at up to 4K; needs your own Jet Set Radio Future (USA) disc image.</description>
+      <pubDate>00.001.000</pubDate>
+    </item>
+    <item>
       <title>Stremio Plus</title>
       <link>https://github.com/LoZazaMastro/Stremio-Plus</link>
       <description>Unofficial native Stremio client for PS5 with Prospero UI, add-on sync, torrent streaming, offline downloads, enhanced playback stability and sortable high-resolution download artwork.</description>
@@ -242,7 +248,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.186</pubDate>
+      <pubDate>01.000.187</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -254,7 +260,7 @@
       <title>SwanStationPS5</title>
       <link>https://github.com/darkxex/SwanStationPS5</link>
       <description>SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.</description>
-      <pubDate>1.5.5</pubDate>
+      <pubDate>1.5.6</pubDate>
     </item>
     <item>
       <title>ReKHCoM</title>
@@ -290,7 +296,7 @@
       <title>ProsperoStore</title>
       <link>https://github.com/darkxex/ProsperoStore</link>
       <description>Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.</description>
-      <pubDate>1.000.113</pubDate>
+      <pubDate>1.000.114</pubDate>
     </item>
     <item>
       <title>ProsperoRadio</title>
@@ -428,7 +434,7 @@
       <title>PKG Folderizer</title>
       <link>https://github.com/desstannsoftware/ps5-pkg-folderizer</link>
       <description>Converts PS5 and PS4 debug .pkg files on the console into ShadowMount folders or .ffpkg / .ffpfs / .ffpfsc / .exfat images.</description>
-      <pubDate>01.048.000</pubDate>
+      <pubDate>01.049.000</pubDate>
     </item>
     <item>
       <title>ForgeNX – Switch Emulator</title>
@@ -440,7 +446,7 @@
       <title>PSCord</title>
       <link>https://github.com/desstannsoftware/pscord</link>
       <description>A native Discord client for jailbroken PS5: servers, direct messages, voice chat and a built-in unblock.</description>
-      <pubDate>01.000.007</pubDate>
+      <pubDate>01.000.009</pubDate>
     </item>
     <item>
       <title>PS5SX2</title>
@@ -452,7 +458,7 @@
       <title>PSFlyCast</title>
       <link>https://github.com/Press5elect/PSFlycast</link>
       <description>Flycast (Dreamcast, NAOMI and Atomiswave) as a standalone PS5 title on RADV, with a controller-only interface.</description>
-      <pubDate>1.3.3</pubDate>
+      <pubDate>1.3.4</pubDate>
     </item>
     <item>
       <title>PSSwanStation</title>
@@ -469,8 +475,8 @@
     <item>
       <title>Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
-      <description>A native Nuvio client for PS5 with profiles, synced watch progress, addons, Live TV, trailers, anime skipping and optional playback engines.</description>
-      <pubDate>1.0.0.1-native-experimental</pubDate>
+      <description>A native Nuvio client for PS5 with profiles, synced watch progress, addons, Live TV, an IPTV VOD library, trailers, anime skipping and optional playback engines.</description>
+      <pubDate>1.0.0.2-native-experimental</pubDate>
     </item>
     <item>
       <title>Spider-Man: Edge of Time</title>
@@ -656,7 +662,7 @@
       <title>PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>0.9.13</pubDate>
+      <pubDate>0.9.14</pubDate>
     </item>
     <item>
       <title>PS5MG</title>
@@ -799,8 +805,8 @@
     <item>
       <title>ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
-      <description>Minecraft Java 26.3 on PS5: login, instances, custom skins and up to 120 Hz play. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
-      <pubDate>01.000.101</pubDate>
+      <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
+      <pubDate>01.000.108</pubDate>
     </item>
     <item>
       <title>Genesis Plus GX PS5</title>

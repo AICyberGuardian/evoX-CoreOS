@@ -3,6 +3,30 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA25682",
+      "title": "Five Nights at Freddys Secret of The Mimic",
+      "createdAt": "2026-10-27T20:34:11.315Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/f7a257be2ce196c9d21b2261a73d30835ca6859686b870ad46c72e6d3155b5b0",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/f7a257be2ce196c9d21b2261a73d30835ca6859686b870ad46c72e6d3155b5b0",
+      "description": "Region: USA\nRelease note: Works on 5.xx and higher (with backport)\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/five-nights-at-freddys-secret-of-the-mimic-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 5.xx Base - Akirabox",
+          "url": "https://akirabox.to/l76mZvZ9nman/file"
+        },
+        {
+          "name": "USA 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/ytJqK"
+        },
+        {
+          "name": "USA 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/cK0QilZOKJ"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA04075",
       "title": "River City Girls",
       "createdAt": "2026-10-26T13:03:45.575Z",
@@ -30,7 +54,8 @@
       "title": "GigaBash",
       "createdAt": "2026-10-26T13:03:45.575Z",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06094_d47e5196802d8abc9e49afad2f58606b99d201d7b454729cbf560d1fec932d75/icon0.webp",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/58f9bc0c527afb470f57f8616b93efb59fdeae4c355ef45151f6403bf78e93fa",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/58f9bc0c527afb470f57f8616b93efb59fdeae4c355ef45151f6403bf78e93fa",
       "description": "Region: USA\nRelease note: Works on 6.xx and higher\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/gigabash-ps5/",
       "downloadLinks": [
@@ -9481,7 +9506,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/5968b7e17c68278572e376260490ed13bdaedafcbfcafef8d9b308a7aa54b968",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ddd4bdde4a674e42db85d017de8a875a148a3dd31051e0ff422e94a837f6c5a2",
-      "description": "Region: USA\nRelease note: Works on 12.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: USA 12.xx\nRegion: USA\nRelease note: Works on 12.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.000.001\nRegion: USA\nRelease note: exFAT format — FW 01.000.001 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/onimusha-way-of-the-sword-ps5/",
       "downloadLinks": [
         {
@@ -9507,6 +9532,22 @@
         {
           "name": "USA 12.xx Base - Rootz part 3",
           "url": "https://www.rootz.so/d/sqmZ6"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - DataNodes",
+          "url": "https://datanodes.to/ni01mfb9fkqg/PPSA27836.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - FileKeeper",
+          "url": "https://filekeeper.net/dxzku5j4scjz/PPSA27836.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - Akirabox",
+          "url": "https://akirabox.to/k0embky183Vb/file"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Qtuv25FfvV"
         }
       ]
     },
@@ -137516,7 +137557,8 @@
       "createdAt": "2026-10-27T12:26:08.898Z",
       "version": "01.092",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06094_d47e5196802d8abc9e49afad2f58606b99d201d7b454729cbf560d1fec932d75/icon0.webp",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/58f9bc0c527afb470f57f8616b93efb59fdeae4c355ef45151f6403bf78e93fa",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/58f9bc0c527afb470f57f8616b93efb59fdeae4c355ef45151f6403bf78e93fa",
       "description": "Region: USA\nRelease note: exFAT format — FW 01.092 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
       "downloadLinks": [
