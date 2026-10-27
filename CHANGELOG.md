@@ -1,5 +1,22 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 27/10/2026 à 03:53
+* **APPS**
+  * `Ppsa99000` (v1.000.112) - *Mise à jour (Précédent: v1.000.111)*
+* **HOMEBREW_PAGE**
+  * `Playden` (0.7.2) - *Nouveau*
+  * `PC5` (1.8.1) - *Mise à jour (Précédent: 1.7.0)*
+  * `ProsperoStore` (1.000.112) - *Mise à jour (Précédent: 1.000.111)*
+  * `ORION Media Center` (01.105.000) - *Mise à jour (Précédent: 01.104.000)*
+  * `PKG Folderizer` (01.047.000) - *Mise à jour (Précédent: 01.046.000)*
+  * `Nuvio Max'd` (1.0.0.1-native-experimental) - *Mise à jour (Précédent: 1.0.0-native-experimental)*
+  * `Halo: Combat Evolved` (build-124) - *Mise à jour (Précédent: build-123)*
+  * `Trophy Manager` (0.1.1) - *Mise à jour (Précédent: 0.1.0)*
+  * `Genesis Plus GX PS5` (v2.2.1) - *Nouveau*
+  * `Snes9x PS5` (v2.9) - *Nouveau*
+  * `FBNeo PS5` (v2.1) - *Nouveau*
+  * `Beetle PCE PS5` (v1.1.1) - *Nouveau*
+
 ## Build du 26/10/2026 à 22:32
 * **PAYLOADS**
   * `Ps5Upload V8.3.0` (v8.3.0) - *Nouveau*

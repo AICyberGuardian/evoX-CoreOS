@@ -5,6 +5,12 @@
     <link>https://nexgen999.github.io/evoX-CoreOS</link>
     <description>Mises à jour automatiques pour la catégorie ProsperoStore</description>
     <item>
+      <title>Playden</title>
+      <link>https://github.com/leolobato/playden-ps5</link>
+      <description>Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.</description>
+      <pubDate>0.7.2</pubDate>
+    </item>
+    <item>
       <title>OliSe Player</title>
       <link>https://github.com/Marice/OliSePlayer</link>
       <description>Tracker music radio in FastTracker II style, streaming MOD, XM, S3M and IT from The Mod Archive.</description>
@@ -20,7 +26,7 @@
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support, up to four players, easy crash reports and built-in updates.</description>
-      <pubDate>1.7.0</pubDate>
+      <pubDate>1.8.1</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -284,7 +290,7 @@
       <title>ProsperoStore</title>
       <link>https://github.com/darkxex/ProsperoStore</link>
       <description>Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.</description>
-      <pubDate>1.000.111</pubDate>
+      <pubDate>1.000.112</pubDate>
     </item>
     <item>
       <title>ProsperoRadio</title>
@@ -356,7 +362,7 @@
       <title>ORION Media Center</title>
       <link>https://github.com/XeN-Made/Orion-Media-Center</link>
       <description>A launcher that shows your PS5 and PS4 games, homebrew, media apps and emulated games in one library, with box art, tabs, themes and autoboot.</description>
-      <pubDate>01.104.000</pubDate>
+      <pubDate>01.105.000</pubDate>
     </item>
     <item>
       <title>OpenNOW PS5 - Prototype</title>
@@ -416,7 +422,7 @@
       <title>PKG Folderizer</title>
       <link>https://github.com/desstannsoftware/ps5-pkg-folderizer</link>
       <description>Converts PS5 and PS4 debug .pkg files on the console into ShadowMount folders or .ffpkg / .ffpfs / .ffpfsc / .exfat images.</description>
-      <pubDate>01.046.000</pubDate>
+      <pubDate>01.047.000</pubDate>
     </item>
     <item>
       <title>ForgeNX – Switch Emulator</title>
@@ -458,7 +464,7 @@
       <title>Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
       <description>A native Nuvio client for PS5 with profiles, synced watch progress, addons, Live TV, trailers, anime skipping and optional playback engines.</description>
-      <pubDate>1.0.0-native-experimental</pubDate>
+      <pubDate>1.0.0.1-native-experimental</pubDate>
     </item>
     <item>
       <title>Spider-Man: Edge of Time</title>
@@ -590,7 +596,7 @@
       <title>Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/halo-ce-universal</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-123</pubDate>
+      <pubDate>build-124</pubDate>
     </item>
     <item>
       <title>Jelly5</title>
@@ -775,14 +781,38 @@
     <item>
       <title>Trophy Manager</title>
       <link>https://github.com/kauansilvalopes/trophy</link>
-      <description>Native PS5 trophy manager: see, unlock, lock and back up the trophies of your games, from the console with the controller. EN/PT/ES.</description>
-      <pubDate>0.1.0</pubDate>
+      <description>Needs Elf Arsenal running. Native PS5 trophy manager: see, unlock, lock and back up your trophies from the console, with the controller. EN/PT/ES.</description>
+      <pubDate>0.1.1</pubDate>
     </item>
     <item>
       <title>ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Native Minecraft Java launcher for PS5. Download and play the 26.3 demo, manage isolated instances and use DualSense controls. Microsoft app approval pending.</description>
       <pubDate>01.000.083</pubDate>
+    </item>
+    <item>
+      <title>Genesis Plus GX PS5</title>
+      <link>https://github.com/MisterTemaki/genplusgxPS5</link>
+      <description>Genesis Plus GX (Mega Drive, Sega CD, Master System, Game Gear) as a native PS5 app.</description>
+      <pubDate>v2.2.1</pubDate>
+    </item>
+    <item>
+      <title>Snes9x PS5</title>
+      <link>https://github.com/MisterTemaki/snes9xPS5</link>
+      <description>Snes9x (Super Nintendo) as a native PS5 app.</description>
+      <pubDate>v2.9</pubDate>
+    </item>
+    <item>
+      <title>FBNeo PS5</title>
+      <link>https://github.com/MisterTemaki/fbneo-ps5</link>
+      <description>FinalBurn Neo (arcade) as a native PS5 app.</description>
+      <pubDate>v2.1</pubDate>
+    </item>
+    <item>
+      <title>Beetle PCE PS5</title>
+      <link>https://github.com/MisterTemaki/beetlepcePS5</link>
+      <description>Beetle PCE (PC Engine, TurboGrafx-16, SuperGrafx, PC Engine CD) as a native PS5 app.</description>
+      <pubDate>v1.1.1</pubDate>
     </item>
     <item>
       <title>Forwarder Manager</title>

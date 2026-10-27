@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.26-2232)
+### 🚀 Synthèse de la mise à jour (v2026.10.27-0353)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -245,6 +245,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>🌐 Pack PROSPEROSTORE</b></summary>
 
 * **Applications ProsperoStore**
+  * `FAKE77031.zip`
   * `PPSA01153.zip`
   * `PPSA06464.zip`
   * `PPSA11018.zip`
@@ -375,6 +376,10 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99841.zip`
   * `PPSA99842.zip`
   * `PPSA99874.zip`
+  * `PPSA99921.zip`
+  * `PPSA99922.zip`
+  * `PPSA99924.zip`
+  * `PPSA99925.zip`
   * `PPSA99930.zip`
   * `PPSA99991.zip`
   * `PPSA99993.zip`

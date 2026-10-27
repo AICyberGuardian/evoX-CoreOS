@@ -508,15 +508,15 @@
     {
       "name": "Halo: Combat Evolved",
       "filename": "PPSA99500.zip",
-      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-123/halo-ps5-release.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-123/PPSA99500.zip",
+      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-124/halo-ps5-release.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-124/PPSA99500.zip",
       "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-      "version": "build-123",
+      "version": "build-124",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99500",
       "author": "thelinkin3000",
-      "checksum": "9604159b6a0006db3bad7391fd7d600857a38ab66395450b947ef94cdc5e6fc9",
+      "checksum": "7e3e87b5a2754b1d799a02a863111d12c0654e86148baf773b684644f77879b7",
       "source": "https://github.com/thelinkin3000/halo-ce-universal"
     },
     {

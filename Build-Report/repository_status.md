@@ -1,4 +1,4 @@
-# 🔍 État des Sources & Dépôts (26/10/2026 à 22:32)
+# 🔍 État des Sources & Dépôts (27/10/2026 à 03:53)
 
 Test de validité et de disponibilité des sources distantes intégrées dans le store.
 
@@ -10,4 +10,4 @@ Test de validité et de disponibilité des sources distantes intégrées dans le
 | [pkg] Ps5Pkg Ps5Webit-Nexgen999 Installer V1.00 | [https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg) | ✅ Valide (200 OK) | Artefact / Source |
 | [ffpfsc] Evoplayer-V0.13.0-Ppsa99039-Pro | [https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.0/EVOPlayer-v0.13.0-PPSA99039-pro.ffpfsc](https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.0/EVOPlayer-v0.13.0-PPSA99039-pro.ffpfsc) | ✅ Valide (200 OK) | Artefact / Source |
 | [apps] Castation-0.4.0 | [https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip](https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip) | ✅ Valide (200 OK) | Artefact / Source |
-| [homebrew_page] OliSe Player | [https://github.com/Marice/OliSePlayer/releases/download/02.001.000/PPSA01153.zip](https://github.com/Marice/OliSePlayer/releases/download/02.001.000/PPSA01153.zip) | ✅ Valide (200 OK) | Artefact / Source |
+| [homebrew_page] Playden | [https://github.com/leolobato/playden-ps5/releases/download/v0.7.2/playden-ps5-0.7.2.zip](https://github.com/leolobato/playden-ps5/releases/download/v0.7.2/playden-ps5-0.7.2.zip) | ✅ Valide (200 OK) | Artefact / Source |
