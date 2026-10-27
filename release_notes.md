@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.27-1153)
+### 🚀 Synthèse de la mise à jour (v2026.10.27-1802)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -300,6 +300,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99008.zip`
   * `PPSA99010.zip`
   * `PPSA99015.zip`
+  * `PPSA99023.zip`
   * `PPSA99030.zip`
   * `PPSA99039.zip`
   * `PPSA99051.zip`

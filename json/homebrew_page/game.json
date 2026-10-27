@@ -18,15 +18,15 @@
     {
       "name": "Source Port",
       "filename": "PPSA20040.zip",
-      "url": "https://github.com/gmorb/source-port-ps5/releases/download/v0.1.0-alpha/PPSA20040.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA20040/0.1.0-alpha/PPSA20040.zip",
+      "url": "https://github.com/gmorb/source-port-ps5/releases/download/v0.1.1-alpha/PPSA20040.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA20040/0.1.1-alpha/PPSA20040.zip",
       "description": "Native PS5 port of the Source engine that runs Half-Life 2 from your own steam_legacy game files, with sound and DualSense controls.",
-      "version": "0.1.0-alpha",
+      "version": "0.1.1-alpha",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA20040",
       "author": "Gm0rb",
-      "checksum": "c2b37045462624854a09e9d1f131d5cffa43984296b9e923d150acbd4d663c54",
+      "checksum": "b6a5c209874c945a2e088fae9242013099d1b444fb2693cc75dc7860bf749153",
       "source": "https://github.com/gmorb/source-port-ps5"
     },
     {
@@ -280,6 +280,20 @@
       "author": "Mihawk",
       "checksum": "aeabf17512eada3e96c18fb2d842b7e077ffea2fbb65caf93276cc0b2797b0e6",
       "source": "https://github.com/mihawk-99/PS5_vkQuake"
+    },
+    {
+      "name": "reSOT - The Sands of Time",
+      "filename": "PPSA99023.zip",
+      "url": "https://github.com/bystritskiy/rePOP-ps5/releases/download/01.003.005/PPSA99023-01.003.005.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99023/01.003.005/PPSA99023.zip",
+      "description": "Prince of Persia: The Sands of Time, built from the reSOT recompilation of the Xbox game. Needs your own Xbox retail disc files.",
+      "version": "01.003.005",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99023",
+      "author": "bystritskiy",
+      "checksum": "9b2106142e571a4d22b7be7893eb05dd7eb2e032a2d6f34a96a5a7fe41277409",
+      "source": "https://github.com/bystritskiy/rePOP-ps5"
     },
     {
       "name": "Spider-Man: Edge of Time",
@@ -690,15 +704,15 @@
     {
       "name": "ProsperoCraft",
       "filename": "PPSA99874.zip",
-      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.083/PPSA99874.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.083/PPSA99874.zip",
-      "description": "Native Minecraft Java launcher for PS5. Download and play the 26.3 demo, manage isolated instances and use DualSense controls. Microsoft app approval pending.",
-      "version": "01.000.083",
+      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.101/PPSA99874.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.101/PPSA99874.zip",
+      "description": "Minecraft Java 26.3 on PS5: login, instances, custom skins and up to 120 Hz play. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.",
+      "version": "01.000.101",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99874",
       "author": "mateo-cogeanu",
-      "checksum": "8fcbdc8cb9cc8065aa0eaac26457a834fffb15098725e987df1d33257a76444e",
+      "checksum": "c784e08043314b02ff49cc9bb2a7c1643f558b35b1cee23ba278091a5d05e131",
       "source": "https://github.com/mateo-cogeanu/ProsperoCraft"
     },
     {

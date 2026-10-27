@@ -1,5 +1,17 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 27/10/2026 à 18:02
+* **APPS**
+  * `Ppsa99000` (v1.000.113) - *Mise à jour (Précédent: v1.000.112)*
+* **HOMEBREW_PAGE**
+  * `PC5` (1.8.6) - *Mise à jour (Précédent: 1.8.1)*
+  * `Source Port` (0.1.1-alpha) - *Mise à jour (Précédent: 0.1.0-alpha)*
+  * `SwanStationPS5` (1.5.5) - *Mise à jour (Précédent: 1.5.4)*
+  * `ProsperoStore` (1.000.113) - *Mise à jour (Précédent: 1.000.112)*
+  * `reSOT - The Sands of Time` (01.003.005) - *Nouveau*
+  * `PKG Folderizer` (01.048.000) - *Mise à jour (Précédent: 01.047.000)*
+  * `ProsperoCraft` (01.000.101) - *Mise à jour (Précédent: 01.000.083)*
+
 ## Build du 27/10/2026 à 11:53
 * **PAYLOADS**
   * `Ps5Upload V8.5.1` (v8.5.1) - *Nouveau*

@@ -936,9 +936,9 @@
     </item>
     <item>
       <title>[Applications] Ppsa99000</title>
-      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.112/PPSA99000.zip</link>
+      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.113/PPSA99000.zip</link>
       <description>homebrew store</description>
-      <pubDate>v1.000.112</pubDate>
+      <pubDate>v1.000.113</pubDate>
     </item>
     <item>
       <title>[Applications] Emustore-Ps5-V0.4.0</title>
@@ -1112,7 +1112,7 @@
       <title>[ProsperoStore] PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support, up to four players, easy crash reports and built-in updates.</description>
-      <pubDate>1.8.1</pubDate>
+      <pubDate>1.8.6</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Home5</title>
@@ -1136,7 +1136,7 @@
       <title>[ProsperoStore] Source Port</title>
       <link>https://github.com/gmorb/source-port-ps5</link>
       <description>Native PS5 port of the Source engine that runs Half-Life 2 from your own steam_legacy game files, with sound and DualSense controls.</description>
-      <pubDate>0.1.0-alpha</pubDate>
+      <pubDate>0.1.1-alpha</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Middle Ages Ping Pong</title>
@@ -1340,7 +1340,7 @@
       <title>[ProsperoStore] SwanStationPS5</title>
       <link>https://github.com/darkxex/SwanStationPS5</link>
       <description>SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.</description>
-      <pubDate>1.5.4</pubDate>
+      <pubDate>1.5.5</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ReKHCoM</title>
@@ -1376,7 +1376,7 @@
       <title>[ProsperoStore] ProsperoStore</title>
       <link>https://github.com/darkxex/ProsperoStore</link>
       <description>Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.</description>
-      <pubDate>1.000.112</pubDate>
+      <pubDate>1.000.113</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ProsperoRadio</title>
@@ -1419,6 +1419,12 @@
       <link>https://github.com/MisterTemaki/MediaPlayerClassicPS5</link>
       <description>Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.</description>
       <pubDate>1.4</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] reSOT - The Sands of Time</title>
+      <link>https://github.com/bystritskiy/rePOP-ps5</link>
+      <description>Prince of Persia: The Sands of Time, built from the reSOT recompilation of the Xbox game. Needs your own Xbox retail disc files.</description>
+      <pubDate>01.003.005</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Forever Launcher</title>
@@ -1508,7 +1514,7 @@
       <title>[ProsperoStore] PKG Folderizer</title>
       <link>https://github.com/desstannsoftware/ps5-pkg-folderizer</link>
       <description>Converts PS5 and PS4 debug .pkg files on the console into ShadowMount folders or .ffpkg / .ffpfs / .ffpfsc / .exfat images.</description>
-      <pubDate>01.047.000</pubDate>
+      <pubDate>01.048.000</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ForgeNX – Switch Emulator</title>
@@ -1879,8 +1885,8 @@
     <item>
       <title>[ProsperoStore] ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
-      <description>Native Minecraft Java launcher for PS5. Download and play the 26.3 demo, manage isolated instances and use DualSense controls. Microsoft app approval pending.</description>
-      <pubDate>01.000.083</pubDate>
+      <description>Minecraft Java 26.3 on PS5: login, instances, custom skins and up to 120 Hz play. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
+      <pubDate>01.000.101</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Genesis Plus GX PS5</title>

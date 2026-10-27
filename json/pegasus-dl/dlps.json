@@ -3295,7 +3295,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/74b6879329f66248efdb32245cf13201e40b8ca6a80520bb730541c768d5482b",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/f389ff271e54268e067e73e7d8893da988bb0b5eaa2da844d32562d80fe4f93e",
-      "description": "Region: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: EUR 11.xx\nRegion: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.000.002\nRegion: EUR\nRelease note: exFAT format — FW 01.000.002 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/hollow-knight-voidheart-edition-ps5/",
       "downloadLinks": [
         {
@@ -3309,6 +3309,22 @@
         {
           "name": "EUR 11.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/HEv1H3zNM6"
+        },
+        {
+          "name": "EUR exFAT 01.000.002 Base - DataNodes",
+          "url": "https://datanodes.to/il1vt8tal193/PPSA34971.7z"
+        },
+        {
+          "name": "EUR exFAT 01.000.002 Base - FileKeeper",
+          "url": "https://filekeeper.net/udfcpjub2ntb/PPSA34971.7z"
+        },
+        {
+          "name": "EUR exFAT 01.000.002 Base - Akirabox",
+          "url": "https://akirabox.to/BnkmW6kqaGR0/file"
+        },
+        {
+          "name": "EUR exFAT 01.000.002 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/sY2vi3EZgn"
         }
       ]
     },
@@ -4972,7 +4988,7 @@
       "createdAt": "2026-10-16T21:48:35.923Z",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA24249_16f6978ace1bb1247be8ebd750ee6f0ef9cb2c4f9b76cb0a25d9033cd5700ca2/icon0.webp",
-      "description": "Region: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: EUR 11.xx\nRegion: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.000.008\nRegion: EUR\nRelease note: exFAT format — FW 01.000.008 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/1348-ex-voto-ps5/",
       "downloadLinks": [
         {
@@ -5002,6 +5018,22 @@
         {
           "name": "EUR 11.xx Base - Vikingfile part 3",
           "url": "https://vikingfile.com/f/qEUnd3gind#1348"
+        },
+        {
+          "name": "EUR exFAT 01.000.008 Base - DataNodes",
+          "url": "https://datanodes.to/jpo9clcsnm2o/PPSA24249.7z"
+        },
+        {
+          "name": "EUR exFAT 01.000.008 Base - FileKeeper",
+          "url": "https://filekeeper.net/7fmfslmqmq5z/PPSA24249.7z"
+        },
+        {
+          "name": "EUR exFAT 01.000.008 Base - Akirabox",
+          "url": "https://akirabox.to/2WVGrWyQBmkx/file"
+        },
+        {
+          "name": "EUR exFAT 01.000.008 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/YI39QaexB2"
         }
       ]
     },
@@ -137475,6 +137507,62 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://datavaults.co/6qmhde3tm198"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA06094",
+      "title": "[exFAT] GigaBash Ultimate Edition",
+      "createdAt": "2026-10-27T12:26:08.898Z",
+      "version": "01.092",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06094_d47e5196802d8abc9e49afad2f58606b99d201d7b454729cbf560d1fec932d75/icon0.webp",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.092 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.092 Base - DataNodes",
+          "url": "https://datanodes.to/htxx3jjnea30/PPSA06094.7z"
+        },
+        {
+          "name": "USA exFAT 01.092 Base - FileKeeper",
+          "url": "https://filekeeper.net/2baib2ohsd9q/PPSA06094.7z"
+        },
+        {
+          "name": "USA exFAT 01.092 Base - Akirabox",
+          "url": "https://akirabox.to/M2BGwLywOmj4/file"
+        },
+        {
+          "name": "USA exFAT 01.092 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/plQDABVsFA"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA19115",
+      "title": "[exFAT] DAVE THE DIVER Complete Edition",
+      "createdAt": "2026-10-27T12:26:08.898Z",
+      "version": "01.041",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA19115_8eef40812e21f816cb4d374f7f204b217c764d1ec715b7ff0d8ed6810fd31df3/icon0.webp",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.041 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.041 Base - DataNodes",
+          "url": "https://datanodes.to/j6am6a2binlx/PPSA19115.7z"
+        },
+        {
+          "name": "USA exFAT 01.041 Base - FileKeeper",
+          "url": "https://filekeeper.net/4brlwxfezqz5/PPSA19115.7z"
+        },
+        {
+          "name": "USA exFAT 01.041 Base - Akirabox",
+          "url": "https://akirabox.to/N2p3DdoJk3Ma/file"
+        },
+        {
+          "name": "USA exFAT 01.041 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/i4kbkZ47G2"
         }
       ]
     },

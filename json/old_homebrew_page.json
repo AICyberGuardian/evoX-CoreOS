@@ -46,15 +46,15 @@
         {
             "name": "PC5",
             "filename": "PPSA11018.zip",
-            "url": "https://github.com/bornaradusin/PC5/releases/download/v1.8.1/PPSA11018.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/1.8.1/PPSA11018.zip",
+            "url": "https://github.com/bornaradusin/PC5/releases/download/v1.8.6/PPSA11018.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/1.8.6/PPSA11018.zip",
             "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support, up to four players, easy crash reports and built-in updates.",
-            "version": "1.8.1",
+            "version": "1.8.6",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA11018",
             "author": "bornaradusin",
-            "checksum": "60cad24de08ff229b4c9b651aed56a48583526bd32fc3f679b493344adb8d704",
+            "checksum": "30e41809b6acfeef4c10b3ddb30cc8581b874dd3e7f99ac4f84e9245f6ed1882",
             "source": "https://github.com/bornaradusin/PC5"
         },
         {
@@ -102,15 +102,15 @@
         {
             "name": "Source Port",
             "filename": "PPSA20040.zip",
-            "url": "https://github.com/gmorb/source-port-ps5/releases/download/v0.1.0-alpha/PPSA20040.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA20040/0.1.0-alpha/PPSA20040.zip",
+            "url": "https://github.com/gmorb/source-port-ps5/releases/download/v0.1.1-alpha/PPSA20040.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA20040/0.1.1-alpha/PPSA20040.zip",
             "description": "Native PS5 port of the Source engine that runs Half-Life 2 from your own steam_legacy game files, with sound and DualSense controls.",
-            "version": "0.1.0-alpha",
+            "version": "0.1.1-alpha",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA20040",
             "author": "Gm0rb",
-            "checksum": "c2b37045462624854a09e9d1f131d5cffa43984296b9e923d150acbd4d663c54",
+            "checksum": "b6a5c209874c945a2e088fae9242013099d1b444fb2693cc75dc7860bf749153",
             "source": "https://github.com/gmorb/source-port-ps5"
         },
         {
@@ -578,15 +578,15 @@
         {
             "name": "SwanStationPS5",
             "filename": "PPSA98510.zip",
-            "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.5.4/PPSA98510.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.5.4/PPSA98510.zip",
+            "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.5.5/PPSA98510.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.5.5/PPSA98510.zip",
             "description": "SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.",
-            "version": "1.5.4",
+            "version": "1.5.5",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA98510",
             "author": "AngelXex",
-            "checksum": "7c5db831f2c771c657bed5f1a4609d747c578de9226ecab1c7f59e3b15d39606",
+            "checksum": "0fee6e08ed5a96600c1aa62d427eb6ae1e3afc3887f751aab97e9217e25f57f4",
             "source": "https://github.com/darkxex/SwanStationPS5"
         },
         {
@@ -662,15 +662,15 @@
         {
             "name": "ProsperoStore",
             "filename": "PPSA99000.zip",
-            "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.112/PPSA99000.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99000/1.000.112/PPSA99000.zip",
+            "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.113/PPSA99000.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99000/1.000.113/PPSA99000.zip",
             "description": "Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.",
-            "version": "1.000.112",
+            "version": "1.000.113",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99000",
             "author": "BlackBearReloaded",
-            "checksum": "7eaafc11848526f54b8a393dc3be20161abb081e1b989b35d199e7691ffd09fa",
+            "checksum": "aa0e589f8e5f0dc3982fce211426e506bb1e9efa1db01a26cb51c0a7931a8c29",
             "source": "https://github.com/darkxex/ProsperoStore"
         },
         {
@@ -770,6 +770,20 @@
             "author": "MisterTemaki",
             "checksum": "34a73bfcadc8c0b99a6b2224128c16a95b17a93d4e825152b49f70a7becd6170",
             "source": "https://github.com/MisterTemaki/MediaPlayerClassicPS5"
+        },
+        {
+            "name": "reSOT - The Sands of Time",
+            "filename": "PPSA99023.zip",
+            "url": "https://github.com/bystritskiy/rePOP-ps5/releases/download/01.003.005/PPSA99023-01.003.005.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99023/01.003.005/PPSA99023.zip",
+            "description": "Prince of Persia: The Sands of Time, built from the reSOT recompilation of the Xbox game. Needs your own Xbox retail disc files.",
+            "version": "01.003.005",
+            "category": "Games",
+            "kind": "game",
+            "titleid": "PPSA99023",
+            "author": "bystritskiy",
+            "checksum": "9b2106142e571a4d22b7be7893eb05dd7eb2e032a2d6f34a96a5a7fe41277409",
+            "source": "https://github.com/bystritskiy/rePOP-ps5"
         },
         {
             "name": "Forever Launcher",
@@ -970,15 +984,15 @@
         {
             "name": "PKG Folderizer",
             "filename": "PPSA99180.zip",
-            "url": "https://github.com/desstannsoftware/ps5-pkg-folderizer/releases/download/01.047.000/PPSA99180.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.047.000/PPSA99180.zip",
+            "url": "https://github.com/desstannsoftware/ps5-pkg-folderizer/releases/download/01.048.000/PPSA99180.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.048.000/PPSA99180.zip",
             "description": "Converts PS5 and PS4 debug .pkg files on the console into ShadowMount folders or .ffpkg / .ffpfs / .ffpfsc / .exfat images.",
-            "version": "01.047.000",
+            "version": "01.048.000",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99180",
             "author": "desstannsoft",
-            "checksum": "400b7e0446c12e7d67d920c40b944ce0ee6298103808f1b19db06b4c27fb2f60",
+            "checksum": "69dd62ebccb76843ffeac68997cc14244be1a7e0255a0d502e3ad1c5fa03eb5d",
             "source": "https://github.com/desstannsoftware/ps5-pkg-folderizer"
         },
         {
@@ -1838,15 +1852,15 @@
         {
             "name": "ProsperoCraft",
             "filename": "PPSA99874.zip",
-            "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.083/PPSA99874.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.083/PPSA99874.zip",
-            "description": "Native Minecraft Java launcher for PS5. Download and play the 26.3 demo, manage isolated instances and use DualSense controls. Microsoft app approval pending.",
-            "version": "01.000.083",
+            "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.101/PPSA99874.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.101/PPSA99874.zip",
+            "description": "Minecraft Java 26.3 on PS5: login, instances, custom skins and up to 120 Hz play. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.",
+            "version": "01.000.101",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA99874",
             "author": "mateo-cogeanu",
-            "checksum": "8fcbdc8cb9cc8065aa0eaac26457a834fffb15098725e987df1d33257a76444e",
+            "checksum": "c784e08043314b02ff49cc9bb2a7c1643f558b35b1cee23ba278091a5d05e131",
             "source": "https://github.com/mateo-cogeanu/ProsperoCraft"
         },
         {
