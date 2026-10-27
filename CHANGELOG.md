@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 27/10/2026 à 11:53
+* **PAYLOADS**
+  * `Ps5Upload V8.5.1` (v8.5.1) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `Geometry Wars 2` (1.0.0) - *Nouveau*
+
 ## Build du 27/10/2026 à 03:53
 * **APPS**
   * `Ppsa99000` (v1.000.112) - *Mise à jour (Précédent: v1.000.111)*

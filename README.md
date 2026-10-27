@@ -259,7 +259,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `9ddf8a51991c...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `b7f03cef537d...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
@@ -334,7 +334,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Gdbsrv V0.9 | [v0.9](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/gdbsrv/v0.9/gdbsrv_v0.9.elf) | `80952d75f423...` | GDB Debugger server payload. Port: 1234 |
 | Klogsrv V0.9 | [v0.9](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | `e828ec144231...` | Kernel log server daemon. Port: 3232 |
 | Ps5-Ezremote-Server V1.13 | [1.13](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.13/ps5-ezremote-server_v1.13.elf) | `0563ed163a92...` | Easy remote server component. Port: 8080 |
-| Ps5Upload V8.3.0 | [v8.3.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.3.0/ps5upload_v8.3.0.elf) | `9fe5785c6338...` | PS5 Upload server / tool. Port: 9025 |
+| Ps5Upload V8.5.1 | [v8.5.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.5.1/ps5upload_v8.5.1.elf) | `2039eb340f6c...` | PS5 Upload server / tool. Port: 9025 |
 | Websrv V0.34 | [v0.34](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf) | `54730c867c6e...` | HTTP Web server payload. Port: 8080 |
 | Zftpd-Ps5-V1.6.0 | [v1.6.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-v1.6.0.elf) | `39ed57bef579...` | FTP server payload for PS5. Port: 21 |
 | Zftpd-Ps5-Zhttp-V1.6.0 | [v1.6.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.6.0/zftpd-ps5-zhttp-v1.6.0.elf) | `fc59b60aab2d...` | FTP server payload for PS5. Port: 21 |
@@ -599,6 +599,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Eternal Darkness | Gary Riches | [0.9.5](https://github.com/griches/PS5_EternalDarkness/releases/download/v0.9.5/EternalDarkness-PS5-0.9.5.zip) | `b467dbd86b2a...` | Eternal Darkness: Sanity's Requiem (GameCube) for PlayStation 5, recompiled to run natively at 4K and up to 120 fps with widescreen and HD texture packs. Bring your own European disc. |
 | FFTARecomp | AngelXex | [ps5-v1.0.0](https://github.com/darkxex/FFTARecomp-PS5/releases/download/ps5-v1.0.0/PPSA98512.zip) | `380a34d5aa9c...` | inal Fantasy Tactics Advance, running natively on your PS5 (no ROM is included). |
 | FUTBOL13 | 7tg | [01.000.002](https://github.com/7tg/futbol13/releases/download/01.000.002/PPSA99405.zip) | `6da4e6d24f5d...` | Your own PC copy of Pro Evolution Soccer 2013 as a homebrew app on a jailbroken PS5, through prospero-win, squad updates and commentary mods included (bring your own copy). |
+| Geometry Wars 2 | Gary Riches | [1.0.0](https://github.com/griches/PS5_GeometryWars2/releases/download/v1.0.0/GeometryWars2-PS5-1.0.0.zip) | `2f3311932291...` | Geometry Wars: Retro Evolved 2 (Xbox Live Arcade) for PlayStation 5, a port of the geow2 rebuild: all six modes, local multiplayer for four, 4K at 120 Hz. Bring your own XBLA package. |
 | GETSU-SAN | CHI-GETSU | [v0.1.0-beta](https://github.com/CHI-GETSU/GTA-SA-PS5-Homebrew/releases/download/v0.1.0-beta/GTA-SA-PS5-PPSA99604-TEST.zip) | `4aa16e1a012d...` | GTA San Andreas for PS5: my GTA-specific Sahin/Prospero Win integration; supply legally obtained classic PC files separately, complete setup and select Joypad; upstream credits and licenses retained. |
 | Halo: Combat Evolved | thelinkin3000 | [build-124](https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-124/halo-ps5-release.zip) | `7e3e87b5a275...` | Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image. |
 | I Wanna Be The Guy: Remastered Tribute Edition | shaman | [1.6.6.6-tribute-ps5](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition/releases/download/v1.6.6.6-tribute-ps5/IWBTGR-TributeEdition-PS5-PPSA99616.zip) | `dcceac6a692b...` | Native PS5 port of I Wanna Be The Guy: Remastered on a new GameMaker 8 runtime, with Tribute mode, full DualSense support and 16 languages. |
@@ -708,6 +709,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **Gary Riches** : [Doom 3 BFG (ProsperoStore)](https://prosperostore.net/app/PPSA99313)
 - **Gary Riches** : [Dusklight (ProsperoStore)](https://prosperostore.net/app/PPSA99305)
 - **Gary Riches** : [Eternal Darkness (ProsperoStore)](https://prosperostore.net/app/PPSA99314)
+- **Gary Riches** : [Geometry Wars 2 (ProsperoStore)](https://prosperostore.net/app/PPSA99322)
 - **Gary Riches** : [James Pond 2: Codename RoboCod (ProsperoStore)](https://prosperostore.net/app/PPSA99323)
 - **Gary Riches** : [Mario 64 (ProsperoStore)](https://prosperostore.net/app/PPSA99310)
 - **Gary Riches** : [Quake3e (ProsperoStore)](https://prosperostore.net/app/PPSA99319)

@@ -191,10 +191,10 @@
       <pubDate>1.13</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V8.3.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.3.0/ps5upload_v8.3.0.elf</link>
+      <title>[Payloads] Ps5Upload V8.5.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.5.1/ps5upload_v8.5.1.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v8.3.0</pubDate>
+      <pubDate>v8.5.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -1623,6 +1623,12 @@
       <link>https://github.com/damiantw/PS5_Shipwright</link>
       <description>Ship of Harkinian (Ocarina of Time PC port) on Vulkan: converts your own ROM on the console, 60 FPS at 4K, HD texture packs, right-stick camera and PS button prompts; tested on firmware 13.60.</description>
       <pubDate>01.000.000</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] Geometry Wars 2</title>
+      <link>https://github.com/griches/PS5_GeometryWars2</link>
+      <description>Geometry Wars: Retro Evolved 2 (Xbox Live Arcade) for PlayStation 5, a port of the geow2 rebuild: all six modes, local multiplayer for four, 4K at 120 Hz. Bring your own XBLA package.</description>
+      <pubDate>1.0.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] James Pond 2: Codename RoboCod</title>

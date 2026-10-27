@@ -1248,6 +1248,20 @@
             "source": "https://github.com/damiantw/PS5_Shipwright"
         },
         {
+            "name": "Geometry Wars 2",
+            "filename": "PPSA99322.zip",
+            "url": "https://github.com/griches/PS5_GeometryWars2/releases/download/v1.0.0/GeometryWars2-PS5-1.0.0.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99322/1.0.0/PPSA99322.zip",
+            "description": "Geometry Wars: Retro Evolved 2 (Xbox Live Arcade) for PlayStation 5, a port of the geow2 rebuild: all six modes, local multiplayer for four, 4K at 120 Hz. Bring your own XBLA package.",
+            "version": "1.0.0",
+            "category": "Games",
+            "kind": "game",
+            "titleid": "PPSA99322",
+            "author": "Gary Riches",
+            "checksum": "2f3311932291694478acfe423c1f337683aa2791bfa4036e45fa59e4130c287a",
+            "source": "https://github.com/griches/PS5_GeometryWars2"
+        },
+        {
             "name": "James Pond 2: Codename RoboCod",
             "filename": "PPSA99323.zip",
             "url": "https://github.com/griches/JamesPond2RobocodRecomp/releases/download/v1.0.2/JamesPond2-PS5-1.0.2.zip",

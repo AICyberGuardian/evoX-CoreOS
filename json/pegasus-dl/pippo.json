@@ -3,6 +3,203 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA24249",
+      "title": "1348 Ex Voto",
+      "createdAt": "2026-10-27T10:41:40.083Z",
+      "version": "v01.000.008",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA24249_16f6978ace1bb1247be8ebd750ee6f0ef9cb2c4f9b76cb0a25d9033cd5700ca2/icon0.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA24249, v01.000.008, EUR, 4.xx BackPort\nSize: 50GB\nCredits: Files: ChestCakes; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/jpo9clcsnm2o/PPSA24249.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/7fmfslmqmq5z/PPSA24249.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/2WVGrWyQBmkx/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/YI39QaexB2"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/EL73gkyjA39B/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/DrQjhgVD0w"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/bh95ac9mipz8/PPSA24249-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/ywuwmfeqpll3/PPSA24249-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 53687091200
+    },
+    {
+      "titleId": "PPSA06094",
+      "title": "GigaBash Ultimate Edition",
+      "createdAt": "2026-10-27T10:41:40.083Z",
+      "version": "v01.092",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06094_d47e5196802d8abc9e49afad2f58606b99d201d7b454729cbf560d1fec932d75/icon0.webp",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA06094, v01.092, USA, 4.xx BackPort\nSize: 28GB\nCredits: Files: UchihaDareNial; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 6.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/jonqvnod80n2/DLCs_Pippo.rar"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://datavaults.co/4no1zdfp5l9i/DLCs_Pippo.rar"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/htxx3jjnea30/PPSA06094.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/2baib2ohsd9q/PPSA06094.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/M2BGwLywOmj4/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/plQDABVsFA"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/QN9mEd0YwG6d/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/IIUhfXcHMZ"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/9r86kf1tarop/PPSA06094-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/yp2dfcf2cgse/PPSA06094-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 30064771072
+    },
+    {
+      "titleId": "PPSA34971",
+      "title": "Hollow Knight Voidheart Edition",
+      "createdAt": "2026-10-27T10:41:40.083Z",
+      "version": "v01.000.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/74b6879329f66248efdb32245cf13201e40b8ca6a80520bb730541c768d5482b",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/f389ff271e54268e067e73e7d8893da988bb0b5eaa2da844d32562d80fe4f93e",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA34971, v01.000.002, EUR, DLCs Merged, 4.xx BackPort\nSize: 5GB\nCredits: Files: Scene; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/il1vt8tal193/PPSA34971.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/udfcpjub2ntb/PPSA34971.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/BnkmW6kqaGR0/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/sY2vi3EZgn"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/gXeGOexRJ3Aa/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/3UNLVZDaeQ"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/yhlezu59c5qd/PPSA34971-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/69xkq9hzamjy/PPSA34971-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
+      "titleId": "PPSA19115",
+      "title": "DAVE THE DIVER Complete Edition",
+      "createdAt": "2026-10-27T10:41:40.083Z",
+      "version": "v01.041",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA19115_8eef40812e21f816cb4d374f7f204b217c764d1ec715b7ff0d8ed6810fd31df3/icon0.webp",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA19115, v01.041, USA, 4.xx BackPort\nSize: 5GB\nCredits: Files: Scene; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/3qc7wj16122i/DLCs_Pippo.rar"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://datavaults.co/u60fias81vpg/DLCs_Pippo.rar"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/j6am6a2binlx/PPSA19115.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/4brlwxfezqz5/PPSA19115.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/N2p3DdoJk3Ma/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/i4kbkZ47G2"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/0rpmv1y77GRg/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/Y4CQInpDTY"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/id94021ypl9n/PPSA19115-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/u4ct8sfq31il/PPSA19115-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
       "titleId": "PPSA33627",
       "title": "Toy Story Retro Roundup!",
       "createdAt": "2026-10-26T13:15:53.236Z",

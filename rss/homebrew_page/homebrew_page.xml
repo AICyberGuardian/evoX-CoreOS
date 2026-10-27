@@ -539,6 +539,12 @@
       <pubDate>01.000.000</pubDate>
     </item>
     <item>
+      <title>Geometry Wars 2</title>
+      <link>https://github.com/griches/PS5_GeometryWars2</link>
+      <description>Geometry Wars: Retro Evolved 2 (Xbox Live Arcade) for PlayStation 5, a port of the geow2 rebuild: all six modes, local multiplayer for four, 4K at 120 Hz. Bring your own XBLA package.</description>
+      <pubDate>1.0.0</pubDate>
+    </item>
+    <item>
       <title>James Pond 2: Codename RoboCod</title>
       <link>https://github.com/griches/JamesPond2RobocodRecomp</link>
       <description>James Pond 2: Codename RoboCod (Amiga) for PlayStation 5: a static recompilation to C++ with SDL3, in widescreen with smooth motion and Amiga 500 sound. Bring your own disk image.</description>
