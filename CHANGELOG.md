@@ -1,5 +1,16 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 28/10/2026 à 04:10
+* **PAYLOADS**
+  * `Webkit-Autoloader-Installer V0.6.2` (v0.6.2) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `Prospero Themes` (01.000.038) - *Mise à jour (Précédent: 01.000.037)*
+  * `TubeBlock` (01.000.189) - *Mise à jour (Précédent: 01.000.187)*
+  * `SwanStationPS5` (1.5.9) - *Mise à jour (Précédent: 1.5.6)*
+  * `Ship of Harkinian (Vulkan)` (01.000.001) - *Mise à jour (Précédent: 01.000.000)*
+  * `PS5SD` (0.9.15) - *Mise à jour (Précédent: 0.9.14)*
+  * `Photo Splat VR` (0.1.1) - *Nouveau*
+
 ## Build du 27/10/2026 à 22:06
 * **PAYLOADS**
   * `Shadowmountplus` (1.7beta9) - *Mise à jour (Précédent: 1.7beta8)*

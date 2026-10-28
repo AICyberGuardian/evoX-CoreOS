@@ -194,7 +194,7 @@
       <title>Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.037</pubDate>
+      <pubDate>01.000.038</pubDate>
     </item>
     <item>
       <title>Capy Mobile</title>
@@ -248,7 +248,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.187</pubDate>
+      <pubDate>01.000.189</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -260,7 +260,7 @@
       <title>SwanStationPS5</title>
       <link>https://github.com/darkxex/SwanStationPS5</link>
       <description>SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.</description>
-      <pubDate>1.5.6</pubDate>
+      <pubDate>1.5.9</pubDate>
     </item>
     <item>
       <title>ReKHCoM</title>
@@ -548,7 +548,7 @@
       <title>Ship of Harkinian (Vulkan)</title>
       <link>https://github.com/damiantw/PS5_Shipwright</link>
       <description>Ship of Harkinian (Ocarina of Time PC port) on Vulkan: converts your own ROM on the console, 60 FPS at 4K, HD texture packs, right-stick camera and PS button prompts; tested on firmware 13.60.</description>
-      <pubDate>01.000.000</pubDate>
+      <pubDate>01.000.001</pubDate>
     </item>
     <item>
       <title>Geometry Wars 2</title>
@@ -662,7 +662,7 @@
       <title>PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>0.9.14</pubDate>
+      <pubDate>0.9.15</pubDate>
     </item>
     <item>
       <title>PS5MG</title>
@@ -771,6 +771,12 @@
       <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5</link>
       <description>A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music.</description>
       <pubDate>4.0</pubDate>
+    </item>
+    <item>
+      <title>Photo Splat VR</title>
+      <link>https://github.com/Papyszoo/photo-splat-vr</link>
+      <description>Turns your photos into 3D Gaussian splat scenes on the console and lets you view them in PSVR2. Works offline.</description>
+      <pubDate>0.1.1</pubDate>
     </item>
     <item>
       <title>PShare</title>

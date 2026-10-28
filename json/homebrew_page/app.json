@@ -242,15 +242,15 @@
     {
       "name": "Prospero Themes",
       "filename": "PPSA90210.zip",
-      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.037/PPSA90210.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.037/PPSA90210.zip",
+      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.038/PPSA90210.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.038/PPSA90210.zip",
       "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
-      "version": "01.000.037",
+      "version": "01.000.038",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA90210",
       "author": "Darkatek7",
-      "checksum": "8f246efc717445db92a361b4f608f8384bc48b9b4dded5302cab5c158bee60dd",
+      "checksum": "d9035950e6f593245ada7b886b15f8958cc63e72846451d5f702d58cd9a1bb26",
       "source": "https://github.com/Darkatek7/ProsperoThemes"
     },
     {
@@ -312,15 +312,15 @@
     {
       "name": "TubeBlock",
       "filename": "PPSA98260.zip",
-      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.187/SmartTube-PPSA98260.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.187/PPSA98260.zip",
+      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.189/SmartTube-PPSA98260.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.189/PPSA98260.zip",
       "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-      "version": "01.000.187",
+      "version": "01.000.189",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98260",
       "author": "animatian112",
-      "checksum": "521fcaa70ccba497d6d3cfc99957db6200eace134173b9101c8e761256ea2a57",
+      "checksum": "e2d8d92f3ce1277bec9f423544e7f499e90c6b48577e76772d0a04bce6473111",
       "source": "https://github.com/animatian112/ytps5-sponsorblock"
     },
     {
@@ -340,15 +340,15 @@
     {
       "name": "SwanStationPS5",
       "filename": "PPSA98510.zip",
-      "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.5.6/PPSA98510.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.5.6/PPSA98510.zip",
+      "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.5.9/PPSA98510.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.5.9/PPSA98510.zip",
       "description": "SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.",
-      "version": "1.5.6",
+      "version": "1.5.9",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98510",
       "author": "AngelXex",
-      "checksum": "f413665f04d9903bfb20c1f347aeed4e95ce7c1aeacb8e39b9e9483e78363a8d",
+      "checksum": "4def0fd289a935cb37b5df04bf19dbc3523c8a2de8c7b1f92020ea0d63c77bca",
       "source": "https://github.com/darkxex/SwanStationPS5"
     },
     {
@@ -886,15 +886,15 @@
     {
       "name": "PS5SD",
       "filename": "PPSA99576.zip",
-      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.9.14/PPSA99576.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.9.14/PPSA99576.zip",
+      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.9.15/PPSA99576.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.9.15/PPSA99576.zip",
       "description": "Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.",
-      "version": "0.9.14",
+      "version": "0.9.15",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99576",
       "author": "Darkatek7",
-      "checksum": "2d407096ea7d46a5742c74826d96e6dd04a1ebcb7e2c6d57f27800091e0e2fda",
+      "checksum": "ad56e4f300dee0af3bdb32b261d9efb22b9d4088e1f74ba58041499fda8e9e43",
       "source": "https://github.com/Darkatek7/PS5SD"
     },
     {
@@ -980,6 +980,20 @@
       "author": "Ruben Ripalda",
       "checksum": "bce438cc8f436e177ae33b47a43aba82a7020e9db9b2b94c14055b4b7db2328e",
       "source": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5"
+    },
+    {
+      "name": "Photo Splat VR",
+      "filename": "PPSA99770.zip",
+      "url": "https://github.com/Papyszoo/photo-splat-vr/releases/download/v0.1.1/photo-splat-vr-v0.1.1.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99770/0.1.1/PPSA99770.zip",
+      "description": "Turns your photos into 3D Gaussian splat scenes on the console and lets you view them in PSVR2. Works offline.",
+      "version": "0.1.1",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99770",
+      "author": "Papyszoo",
+      "checksum": "ec363d708aec0d841ce428f5f15b003eab041a5e79a2b8e2aa377633dffb0887",
+      "source": "https://github.com/Papyszoo/photo-splat-vr"
     },
     {
       "name": "PShare",

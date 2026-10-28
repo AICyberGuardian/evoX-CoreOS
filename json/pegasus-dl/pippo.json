@@ -99,7 +99,8 @@
       "createdAt": "2026-10-27T10:41:40.083Z",
       "version": "v01.092",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06094_d47e5196802d8abc9e49afad2f58606b99d201d7b454729cbf560d1fec932d75/icon0.webp",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/58f9bc0c527afb470f57f8616b93efb59fdeae4c355ef45151f6403bf78e93fa",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/58f9bc0c527afb470f57f8616b93efb59fdeae4c355ef45151f6403bf78e93fa",
       "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA06094, v01.092, USA, 4.xx BackPort\nSize: 28GB\nCredits: Files: UchihaDareNial; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 6.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
