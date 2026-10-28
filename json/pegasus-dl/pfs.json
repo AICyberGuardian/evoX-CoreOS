@@ -3,6 +3,24 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA16064",
+      "title": "Minecraft Dungeons II",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.100.100",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/cce75fced5b8759af090022c649a564fc44746bf210a783fffef7b31bc988814",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/5a0a821a48cea344332c1ace71e2ada39f06c567c87e25ee839729bcbe123e45",
+      "description": "Format: LZ4\nMinecraft Dungeons II is here with more action, more loot, and more adventure. Step through the rift and fight where no hero has been before: the Sift, an uncharted dimension teeming with threats, mysteries, and breathtaking beauty. Gear up and customize your playstyle to face your toughest enemies yet in explosive battles. Brave the unknown as a lone hero, team up with friends in couch, online and mixed co-op, or find allies through matchmaking. The illagers’ plot is already underway, and their cruelty is only matched by their power. Stop them – or lose the Overworld to their corruption. *Requires initial content download. Online console multiplayer/co-op requires a platform-specific online subscription (sold separately).\nRegion: USA to EUR Langs\nFirmware: 5.xx+\nUpdated: 2026-10-28T11:01:03.178Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "LZ4 · Viki",
+          "url": "https://vikingfile.com/f/K3eVSv1HdG"
+        }
+      ],
+      "sizeBytes": 7054483784
+    },
+    {
       "titleId": "PPSA23559",
       "title": "Anno 117 Pax Romana",
       "createdAt": "2026-10-28T03:12:02.924Z",

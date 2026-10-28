@@ -562,6 +562,20 @@
       "source": "https://github.com/thelinkin3000/halo-ce-universal"
     },
     {
+      "name": "FoxHollow",
+      "filename": "PPSA99573.zip",
+      "url": "https://github.com/BaZZtian/PS5-FoxHollow/releases/download/v0.1.4/FoxHollow-0.1.4-PPSA99573.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99573/0.1.4/PPSA99573.zip",
+      "description": "Native PS5 port of Star Fox Adventures; PAL release for firmware 12.40 with save/load and in-menu language selection. Requires your own disc image; no game data included.",
+      "version": "0.1.4",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99573",
+      "author": "BaZZtian",
+      "checksum": "3b4af2f5d24e8069558e9a3b4f7b47f10002b23965f5a3fdfa09dafed2fafba8",
+      "source": "https://github.com/BaZZtian/PS5-FoxHollow"
+    },
+    {
       "name": "GETSU-SAN",
       "filename": "PPSA99604.zip",
       "url": "https://github.com/CHI-GETSU/GTA-SA-PS5-Homebrew/releases/download/v0.1.0-beta/GTA-SA-PS5-PPSA99604-TEST.zip",

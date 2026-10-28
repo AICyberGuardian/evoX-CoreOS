@@ -1,5 +1,20 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 28/10/2026 à 12:27
+* **PAYLOADS**
+  * `Zftpd-Ps5-Zhttp-V1.7.0` (v1.7.0) - *Nouveau*
+  * `Zftpd-Ps5-V1.7.0` (v1.7.0) - *Nouveau*
+  * `Ps5-Ezremote-Client V2.16` (2.16) - *Nouveau*
+  * `Ps5Upload V8.6.1` (v8.6.1) - *Nouveau*
+  * `Kura V1.6.51` (v1.6.51) - *Nouveau*
+  * `Zftpd-Ps5-V1.6.0` (zftpd) - *Mise à jour (Précédent: v1.6.0)*
+  * `Zftpd-Ps5-Zhttp-V1.6.0` (zftpd) - *Mise à jour (Précédent: v1.6.0)*
+* **HOMEBREW_PAGE**
+  * `PC5` (1.8.8) - *Mise à jour (Précédent: 1.8.7)*
+  * `PKG Folderizer` (01.056.000) - *Mise à jour (Précédent: 01.049.000)*
+  * `PSCord` (01.000.010) - *Mise à jour (Précédent: 01.000.009)*
+  * `FoxHollow` (0.1.4) - *Nouveau*
+
 ## Build du 28/10/2026 à 04:10
 * **PAYLOADS**
   * `Webkit-Autoloader-Installer V0.6.2` (v0.6.2) - *Nouveau*

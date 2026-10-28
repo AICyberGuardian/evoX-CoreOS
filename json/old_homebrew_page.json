@@ -46,15 +46,15 @@
         {
             "name": "PC5",
             "filename": "PPSA11018.zip",
-            "url": "https://github.com/bornaradusin/PC5/releases/download/v1.8.7/PPSA11018.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/1.8.7/PPSA11018.zip",
+            "url": "https://github.com/bornaradusin/PC5/releases/download/v1.8.8/PPSA11018.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/1.8.8/PPSA11018.zip",
             "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support, up to four players, easy crash reports and built-in updates.",
-            "version": "1.8.7",
+            "version": "1.8.8",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA11018",
             "author": "bornaradusin",
-            "checksum": "070339b4055c66f7abf9e4ec0ec4aaf803c9ffa736875448ff6f4f96fc42caa7",
+            "checksum": "74f9ac55077aedec29a88a3039f045f295e63c1af43bf834d5580d8eab10cf21",
             "source": "https://github.com/bornaradusin/PC5"
         },
         {
@@ -998,15 +998,15 @@
         {
             "name": "PKG Folderizer",
             "filename": "PPSA99180.zip",
-            "url": "https://github.com/desstannsoftware/ps5-pkg-folderizer/releases/download/01.049.000/PPSA99180.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.049.000/PPSA99180.zip",
+            "url": "https://github.com/desstannsoftware/ps5-pkg-folderizer/releases/download/01.056.000/PPSA99180.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.056.000/PPSA99180.zip",
             "description": "Converts PS5 and PS4 debug .pkg files on the console into ShadowMount folders or .ffpkg / .ffpfs / .ffpfsc / .exfat images.",
-            "version": "01.049.000",
+            "version": "01.056.000",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99180",
             "author": "desstannsoft",
-            "checksum": "c8d45a0efddf63343cf9f027f4745a2202f5b76c54fc913944b01c3127f98af6",
+            "checksum": "f7f47a56b4d3e3230372075fd4f1c8ec4d5c265f2a1e45209b876eeccb7355f7",
             "source": "https://github.com/desstannsoftware/ps5-pkg-folderizer"
         },
         {
@@ -1026,15 +1026,15 @@
         {
             "name": "PSCord",
             "filename": "PPSA99190.zip",
-            "url": "https://github.com/desstannsoftware/pscord/releases/download/v01.000.009/PPSA99190.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99190/01.000.009/PPSA99190.zip",
+            "url": "https://github.com/desstannsoftware/pscord/releases/download/v01.000.010/PPSA99190.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99190/01.000.010/PPSA99190.zip",
             "description": "A native Discord client for jailbroken PS5: servers, direct messages, voice chat and a built-in unblock.",
-            "version": "01.000.009",
+            "version": "01.000.010",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99190",
             "author": "desstannsoft",
-            "checksum": "9ce101fa8e93a22d47f382ea8d60be03c97b4e0ff4f12a0adf64487cab7576ef",
+            "checksum": "6c92a0c5d1464172bb9ca12271a7b99b40082b0bd4ea595a4126bde07fec6faf",
             "source": "https://github.com/desstannsoftware/pscord"
         },
         {
@@ -1512,6 +1512,20 @@
             "author": "ThatRetiredDude",
             "checksum": "0144e1d7511d27e4c727f5f12c79049bb1ed1c98817b19004049be1e4031747e",
             "source": "https://github.com/ThatRetiredDude/TokenStation5"
+        },
+        {
+            "name": "FoxHollow",
+            "filename": "PPSA99573.zip",
+            "url": "https://github.com/BaZZtian/PS5-FoxHollow/releases/download/v0.1.4/FoxHollow-0.1.4-PPSA99573.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99573/0.1.4/PPSA99573.zip",
+            "description": "Native PS5 port of Star Fox Adventures; PAL release for firmware 12.40 with save/load and in-menu language selection. Requires your own disc image; no game data included.",
+            "version": "0.1.4",
+            "category": "Games",
+            "kind": "game",
+            "titleid": "PPSA99573",
+            "author": "BaZZtian",
+            "checksum": "3b4af2f5d24e8069558e9a3b4f7b47f10002b23965f5a3fdfa09dafed2fafba8",
+            "source": "https://github.com/BaZZtian/PS5-FoxHollow"
         },
         {
             "name": "PS5LM",

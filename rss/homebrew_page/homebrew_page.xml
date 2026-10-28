@@ -26,7 +26,7 @@
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support, up to four players, easy crash reports and built-in updates.</description>
-      <pubDate>1.8.7</pubDate>
+      <pubDate>1.8.8</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -434,7 +434,7 @@
       <title>PKG Folderizer</title>
       <link>https://github.com/desstannsoftware/ps5-pkg-folderizer</link>
       <description>Converts PS5 and PS4 debug .pkg files on the console into ShadowMount folders or .ffpkg / .ffpfs / .ffpfsc / .exfat images.</description>
-      <pubDate>01.049.000</pubDate>
+      <pubDate>01.056.000</pubDate>
     </item>
     <item>
       <title>ForgeNX – Switch Emulator</title>
@@ -446,7 +446,7 @@
       <title>PSCord</title>
       <link>https://github.com/desstannsoftware/pscord</link>
       <description>A native Discord client for jailbroken PS5: servers, direct messages, voice chat and a built-in unblock.</description>
-      <pubDate>01.000.009</pubDate>
+      <pubDate>01.000.010</pubDate>
     </item>
     <item>
       <title>PS5SX2</title>
@@ -651,6 +651,12 @@
       <link>https://github.com/ThatRetiredDude/TokenStation5</link>
       <description>Private AI server on your PS5: Qwen and Llama on its GPU behind an OpenAI-compatible API, with API keys, Tailscale for away from home, voice in and out, chat on the TV and Hugging Face downloads.</description>
       <pubDate>01.003.000</pubDate>
+    </item>
+    <item>
+      <title>FoxHollow</title>
+      <link>https://github.com/BaZZtian/PS5-FoxHollow</link>
+      <description>Native PS5 port of Star Fox Adventures; PAL release for firmware 12.40 with save/load and in-menu language selection. Requires your own disc image; no game data included.</description>
+      <pubDate>0.1.4</pubDate>
     </item>
     <item>
       <title>PS5LM</title>

@@ -5,12 +5,6 @@
     <link>https://nexgen999.github.io/evoX-CoreOS</link>
     <description>Mises à jour automatiques pour la catégorie Applications</description>
     <item>
-      <title>Spectrumlibrary 1.0.4</title>
-      <link>https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip</link>
-      <description>Spectrum-Library-PC</description>
-      <pubDate>1.0.4</pubDate>
-    </item>
-    <item>
       <title>Castation-0.4.0</title>
       <link>https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip</link>
       <description>Dreamcast emulator based on Flycast PlayStation 5 homebrew</description>
@@ -69,6 +63,12 @@
       <link>https://github.com/romanocry/EmuStore-PS5/releases/download/v0.4.0/EmuStore-PS5-v0.4.0.zip</link>
       <description>hEmuStore-PS5</description>
       <pubDate>v0.4.0</pubDate>
+    </item>
+    <item>
+      <title>Spectrumlibrary 1.0.4</title>
+      <link>https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip</link>
+      <description>Spectrum-Library-PC</description>
+      <pubDate>1.0.4</pubDate>
     </item>
     <item>
       <title>Flycast-Ps5-2026.10.06</title>
