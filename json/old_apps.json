@@ -2,6 +2,16 @@
     "name": "AIO Store Apps",
     "apps": [
         {
+            "name": "Spectrumlibrary 1.0.4",
+            "filename": "SpectrumLibrary_1.0.4.zip",
+            "url": "https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip",
+            "local_path": "apps/Spectrum-Library-PC/1.0.4/SpectrumLibrary_1.0.4.zip",
+            "description": "Spectrum-Library-PC",
+            "version": "1.0.4",
+            "checksum": "ac2bf12d56a3892ecaef4e00e8c002cfeffa7cae53aea985e3be6152dbde40c0",
+            "category": "Applications"
+        },
+        {
             "name": "Castation-0.4.0",
             "filename": "castation-0.4.0.zip",
             "url": "https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip",
@@ -84,11 +94,11 @@
         {
             "name": "Ppsa99000",
             "filename": "PPSA99000.zip",
-            "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.114/PPSA99000.zip",
-            "local_path": "apps/ProsperoStore/v1.000.114/PPSA99000.zip",
+            "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.115/PPSA99000.zip",
+            "local_path": "apps/ProsperoStore/v1.000.115/PPSA99000.zip",
             "description": "homebrew store",
-            "version": "v1.000.114",
-            "checksum": "b895a5954d4b9cebd682af8f56b690c5f676d472360ad39df99ce3439a14b6a4",
+            "version": "v1.000.115",
+            "checksum": "84e5e5447ecdfc91325ea006c554e51ea417e5fdf5457010e6e70d37f29b7250",
             "category": "Applications"
         },
         {
@@ -99,16 +109,6 @@
             "description": "hEmuStore-PS5",
             "version": "v0.4.0",
             "checksum": "bae913c18212e5ab9a178f2e5f71b3c883b2cacbdd3fffba49882d40bc60117f",
-            "category": "Applications"
-        },
-        {
-            "name": "Spectrumlibrary 1.0.4",
-            "filename": "SpectrumLibrary_1.0.4.zip",
-            "url": "https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip",
-            "local_path": "apps/Spectrum-Library-PC/1.0.4/SpectrumLibrary_1.0.4.zip",
-            "description": "Spectrum-Library-PC",
-            "version": "1.0.4",
-            "checksum": "ac2bf12d56a3892ecaef4e00e8c002cfeffa7cae53aea985e3be6152dbde40c0",
             "category": "Applications"
         },
         {

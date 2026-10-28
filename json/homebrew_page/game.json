@@ -18,15 +18,15 @@
     {
       "name": "Source Port",
       "filename": "PPSA20040.zip",
-      "url": "https://github.com/gmorb/source-port-ps5/releases/download/v0.1.1-alpha/PPSA20040.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA20040/0.1.1-alpha/PPSA20040.zip",
+      "url": "https://github.com/gmorb/source-port-ps5/releases/download/v0.1.3-alpha/PPSA20040.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA20040/0.1.3-alpha/PPSA20040.zip",
       "description": "Native PS5 port of the Source engine that runs Half-Life 2 from your own steam_legacy game files, with sound and DualSense controls.",
-      "version": "0.1.1-alpha",
+      "version": "0.1.3-alpha",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA20040",
       "author": "Gm0rb",
-      "checksum": "b6a5c209874c945a2e088fae9242013099d1b444fb2693cc75dc7860bf749153",
+      "checksum": "5e542610a5b979105812fa66dc4e53bd47a6463ec064e47683c29c1f9461255d",
       "source": "https://github.com/gmorb/source-port-ps5"
     },
     {
@@ -144,15 +144,15 @@
     {
       "name": "JSRF Unleashed",
       "filename": "PPSA69431.zip",
-      "url": "https://github.com/Marice/jsrf-ps5/releases/download/v00.001.000/JSRFUnleashed-PS5-00.001.000.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA69431/00.001.000/PPSA69431.zip",
+      "url": "https://github.com/Marice/jsrf-ps5/releases/download/v00.002.000/JSRFUnleashed-PS5-00.002.000.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA69431/00.002.000/PPSA69431.zip",
       "description": "Native PS5 port of JuMatt's JSRF Unleashed, Jet Set Radio Future recompiled, with a Vulkan renderer at up to 4K; needs your own Jet Set Radio Future (USA) disc image.",
-      "version": "00.001.000",
+      "version": "00.002.000",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA69431",
       "author": "Marice",
-      "checksum": "7497b7313f8adf9d13204fc3a4ae626abf922efb45cda9d7a9887e52bfe22995",
+      "checksum": "3ef79d0ce566ef57e0f127311ae9929764c540360eecc9314bcb2099969a8e3f",
       "source": "https://github.com/Marice/jsrf-ps5"
     },
     {
@@ -182,6 +182,20 @@
       "author": "futurepr0n",
       "checksum": "7111d4a23d541862ab1b87a20598443492f301ece6d123a99667e85b2ee3983b",
       "source": "https://github.com/futurepr0n/PSteroid5"
+    },
+    {
+      "name": "SpeedBreaker",
+      "filename": "PPSA90505.zip",
+      "url": "https://github.com/bystritskiy/speedbreaker-ps5/releases/download/01.000.000/PPSA90505.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA90505/01.000.000/PPSA90505.zip",
+      "description": "Need for Speed: Most Wanted (2005), the Xbox 360 version statically recompiled to run natively on PS5, in 4K at up to 60 fps (bring your own USA disc).",
+      "version": "01.000.000",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA90505",
+      "author": "bystritskiy (PS5 port), project(u) (SpeedBreaker)",
+      "checksum": "af97dcad1fe8d84fa0e5a347f40fd3e24829848dee31364091de713844ecc712",
+      "source": "https://github.com/bystritskiy/speedbreaker-ps5"
     },
     {
       "name": "Raptor: Call of the Shadows (PS5)",
@@ -298,15 +312,15 @@
     {
       "name": "reSOT - The Sands of Time",
       "filename": "PPSA99023.zip",
-      "url": "https://github.com/bystritskiy/rePOP-ps5/releases/download/01.003.005/PPSA99023-01.003.005.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99023/01.003.005/PPSA99023.zip",
+      "url": "https://github.com/bystritskiy/rePOP-ps5/releases/download/01.003.006/PPSA99023-01.003.006.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99023/01.003.006/PPSA99023.zip",
       "description": "Prince of Persia: The Sands of Time, built from the reSOT recompilation of the Xbox game. Needs your own Xbox retail disc files.",
-      "version": "01.003.005",
+      "version": "01.003.006",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99023",
       "author": "bystritskiy",
-      "checksum": "9b2106142e571a4d22b7be7893eb05dd7eb2e032a2d6f34a96a5a7fe41277409",
+      "checksum": "4f639c519a212e88899d60eaf9f739121ca135e57b095339f3d5c3171dd3c3b7",
       "source": "https://github.com/bystritskiy/rePOP-ps5"
     },
     {
@@ -716,6 +730,34 @@
       "source": "https://github.com/mshivam019/la-ps5"
     },
     {
+      "name": "Naruto: Rise of a Ninja for PS5",
+      "filename": "PPSA99680.zip",
+      "url": "https://github.com/mshivam019/naruto-ps5/releases/download/v0.1.0/PPSA99680.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99680/v0.1.0/PPSA99680.zip",
+      "description": "Native PS5 port of Naruto: Rise of a Ninja. Requires game files prepared from your own Xbox 360 disc.",
+      "version": "v0.1.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99680",
+      "author": "mshivam019",
+      "checksum": "e37e3c543d62efa6e2de5146244c6f63129efd5658974134fd0cfea1f04b3bff",
+      "source": "https://github.com/mshivam019/naruto-ps5"
+    },
+    {
+      "name": "Forza Horizon for PS5",
+      "filename": "PPSA99690.zip",
+      "url": "https://github.com/mshivam019/fh-ps5/releases/download/v0.1.0/PPSA99690.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99690/v0.1.0/PPSA99690.zip",
+      "description": "Native PS5 port of Forza Horizon (Xbox 360). Requires game files prepared from your own disc with the release's setup.",
+      "version": "v0.1.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99690",
+      "author": "mshivam019",
+      "checksum": "e39554fca8ce175ad608ba48290eeea053a17e350057e146ad6c7994fad85384",
+      "source": "https://github.com/mshivam019/fh-ps5"
+    },
+    {
       "name": "OpenRCT2 Native Port",
       "filename": "PPSA99728.zip",
       "url": "https://github.com/lowbit/ps5-openrct2/releases/download/v1.0.0/PPSA99728.zip",
@@ -732,15 +774,15 @@
     {
       "name": "ProsperoCraft",
       "filename": "PPSA99874.zip",
-      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.108/PPSA99874.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.108/PPSA99874.zip",
+      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.119/PPSA99874.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.119/PPSA99874.zip",
       "description": "Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.",
-      "version": "01.000.108",
+      "version": "01.000.119",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99874",
       "author": "mateo-cogeanu",
-      "checksum": "545678bd4801cbf9e00b7209c25a89a9dfb0b3be7b645e3cd98f75633e455560",
+      "checksum": "de43986035602bcedc81ed904ec1db22b4148ec7b22001c95725ad2348c63c19",
       "source": "https://github.com/mateo-cogeanu/ProsperoCraft"
     },
     {

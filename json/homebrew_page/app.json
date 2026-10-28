@@ -4,15 +4,15 @@
     {
       "name": "Playden",
       "filename": "FAKE77031.zip",
-      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.8.0-beta.1/playden-ps5-0.8.0-beta.1.zip",
-      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.8.0-beta.1/FAKE77031.zip",
+      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.8.0/playden-ps5-0.8.0.zip",
+      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.8.0/FAKE77031.zip",
       "description": "Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.",
-      "version": "0.8.0-beta.1",
+      "version": "0.8.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "FAKE77031",
       "author": "leolobato",
-      "checksum": "ffe077f73553a0e4c760e20c203dcb1b2bfcf4d8b8e9249257222a609bf2f781",
+      "checksum": "4758ca04ba1b35a15bb31b406c20dede2d4bbd70165d24f7e6ac9feb059dbfec",
       "source": "https://github.com/leolobato/playden-ps5"
     },
     {
@@ -46,15 +46,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v1.8.8/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/1.8.8/PPSA11018.zip",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v1.9.4/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/1.9.4/PPSA11018.zip",
       "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support, up to four players, easy crash reports and built-in updates.",
-      "version": "1.8.8",
+      "version": "1.9.4",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "74f9ac55077aedec29a88a3039f045f295e63c1af43bf834d5580d8eab10cf21",
+      "checksum": "c36e9749470387ee78626052d04b941c1b3d76e5b5d5db6947ce153510eff9a1",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -340,15 +340,15 @@
     {
       "name": "SwanStationPS5",
       "filename": "PPSA98510.zip",
-      "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.5.9/PPSA98510.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.5.9/PPSA98510.zip",
+      "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.6.0/PPSA98510.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.6.0/PPSA98510.zip",
       "description": "SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.",
-      "version": "1.5.9",
+      "version": "1.6.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98510",
       "author": "AngelXex",
-      "checksum": "4def0fd289a935cb37b5df04bf19dbc3523c8a2de8c7b1f92020ea0d63c77bca",
+      "checksum": "52b94e9c7928c50f2e6d0bae997f1ad2bc136df6f16adad41e12837699f8ec9b",
       "source": "https://github.com/darkxex/SwanStationPS5"
     },
     {
@@ -438,15 +438,15 @@
     {
       "name": "Media Player Classic PS5",
       "filename": "PPSA99015.zip",
-      "url": "https://github.com/MisterTemaki/MediaPlayerClassicPS5/releases/download/v1.4/MediaPlayerClassicPS5-v1.4-PPSA99015.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99015/1.4/PPSA99015.zip",
+      "url": "https://github.com/MisterTemaki/MediaPlayerClassicPS5/releases/download/v1.5/MediaPlayerClassicPS5-v1.5-PPSA99015.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99015/1.5/PPSA99015.zip",
       "description": "Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.",
-      "version": "1.4",
+      "version": "1.5",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99015",
       "author": "MisterTemaki",
-      "checksum": "34a73bfcadc8c0b99a6b2224128c16a95b17a93d4e825152b49f70a7becd6170",
+      "checksum": "632264223c809741042d5f6b59841ee114583279f7aa676e7fbdef9ee4593850",
       "source": "https://github.com/MisterTemaki/MediaPlayerClassicPS5"
     },
     {
@@ -620,15 +620,15 @@
     {
       "name": "PKG Folderizer",
       "filename": "PPSA99180.zip",
-      "url": "https://github.com/desstannsoftware/ps5-pkg-folderizer/releases/download/01.056.000/PPSA99180.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.056.000/PPSA99180.zip",
+      "url": "https://github.com/desstannsoftware/ps5-pkg-folderizer/releases/download/01.057.000/PPSA99180.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.057.000/PPSA99180.zip",
       "description": "Converts PS5 and PS4 debug .pkg files on the console into ShadowMount folders or .ffpkg / .ffpfs / .ffpfsc / .exfat images.",
-      "version": "01.056.000",
+      "version": "01.057.000",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99180",
       "author": "desstannsoft",
-      "checksum": "f7f47a56b4d3e3230372075fd4f1c8ec4d5c265f2a1e45209b876eeccb7355f7",
+      "checksum": "cd524b0cc191bbaa0590b36c2666393ab0365ce821c47e3d0eac8cd39ceda1e5",
       "source": "https://github.com/desstannsoftware/ps5-pkg-folderizer"
     },
     {
@@ -732,15 +732,15 @@
     {
       "name": "Art Swap",
       "filename": "PPSA99318.zip",
-      "url": "https://github.com/griches/PS5_ArtSwap/releases/download/v1.3.1/PS5_ArtSwap-v1.3.1.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99318/1.3.1/PPSA99318.zip",
-      "description": "Change any title's home-screen icon, background, logo and music with SteamGridDB art (your own free key) and your own songs, keep the originals, and rename homebrew through ShadowMountPlus.",
-      "version": "1.3.1",
+      "url": "https://github.com/griches/PS5_ArtSwap/releases/download/v1.4.0/PS5_ArtSwap-v1.4.0.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99318/1.4.0/PPSA99318.zip",
+      "description": "Change any title's home-screen icon, background, logo and music with SteamGridDB art or pictures from your phone, keep the originals, and move or hide home-screen tiles.",
+      "version": "1.4.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99318",
       "author": "Gary Riches",
-      "checksum": "b7db472827d8107e5128415d351e50f63217b8d294aadfaa25d90cffd45cd4da",
+      "checksum": "a0cc6ec20225c72d0171cdcd9b40ca9396ab17f18e872c7abf94c4a4774213a8",
       "source": "https://github.com/griches/PS5_ArtSwap"
     },
     {
@@ -760,15 +760,15 @@
     {
       "name": "PS5-ECAM",
       "filename": "PPSA99360.zip",
-      "url": "https://github.com/premohq/PS5-ECAM/releases/download/v5.0.1/PS5-ECAM-v5.0.1.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99360/5.0.1/PPSA99360.zip",
+      "url": "https://github.com/premohq/PS5-ECAM/releases/download/v5.1.0/PS5-ECAM-v5.1.0.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99360/5.1.0/PPSA99360.zip",
       "description": "Wii U, 3DS, DS and Switch emulation for jailbroken PS5, built on Cemu, Azahar, melonDS and Eden, with one launcher for all four.",
-      "version": "5.0.1",
+      "version": "5.1.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99360",
       "author": "premohq",
-      "checksum": "733f4d9408a0f6354e6a491614b5fb15bd893780a7191db8bf3d71a82ba4dfdb",
+      "checksum": "c6a0c0b50617d923a5e7a5cb37d799c746118342cd850d5bca634c3670a6562f",
       "source": "https://github.com/premohq/PS5-ECAM"
     },
     {
@@ -858,15 +858,15 @@
     {
       "name": "TokenStation5",
       "filename": "PPSA99555.zip",
-      "url": "https://github.com/ThatRetiredDude/TokenStation5/releases/download/01.003.000/PPSA99555.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99555/01.003.000/PPSA99555.zip",
-      "description": "Private AI server on your PS5: Qwen and Llama on its GPU behind an OpenAI-compatible API, with API keys, Tailscale for away from home, voice in and out, chat on the TV and Hugging Face downloads.",
-      "version": "01.003.000",
+      "url": "https://github.com/ThatRetiredDude/TokenStation5/releases/download/01.004.001/PPSA99555.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99555/01.004.001/PPSA99555.zip",
+      "description": "Private AI server on your PS5: Qwen, Llama, Mistral and Gemma on its GPU behind an OpenAI-compatible API, with API keys, Tailscale, voice in and out, chat on the TV and Hugging Face downloads.",
+      "version": "01.004.001",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99555",
       "author": "ThatRetiredDude",
-      "checksum": "0144e1d7511d27e4c727f5f12c79049bb1ed1c98817b19004049be1e4031747e",
+      "checksum": "07071e4ea9b799f9909cc4e2df31e7d53391b2025ef4f3d5b18604383a10daf5",
       "source": "https://github.com/ThatRetiredDude/TokenStation5"
     },
     {
@@ -886,15 +886,15 @@
     {
       "name": "PS5SD",
       "filename": "PPSA99576.zip",
-      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.9.15/PPSA99576.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/0.9.15/PPSA99576.zip",
+      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v1.0.0/PPSA99576.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/1.0.0/PPSA99576.zip",
       "description": "Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.",
-      "version": "0.9.15",
+      "version": "1.0.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99576",
       "author": "Darkatek7",
-      "checksum": "ad56e4f300dee0af3bdb32b261d9efb22b9d4088e1f74ba58041499fda8e9e43",
+      "checksum": "a10177438a284fc2335325c52e84e2c5705c272fd25a85b5dab5853d11624f89",
       "source": "https://github.com/Darkatek7/PS5SD"
     },
     {
@@ -1120,6 +1120,20 @@
       "author": "MisterTemaki",
       "checksum": "ce29038a8f1e43a063cd1c0bb1881df9d73a7611c97abeff0bd7928882d7874c",
       "source": "https://github.com/MisterTemaki/beetlepcePS5"
+    },
+    {
+      "name": "Arcade Gallery",
+      "filename": "PPSA99984.zip",
+      "url": "https://github.com/zomavich-netizen/Arcade-PS5/releases/download/v0.2.1/Arcade-v0.2.1-PS5.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99984/0.2.1/PPSA99984.zip",
+      "description": "Native PS5 arcade emulator with per-game save states, controller navigation, detailed game information, and automatic screen orientation. No games or BIOS files are included.",
+      "version": "0.2.1",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99984",
+      "author": "zomavich",
+      "checksum": "81cf6cd98d294806822bb9aa4a69aa6a15929c023b322504e03fb7233db951e2",
+      "source": "https://github.com/zomavich-netizen/Arcade-PS5"
     },
     {
       "name": "YouTube Max’d",

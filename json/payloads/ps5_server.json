@@ -2,17 +2,6 @@
   "name": "PS5 Server",
   "payloads": [
     {
-      "name": "Zftpd-Ps5-Zhttp-V1.7.0",
-      "filename": "zftpd-ps5-zhttp-v1.7.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
-      "local_path": "payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
-      "description": "FTP server payload for PS5. Port: 21",
-      "version": "v1.7.0",
-      "category": "PS5 Server",
-      "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e",
-      "source": "https://github.com/seregonwar/zftpd/releases"
-    },
-    {
       "name": "Zftpd-Ps5-V1.7.0",
       "filename": "zftpd-ps5-v1.7.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf",
@@ -21,6 +10,17 @@
       "version": "v1.7.0",
       "category": "PS5 Server",
       "checksum": "533ef2ea5f56af392419b6ce6d05112da79428c2fef252a1a2bcf388be617484",
+      "source": "https://github.com/seregonwar/zftpd/releases"
+    },
+    {
+      "name": "Zftpd-Ps5-Zhttp-V1.7.0",
+      "filename": "zftpd-ps5-zhttp-v1.7.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
+      "local_path": "payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
+      "description": "FTP server payload for PS5. Port: 21",
+      "version": "v1.7.0",
+      "category": "PS5 Server",
+      "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e",
       "source": "https://github.com/seregonwar/zftpd/releases"
     },
     {
@@ -42,7 +42,7 @@
       "description": "FTP server background daemon. Port: 21",
       "version": "v0.21.1",
       "category": "PS5 Server",
-      "checksum": "7d4b31c83eae4e056580482a3a074e1db25922efc74ac1e439473b45d71a5938",
+      "checksum": "5f00e2df7fa8ab7daa084343f38394e6672cd389e03fc8598a54d7d9e1d58d16",
       "source": "https://github.com/ps5-payload-dev/ftpsrv/releases"
     },
     {
@@ -64,7 +64,7 @@
       "description": "GDB Debugger server payload. Port: 1234",
       "version": "v0.9",
       "category": "PS5 Server",
-      "checksum": "80952d75f423768b95385f0944e5a5c2f417dcc10c22c1bb6516a923ad8894e5",
+      "checksum": "fc91ea233cdbb47acd8087b93d557d9f8a663d0f47cb75908a05a024d07e7efb",
       "source": "https://github.com/ps5-payload-dev/gdbsrv/releases"
     },
     {
@@ -86,7 +86,7 @@
       "description": "Drakmor",
       "version": "1.16-ng-stable",
       "category": "PS5 Server",
-      "checksum": "f19ae469b25453a7a4af4529527521d31f143100f18a2c6839666e7121c8bd32",
+      "checksum": "fba508465a8c892882e88e2834ac2b6c445583b81629257764725528f3f5fd6a",
       "source": "https://github.com/drakmor/ftpsrv/releases"
     },
     {
@@ -112,14 +112,14 @@
       "source": "https://github.com/cy33hc/ps5-ezremote-server/releases"
     },
     {
-      "name": "Ps5Upload V8.6.1",
-      "filename": "ps5upload_v8.6.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.6.1/ps5upload_v8.6.1.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v8.6.1/ps5upload_v8.6.1.elf",
+      "name": "Ps5Upload V8.8.0",
+      "filename": "ps5upload_v8.8.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.8.0/ps5upload_v8.8.0.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v8.8.0/ps5upload_v8.8.0.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v8.6.1",
+      "version": "v8.8.0",
       "category": "PS5 Server",
-      "checksum": "3e7d67537a2eac9f92ae9330a90682499610b06a5058dd47cb99c2b567c62671",
+      "checksum": "71e100106f50d25056b998d0e39cefda1b36ca1f3a2b655ec3a45ccbc15a563f",
       "source": "https://github.com/phantomptr/ps5upload/releases"
     },
     {

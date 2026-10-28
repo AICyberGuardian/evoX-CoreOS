@@ -3,6 +3,196 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA26392",
+      "title": "The Legend of Heroes Trails beyond the Horizon",
+      "createdAt": "2026-10-28T12:11:32.299Z",
+      "version": "v01.006",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/618b2a6ac99af71623beac0861b194d9075495b3c80990d18e2176148b1f69b2",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/d2d2d87e5174560250f26094f5dd2b29d4762c8e360bb5f48001b1deaa5ff2a1",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA26392, v01.006, EUR, 4.xx BackPort\nSize: 51GB\nCredits: Files: god_d_usopp8126; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/ehh16lt8m6jh/PPSA26392.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/2j19sfyx6ei6/PPSA26392.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/9AqGQeJQ0GMn/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/4I21iEHDgG"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/0PdzyMyPqzeA/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/YpU17GL5es"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/cpgovefi5r48/PPSA26392-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/olgmxypd3mt6/PPSA26392-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 54760833024
+    },
+    {
+      "titleId": "PPSA25642",
+      "title": "Clive Barkers Hellraiser Revival Deluxe Edition",
+      "createdAt": "2026-10-28T12:11:32.299Z",
+      "version": "v01.005",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/32e0c823f72f73b9bed2ba322423fcf23cc8a0e16640d735fc005ed657212e1e",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/7cb7ff819fa5cd3da2d58b0bb18abdee4fe39015ff872f6f5723467b917167f5",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA25642, v01.005, EUR, 4.xx BackPort\nSize: 97GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI; DLC: Pippo &amp; DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPorts Folder included. About FPKG: 5.xx+ (No Pro Fix) BackPort already included on Base, separated 4.xx Only, Pro Fix &amp; Original Files PKG included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/ytilda9oob0s/DLCs_Pippo.rar"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://datavaults.co/0drd8q744hy4/DLCs_Pippo.rar"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/yuhbray21frt/PPSA25642.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/lnj21kc3p45t/PPSA25642.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/qLQ36XJgEG19/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/cBl5bHrkVL"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/gXeGOexQN3Aa/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/xXpP94RuSG"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/r3b9yp6l2ccu/PPSA25642-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/mvn7ibchtxqs/PPSA25642-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 104152956928
+    },
+    {
+      "titleId": "PPSA22715",
+      "title": "STORY OF SEASONS Grand Bazaar",
+      "createdAt": "2026-10-28T12:11:32.299Z",
+      "version": "v01.005",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA22715_03e9bb6aa98589e3292b6660d82cc48c9a7b17fc3076e853ec96270a412570df/icon0.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA22715, v01.005, JPN, 4.xx BackPort\nSize: 15GB\nCredits: Files: UchihaDareNial; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/egfy40ibd7ix/PPSA22715.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/hzv2k0rth90l/PPSA22715.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/APVmaM9QlmXo/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/pjq6DcXGYQ"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/0JgG7adxl3oY/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/rf5iVNeYrl"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/eaf7s7wfigu4/PPSA22715-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/0c14osv2hhqj/PPSA22715-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 16106127360
+    },
+    {
+      "titleId": "PPSA04075",
+      "title": "River City Girls",
+      "createdAt": "2026-10-28T12:11:32.299Z",
+      "version": "v02.000",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA04075_c9659daf567ceea1c1ff0fa650cde32fe86c994e41b8723e9fc8d190a01b596c/icon0.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA04075, v02.000, USA, 3.xx and beyond\nSize: 5GB\nCredits: Files: Biogames; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/6jqct2dtulwa/PPSA04075.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/mypwl2o3ph4v/PPSA04075.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/LJlGnZyvVG15/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/jheOcdjQRu"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/5pVzNogQWG7w/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/FV2MJ8nOKy"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/4fpqjocnc4dm/PPSA04075-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/as4ne8uhub8u/PPSA04075-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
       "titleId": "PPSA27836",
       "title": "Onimusha Way of The Sword",
       "createdAt": "2026-10-27T17:49:15.190Z",

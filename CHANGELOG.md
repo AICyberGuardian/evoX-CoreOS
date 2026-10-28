@@ -1,5 +1,30 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 28/10/2026 à 22:24
+* **PAYLOADS**
+  * `Shadowmountplus` (1.7beta10) - *Mise à jour (Précédent: 1.7beta9)*
+  * `Ps5Upload V8.8.0` (v8.8.0) - *Nouveau*
+* **APPS**
+  * `Ppsa99000` (v1.000.115) - *Mise à jour (Précédent: v1.000.114)*
+* **HOMEBREW_PAGE**
+  * `Playden` (0.8.0) - *Mise à jour (Précédent: 0.8.0-beta.1)*
+  * `PC5` (1.9.4) - *Mise à jour (Précédent: 1.8.8)*
+  * `Source Port` (0.1.3-alpha) - *Mise à jour (Précédent: 0.1.1-alpha)*
+  * `JSRF Unleashed` (00.002.000) - *Mise à jour (Précédent: 00.001.000)*
+  * `SpeedBreaker` (01.000.000) - *Nouveau*
+  * `SwanStationPS5` (1.6.0) - *Mise à jour (Précédent: 1.5.9)*
+  * `Media Player Classic PS5` (1.5) - *Mise à jour (Précédent: 1.4)*
+  * `reSOT - The Sands of Time` (01.003.006) - *Mise à jour (Précédent: 01.003.005)*
+  * `PKG Folderizer` (01.057.000) - *Mise à jour (Précédent: 01.056.000)*
+  * `Art Swap` (1.4.0) - *Mise à jour (Précédent: 1.3.1)*
+  * `PS5-ECAM` (5.1.0) - *Mise à jour (Précédent: 5.0.1)*
+  * `TokenStation5` (01.004.001) - *Mise à jour (Précédent: 01.003.000)*
+  * `PS5SD` (1.0.0) - *Mise à jour (Précédent: 0.9.15)*
+  * `Naruto: Rise of a Ninja for PS5` (v0.1.0) - *Nouveau*
+  * `Forza Horizon for PS5` (v0.1.0) - *Nouveau*
+  * `ProsperoCraft` (01.000.119) - *Mise à jour (Précédent: 01.000.108)*
+  * `Arcade Gallery` (0.2.1) - *Nouveau*
+
 ## Build du 28/10/2026 à 12:27
 * **PAYLOADS**
   * `Zftpd-Ps5-Zhttp-V1.7.0` (v1.7.0) - *Nouveau*

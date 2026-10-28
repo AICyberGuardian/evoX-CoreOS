@@ -8,7 +8,7 @@
       <title>Playden</title>
       <link>https://github.com/leolobato/playden-ps5</link>
       <description>Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.</description>
-      <pubDate>0.8.0-beta.1</pubDate>
+      <pubDate>0.8.0</pubDate>
     </item>
     <item>
       <title>OliSe Player</title>
@@ -26,7 +26,7 @@
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support, up to four players, easy crash reports and built-in updates.</description>
-      <pubDate>1.8.8</pubDate>
+      <pubDate>1.9.4</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -50,7 +50,7 @@
       <title>Source Port</title>
       <link>https://github.com/gmorb/source-port-ps5</link>
       <description>Native PS5 port of the Source engine that runs Half-Life 2 from your own steam_legacy game files, with sound and DualSense controls.</description>
-      <pubDate>0.1.1-alpha</pubDate>
+      <pubDate>0.1.3-alpha</pubDate>
     </item>
     <item>
       <title>Middle Ages Ping Pong</title>
@@ -146,7 +146,7 @@
       <title>JSRF Unleashed</title>
       <link>https://github.com/Marice/jsrf-ps5</link>
       <description>Native PS5 port of JuMatt's JSRF Unleashed, Jet Set Radio Future recompiled, with a Vulkan renderer at up to 4K; needs your own Jet Set Radio Future (USA) disc image.</description>
-      <pubDate>00.001.000</pubDate>
+      <pubDate>00.002.000</pubDate>
     </item>
     <item>
       <title>Stremio Plus</title>
@@ -195,6 +195,12 @@
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
       <pubDate>01.000.038</pubDate>
+    </item>
+    <item>
+      <title>SpeedBreaker</title>
+      <link>https://github.com/bystritskiy/speedbreaker-ps5</link>
+      <description>Need for Speed: Most Wanted (2005), the Xbox 360 version statically recompiled to run natively on PS5, in 4K at up to 60 fps (bring your own USA disc).</description>
+      <pubDate>01.000.000</pubDate>
     </item>
     <item>
       <title>Capy Mobile</title>
@@ -260,7 +266,7 @@
       <title>SwanStationPS5</title>
       <link>https://github.com/darkxex/SwanStationPS5</link>
       <description>SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.</description>
-      <pubDate>1.5.9</pubDate>
+      <pubDate>1.6.0</pubDate>
     </item>
     <item>
       <title>ReKHCoM</title>
@@ -338,13 +344,13 @@
       <title>Media Player Classic PS5</title>
       <link>https://github.com/MisterTemaki/MediaPlayerClassicPS5</link>
       <description>Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.</description>
-      <pubDate>1.4</pubDate>
+      <pubDate>1.5</pubDate>
     </item>
     <item>
       <title>reSOT - The Sands of Time</title>
       <link>https://github.com/bystritskiy/rePOP-ps5</link>
       <description>Prince of Persia: The Sands of Time, built from the reSOT recompilation of the Xbox game. Needs your own Xbox retail disc files.</description>
-      <pubDate>01.003.005</pubDate>
+      <pubDate>01.003.006</pubDate>
     </item>
     <item>
       <title>Forever Launcher</title>
@@ -434,7 +440,7 @@
       <title>PKG Folderizer</title>
       <link>https://github.com/desstannsoftware/ps5-pkg-folderizer</link>
       <description>Converts PS5 and PS4 debug .pkg files on the console into ShadowMount folders or .ffpkg / .ffpfs / .ffpfsc / .exfat images.</description>
-      <pubDate>01.056.000</pubDate>
+      <pubDate>01.057.000</pubDate>
     </item>
     <item>
       <title>ForgeNX – Switch Emulator</title>
@@ -535,8 +541,8 @@
     <item>
       <title>Art Swap</title>
       <link>https://github.com/griches/PS5_ArtSwap</link>
-      <description>Change any title's home-screen icon, background, logo and music with SteamGridDB art (your own free key) and your own songs, keep the originals, and rename homebrew through ShadowMountPlus.</description>
-      <pubDate>1.3.1</pubDate>
+      <description>Change any title's home-screen icon, background, logo and music with SteamGridDB art or pictures from your phone, keep the originals, and move or hide home-screen tiles.</description>
+      <pubDate>1.4.0</pubDate>
     </item>
     <item>
       <title>Quake3e</title>
@@ -572,7 +578,7 @@
       <title>PS5-ECAM</title>
       <link>https://github.com/premohq/PS5-ECAM</link>
       <description>Wii U, 3DS, DS and Switch emulation for jailbroken PS5, built on Cemu, Azahar, melonDS and Eden, with one launcher for all four.</description>
-      <pubDate>5.0.1</pubDate>
+      <pubDate>5.1.0</pubDate>
     </item>
     <item>
       <title>NFS Black Box</title>
@@ -649,8 +655,8 @@
     <item>
       <title>TokenStation5</title>
       <link>https://github.com/ThatRetiredDude/TokenStation5</link>
-      <description>Private AI server on your PS5: Qwen and Llama on its GPU behind an OpenAI-compatible API, with API keys, Tailscale for away from home, voice in and out, chat on the TV and Hugging Face downloads.</description>
-      <pubDate>01.003.000</pubDate>
+      <description>Private AI server on your PS5: Qwen, Llama, Mistral and Gemma on its GPU behind an OpenAI-compatible API, with API keys, Tailscale, voice in and out, chat on the TV and Hugging Face downloads.</description>
+      <pubDate>01.004.001</pubDate>
     </item>
     <item>
       <title>FoxHollow</title>
@@ -668,7 +674,7 @@
       <title>PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>0.9.15</pubDate>
+      <pubDate>1.0.0</pubDate>
     </item>
     <item>
       <title>PS5MG</title>
@@ -755,6 +761,18 @@
       <pubDate>v0.1.0</pubDate>
     </item>
     <item>
+      <title>Naruto: Rise of a Ninja for PS5</title>
+      <link>https://github.com/mshivam019/naruto-ps5</link>
+      <description>Native PS5 port of Naruto: Rise of a Ninja. Requires game files prepared from your own Xbox 360 disc.</description>
+      <pubDate>v0.1.0</pubDate>
+    </item>
+    <item>
+      <title>Forza Horizon for PS5</title>
+      <link>https://github.com/mshivam019/fh-ps5</link>
+      <description>Native PS5 port of Forza Horizon (Xbox 360). Requires game files prepared from your own disc with the release's setup.</description>
+      <pubDate>v0.1.0</pubDate>
+    </item>
+    <item>
       <title>Machete AI Studio</title>
       <link>https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID</link>
       <description>Machete AI Studio: Local Video, Image and Audio generation (Sana, Kokoro, SD 3.5, Wan 2.2, LTX-Video, SDXL, FLUX) on PS5 GPU with Web UI, DualSense controls and TV dashboard.</description>
@@ -818,7 +836,7 @@
       <title>ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
-      <pubDate>01.000.108</pubDate>
+      <pubDate>01.000.119</pubDate>
     </item>
     <item>
       <title>Genesis Plus GX PS5</title>
@@ -849,6 +867,12 @@
       <link>https://github.com/heydemoura/ps5-forwarder-manager</link>
       <description>Create and edit home-screen forwarders that launch emulators and other apps with custom art, music and arguments.</description>
       <pubDate>00.001.005</pubDate>
+    </item>
+    <item>
+      <title>Arcade Gallery</title>
+      <link>https://github.com/zomavich-netizen/Arcade-PS5</link>
+      <description>Native PS5 arcade emulator with per-game save states, controller navigation, detailed game information, and automatic screen orientation. No games or BIOS files are included.</description>
+      <pubDate>0.2.1</pubDate>
     </item>
     <item>
       <title>YouTube Max’d</title>
