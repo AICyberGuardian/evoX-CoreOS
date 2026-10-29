@@ -46,15 +46,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v1.9.4/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/1.9.4/PPSA11018.zip",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v1.9.8/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/1.9.8/PPSA11018.zip",
       "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support, up to four players, easy crash reports and built-in updates.",
-      "version": "1.9.4",
+      "version": "1.9.8",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "c36e9749470387ee78626052d04b941c1b3d76e5b5d5db6947ce153510eff9a1",
+      "checksum": "fb219db2a4fef7b0a5e422485ab84c6d138a63d177b8acfa825085b5c64d5f76",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -420,20 +420,6 @@
       "author": "BlackBearReloaded",
       "checksum": "8b2241e003a22bffccee23e9424991533047e633e5ce337af60281b96868439e",
       "source": "https://github.com/quatrixone/ProsperoAI"
-    },
-    {
-      "name": "ProsperoEden",
-      "filename": "PPSA99008.zip",
-      "url": "https://github.com/Swordpdf/ProsperoEden/releases/download/v1.005.000/ProsperoEden-v1.005.000.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99008/1.005.000/PPSA99008.zip",
-      "description": "Unofficial Eden emulator port for PS5.",
-      "version": "1.005.000",
-      "category": "Apps",
-      "kind": "app",
-      "titleid": "PPSA99008",
-      "author": "BlackBearReloaded",
-      "checksum": "9a726c3a4238bfc9651a8c2bd3952cf07972495a3f930cc6d0a5b487140a5991",
-      "source": "https://github.com/Swordpdf/ProsperoEden"
     },
     {
       "name": "Media Player Classic PS5",

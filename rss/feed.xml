@@ -371,10 +371,10 @@
       <pubDate>2.5B</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5 Unified Autoloader V0.1.6-E7093Cd</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.6-e7093cd/PS5_Unified_Autoloader_v0.1.6-e7093cd.elf</link>
+      <title>[Payloads] Ps5 Unified Autoloader V0.1.7-Abc3B82</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.7-abc3b82/PS5_Unified_Autoloader_v0.1.7-abc3b82.elf</link>
       <description>Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l</description>
-      <pubDate>v0.1.6-e7093cd</pubDate>
+      <pubDate>v0.1.7-abc3b82</pubDate>
     </item>
     <item>
       <title>[Payloads] Pldmgr V0.6.3</title>
@@ -653,10 +653,10 @@
       <pubDate>1.13</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V8.9.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.9.0/ps5upload_v8.9.0.elf</link>
+      <title>[Payloads] Ps5Upload V9.0.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v9.0.1/ps5upload_v9.0.1.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v8.9.0</pubDate>
+      <pubDate>v9.0.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -1130,7 +1130,7 @@
       <title>[ProsperoStore] PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support, up to four players, easy crash reports and built-in updates.</description>
-      <pubDate>1.9.4</pubDate>
+      <pubDate>1.9.8</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Home5</title>
@@ -1433,12 +1433,6 @@
       <pubDate>01.006.000</pubDate>
     </item>
     <item>
-      <title>[ProsperoStore] ProsperoEden</title>
-      <link>https://github.com/Swordpdf/ProsperoEden</link>
-      <description>Unofficial Eden emulator port for PS5.</description>
-      <pubDate>1.005.000</pubDate>
-    </item>
-    <item>
       <title>[ProsperoStore] vkQuake</title>
       <link>https://github.com/mihawk-99/PS5_vkQuake</link>
       <description>Native PS5 port of vkQuake, the Vulkan Quake engine, at up to 120 FPS and 4K with DualSense input. Needs your own Quake game data.</description>
@@ -1718,7 +1712,7 @@
       <title>[ProsperoStore] ApricotGS</title>
       <link>https://github.com/BaZZtian/PS5-ApricotGS</link>
       <description>Play supported German HeartGold and SoulSilver dumps on PS5. Add your own .nds file; the app prepares it locally and keeps separate saves. No game data included.</description>
-      <pubDate>00.030.005</pubDate>
+      <pubDate>00.040.005</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Twispero</title>
@@ -1946,7 +1940,7 @@
       <title>[ProsperoStore] ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
-      <pubDate>01.000.119</pubDate>
+      <pubDate>01.000.121</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Genesis Plus GX PS5</title>

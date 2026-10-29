@@ -26,7 +26,7 @@
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support, up to four players, easy crash reports and built-in updates.</description>
-      <pubDate>1.9.4</pubDate>
+      <pubDate>1.9.8</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -329,12 +329,6 @@
       <pubDate>01.006.000</pubDate>
     </item>
     <item>
-      <title>ProsperoEden</title>
-      <link>https://github.com/Swordpdf/ProsperoEden</link>
-      <description>Unofficial Eden emulator port for PS5.</description>
-      <pubDate>1.005.000</pubDate>
-    </item>
-    <item>
       <title>vkQuake</title>
       <link>https://github.com/mihawk-99/PS5_vkQuake</link>
       <description>Native PS5 port of vkQuake, the Vulkan Quake engine, at up to 120 FPS and 4K with DualSense input. Needs your own Quake game data.</description>
@@ -614,7 +608,7 @@
       <title>ApricotGS</title>
       <link>https://github.com/BaZZtian/PS5-ApricotGS</link>
       <description>Play supported German HeartGold and SoulSilver dumps on PS5. Add your own .nds file; the app prepares it locally and keeps separate saves. No game data included.</description>
-      <pubDate>00.030.005</pubDate>
+      <pubDate>00.040.005</pubDate>
     </item>
     <item>
       <title>Twispero</title>
@@ -842,7 +836,7 @@
       <title>ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
-      <pubDate>01.000.119</pubDate>
+      <pubDate>01.000.121</pubDate>
     </item>
     <item>
       <title>Genesis Plus GX PS5</title>

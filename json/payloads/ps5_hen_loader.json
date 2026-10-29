@@ -13,14 +13,14 @@
       "source": "https://github.com/etaHEN/etaHEN/releases"
     },
     {
-      "name": "Ps5 Unified Autoloader V0.1.6-E7093Cd",
-      "filename": "PS5_Unified_Autoloader_v0.1.6-e7093cd.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.6-e7093cd/PS5_Unified_Autoloader_v0.1.6-e7093cd.elf",
-      "local_path": "payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.6-e7093cd/PS5_Unified_Autoloader_v0.1.6-e7093cd.elf",
+      "name": "Ps5 Unified Autoloader V0.1.7-Abc3B82",
+      "filename": "PS5_Unified_Autoloader_v0.1.7-abc3b82.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.7-abc3b82/PS5_Unified_Autoloader_v0.1.7-abc3b82.elf",
+      "local_path": "payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.7-abc3b82/PS5_Unified_Autoloader_v0.1.7-abc3b82.elf",
       "description": "Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l",
-      "version": "v0.1.6-e7093cd",
+      "version": "v0.1.7-abc3b82",
       "category": "PS5 HEN Loader",
-      "checksum": "edc4f805404f80497026ba2d74f675ee7043b1ef7f4ed92b82c1ef200aac123d",
+      "checksum": "cc6a464ceaa23472cc35d557efe60a5fc3f8ebd46cf1a84790c04a2be9c5bee1",
       "source": "https://github.com/itsPLK/ps5-unified-autoloader/releases"
     },
     {

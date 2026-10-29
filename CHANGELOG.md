@@ -1,5 +1,14 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 29/10/2026 à 12:30
+* **PAYLOADS**
+  * `Ps5 Unified Autoloader V0.1.7-Abc3B82` (v0.1.7-abc3b82) - *Nouveau*
+  * `Ps5Upload V9.0.1` (v9.0.1) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `PC5` (1.9.8) - *Mise à jour (Précédent: 1.9.4)*
+  * `ApricotGS` (00.040.005) - *Mise à jour (Précédent: 00.030.005)*
+  * `ProsperoCraft` (01.000.121) - *Mise à jour (Précédent: 01.000.119)*
+
 ## Build du 29/10/2026 à 04:30
 * **PAYLOADS**
   * `Ps5Upload V8.9.0` (v8.9.0) - *Nouveau*

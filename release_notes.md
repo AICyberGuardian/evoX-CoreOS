@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.29-0430)
+### 🚀 Synthèse de la mise à jour (v2026.10.29-1230)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -99,7 +99,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5library-agent.elf`
   * `orbit_store.elf`
   * `etaHEN_v2.5B.bin`
-  * `PS5_Unified_Autoloader_v0.1.6-e7093cd.elf`
+  * `PS5_Unified_Autoloader_v0.1.7-abc3b82.elf`
   * `pldmgr_v0.6.3.elf`
   * `ELF_Arsenal_v1.6.23.elf`
   * `Kura_v1.6.51.elf`
@@ -146,7 +146,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-client_v2.16.elf`
   * `ps5-ezremote-server_v1.13.elf`
-  * `ps5upload_v8.9.0.elf`
+  * `ps5upload_v9.0.1.elf`
   * `airpsx_v0.19.elf`
   * `bfplayer-standalone.elf`
   * `ProsperoPlayer_v1.0.elf`
@@ -304,7 +304,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99002.zip`
   * `PPSA99003.zip`
   * `PPSA99004.zip`
-  * `PPSA99008.zip`
   * `PPSA99010.zip`
   * `PPSA99015.zip`
   * `PPSA99023.zip`
