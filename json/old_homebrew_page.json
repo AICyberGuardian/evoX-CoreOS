@@ -1010,6 +1010,20 @@
             "source": "https://github.com/mihawk-99/PS5_RetroArch"
         },
         {
+            "name": "MihawkOS",
+            "filename": "PPSA99170.zip",
+            "url": "https://github.com/mihawk-99/PS5_MihawkOS/releases/download/v4.0.0-alpha-4/PS5_MihawkOS-v4.0.0-alpha-4-PPSA99170.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99170/4.0.0-alpha-4/PPSA99170.zip",
+            "description": "A Windows-inspired PS5 homebrew OS bringing 32-bit and 64-bit Windows gaming to console hardware through a custom Wine/Proton compatibility stack and native Vulkan graphics.",
+            "version": "4.0.0-alpha-4",
+            "category": "Apps",
+            "kind": "app",
+            "titleid": "PPSA99170",
+            "author": "Mihawk",
+            "checksum": "a384be5e3e901a1f81379b9ef0959eda4c2884f4c82eb2ad6cac7735ca9c0ecd",
+            "source": "https://github.com/mihawk-99/PS5_MihawkOS"
+        },
+        {
             "name": "PKG Folderizer",
             "filename": "PPSA99180.zip",
             "url": "https://github.com/desstannsoftware/ps5-pkg-folderizer/releases/download/01.057.000/PPSA99180.zip",

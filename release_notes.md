@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.28-2224)
+### 🚀 Synthèse de la mise à jour (v2026.10.29-0430)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -146,7 +146,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-client_v2.16.elf`
   * `ps5-ezremote-server_v1.13.elf`
-  * `ps5upload_v8.8.0.elf`
+  * `ps5upload_v8.9.0.elf`
   * `airpsx_v0.19.elf`
   * `bfplayer-standalone.elf`
   * `ProsperoPlayer_v1.0.elf`
@@ -230,7 +230,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA19111.zip`
   * `PPSA99666.zip`
   * `PPSA99808.zip`
-  * `prospero-win-v0.2.0.zip`
+  * `prospero-win-v0.3.0.zip`
   * `PPSA99300.zip`
   * `Markus_PHU-EmuPack_PS1-Tool.PS5.rar`
   * `Markus_PHU-EmuPack-Nes.PS5.rar`
@@ -322,6 +322,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99141.zip`
   * `PPSA99142.zip`
   * `PPSA99169.zip`
+  * `PPSA99170.zip`
   * `PPSA99180.zip`
   * `PPSA99186.zip`
   * `PPSA99190.zip`

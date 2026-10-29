@@ -437,6 +437,12 @@
       <pubDate>4.0.0-beta-4</pubDate>
     </item>
     <item>
+      <title>MihawkOS</title>
+      <link>https://github.com/mihawk-99/PS5_MihawkOS</link>
+      <description>A Windows-inspired PS5 homebrew OS bringing 32-bit and 64-bit Windows gaming to console hardware through a custom Wine/Proton compatibility stack and native Vulkan graphics.</description>
+      <pubDate>4.0.0-alpha-4</pubDate>
+    </item>
+    <item>
       <title>PKG Folderizer</title>
       <link>https://github.com/desstannsoftware/ps5-pkg-folderizer</link>
       <description>Converts PS5 and PS4 debug .pkg files on the console into ShadowMount folders or .ffpkg / .ffpfs / .ffpfsc / .exfat images.</description>

@@ -653,10 +653,10 @@
       <pubDate>1.13</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V8.8.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.8.0/ps5upload_v8.8.0.elf</link>
+      <title>[Payloads] Ps5Upload V8.9.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v8.9.0/ps5upload_v8.9.0.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v8.8.0</pubDate>
+      <pubDate>v8.9.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -1031,10 +1031,10 @@
       <pubDate>v0.1.2</pubDate>
     </item>
     <item>
-      <title>[Applications] Prospero-Win-V0.2.0</title>
-      <link>https://github.com/mpereiraesaa/prospero-win/releases/download/v0.2.0/prospero-win-v0.2.0.zip</link>
+      <title>[Applications] Prospero-Win-V0.3.0</title>
+      <link>https://github.com/mpereiraesaa/prospero-win/releases/download/v0.3.0/prospero-win-v0.3.0.zip</link>
       <description>Wine for PS5</description>
-      <pubDate>v0.2.0</pubDate>
+      <pubDate>v0.3.0</pubDate>
     </item>
     <item>
       <title>[Applications] Ppsa99300</title>
@@ -1539,6 +1539,12 @@
       <link>https://github.com/mihawk-99/PS5_RetroArch</link>
       <description>Native RetroArch port for PS5 with cores for NES, SNES, GBA, Genesis, arcade, PSP, GameCube/Wii and PS2.</description>
       <pubDate>4.0.0-beta-4</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] MihawkOS</title>
+      <link>https://github.com/mihawk-99/PS5_MihawkOS</link>
+      <description>A Windows-inspired PS5 homebrew OS bringing 32-bit and 64-bit Windows gaming to console hardware through a custom Wine/Proton compatibility stack and native Vulkan graphics.</description>
+      <pubDate>4.0.0-alpha-4</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PKG Folderizer</title>

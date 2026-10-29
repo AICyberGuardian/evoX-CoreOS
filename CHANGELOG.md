@@ -1,5 +1,13 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 29/10/2026 à 04:30
+* **PAYLOADS**
+  * `Ps5Upload V8.9.0` (v8.9.0) - *Nouveau*
+* **APPS**
+  * `Prospero-Win-V0.3.0` (v0.3.0) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `MihawkOS` (4.0.0-alpha-4) - *Nouveau*
+
 ## Build du 28/10/2026 à 22:24
 * **PAYLOADS**
   * `Shadowmountplus` (1.7beta10) - *Mise à jour (Précédent: 1.7beta9)*
