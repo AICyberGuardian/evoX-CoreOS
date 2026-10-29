@@ -3,13 +3,93 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA34619",
+      "title": "Sudden Strike 5 Deluxe Edition",
+      "createdAt": "2026-10-29T20:21:13.130Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/dbfaf551eb42693c5942b5e301f7abae4607f4ae6f172dca9233b4d1154bcd00",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/04b49d64d5885c06c9b6d79b4de4fecc624e6b5daac1bbed11817d12e369b466",
+      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Works on 4.xx and higher (with Backport)\nContributor: @Karner\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.090\nRegion: EUR\nRelease note: exFAT format — FW 01.090 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/sudden-strike-5-deluxe-edition-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akia",
+          "url": "https://akirabox.to/M2BGwL0KMmj4/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1TpmHA"
+        },
+        {
+          "name": "EUR 4.xx Base - Viki",
+          "url": "https://vikingfile.com/f/J5wPmm0yXZ"
+        },
+        {
+          "name": "EUR exFAT 01.090 Base - DataNodes",
+          "url": "https://datanodes.to/b969k5vfox43/PPSA34619.7z"
+        },
+        {
+          "name": "EUR exFAT 01.090 Base - FileKeeper",
+          "url": "https://filekeeper.net/pgleccq9ft96/PPSA34619.7z"
+        },
+        {
+          "name": "EUR exFAT 01.090 Base - Akirabox",
+          "url": "https://akirabox.to/Xkrzo1R89mBO/file"
+        },
+        {
+          "name": "EUR exFAT 01.090 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ZDleueOhS8"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA20142",
+      "title": "Survival Fountain of Youth",
+      "createdAt": "2026-10-29T20:21:13.130Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/66eb0671f1d7a16830bf4382bdec50fb716835d0a46cfdfa2364b304e0cc4db3",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/32d183b42d02f5f6fc199d7fa2f021525bcd766cdb5e6f153192badf6255660e",
+      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Works on 4.xx and higher (with Backport)\nContributor: @Karner\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.007\nRegion: EUR\nRelease note: exFAT format — FW 01.007 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/survival-fountain-of-youth-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akia",
+          "url": "https://akirabox.to/gXeGOe5VX3Aa/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2v5dY"
+        },
+        {
+          "name": "EUR 4.xx Base - Viki",
+          "url": "https://vikingfile.com/f/9wKcmm8PxV"
+        },
+        {
+          "name": "EUR exFAT 01.007 Base - DataNodes",
+          "url": "https://datanodes.to/uyryk146o4jx/PPSA20142.7z"
+        },
+        {
+          "name": "EUR exFAT 01.007 Base - FileKeeper",
+          "url": "https://filekeeper.net/32kmmw5xvfu6/PPSA20142.7z"
+        },
+        {
+          "name": "EUR exFAT 01.007 Base - Akirabox",
+          "url": "https://akirabox.to/vgKGx79gnz8Q/file"
+        },
+        {
+          "name": "EUR exFAT 01.007 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/iEa2duDWmJ"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA23559",
       "title": "Anno 117 Pax Romana",
       "createdAt": "2026-10-29T12:13:13.452Z",
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/23f2f2154ffd2a7a6fd204c89ef82ec39a251400407318313485b8260bac344d",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/23f2f2154ffd2a7a6fd204c89ef82ec39a251400407318313485b8260bac344d",
-      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Works on 4.xx and higher\nContributor: @Desesperado3 &amp; Jobsitos\nPassword: DLPSGAME.COM\n\nVariant: EUR 4.xx\nRegion: EUR\nRelease note: Works on 4.xx and higher",
+      "description": "Region: EUR\nRelease note: Works on 4.xx and higher\nContributor: @Desesperado3 &amp; Jobsitos\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/anno-117-pax-romana-ps5/",
       "downloadLinks": [
         {
@@ -85,87 +165,87 @@
           "url": "https://vikingfile.com/f/Vtij5U5fbf"
         },
         {
-          "name": "EUR 4.xx Base - Akirabox part 1",
+          "name": "EUR 4.xx Base - Akirabox part 7",
           "url": "https://akirabox.to/qPez4yQvYGOY/file"
         },
         {
-          "name": "EUR 4.xx Base - Akirabox part 2",
+          "name": "EUR 4.xx Base - Akirabox part 8",
           "url": "https://akirabox.to/l76mZv5M9man/file"
         },
         {
-          "name": "EUR 4.xx Base - Akirabox part 3",
+          "name": "EUR 4.xx Base - Akirabox part 9",
           "url": "https://akirabox.to/rk9zKd5QqG0l/file"
         },
         {
-          "name": "EUR 4.xx Base - Akirabox part 4",
+          "name": "EUR 4.xx Base - Akirabox part 10",
           "url": "https://akirabox.to/E1x3AxQ7emyk/file"
         },
         {
-          "name": "EUR 4.xx Base - Akirabox part 5",
+          "name": "EUR 4.xx Base - Akirabox part 11",
           "url": "https://akirabox.to/qLQ36XQwYG19/file"
         },
         {
-          "name": "EUR 4.xx Base - Akirabox part 6",
+          "name": "EUR 4.xx Base - Akirabox part 12",
           "url": "https://akirabox.to/gXeGOe57P3Aa/file"
         },
         {
-          "name": "EUR 4.xx Base - Akirabox part 7",
+          "name": "EUR 4.xx Base - Akirabox part 13",
           "url": "https://akirabox.to/ZvqzlpPQnzaD/file"
         },
         {
-          "name": "EUR 4.xx Base - Rootz part 1",
+          "name": "EUR 4.xx Base - Rootz part 7",
           "url": "https://www.rootz.so/d/yy3Ci"
         },
         {
-          "name": "EUR 4.xx Base - Rootz part 2",
+          "name": "EUR 4.xx Base - Rootz part 8",
           "url": "https://www.rootz.so/d/27cR6W"
         },
         {
-          "name": "EUR 4.xx Base - Rootz part 3",
+          "name": "EUR 4.xx Base - Rootz part 9",
           "url": "https://www.rootz.so/d/2BeHy4"
         },
         {
-          "name": "EUR 4.xx Base - Rootz part 4",
+          "name": "EUR 4.xx Base - Rootz part 10",
           "url": "https://www.rootz.so/d/2Fg8pc"
         },
         {
-          "name": "EUR 4.xx Base - Rootz part 5",
+          "name": "EUR 4.xx Base - Rootz part 11",
           "url": "https://www.rootz.so/d/uwCPI"
         },
         {
-          "name": "EUR 4.xx Base - Rootz part 6",
+          "name": "EUR 4.xx Base - Rootz part 12",
           "url": "https://www.rootz.so/d/2JhzhA"
         },
         {
-          "name": "EUR 4.xx Base - Rootz part 7",
+          "name": "EUR 4.xx Base - Rootz part 13",
           "url": "https://www.rootz.so/d/12zu4G"
         },
         {
-          "name": "EUR 4.xx Base - Vikingfile part 1",
+          "name": "EUR 4.xx Base - Vikingfile part 7",
           "url": "https://vikingfile.com/f/FDBRsijCI9"
         },
         {
-          "name": "EUR 4.xx Base - Vikingfile part 2",
+          "name": "EUR 4.xx Base - Vikingfile part 8",
           "url": "https://vikingfile.com/f/6cooFHvcis"
         },
         {
-          "name": "EUR 4.xx Base - Vikingfile part 3",
+          "name": "EUR 4.xx Base - Vikingfile part 9",
           "url": "https://vikingfile.com/f/LxHxgnS6UL"
         },
         {
-          "name": "EUR 4.xx Base - Vikingfile part 4",
+          "name": "EUR 4.xx Base - Vikingfile part 10",
           "url": "https://vikingfile.com/f/xvTGNXdy87"
         },
         {
-          "name": "EUR 4.xx Base - Vikingfile part 5",
+          "name": "EUR 4.xx Base - Vikingfile part 11",
           "url": "https://vikingfile.com/f/Hf14sQMHcd"
         },
         {
-          "name": "EUR 4.xx Base - Vikingfile part 6",
+          "name": "EUR 4.xx Base - Vikingfile part 12",
           "url": "https://vikingfile.com/f/qjgtIz1SHI"
         },
         {
-          "name": "EUR 4.xx Base - Vikingfile part 7",
+          "name": "EUR 4.xx Base - Vikingfile part 13",
           "url": "https://vikingfile.com/f/Hmm2O4fLhh"
         }
       ]
@@ -10674,7 +10754,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/33fa81f3c63815027cf3f1c6deb31b17a15a37953bcb8ba4f527430cc67f781b",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/491135b88412b98633b8827cbe968bf3575f4bed8117ecd6b2acd7bb70cefe2b",
-      "description": "Region: EUR\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: EUR 10.xx\nRegion: EUR\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.002\nRegion: EUR\nRelease note: exFAT format — FW 01.002 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/senuas-saga-hellblade-2-ps5/",
       "downloadLinks": [
         {
@@ -10708,6 +10788,22 @@
         {
           "name": "EUR 10.xx Base - Rootz part 4",
           "url": "https://www.rootz.so/d/6pZ6u"
+        },
+        {
+          "name": "EUR exFAT 01.002 Base - DataNodes",
+          "url": "https://datanodes.to/3tdd9at3wdur/PPSA25991.7z"
+        },
+        {
+          "name": "EUR exFAT 01.002 Base - FileKeeper",
+          "url": "https://filekeeper.net/hw7xgqy1cwua/PPSA25991.7z"
+        },
+        {
+          "name": "EUR exFAT 01.002 Base - Akirabox",
+          "url": "https://akirabox.to/l76mZv5bkman/file"
+        },
+        {
+          "name": "EUR exFAT 01.002 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/HKgtAR5EoJ"
         }
       ]
     },
@@ -10718,7 +10814,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/0f4f3ed9fb49b1e66bfaaef77e77746cb63a16bc026c0695f6077733cb97c6e6",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/44930eb766b4cf933f6489dbc125f368748d33a247cc86f5e720c583ac1bb7a1",
-      "description": "Region: USA\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: USA 10.xx\nRegion: USA\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.003\nRegion: USA\nRelease note: exFAT format — FW 01.003 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/hellblade-senuas-sacrific-ps5/",
       "downloadLinks": [
         {
@@ -10728,6 +10824,22 @@
         {
           "name": "USA 10.xx Base - Rootz",
           "url": "https://www.rootz.so/d/MwyZ6"
+        },
+        {
+          "name": "USA exFAT 01.003 Base - DataNodes",
+          "url": "https://datanodes.to/j5but8lkxn3e/PPSA27581.7z"
+        },
+        {
+          "name": "USA exFAT 01.003 Base - FileKeeper",
+          "url": "https://filekeeper.net/rm91eksqm3vb/PPSA27581.7z"
+        },
+        {
+          "name": "USA exFAT 01.003 Base - Akirabox",
+          "url": "https://akirabox.to/RMKGJW5o8m1o/file"
+        },
+        {
+          "name": "USA exFAT 01.003 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/1kEq4rOWyb"
         }
       ]
     },
@@ -114498,10 +114610,6 @@
         {
           "name": "USA 3.xx Base - Vikingfile part 9",
           "url": "https://vikingfile.com/f/VjWDNZ3AXX"
-        },
-        {
-          "name": "USA 3.xx Base - Vikingfile part 10",
-          "url": "https://vikingfile.com/f/n7mkrHmlA3"
         }
       ]
     },

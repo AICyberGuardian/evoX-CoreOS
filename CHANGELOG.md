@@ -1,5 +1,34 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 29/10/2026 à 22:44
+* **PAYLOADS**
+  * `Shadowmountplus` (1.7beta11) - *Mise à jour (Précédent: 1.7beta10)*
+  * `Wfm-7Zip-Helper` (v1.13-rc1) - *Mise à jour (Précédent: v1.12)*
+  * `Web-File-Mgr-V1.13-Rc1` (v1.13-rc1) - *Nouveau*
+  * `Orbit Store` (v1.7.5) - *Mise à jour (Précédent: v1.7.0)*
+  * `Ps5Upload V9.2.2` (v9.2.2) - *Nouveau*
+  * `Web-File-Mgr-V1.12` (ps5-web-file-manager) - *Mise à jour (Précédent: v1.12)*
+* **APPS**
+  * `Ppsa99000` (v1.000.116) - *Mise à jour (Précédent: v1.000.115)*
+* **HOMEBREW_PAGE**
+  * `Playden` (0.9.0-beta.2) - *Mise à jour (Précédent: 0.8.0)*
+  * `SpeedBreaker` (01.000.001) - *Mise à jour (Précédent: 01.000.000)*
+  * `TubeBlock` (01.000.190) - *Mise à jour (Précédent: 01.000.189)*
+  * `SwanStationPS5` (1.6.1) - *Mise à jour (Précédent: 1.6.0)*
+  * `ProsperoStore` (1.000.116) - *Mise à jour (Précédent: 1.000.114)*
+  * `Media Player Classic PS5` (1.5.1) - *Mise à jour (Précédent: 1.5)*
+  * `ProsperoEden (Mirror)` (1.000.111) - *Nouveau*
+  * `reSOT - The Sands of Time` (01.004.001) - *Mise à jour (Précédent: 01.003.006)*
+  * `ORION Media Center` (01.106.000) - *Mise à jour (Précédent: 01.105.000)*
+  * `MihawkOS` (5.0.0-alpha-5) - *Mise à jour (Précédent: 4.0.0-alpha-4)*
+  * `Nuvio Max'd` (1.0.0.3-native-experimental) - *Mise à jour (Précédent: 1.0.0.2-native-experimental)*
+  * `PS5MC (Kodi)` (22.000.000) - *Nouveau*
+  * `Halo: Combat Evolved` (build-127) - *Mise à jour (Précédent: build-124)*
+  * `ProsperoCraft` (01.000.153) - *Mise à jour (Précédent: 01.000.121)*
+  * `Stella PS5` (v1.0.1) - *Nouveau*
+  * `YouTube Max’d` (1.5.0) - *Mise à jour (Précédent: 1.4.2)*
+  * `Prospero Win` (0.3.0) - *Mise à jour (Précédent: 0.2.0)*
+
 ## Build du 29/10/2026 à 12:30
 * **PAYLOADS**
   * `Ps5 Unified Autoloader V0.1.7-Abc3B82` (v0.1.7-abc3b82) - *Nouveau*

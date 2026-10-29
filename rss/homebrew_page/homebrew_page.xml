@@ -8,7 +8,7 @@
       <title>Playden</title>
       <link>https://github.com/leolobato/playden-ps5</link>
       <description>Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.</description>
-      <pubDate>0.8.0</pubDate>
+      <pubDate>0.9.0-beta.2</pubDate>
     </item>
     <item>
       <title>OliSe Player</title>
@@ -200,7 +200,7 @@
       <title>SpeedBreaker</title>
       <link>https://github.com/bystritskiy/speedbreaker-ps5</link>
       <description>Need for Speed: Most Wanted (2005), the Xbox 360 version statically recompiled to run natively on PS5, in 4K at up to 60 fps (bring your own USA disc).</description>
-      <pubDate>01.000.000</pubDate>
+      <pubDate>01.000.001</pubDate>
     </item>
     <item>
       <title>Capy Mobile</title>
@@ -254,7 +254,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.189</pubDate>
+      <pubDate>01.000.190</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -266,7 +266,7 @@
       <title>SwanStationPS5</title>
       <link>https://github.com/darkxex/SwanStationPS5</link>
       <description>SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.</description>
-      <pubDate>1.6.0</pubDate>
+      <pubDate>1.6.1</pubDate>
     </item>
     <item>
       <title>ReKHCoM</title>
@@ -302,7 +302,7 @@
       <title>ProsperoStore</title>
       <link>https://github.com/darkxex/ProsperoStore</link>
       <description>Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.</description>
-      <pubDate>1.000.114</pubDate>
+      <pubDate>1.000.116</pubDate>
     </item>
     <item>
       <title>ProsperoRadio</title>
@@ -338,13 +338,19 @@
       <title>Media Player Classic PS5</title>
       <link>https://github.com/MisterTemaki/MediaPlayerClassicPS5</link>
       <description>Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.</description>
-      <pubDate>1.5</pubDate>
+      <pubDate>1.5.1</pubDate>
+    </item>
+    <item>
+      <title>ProsperoEden (Mirror)</title>
+      <link>https://github.com/heydemoura/ProsperoEden</link>
+      <description>Unofficial Eden emulator port for PS5.</description>
+      <pubDate>1.000.111</pubDate>
     </item>
     <item>
       <title>reSOT - The Sands of Time</title>
       <link>https://github.com/bystritskiy/rePOP-ps5</link>
       <description>Prince of Persia: The Sands of Time, built from the reSOT recompilation of the Xbox game. Needs your own Xbox retail disc files.</description>
-      <pubDate>01.003.006</pubDate>
+      <pubDate>01.004.001</pubDate>
     </item>
     <item>
       <title>Forever Launcher</title>
@@ -374,7 +380,7 @@
       <title>ORION Media Center</title>
       <link>https://github.com/XeN-Made/Orion-Media-Center</link>
       <description>A launcher that shows your PS5 and PS4 games, homebrew, media apps and emulated games in one library, with box art, tabs, themes and autoboot.</description>
-      <pubDate>01.105.000</pubDate>
+      <pubDate>01.106.000</pubDate>
     </item>
     <item>
       <title>OpenNOW PS5 - Prototype</title>
@@ -434,7 +440,7 @@
       <title>MihawkOS</title>
       <link>https://github.com/mihawk-99/PS5_MihawkOS</link>
       <description>A Windows-inspired PS5 homebrew OS bringing 32-bit and 64-bit Windows gaming to console hardware through a custom Wine/Proton compatibility stack and native Vulkan graphics.</description>
-      <pubDate>4.0.0-alpha-4</pubDate>
+      <pubDate>5.0.0-alpha-5</pubDate>
     </item>
     <item>
       <title>PKG Folderizer</title>
@@ -481,8 +487,8 @@
     <item>
       <title>Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
-      <description>A native Nuvio client for PS5 with profiles, synced watch progress, addons, Live TV, an IPTV VOD library, trailers, anime skipping and optional playback engines.</description>
-      <pubDate>1.0.0.2-native-experimental</pubDate>
+      <description>A native Nuvio client for PS5 with profiles, synced watch progress, addons, Live TV, searchable IPTV VOD catalogs, chapters, trailers, anime skipping and optional playback engines.</description>
+      <pubDate>1.0.0.3-native-experimental</pubDate>
     </item>
     <item>
       <title>Spider-Man: Edge of Time</title>
@@ -599,10 +605,10 @@
       <pubDate>01.000.002</pubDate>
     </item>
     <item>
-      <title>PS5MC</title>
-      <link>https://github.com/VivaLaVent/PS5MC</link>
+      <title>PS5MC (Kodi)</title>
+      <link>https://github.com/Notedop/xbmc-ps5</link>
       <description>PS5MC, an unofficial port of the Kodi 22 media center for PS5, with a 4K GPU interface, hardware H.264, HEVC and VP9 decoding and HDR output.</description>
-      <pubDate>1.2</pubDate>
+      <pubDate>22.000.000</pubDate>
     </item>
     <item>
       <title>ApricotGS</title>
@@ -620,7 +626,7 @@
       <title>Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/halo-ce-universal</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-124</pubDate>
+      <pubDate>build-127</pubDate>
     </item>
     <item>
       <title>Jelly5</title>
@@ -836,7 +842,7 @@
       <title>ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
-      <pubDate>01.000.121</pubDate>
+      <pubDate>01.000.153</pubDate>
     </item>
     <item>
       <title>Genesis Plus GX PS5</title>
@@ -863,6 +869,12 @@
       <pubDate>v1.1.1</pubDate>
     </item>
     <item>
+      <title>Stella PS5</title>
+      <link>https://github.com/MisterTemaki/stellaPS5</link>
+      <description>Port of Stella (Atari 2600), Atari 5200, 7800 and Lynx as a native PS5 app.</description>
+      <pubDate>v1.0.1</pubDate>
+    </item>
+    <item>
       <title>Forwarder Manager</title>
       <link>https://github.com/heydemoura/ps5-forwarder-manager</link>
       <description>Create and edit home-screen forwarders that launch emulators and other apps with custom art, music and arguments.</description>
@@ -878,7 +890,7 @@
       <title>YouTube Max’d</title>
       <link>https://github.com/HandshakeHackin/youtube-maxd</link>
       <description>Standalone PS5 YouTube client based on ProsperoTube, with local voice search, Smart playlists, adaptive quality and red/white DualSense effects.</description>
-      <pubDate>1.4.2</pubDate>
+      <pubDate>1.5.0</pubDate>
     </item>
     <item>
       <title>Pulse</title>
@@ -890,7 +902,7 @@
       <title>Prospero Win</title>
       <link>https://github.com/mpereiraesaa/prospero-win</link>
       <description>Windows compatibility runtime for native PlayStation 5 homebrew.</description>
-      <pubDate>0.2.0</pubDate>
+      <pubDate>0.3.0</pubDate>
     </item>
     <item>
       <title>Nuvio PS5</title>

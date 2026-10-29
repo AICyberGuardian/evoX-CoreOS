@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.29-1230)
+### 🚀 Synthèse de la mise à jour (v2026.10.29-2244)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -57,8 +57,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5-Game-Compressor_fork_v1.1.1.elf`
   * `BFpilot_v0.5.0.elf`
   * `lapy_jb_daemon.elf`
-  * `web-file-mgr-v1.12.elf`
   * `wfm-7zip-helper.elf`
+  * `web-file-mgr-v1.13-rc1.elf`
   * `PS5-File-Explorer_vfile-explorer-v0.2.1.elf`
   * `np-fake-signin-ps5.elf`
   * `nanoDNS_v0.4.elf`
@@ -146,7 +146,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-client_v2.16.elf`
   * `ps5-ezremote-server_v1.13.elf`
-  * `ps5upload_v9.0.1.elf`
+  * `ps5upload_v9.2.2.elf`
   * `airpsx_v0.19.elf`
   * `bfplayer-standalone.elf`
   * `ProsperoPlayer_v1.0.elf`
@@ -165,6 +165,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `web-file-mgr_v1.9.elf`
   * `web-file-mgr-v1.11.elf`
   * `web-file-mgr-v1.11b.elf`
+  * `web-file-mgr-v1.12.elf`
   * `web-file-mgr-v1.10.elf`
   * `PS5X360_v0.5.7.elf`
   * `zftpd-ps5-zhttp-v1.6.0.elf`
@@ -306,6 +307,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99004.zip`
   * `PPSA99010.zip`
   * `PPSA99015.zip`
+  * `PPSA99016.zip`
   * `PPSA99023.zip`
   * `PPSA99030.zip`
   * `PPSA99039.zip`
@@ -393,6 +395,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99922.zip`
   * `PPSA99924.zip`
   * `PPSA99925.zip`
+  * `PPSA99927.zip`
   * `PPSA99930.zip`
   * `PPSA99984.zip`
   * `PPSA99991.zip`
