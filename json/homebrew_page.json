@@ -578,15 +578,15 @@
     {
       "name": "TubeBlock",
       "filename": "PPSA98260.zip",
-      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.190/SmartTube-PPSA98260.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.190/PPSA98260.zip",
+      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.191/SmartTube-PPSA98260.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.191/PPSA98260.zip",
       "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-      "version": "01.000.190",
+      "version": "01.000.191",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98260",
       "author": "animatian112",
-      "checksum": "3a0eea71bc61bb6a212f47bddd2469c1ad582f57bd929cbccc6a48e0993cc07b",
+      "checksum": "74e55b98bddd8712d03eaba8475604d6a278bf20fe4001d6a8d6df8a9847234e",
       "source": "https://github.com/animatian112/ytps5-sponsorblock"
     },
     {
@@ -1012,15 +1012,15 @@
     {
       "name": "MihawkOS",
       "filename": "PPSA99170.zip",
-      "url": "https://github.com/mihawk-99/PS5_MihawkOS/releases/download/v5.0.0-alpha-5/PS5_MihawkOS-v5.0.0-alpha-5-PPSA99170.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99170/5.0.0-alpha-5/PPSA99170.zip",
+      "url": "https://github.com/mihawk-99/PS5_MihawkOS/releases/download/v5.0.1-alpha-5/PS5_MihawkOS-v5.0.1-alpha-5-PPSA99170.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99170/5.0.1-alpha-5/PPSA99170.zip",
       "description": "A Windows-inspired PS5 homebrew OS bringing 32-bit and 64-bit Windows gaming to console hardware through a custom Wine/Proton compatibility stack and native Vulkan graphics.",
-      "version": "5.0.0-alpha-5",
+      "version": "5.0.1-alpha-5",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99170",
       "author": "Mihawk",
-      "checksum": "2f8d6ec7a37267b266d7d67f5deebc90b443db74a0d0a05d21935d0e635b4f93",
+      "checksum": "ff4c2c3dc20a3fd0896f437a138b2a38533ef50b4a295419de9f65489b33cba3",
       "source": "https://github.com/mihawk-99/PS5_MihawkOS"
     },
     {
@@ -1446,15 +1446,15 @@
     {
       "name": "Halo: Combat Evolved",
       "filename": "PPSA99500.zip",
-      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-127/halo-ps5-release.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-127/PPSA99500.zip",
+      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-128/halo-ps5-release.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-128/PPSA99500.zip",
       "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-      "version": "build-127",
+      "version": "build-128",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99500",
       "author": "thelinkin3000",
-      "checksum": "8d00ed1a54855dc5b35d1989503ad1ce90036075e9d3cdf13a0ba3987fb425f5",
+      "checksum": "5eb8241dc1fcf506b8698a96c79c32769866438551daa39c478f3c510711011c",
       "source": "https://github.com/thelinkin3000/halo-ce-universal"
     },
     {

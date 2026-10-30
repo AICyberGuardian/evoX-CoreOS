@@ -653,10 +653,10 @@
       <pubDate>1.13</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V9.2.2</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v9.2.2/ps5upload_v9.2.2.elf</link>
+      <title>[Payloads] Ps5Upload V9.4.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v9.4.1/ps5upload_v9.4.1.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v9.2.2</pubDate>
+      <pubDate>v9.4.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -1364,7 +1364,7 @@
       <title>[ProsperoStore] TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.190</pubDate>
+      <pubDate>01.000.191</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] CD Player</title>
@@ -1550,7 +1550,7 @@
       <title>[ProsperoStore] MihawkOS</title>
       <link>https://github.com/mihawk-99/PS5_MihawkOS</link>
       <description>A Windows-inspired PS5 homebrew OS bringing 32-bit and 64-bit Windows gaming to console hardware through a custom Wine/Proton compatibility stack and native Vulkan graphics.</description>
-      <pubDate>5.0.0-alpha-5</pubDate>
+      <pubDate>5.0.1-alpha-5</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PKG Folderizer</title>
@@ -1736,7 +1736,7 @@
       <title>[ProsperoStore] Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/halo-ce-universal</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-127</pubDate>
+      <pubDate>build-128</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Jelly5</title>

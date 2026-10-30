@@ -1,5 +1,13 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 30/10/2026 à 04:35
+* **PAYLOADS**
+  * `Ps5Upload V9.4.1` (v9.4.1) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `TubeBlock` (01.000.191) - *Mise à jour (Précédent: 01.000.190)*
+  * `MihawkOS` (5.0.1-alpha-5) - *Mise à jour (Précédent: 5.0.0-alpha-5)*
+  * `Halo: Combat Evolved` (build-128) - *Mise à jour (Précédent: build-127)*
+
 ## Build du 29/10/2026 à 22:44
 * **PAYLOADS**
   * `Shadowmountplus` (1.7beta11) - *Mise à jour (Précédent: 1.7beta10)*

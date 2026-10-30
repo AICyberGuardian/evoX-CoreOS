@@ -254,7 +254,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.190</pubDate>
+      <pubDate>01.000.191</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -440,7 +440,7 @@
       <title>MihawkOS</title>
       <link>https://github.com/mihawk-99/PS5_MihawkOS</link>
       <description>A Windows-inspired PS5 homebrew OS bringing 32-bit and 64-bit Windows gaming to console hardware through a custom Wine/Proton compatibility stack and native Vulkan graphics.</description>
-      <pubDate>5.0.0-alpha-5</pubDate>
+      <pubDate>5.0.1-alpha-5</pubDate>
     </item>
     <item>
       <title>PKG Folderizer</title>
@@ -626,7 +626,7 @@
       <title>Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/halo-ce-universal</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-127</pubDate>
+      <pubDate>build-128</pubDate>
     </item>
     <item>
       <title>Jelly5</title>
