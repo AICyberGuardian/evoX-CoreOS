@@ -1393,7 +1393,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/6dd9dc188feff9fb27d2d3a4351a4cb3b5247049283f6d15ea11ed6ed0c1f2e5",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ffedd3a21935deb567364925252389e34e715fdc4580fee6f2ce02809f8d9035",
-      "description": "Variant: EUR 10.xx\nRegion: EUR\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR 10.xx\nRegion: EUR\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: EUR 10.xx\nRegion: EUR\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR 10.xx\nRegion: EUR\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.000.005\nRegion: EUR\nRelease note: exFAT format — FW 01.000.005 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/terrifier-the-artcade-game-ps5/",
       "downloadLinks": [
         {
@@ -1419,6 +1419,22 @@
         {
           "name": "EUR 10.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/H7BgzlbDy2"
+        },
+        {
+          "name": "EUR exFAT 01.000.005 Base - DataNodes",
+          "url": "https://datanodes.to/8d6tp1bdig9q/PPSA26362.7z"
+        },
+        {
+          "name": "EUR exFAT 01.000.005 Base - FileKeeper",
+          "url": "https://filekeeper.net/k60zwrtn4vn5/PPSA26362.7z"
+        },
+        {
+          "name": "EUR exFAT 01.000.005 Base - Akirabox",
+          "url": "https://akirabox.to/2bJG8XxqrGOB/file"
+        },
+        {
+          "name": "EUR exFAT 01.000.005 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/4ypl90S3lp"
         }
       ]
     },
@@ -6537,7 +6553,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/2700d2b422db09ee00a0eff5f6b927f6d6ba01ce6861441894a4dac7c5f29841",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/3f7bf5eece4e7d175d6ff7dd908149c501a06bf0468dcd3d6628ec6610b616dd",
-      "description": "Region: EUR\nRelease note: Working 13.xx to 10.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM",
+      "description": "Variant: EUR 13.xx\nRegion: EUR\nRelease note: Working 13.xx to 10.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.000.029\nRegion: EUR\nRelease note: exFAT format — FW 01.000.029 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/carx-street-ps5/",
       "downloadLinks": [
         {
@@ -6567,6 +6583,22 @@
         {
           "name": "EUR 13.xx Base - Vikingfile part 2",
           "url": "https://vikingfile.com/f/8BprF6BiEn"
+        },
+        {
+          "name": "EUR exFAT 01.000.029 Base - DataNodes",
+          "url": "https://datanodes.to/81866p4fnmvi/PPSA25972.7z"
+        },
+        {
+          "name": "EUR exFAT 01.000.029 Base - FileKeeper",
+          "url": "https://filekeeper.net/38xreejbz5mu/PPSA25972.7z"
+        },
+        {
+          "name": "EUR exFAT 01.000.029 Base - Akirabox",
+          "url": "https://akirabox.to/LJlGnZEoeG15/file"
+        },
+        {
+          "name": "EUR exFAT 01.000.029 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/bG4kFlaNDD"
         }
       ]
     },
@@ -13778,22 +13810,6 @@
           "url": "https://www.rootz.so/d/IPfKi"
         },
         {
-          "name": "EUR Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/Q0OyPpvSQf"
-        },
-        {
-          "name": "EUR Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/HL1eWxeZd5"
-        },
-        {
-          "name": "EUR Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/07iXfcqXIt"
-        },
-        {
-          "name": "EUR Base - Vikingfile part 4",
-          "url": "https://vikingfile.com/f/OBYiaLWEok"
-        },
-        {
           "name": "EUR Base - 1fichier part 1",
           "url": "https://1fichier.com/?67f3snzc1ysqigafdg62"
         },
@@ -13808,6 +13824,22 @@
         {
           "name": "EUR Base - 1fichier part 4",
           "url": "https://1fichier.com/?a27lulmdit1lz7o4xjny"
+        },
+        {
+          "name": "EUR Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/Q0OyPpvSQf"
+        },
+        {
+          "name": "EUR Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/HL1eWxeZd5"
+        },
+        {
+          "name": "EUR Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/07iXfcqXIt"
+        },
+        {
+          "name": "EUR Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/OBYiaLWEok"
         },
         {
           "name": "EUR exFAT 01.000.046 Base - AKIA (exFAT)",
@@ -14360,6 +14392,30 @@
         {
           "name": "USA 9.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/Xgbj3ciiBt"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA23847",
+      "title": "TimeSplitters Future Perfect",
+      "createdAt": "2026-10-30T12:36:21.257Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/80b911a570fe0e3196364ae66e6d37d7e9047280f90d00b63cba03a8ad9c8ba6",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/33257eb4429871a13b02fe8a039fb0beb161ac757f8edc0130201b9d641b828f",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/timesplitters-future-perfect-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/ex5z2XVK8mKq/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/iGOI4"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/pGWKk3mOHx"
         }
       ]
     },
@@ -15205,6 +15261,30 @@
         {
           "name": "USA 9.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/z3l8gfoHCu"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA21312",
+      "title": "Armored Core Master of Arena",
+      "createdAt": "2026-10-30T12:36:21.257Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/fb755db9e4a76d480e52bfc639a502aa2213f099cdb6fe3a630627f49cedeca1",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/79f7c91cf952fc2465e01dd3e0fa9414757867f66243f6ffcb4c321f85148161",
+      "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/armored-core-master-of-arena-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/qPez4yV85GOY/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/fAqOW"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/6cY9MEm6os"
         }
       ]
     },
@@ -58284,7 +58364,7 @@
       "downloadSource": "https://dlpsgame.com/the-elder-scrolls-iii-morrowind-ps5/",
       "downloadLinks": [
         {
-          "name": "2.xx Base - Akia",
+          "name": "2.xx Base - Akirabox",
           "url": "https://akirabox.to/l76mZvZyxman/file"
         },
         {
@@ -58292,7 +58372,7 @@
           "url": "https://www.rootz.so/d/1fpuLo"
         },
         {
-          "name": "2.xx Base - Viki",
+          "name": "2.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/YzgJYqv1qc"
         }
       ]
@@ -139072,6 +139152,64 @@
       ]
     },
     {
+      "titleId": "PPSA32793",
+      "title": "[exFAT] Valor Mortis Deluxe Edition",
+      "createdAt": "2026-10-30T20:44:22.209Z",
+      "version": "01.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/226668b6190f8739b1a495f2c1375196ab2efa36ac6f768d4962d06f9c0cd223",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/a3cf2f4b6b531ed19bd6fc84b9b4ab5577414004ea6efacfe77f34b513200741",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort + 5.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.000 Base - DataNodes",
+          "url": "https://datanodes.to/2ypfbkooud4n/PPSA32793.7z"
+        },
+        {
+          "name": "EUR exFAT 01.000 Base - FileKeeper",
+          "url": "https://filekeeper.net/8kb3906zli4f/PPSA32793.7z"
+        },
+        {
+          "name": "EUR exFAT 01.000 Base - Akirabox",
+          "url": "https://akirabox.to/QN9mEdAwyG6d/file"
+        },
+        {
+          "name": "EUR exFAT 01.000 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/yIMTJsGOxm"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA25286",
+      "title": "[exFAT] Crimson Desert Enhanced",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.000.568",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/4f61233970fb403babf79ce6af6e672e01ab79b5d0664c272643efd51fcd2457",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/850ac9ee8cf8d5508555401267af14454777aa3fa9b8d66d2f1582cafed3bcae",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.000.568 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.000.568 Base - DataNodes",
+          "url": "https://datanodes.to/0zzycyoc6dp1"
+        },
+        {
+          "name": "USA exFAT 01.000.568 Base - FileKeeper",
+          "url": "https://filekeeper.net/i2lodmuhoipw"
+        },
+        {
+          "name": "USA exFAT 01.000.568 Base - Akirabox",
+          "url": "https://akirabox.com/BnkmWvoe2GR0/file"
+        },
+        {
+          "name": "USA exFAT 01.000.568 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/dCFwopLLh7"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA06094",
       "title": "[exFAT] GigaBash Ultimate Edition",
       "createdAt": "2026-10-27T12:26:08.898Z",
@@ -139982,35 +140120,6 @@
         {
           "name": "JPN exFAT 01.200.001 Base - Vikingfile",
           "url": "https://vikingfile.com/f/fM4LgGl75x"
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA25286",
-      "title": "[exFAT] Crimson Desert Enhanced",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "01.000.568",
-      "category": "game",
-      "posterUrl": "https://pegasus-dl.dev/api/posters/4f61233970fb403babf79ce6af6e672e01ab79b5d0664c272643efd51fcd2457",
-      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/850ac9ee8cf8d5508555401267af14454777aa3fa9b8d66d2f1582cafed3bcae",
-      "description": "Region: USA\nRelease note: exFAT format — FW 01.000.568 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
-      "downloadLinks": [
-        {
-          "name": "USA exFAT 01.000.568 Base - DataNodes",
-          "url": "https://datanodes.to/0zzycyoc6dp1"
-        },
-        {
-          "name": "USA exFAT 01.000.568 Base - FileKeeper",
-          "url": "https://filekeeper.net/i2lodmuhoipw"
-        },
-        {
-          "name": "USA exFAT 01.000.568 Base - Akirabox",
-          "url": "https://akirabox.com/BnkmWvoe2GR0/file"
-        },
-        {
-          "name": "USA exFAT 01.000.568 Base - Vikingfile",
-          "url": "https://vikingfile.com/f/dCFwopLLh7"
         }
       ]
     },

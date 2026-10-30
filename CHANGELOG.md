@@ -1,5 +1,27 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 30/10/2026 à 22:11
+* **PAYLOADS**
+  * `Snes9Xps5 V2.9` (snes9xPS5) - *Mise à jour (Précédent: v2.9)*
+  * `Orbit Store` (v1.8.0) - *Mise à jour (Précédent: v1.7.5)*
+  * `Ps5Upload V9.5.1` (ps5upload) - *Mise à jour (Précédent: v9.5.1)*
+* **HOMEBREW_PAGE**
+  * `Playden` (0.9.0-beta.3) - *Mise à jour (Précédent: 0.9.0-beta.2)*
+  * `PS64` (01.000.005) - *Mise à jour (Précédent: 01.000.004)*
+  * `PC5` (2.0.3-test) - *Mise à jour (Précédent: 1.9.8)*
+  * `ProsperoSunshine` (0.1.0) - *Nouveau*
+  * `PayLoader` (00.001.001) - *Mise à jour (Précédent: 00.001.000)*
+  * `RommPS` (1.4.0) - *Mise à jour (Précédent: 1.3.0)*
+  * `TubeBlock` (01.000.193) - *Mise à jour (Précédent: 01.000.191)*
+  * `Media Player Classic PS5` (1.5.2) - *Mise à jour (Précédent: 1.5.1)*
+  * `MihawkOS` (6.0.0-alpha-6) - *Mise à jour (Précédent: 5.0.1-alpha-5)*
+  * `Prospero Hi-Fi` (1.1.0) - *Nouveau*
+  * `Halo: Combat Evolved` (build-129) - *Mise à jour (Précédent: build-128)*
+  * `Alembic` (0.3.3) - *Mise à jour (Précédent: 0.3.2)*
+  * `ProsperoCraft` (01.000.167) - *Mise à jour (Précédent: 01.000.153)*
+  * `Snes9x PS5` (v2.10) - *Mise à jour (Précédent: v2.9)*
+  * `Stella PS5` (v1.0.2) - *Mise à jour (Précédent: v1.0.1)*
+
 ## Build du 30/10/2026 à 12:26
 * **PAYLOADS**
   * `Ps5-Romm V1.4.0` (v1.4.0) - *Nouveau*

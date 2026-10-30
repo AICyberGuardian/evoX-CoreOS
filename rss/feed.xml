@@ -6,9 +6,9 @@
     <description>Flux RSS global de toutes les mises à jour du store PS5</description>
     <item>
       <title>[Payloads] Snes9Xps5 V2.9</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.9/snes9xPS5_v2.9.elf</link>
-      <description>snes9x emulator</description>
-      <pubDate>v2.9</pubDate>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>snes9xPS5</pubDate>
     </item>
     <item>
       <title>[Payloads] Genplusgxps5 V2.2</title>
@@ -360,9 +360,9 @@
     </item>
     <item>
       <title>[Payloads] Orbit Store</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.7.5/orbit_store.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.0/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.7.5</pubDate>
+      <pubDate>v1.8.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Etahen V2.5B</title>
@@ -654,9 +654,9 @@
     </item>
     <item>
       <title>[Payloads] Ps5Upload V9.5.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v9.5.1/ps5upload_v9.5.1.elf</link>
-      <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v9.5.1</pubDate>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ps5upload</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -1118,7 +1118,7 @@
       <title>[ProsperoStore] Playden</title>
       <link>https://github.com/leolobato/playden-ps5</link>
       <description>Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.</description>
-      <pubDate>0.9.0-beta.2</pubDate>
+      <pubDate>0.9.0-beta.3</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] OliSe Player</title>
@@ -1130,13 +1130,13 @@
       <title>[ProsperoStore] PS64</title>
       <link>https://github.com/dantaipan/PS64</link>
       <description>Play the Commodore 64 on PS5: stream and control a C64 Ultimate, or use the built-in VICE emulator, with Assembly64 search.</description>
-      <pubDate>01.000.004</pubDate>
+      <pubDate>01.000.005</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support, up to four players, easy crash reports and built-in updates.</description>
-      <pubDate>1.9.8</pubDate>
+      <pubDate>2.0.3-test</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Home5</title>
@@ -1187,6 +1187,12 @@
       <pubDate>01.000.006</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] ProsperoSunshine</title>
+      <link>https://github.com/Darkatek7/ProsperoSunshine</link>
+      <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio and controller input. Tested on firmware 13.00; other versions untested.</description>
+      <pubDate>0.1.0</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] SudokuZen</title>
       <link>https://github.com/Bruce303lee/sudokuzen</link>
       <description>A quiet 9x9 Sudoku game for PS5 with six themes, a color-tile mode, animated backdrops, an undo stack, and a demo mode that narrates each solving technique.</description>
@@ -1208,7 +1214,7 @@
       <title>[ProsperoStore] PayLoader</title>
       <link>https://github.com/Marice/ps5-payloader</link>
       <description>A controller front-end for Payload Manager (pldmgr), which it brings: start, install and update payloads, edit your boot chain with a USB safety net, and install the Signal suite.</description>
-      <pubDate>00.001.000</pubDate>
+      <pubDate>00.001.001</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Ruffle Flash</title>
@@ -1280,7 +1286,7 @@
       <title>[ProsperoStore] RommPS</title>
       <link>https://github.com/s0liton/RommPS</link>
       <description>Syncs your emulator saves and states with a RomM server and downloads games from your RomM library.</description>
-      <pubDate>1.3.0</pubDate>
+      <pubDate>1.4.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PSteroid5</title>
@@ -1364,7 +1370,7 @@
       <title>[ProsperoStore] TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.191</pubDate>
+      <pubDate>01.000.193</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] CD Player</title>
@@ -1448,7 +1454,7 @@
       <title>[ProsperoStore] Media Player Classic PS5</title>
       <link>https://github.com/MisterTemaki/MediaPlayerClassicPS5</link>
       <description>Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.</description>
-      <pubDate>1.5.1</pubDate>
+      <pubDate>1.5.2</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ProsperoEden (Mirror)</title>
@@ -1550,7 +1556,7 @@
       <title>[ProsperoStore] MihawkOS</title>
       <link>https://github.com/mihawk-99/PS5_MihawkOS</link>
       <description>A Windows-inspired PS5 homebrew OS bringing 32-bit and 64-bit Windows gaming to console hardware through a custom Wine/Proton compatibility stack and native Vulkan graphics.</description>
-      <pubDate>5.0.1-alpha-5</pubDate>
+      <pubDate>6.0.0-alpha-6</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PKG Folderizer</title>
@@ -1593,6 +1599,12 @@
       <link>https://github.com/Press5elect/Crux2</link>
       <description>PCSX2 (PlayStation 2) as a standalone PS5 title on RADV, with a controller-first Big Picture library, network shares, USB disc drives and RetroAchievements.</description>
       <pubDate>v1.0.15</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] Prospero Hi-Fi</title>
+      <link>https://github.com/Anime0t4ku/Prospero-Hi-Fi</link>
+      <description>A Music Player for hombrew enabled PS5 with lossless audio as the main focus. It's heavily based on my MiSTer Hi-FI project.</description>
+      <pubDate>1.1.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Nuvio Max'd</title>
@@ -1736,7 +1748,7 @@
       <title>[ProsperoStore] Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/halo-ce-universal</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-128</pubDate>
+      <pubDate>build-129</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Jelly5</title>
@@ -1807,8 +1819,8 @@
     <item>
       <title>[ProsperoStore] Alembic</title>
       <link>https://github.com/fthdgn-gh/Alembic</link>
-      <description>Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC.</description>
-      <pubDate>0.3.2</pubDate>
+      <description>Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.</description>
+      <pubDate>0.3.3</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Cloud Play</title>
@@ -1952,7 +1964,7 @@
       <title>[ProsperoStore] ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
-      <pubDate>01.000.153</pubDate>
+      <pubDate>01.000.167</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Genesis Plus GX PS5</title>
@@ -1964,7 +1976,7 @@
       <title>[ProsperoStore] Snes9x PS5</title>
       <link>https://github.com/MisterTemaki/snes9xPS5</link>
       <description>Snes9x (Super Nintendo) as a native PS5 app.</description>
-      <pubDate>v2.9</pubDate>
+      <pubDate>v2.10</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] FBNeo PS5</title>
@@ -1982,7 +1994,7 @@
       <title>[ProsperoStore] Stella PS5</title>
       <link>https://github.com/MisterTemaki/stellaPS5</link>
       <description>Port of Stella (Atari 2600), Atari 5200, 7800 and Lynx as a native PS5 app.</description>
-      <pubDate>v1.0.1</pubDate>
+      <pubDate>v1.0.2</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Forwarder Manager</title>

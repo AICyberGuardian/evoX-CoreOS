@@ -193,7 +193,7 @@
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA90505",
-      "author": "bystritskiy (PS5 port), project(u) (SpeedBreaker)",
+      "author": "bystritskiy",
       "checksum": "4e27383705063e42d4fcc68ccd82659350d47e909b64cf0720de4b6d3f74d3c4",
       "source": "https://github.com/bystritskiy/speedbreaker-ps5"
     },
@@ -564,15 +564,15 @@
     {
       "name": "Halo: Combat Evolved",
       "filename": "PPSA99500.zip",
-      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-128/halo-ps5-release.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-128/PPSA99500.zip",
+      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-129/halo-ps5-release.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-129/PPSA99500.zip",
       "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-      "version": "build-128",
+      "version": "build-129",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99500",
       "author": "thelinkin3000",
-      "checksum": "5eb8241dc1fcf506b8698a96c79c32769866438551daa39c478f3c510711011c",
+      "checksum": "5b39232124fc2d88081b4f7365f6d0e057d44110102387c8c42f4fca8711a4d9",
       "source": "https://github.com/thelinkin3000/halo-ce-universal"
     },
     {
@@ -774,15 +774,15 @@
     {
       "name": "ProsperoCraft",
       "filename": "PPSA99874.zip",
-      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.153/PPSA99874.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.153/PPSA99874.zip",
+      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.167/PPSA99874.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.167/PPSA99874.zip",
       "description": "Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.",
-      "version": "01.000.153",
+      "version": "01.000.167",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99874",
       "author": "mateo-cogeanu",
-      "checksum": "07f3e3b2bed254ffd3c6b42cefca66892f6f48d61d2f2ba512944e959b4ce4b0",
+      "checksum": "3480ab817659c43e954ce89ba5933cb5181f2fe2f396b1321bfae51d274171de",
       "source": "https://github.com/mateo-cogeanu/ProsperoCraft"
     },
     {
