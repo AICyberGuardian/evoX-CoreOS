@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.30-2211)
+### 🚀 Synthèse de la mise à jour (v2026.10.31-0418)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -251,6 +251,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>🌐 Pack PROSPEROSTORE</b></summary>
 
 * **Applications ProsperoStore**
+  * `CWEN00001.zip`
   * `FAKE77031.zip`
   * `PPSA01153.zip`
   * `PPSA06464.zip`

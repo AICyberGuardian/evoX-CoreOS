@@ -46,15 +46,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.0.3-test/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.0.3-test/PPSA11018.zip",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.0.3-test4/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.0.3-test4/PPSA11018.zip",
       "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support, up to four players, easy crash reports and built-in updates.",
-      "version": "2.0.3-test",
+      "version": "2.0.3-test4",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "974fe866a15ba2ebb4de0959d3b1f5d6eb846ba301830ed495268403ec80a136",
+      "checksum": "de93bd5044b4d2f26d8cb4493effa0aa6f7b6732b6c2068b70c737df4a21757c",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -690,15 +690,15 @@
     {
       "name": "PS5SX2",
       "filename": "PPSA99203.zip",
-      "url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-177/PS5SX2-vk-285-177.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99203/vk-285-177/PPSA99203.zip",
+      "url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-182/PS5SX2-vk-285-182.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99203/vk-285-182/PPSA99203.zip",
       "description": "PCSX2 port for PS5 that runs PS2 games natively with a Vulkan renderer, up to 6x resolution and settings from your phone. Bring your own BIOS and games.",
-      "version": "vk-285-177",
+      "version": "vk-285-182",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99203",
       "author": "Sword",
-      "checksum": "4a63f445a904808382a11b1f84d7affdf3a7a3e47a6facb3eec2bb0b1524569b",
+      "checksum": "739c652acab11fc4eb79a7e20a67d22183ee97ea5292d3b8330bf5dbca412076",
       "source": "https://github.com/Swordpdf/PS5SX2"
     },
     {
@@ -746,15 +746,15 @@
     {
       "name": "Prospero Hi-Fi",
       "filename": "PPSA99287.zip",
-      "url": "https://github.com/Anime0t4ku/Prospero-Hi-Fi/releases/download/v1.1.0/prospero-hifi.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99287/1.1.0/PPSA99287.zip",
+      "url": "https://github.com/Anime0t4ku/Prospero-Hi-Fi/releases/download/v1.2.0/prospero-hifi.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99287/1.2.0/PPSA99287.zip",
       "description": "A Music Player for hombrew enabled PS5 with lossless audio as the main focus. It's heavily based on my MiSTer Hi-FI project.",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99287",
       "author": "Anime0t4ku",
-      "checksum": "ea8ac53f66e928d4e412a7ef2ae90b68a8562dff906900364ff262f05a6cb73c",
+      "checksum": "71d2d6b9ed7c83feee67ce85532e3e43cd6585723e6efc86b7588fab527adc70",
       "source": "https://github.com/Anime0t4ku/Prospero-Hi-Fi"
     },
     {
@@ -1068,15 +1068,15 @@
     {
       "name": "PSBox Cloud Gaming",
       "filename": "PPSA99810.zip",
-      "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.5.4/PPSA99810.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.5.4/PPSA99810.zip",
+      "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.5.5/PPSA99810.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.5.5/PPSA99810.zip",
       "description": "Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.",
-      "version": "1.5.4",
+      "version": "1.5.5",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99810",
       "author": "RafaelNGP",
-      "checksum": "377f83e50b980addb9f4c10fed7b462ff40b90a7724b870ca5fb00685ef9a6dc",
+      "checksum": "ea61fbb4b4207fd96946c64fa4552e9ad0d7960b9f80ef3d66c951be373ffc76",
       "source": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5"
     },
     {

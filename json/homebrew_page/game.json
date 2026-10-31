@@ -2,6 +2,20 @@
   "name": "Games",
   "apps": [
     {
+      "name": "Cyberworld Endless",
+      "filename": "CWEN00001.zip",
+      "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.18.0/cyberworld-endless-ps5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.18.0/CWEN00001.zip",
+      "description": "A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generated net of battles, loot and guardian Navis.",
+      "version": "0.18.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "CWEN00001",
+      "author": "Saschb2b",
+      "checksum": "0a256bb0b153c4c003cf14df1d761bef8aef805e18ad1815563a6a9203da8eb8",
+      "source": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless"
+    },
+    {
       "name": "XashPS5",
       "filename": "PPSA19111.zip",
       "url": "https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.3/PPSA19111.zip",
@@ -564,15 +578,15 @@
     {
       "name": "Halo: Combat Evolved",
       "filename": "PPSA99500.zip",
-      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-129/halo-ps5-release.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-129/PPSA99500.zip",
+      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-130/halo-ps5-release.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-130/PPSA99500.zip",
       "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-      "version": "build-129",
+      "version": "build-130",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99500",
       "author": "thelinkin3000",
-      "checksum": "5b39232124fc2d88081b4f7365f6d0e057d44110102387c8c42f4fca8711a4d9",
+      "checksum": "57c4afa8b8f195854d9ec3417f2ebbf30e43701f588fbf129931dcf8bcb7d660",
       "source": "https://github.com/thelinkin3000/halo-ce-universal"
     },
     {

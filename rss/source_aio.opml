@@ -168,6 +168,7 @@
       <outline text="psp5" title="psp5" type="rss" xmlUrl="https://github.com/tsuramatsu1/psp5" description="ppsspp for PS5"/>
     </outline>
     <outline text="ProsperoStore" title="ProsperoStore">
+      <outline text="Cyberworld Endless" title="Cyberworld Endless" type="rss" xmlUrl="https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless" description="A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generated net of battles, loot and guardian Navis."/>
       <outline text="Playden" title="Playden" type="rss" xmlUrl="https://github.com/leolobato/playden-ps5" description="Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title."/>
       <outline text="OliSe Player" title="OliSe Player" type="rss" xmlUrl="https://github.com/Marice/OliSePlayer" description="Tracker music radio in FastTracker II style, streaming MOD, XM, S3M and IT from The Mod Archive."/>
       <outline text="PS64" title="PS64" type="rss" xmlUrl="https://github.com/dantaipan/PS64" description="Play the Commodore 64 on PS5: stream and control a C64 Ultimate, or use the built-in VICE emulator, with Assembly64 search."/>

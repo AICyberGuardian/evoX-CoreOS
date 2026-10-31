@@ -1,5 +1,17 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 31/10/2026 à 04:18
+* **PAYLOADS**
+  * `Orbit Store` (v1.8.1) - *Mise à jour (Précédent: v1.8.0)*
+* **HOMEBREW_PAGE**
+  * `Cyberworld Endless` (0.18.0) - *Nouveau*
+  * `PC5` (2.0.3-test4) - *Mise à jour (Précédent: 2.0.3-test)*
+  * `PS5SX2` (vk-285-182) - *Mise à jour (Précédent: vk-285-177)*
+  * `Prospero Hi-Fi` (1.2.0) - *Mise à jour (Précédent: 1.1.0)*
+  * `Halo: Combat Evolved` (build-130) - *Mise à jour (Précédent: build-129)*
+  * `MacheteSaveGameManager` (1.3.14) - *Mise à jour (Précédent: 1.3.11)*
+  * `PSBox Cloud Gaming` (1.5.5) - *Mise à jour (Précédent: 1.5.4)*
+
 ## Build du 30/10/2026 à 22:11
 * **PAYLOADS**
   * `Snes9Xps5 V2.9` (snes9xPS5) - *Mise à jour (Précédent: v2.9)*
