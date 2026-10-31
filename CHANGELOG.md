@@ -1,5 +1,14 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 31/10/2026 à 12:00
+* **HOMEBREW_PAGE**
+  * `PC5` (2.0.3) - *Mise à jour (Précédent: 2.0.3-test4)*
+  * `ProsperoSunshine` (0.1.1) - *Mise à jour (Précédent: 0.1.0)*
+  * `SwanStationPS5` (1.6.2) - *Mise à jour (Précédent: 1.6.1)*
+  * `PKG Folderizer` (01.060.000) - *Mise à jour (Précédent: 01.057.000)*
+  * `Emby5` (1.2.10) - *Mise à jour (Précédent: 1.2.9)*
+  * `MacheteSaveGameManager` (1.3.15) - *Mise à jour (Précédent: 1.3.14)*
+
 ## Build du 31/10/2026 à 04:18
 * **PAYLOADS**
   * `Orbit Store` (v1.8.1) - *Mise à jour (Précédent: v1.8.0)*

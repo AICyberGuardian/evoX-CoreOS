@@ -60,15 +60,15 @@
         {
             "name": "PC5",
             "filename": "PPSA11018.zip",
-            "url": "https://github.com/bornaradusin/PC5/releases/download/v2.0.3-test4/PPSA11018.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.0.3-test4/PPSA11018.zip",
-            "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: USB installs, covers, DualSense support, up to four players, easy crash reports and built-in updates.",
-            "version": "2.0.3-test4",
+            "url": "https://github.com/bornaradusin/PC5/releases/download/v2.0.3/PPSA11018.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.0.3/PPSA11018.zip",
+            "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.",
+            "version": "2.0.3",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA11018",
             "author": "bornaradusin",
-            "checksum": "de93bd5044b4d2f26d8cb4493effa0aa6f7b6732b6c2068b70c737df4a21757c",
+            "checksum": "ee5a32f3bbb11ec199fa312f56653afc3f916223a7f2e8817a8d7bfd91b96a10",
             "source": "https://github.com/bornaradusin/PC5"
         },
         {
@@ -186,15 +186,15 @@
         {
             "name": "ProsperoSunshine",
             "filename": "PPSA47989.zip",
-            "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.1.0/PPSA47989.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.1.0/PPSA47989.zip",
+            "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.1.1/PPSA47989.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.1.1/PPSA47989.zip",
             "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio and controller input. Tested on firmware 13.00; other versions untested.",
-            "version": "0.1.0",
+            "version": "0.1.1",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA47989",
             "author": "Darkatek7",
-            "checksum": "b30b258d709998cd89761123979422326aea01fb2350e7ab73db9f8a786ad221",
+            "checksum": "c6c07aa06029bcdcf483418a97d500eb60b00edd3fc782e1487a47d59c6abd88",
             "source": "https://github.com/Darkatek7/ProsperoSunshine"
         },
         {
@@ -634,15 +634,15 @@
         {
             "name": "SwanStationPS5",
             "filename": "PPSA98510.zip",
-            "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.6.1/PPSA98510.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.6.1/PPSA98510.zip",
+            "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.6.2/PPSA98510.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.6.2/PPSA98510.zip",
             "description": "SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.",
-            "version": "1.6.1",
+            "version": "1.6.2",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA98510",
             "author": "AngelXex",
-            "checksum": "a79b65f46d756401b18d60d6422ec3b684f7a8e9fc615ff4d3e785eea159ce8a",
+            "checksum": "b80cb91527afaff31e5af39ca1df444c7313200735849db84a503c1c7845e510",
             "source": "https://github.com/darkxex/SwanStationPS5"
         },
         {
@@ -1054,15 +1054,15 @@
         {
             "name": "PKG Folderizer",
             "filename": "PPSA99180.zip",
-            "url": "https://github.com/desstannsoftware/ps5-pkg-folderizer/releases/download/01.057.000/PPSA99180.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.057.000/PPSA99180.zip",
+            "url": "https://github.com/desstannsoftware/ps5-pkg-folderizer/releases/download/01.060.000/PPSA99180.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.060.000/PPSA99180.zip",
             "description": "Converts PS5 and PS4 debug .pkg files on the console into ShadowMount folders or .ffpkg / .ffpfs / .ffpfsc / .exfat images.",
-            "version": "01.057.000",
+            "version": "01.060.000",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99180",
             "author": "desstannsoft",
-            "checksum": "cd524b0cc191bbaa0590b36c2666393ab0365ce821c47e3d0eac8cd39ceda1e5",
+            "checksum": "00e88150b9e8c78d4e23240d2da5ee212bc745a941bf907a95a699ef5f27b8c4",
             "source": "https://github.com/desstannsoftware/ps5-pkg-folderizer"
         },
         {
@@ -1530,15 +1530,15 @@
         {
             "name": "Emby5",
             "filename": "PPSA99515.zip",
-            "url": "https://github.com/bornaradusin/Emby5/releases/download/1.2.9/Emby5-1.2.9.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99515/1.2.9/PPSA99515.zip",
+            "url": "https://github.com/bornaradusin/Emby5/releases/download/1.2.10/Emby5-1.2.10.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99515/1.2.10/PPSA99515.zip",
             "description": "A native Emby/Jellyfin client for PlayStation 5 with media playback, optional Seerr requests, IPTV and VOD",
-            "version": "1.2.9",
+            "version": "1.2.10",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99515",
             "author": "bornaradusin",
-            "checksum": "a1592d81312bebb14b46490fb4aeb410e59e5d5f7e428847b3dc7952e0ae5155",
+            "checksum": "8245685e9139840fcb8e45e86e6fceb3fabb1264a27cebad5c407336674a8085",
             "source": "https://github.com/bornaradusin/Emby5"
         },
         {
@@ -1866,15 +1866,15 @@
         {
             "name": "MacheteSaveGameManager",
             "filename": "PPSA99700.zip",
-            "url": "https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager/releases/download/v1.3.14/PPSA99700.zip",
-            "local_path": "downloads/apps/homebrew_page/tool/PPSA99700/1.3.14/PPSA99700.zip",
+            "url": "https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager/releases/download/v1.3.15/PPSA99700.zip",
+            "local_path": "downloads/apps/homebrew_page/tool/PPSA99700/1.3.15/PPSA99700.zip",
             "description": "PS5/PS4 save manager in active development. PS5 root keys unreleased; cross-console saves use local dummy injection. Compatibility varies; share logs and feedback to help improve and fix titles.",
-            "version": "1.3.14",
+            "version": "1.3.15",
             "category": "Tools",
             "kind": "tool",
             "titleid": "PPSA99700",
             "author": "VenezuelanBiggie24",
-            "checksum": "008336dc6c4f34854a6c382484295835c39f704cbbd4c85c290293e1e4edb4c4",
+            "checksum": "87e56e1b644ff73e0bcc530ded91d9d077dfe5f7785c68d0f8dbb3e0b0ca7434",
             "source": "https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager"
         },
         {
