@@ -18,15 +18,15 @@
     {
       "name": "Playden",
       "filename": "FAKE77031.zip",
-      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.9.0-beta.3/playden-ps5-0.9.0-beta.3.zip",
-      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.9.0-beta.3/FAKE77031.zip",
+      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.9.0-beta.4/playden-ps5-0.9.0-beta.4.zip",
+      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.9.0-beta.4/FAKE77031.zip",
       "description": "Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.",
-      "version": "0.9.0-beta.3",
+      "version": "0.9.0-beta.4",
       "category": "Apps",
       "kind": "app",
       "titleid": "FAKE77031",
       "author": "leolobato",
-      "checksum": "8448bfadfbb1894ec7aa0ea1b5ffcf95c4bf32a0c3f758043e96024cb816b341",
+      "checksum": "c7b80cc813bf7c2246bd8c480fc80a81f87497848ee48566eb13b76336446289",
       "source": "https://github.com/leolobato/playden-ps5"
     },
     {
@@ -60,15 +60,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.0.3/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.0.3/PPSA11018.zip",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.0.6/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.0.6/PPSA11018.zip",
       "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.",
-      "version": "2.0.3",
+      "version": "2.0.6",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "ee5a32f3bbb11ec199fa312f56653afc3f916223a7f2e8817a8d7bfd91b96a10",
+      "checksum": "db17d55bdfb3c841e8561065245c24511729da9c98fa14e1da620a42f97f2efc",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -242,15 +242,15 @@
     {
       "name": "Mediathek",
       "filename": "PPSA66120.zip",
-      "url": "https://github.com/M0S4YSH3LL0/mediathek-ps5/releases/download/01.000.050/Mediathek-PPSA66120-01.000.050.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA66120/01.000.050/PPSA66120.zip",
+      "url": "https://github.com/M0S4YSH3LL0/mediathek-ps5/releases/download/01.000.061/Mediathek-PPSA66120-01.000.061.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA66120/01.000.061/PPSA66120.zip",
       "description": "A Netflix-style movie library for (jailbroken) PS5 consoles.",
-      "version": "01.000.050",
+      "version": "01.000.061",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA66120",
       "author": "m0",
-      "checksum": "64379d2036168631c4b4ca400ecbbbdcedcdd4e30f653af400a0f52497400fbe",
+      "checksum": "a98188c7e0e09eba586d26494fd44f2e12e52c6582a1a7401a2694fd0931c6e6",
       "source": "https://github.com/M0S4YSH3LL0/mediathek-ps5"
     },
     {
@@ -492,7 +492,7 @@
       "source": "https://github.com/Darkatek7/ProsperoThemes"
     },
     {
-      "name": "Savage Wind",
+      "name": "Breath of the Wild",
       "filename": "PPSA90212.zip",
       "url": "https://github.com/bizkut/SavageWindRecomp/releases/download/ps5-v0.1.0/SavageWind-PS5-ps5-v0.1.0.zip",
       "local_path": "downloads/apps/homebrew_page/game/PPSA90212/ps5-v0.1.0/PPSA90212.zip",
@@ -1698,15 +1698,15 @@
     {
       "name": "Alembic",
       "filename": "PPSA99594.zip",
-      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.3.3/alembic-app-v0.3.3.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.3.3/PPSA99594.zip",
+      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.4.0/alembic-app-v0.4.0.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.4.0/PPSA99594.zip",
       "description": "Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.",
-      "version": "0.3.3",
+      "version": "0.4.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99594",
       "author": "Fatih Doğan",
-      "checksum": "4fdb6ed775a9f111a193f0a88d3ae85c4b461e40a3ac79e1083811318b8cb081",
+      "checksum": "a5a5e0609fe628343f0133db8f3276a5db6047002a233d178d93c5d4fe23a3e7",
       "source": "https://github.com/fthdgn-gh/Alembic"
     },
     {
@@ -1908,15 +1908,15 @@
     {
       "name": "MacheteSaveGameManager",
       "filename": "PPSA99700.zip",
-      "url": "https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager/releases/download/v1.3.15/PPSA99700.zip",
-      "local_path": "downloads/apps/homebrew_page/tool/PPSA99700/1.3.15/PPSA99700.zip",
+      "url": "https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager/releases/download/v1.3.16/PPSA99700.zip",
+      "local_path": "downloads/apps/homebrew_page/tool/PPSA99700/1.3.16/PPSA99700.zip",
       "description": "PS5/PS4 save manager in active development. PS5 root keys unreleased; cross-console saves use local dummy injection. Compatibility varies; share logs and feedback to help improve and fix titles.",
-      "version": "1.3.15",
+      "version": "1.3.16",
       "category": "Tools",
       "kind": "tool",
       "titleid": "PPSA99700",
       "author": "VenezuelanBiggie24",
-      "checksum": "87e56e1b644ff73e0bcc530ded91d9d077dfe5f7785c68d0f8dbb3e0b0ca7434",
+      "checksum": "a1eaeabcc3d9c87eacfab863909fead0c8b8d4423b6064bf2d21ff7976c5dba7",
       "source": "https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager"
     },
     {
@@ -2034,15 +2034,15 @@
     {
       "name": "ProsperoCraft",
       "filename": "PPSA99874.zip",
-      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.167/PPSA99874.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.167/PPSA99874.zip",
+      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.179/PPSA99874.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.179/PPSA99874.zip",
       "description": "Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.",
-      "version": "01.000.167",
+      "version": "01.000.179",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99874",
       "author": "mateo-cogeanu",
-      "checksum": "3480ab817659c43e954ce89ba5933cb5181f2fe2f396b1321bfae51d274171de",
+      "checksum": "7381b0746b178785b303f7486a0533aa6acce3d25167634b9ce849e0546b648a",
       "source": "https://github.com/mateo-cogeanu/ProsperoCraft"
     },
     {

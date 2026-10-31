@@ -1,5 +1,15 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 31/10/2026 à 21:15
+* **HOMEBREW_PAGE**
+  * `Playden` (0.9.0-beta.4) - *Mise à jour (Précédent: 0.9.0-beta.3)*
+  * `PC5` (2.0.6) - *Mise à jour (Précédent: 2.0.3)*
+  * `Mediathek` (01.000.061) - *Mise à jour (Précédent: 01.000.050)*
+  * `Breath of the Wild` (ps5-v0.1.0) - *Nouveau*
+  * `Alembic` (0.4.0) - *Mise à jour (Précédent: 0.3.3)*
+  * `MacheteSaveGameManager` (1.3.16) - *Mise à jour (Précédent: 1.3.15)*
+  * `ProsperoCraft` (01.000.179) - *Mise à jour (Précédent: 01.000.167)*
+
 ## Build du 31/10/2026 à 17:08
 * **HOMEBREW_PAGE**
   * `Cyberworld Endless` (0.18.1) - *Mise à jour (Précédent: 0.18.0)*
