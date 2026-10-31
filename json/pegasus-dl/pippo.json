@@ -3,6 +3,189 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA29340",
+      "title": "Halloween The Game",
+      "createdAt": "2026-10-31T12:33:09.955Z",
+      "version": "v01.011",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/cb16b46a08fa36ba5b594c033cc72ed5664f8cea9e2a818a5b7f81d4b5597411",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ad187a7cbb9e9d2eda9820e1486fe654801af1baa8f20f19fd2f4fc5091a97f7",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA29340, v01.011, USA, 4.xx BackPort + 5.xx BackPort\nSize: 56GB\nCredits: Files: Grim Doe; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPorts Folder included. About FPKG: 5.xx BackPort already included on Base, 4.xx BackPort Only &amp; separated Original Files PKG included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/sozf2idjl98h/PPSA29340.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/tdnrxqxw4k0y/PPSA29340.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/EL73gkQbn39B/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/LZ9TIIm7j4"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/vgKGx7porz8Q/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/qhGYpUFD8r"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/gfy32xxzdexx/PPSA29340-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/ih98pl5gyjda/PPSA29340-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 60129542144
+    },
+    {
+      "titleId": "PPSA29043",
+      "title": "Anger Foot",
+      "createdAt": "2026-10-31T12:33:09.955Z",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ecf2056b262a6aa9bf6c0a90e9da432a361129ca1b78125648bffe49cf7d71c9",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/dfcdc1683cc315f9ec135042d941e2c411fd5a341c3bae7c2f8399cdb955c1bf",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA29043, v01.000, USA, 4.xx BackPort\nSize: 15GB\nCredits: Files: b0mba1992; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 9.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/3wnmvqsq0ocx/PPSA29043.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/rmyb3wr2wmrc/PPSA29043.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/qLQ36XgoYG19/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/PoeRh6n6JU"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/ZvqzlplRnzaD/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/8fo8yVzimH"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/igpb3r90otmf/PPSA29043-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/kj822cxzpe7w/PPSA29043-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 16106127360
+    },
+    {
+      "titleId": "PPSA16263",
+      "title": "V Rising",
+      "createdAt": "2026-10-31T12:33:09.955Z",
+      "version": "v01.113.001",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA16263_873d785d13879812e9c86c0f98f0b330c2b04602199deba808b9d6f1843efa06/icon0.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA16263, v01.113.001, USA, 4.xx BackPort\nSize: 16GB\nCredits: Files: High-Speed007; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/xkfccslu0bgp/PPSA16263.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/wjwvhh56xj40/PPSA16263.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/gXeGOeQgP3Aa/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/8JidGS3TiO"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/0rpmv1drDGRg/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/0DahMra9BA"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/7vdagqb5034l/PPSA16263-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/pecxuwtoogz3/PPSA16263-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 17179869184
+    },
+    {
+      "titleId": "PPSA02070",
+      "title": "Dont Starve Together Console Edition",
+      "createdAt": "2026-10-31T12:33:09.955Z",
+      "version": "v02.009.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/3d3f4b9d5f3c4a3026d1ccb25696fa4ffae86c2b42ad41f7f8387cb21a1f2e9b",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ac4425928823de1d332df32b5490ad7403b3131336e4e1bb443845615ae4c3e0",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA02070, v02.009.002, EUR, 4.xx BackPort\nSize: 5GB\nCredits: Files: b0mba1992; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/ntfbzie5kmb9/PPSA02070.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/85r3gdevs1ip/PPSA02070.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/BnkmW6QqdGR0/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/EpgaL2DXyd"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/ex5z2Xv4bmKq/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/sUwtrPOBFp"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/ytjbex25zno6/PPSA02070-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/w6lwrx66os92/PPSA02070-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
       "titleId": "PPSA32793",
       "title": "Valor Mortis Deluxe Edition",
       "createdAt": "2026-10-30T14:06:24.402Z",
@@ -110,7 +293,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/2700d2b422db09ee00a0eff5f6b927f6d6ba01ce6861441894a4dac7c5f29841",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/3f7bf5eece4e7d175d6ff7dd908149c501a06bf0468dcd3d6628ec6610b616dd",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA25972, v01.000.029, EUR, 4.xx BackPort\nSize: 37GB\nCredits: Files: High-Speed007; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA25972, v01.000.029, EUR, 4.xx BackPort\nSize: 37GB\nCredits: Files: High-Speed007; Backport: DecKerr97 GUI\nHow to play: Must be use: 45.56.67.85 as DNS or you will get Connection Error at launch. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {

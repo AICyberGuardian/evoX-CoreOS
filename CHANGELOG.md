@@ -1,5 +1,18 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 31/10/2026 à 17:08
+* **HOMEBREW_PAGE**
+  * `Cyberworld Endless` (0.18.1) - *Mise à jour (Précédent: 0.18.0)*
+  * `Home5` (1.0.3) - *Mise à jour (Précédent: 1.0.2)*
+  * `ProsperoSunshine` (0.1.3) - *Mise à jour (Précédent: 0.1.1)*
+  * `Mediathek` (01.000.050) - *Nouveau*
+  * `Savage Wind` (ps5-v0.1.0) - *Nouveau*
+  * `reUndr` (01.000.000) - *Nouveau*
+  * `Forever Launcher` (01.000.023) - *Mise à jour (Précédent: 01.000.021)*
+  * `Crux2` (v1.0.17) - *Mise à jour (Précédent: v1.0.15)*
+  * `Prospero Hi-Fi` (1.3.0) - *Mise à jour (Précédent: 1.2.0)*
+  * `Snes9x PS5` (v2.11) - *Mise à jour (Précédent: v2.10)*
+
 ## Build du 31/10/2026 à 12:00
 * **HOMEBREW_PAGE**
   * `PC5` (2.0.3) - *Mise à jour (Précédent: 2.0.3-test4)*

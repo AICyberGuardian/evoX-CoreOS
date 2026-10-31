@@ -1493,7 +1493,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/cb16b46a08fa36ba5b594c033cc72ed5664f8cea9e2a818a5b7f81d4b5597411",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ad187a7cbb9e9d2eda9820e1486fe654801af1baa8f20f19fd2f4fc5091a97f7",
-      "description": "Region: USA\nRelease note: Dumped by Grim Doe Works on 13.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: USA 13.xx\nRegion: USA\nRelease note: Dumped by Grim Doe Works on 13.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.011\nRegion: USA\nRelease note: exFAT format — FW 01.011 — 4.xx BackPort + 5.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/halloween-the-game-ps5/",
       "downloadLinks": [
         {
@@ -1519,6 +1519,22 @@
         {
           "name": "USA 13.xx Base - Vikingfile part 2",
           "url": "https://vikingfile.com/f/6EMFIueTAm"
+        },
+        {
+          "name": "USA exFAT 01.011 Base - DataNodes",
+          "url": "https://datanodes.to/sozf2idjl98h/PPSA29340.7z"
+        },
+        {
+          "name": "USA exFAT 01.011 Base - FileKeeper",
+          "url": "https://filekeeper.net/tdnrxqxw4k0y/PPSA29340.7z"
+        },
+        {
+          "name": "USA exFAT 01.011 Base - Akirabox",
+          "url": "https://akirabox.to/EL73gkQbn39B/file"
+        },
+        {
+          "name": "USA exFAT 01.011 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/LZ9TIIm7j4"
         }
       ]
     },
@@ -4095,7 +4111,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/ecf2056b262a6aa9bf6c0a90e9da432a361129ca1b78125648bffe49cf7d71c9",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/dfcdc1683cc315f9ec135042d941e2c411fd5a341c3bae7c2f8399cdb955c1bf",
-      "description": "Region: USA\nRelease note: Works on 9.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: USA 9.xx\nRegion: USA\nRelease note: Works on 9.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.000\nRegion: USA\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/anger-foot-ps5/",
       "downloadLinks": [
         {
@@ -4105,6 +4121,22 @@
         {
           "name": "USA 9.xx Base - Rootz",
           "url": "https://www.rootz.so/d/1k9mS0"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - DataNodes",
+          "url": "https://datanodes.to/3wnmvqsq0ocx/PPSA29043.7z"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - FileKeeper",
+          "url": "https://filekeeper.net/rmyb3wr2wmrc/PPSA29043.7z"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Akirabox",
+          "url": "https://akirabox.to/qLQ36XgoYG19/file"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/PoeRh6n6JU"
         }
       ]
     },
@@ -4255,7 +4287,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/3d3f4b9d5f3c4a3026d1ccb25696fa4ffae86c2b42ad41f7f8387cb21a1f2e9b",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ac4425928823de1d332df32b5490ad7403b3131336e4e1bb443845615ae4c3e0",
-      "description": "Region: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: EUR 11.xx\nRegion: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 02.009.002\nRegion: EUR\nRelease note: exFAT format — FW 02.009.002 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/dont-starve-together-console-edition-ps5/",
       "downloadLinks": [
         {
@@ -4265,6 +4297,22 @@
         {
           "name": "EUR 11.xx Base - Rootz",
           "url": "https://www.rootz.so/d/1HwoTI"
+        },
+        {
+          "name": "EUR exFAT 02.009.002 Base - DataNodes",
+          "url": "https://datanodes.to/ntfbzie5kmb9/PPSA02070.7z"
+        },
+        {
+          "name": "EUR exFAT 02.009.002 Base - FileKeeper",
+          "url": "https://filekeeper.net/85r3gdevs1ip/PPSA02070.7z"
+        },
+        {
+          "name": "EUR exFAT 02.009.002 Base - Akirabox",
+          "url": "https://akirabox.to/BnkmW6QqdGR0/file"
+        },
+        {
+          "name": "EUR exFAT 02.009.002 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/EpgaL2DXyd"
         }
       ]
     },
@@ -5694,7 +5742,7 @@
       "createdAt": "2026-10-16T21:48:35.923Z",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA16263_873d785d13879812e9c86c0f98f0b330c2b04602199deba808b9d6f1843efa06/icon0.webp",
-      "description": "Region: USA\nRelease note: Working 13.xx to 10.xx\nContributor: @High-Speed007",
+      "description": "Variant: USA 13.xx\nRegion: USA\nRelease note: Working 13.xx to 10.xx\nContributor: @High-Speed007\n\nVariant: USA exFAT 01.113.001\nRegion: USA\nRelease note: exFAT format — FW 01.113.001 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/v-rising-ps5/",
       "downloadLinks": [
         {
@@ -5708,6 +5756,22 @@
         {
           "name": "USA 13.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/xwOKzfcecA"
+        },
+        {
+          "name": "USA exFAT 01.113.001 Base - DataNodes",
+          "url": "https://datanodes.to/xkfccslu0bgp/PPSA16263.7z"
+        },
+        {
+          "name": "USA exFAT 01.113.001 Base - FileKeeper",
+          "url": "https://filekeeper.net/wjwvhh56xj40/PPSA16263.7z"
+        },
+        {
+          "name": "USA exFAT 01.113.001 Base - Akirabox",
+          "url": "https://akirabox.to/gXeGOeQgP3Aa/file"
+        },
+        {
+          "name": "USA exFAT 01.113.001 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/8JidGS3TiO"
         }
       ]
     },

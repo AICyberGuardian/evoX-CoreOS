@@ -4,15 +4,15 @@
     {
       "name": "Cyberworld Endless",
       "filename": "CWEN00001.zip",
-      "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.18.0/cyberworld-endless-ps5.zip",
-      "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.18.0/CWEN00001.zip",
+      "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.18.1/cyberworld-endless-ps5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.18.1/CWEN00001.zip",
       "description": "A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generated net of battles, loot and guardian Navis.",
-      "version": "0.18.0",
+      "version": "0.18.1",
       "category": "Games",
       "kind": "game",
       "titleid": "CWEN00001",
       "author": "Saschb2b",
-      "checksum": "0a256bb0b153c4c003cf14df1d761bef8aef805e18ad1815563a6a9203da8eb8",
+      "checksum": "fd3fbd616a31cf7d31928eb00ef0bb91a6df589d8dbb560ec99a778f42204c9d",
       "source": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless"
     },
     {
@@ -198,6 +198,20 @@
       "source": "https://github.com/futurepr0n/PSteroid5"
     },
     {
+      "name": "Savage Wind",
+      "filename": "PPSA90212.zip",
+      "url": "https://github.com/bizkut/SavageWindRecomp/releases/download/ps5-v0.1.0/SavageWind-PS5-ps5-v0.1.0.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA90212/ps5-v0.1.0/PPSA90212.zip",
+      "description": "Native PS5 port of the Savage Wind recompilation with frame generation, FSR 3.1 and HDR. Requires your own game files and keys.",
+      "version": "ps5-v0.1.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA90212",
+      "author": "bizkut",
+      "checksum": "445d09ec6467acd75d97236362012b488cac0a8891af4bfc718ce28867a0b3ba",
+      "source": "https://github.com/bizkut/SavageWindRecomp"
+    },
+    {
       "name": "SpeedBreaker",
       "filename": "PPSA90505.zip",
       "url": "https://github.com/bystritskiy/speedbreaker-ps5/releases/download/01.000.001/PPSA90505.zip",
@@ -336,6 +350,20 @@
       "author": "bystritskiy",
       "checksum": "5188e6ff44e78a2339adadb6fe7e6b9acdf907de8df38782cc598348dafd3af9",
       "source": "https://github.com/bystritskiy/rePOP-ps5"
+    },
+    {
+      "name": "reUndr",
+      "filename": "PPSA99025.zip",
+      "url": "https://github.com/bystritskiy/reUndr-ps5/releases/download/01.000.000/PPSA99025-01.000.000.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99025/01.000.000/PPSA99025.zip",
+      "description": "Need for Speed: Underground, the Xbox version recompiled to run natively on PS5, in 4K at up to 60 fps (bring your own USA disc).",
+      "version": "01.000.000",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99025",
+      "author": "bystritskiy",
+      "checksum": "7050c94265d7df704aa29639d727d1a5f666d4dc8c0cccf6726237702d88f0e2",
+      "source": "https://github.com/bystritskiy/reUndr-ps5"
     },
     {
       "name": "Spider-Man: Edge of Time",

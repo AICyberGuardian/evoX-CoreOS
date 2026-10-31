@@ -1118,7 +1118,7 @@
       <title>[ProsperoStore] Cyberworld Endless</title>
       <link>https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless</link>
       <description>A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generated net of battles, loot and guardian Navis.</description>
-      <pubDate>0.18.0</pubDate>
+      <pubDate>0.18.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Playden</title>
@@ -1148,7 +1148,7 @@
       <title>[ProsperoStore] Home5</title>
       <link>https://github.com/bornaradusin/Home5</link>
       <description>Home Assistant on the PS5: your own rooms of lights, blinds, thermostats, scenes and sensors, with the DualSense. L2/R2 dim lights and the light bar follows them.</description>
-      <pubDate>1.0.2</pubDate>
+      <pubDate>1.0.3</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] SymphonyStation5</title>
@@ -1196,7 +1196,7 @@
       <title>[ProsperoStore] ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio and controller input. Tested on firmware 13.00; other versions untested.</description>
-      <pubDate>0.1.1</pubDate>
+      <pubDate>0.1.3</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] SudokuZen</title>
@@ -1215,6 +1215,12 @@
       <link>https://github.com/darkxex/PS5_Celeste</link>
       <description>This is a C source port of the original celeste (Celeste classic) for the PICO-8, designed to be portable. Now you can enjoy the port on your PS5.</description>
       <pubDate>1.00</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] Mediathek</title>
+      <link>https://github.com/M0S4YSH3LL0/mediathek-ps5</link>
+      <description>A Netflix-style movie library for (jailbroken) PS5 consoles.</description>
+      <pubDate>01.000.050</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PayLoader</title>
@@ -1317,6 +1323,12 @@
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
       <pubDate>01.000.038</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] Savage Wind</title>
+      <link>https://github.com/bizkut/SavageWindRecomp</link>
+      <description>Native PS5 port of the Savage Wind recompilation with frame generation, FSR 3.1 and HDR. Requires your own game files and keys.</description>
+      <pubDate>ps5-v0.1.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] SpeedBreaker</title>
@@ -1475,10 +1487,16 @@
       <pubDate>01.004.001</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] reUndr</title>
+      <link>https://github.com/bystritskiy/reUndr-ps5</link>
+      <description>Need for Speed: Underground, the Xbox version recompiled to run natively on PS5, in 4K at up to 60 fps (bring your own USA disc).</description>
+      <pubDate>01.000.000</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] Forever Launcher</title>
       <link>https://github.com/bizkut/ps5-forever</link>
       <description>Battle.net launcher for World of Warcraft (Retail, Classic and Forever) with a built-in add-on manager; press Options for the Forever menu and L3+R3 for the on-screen keyboard.</description>
-      <pubDate>01.000.021</pubDate>
+      <pubDate>01.000.023</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] EVO Player</title>
@@ -1604,13 +1622,13 @@
       <title>[ProsperoStore] Crux2</title>
       <link>https://github.com/Press5elect/Crux2</link>
       <description>PCSX2 (PlayStation 2) as a standalone PS5 title on RADV, with a controller-first Big Picture library, network shares, USB disc drives and RetroAchievements.</description>
-      <pubDate>v1.0.15</pubDate>
+      <pubDate>v1.0.17</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Prospero Hi-Fi</title>
       <link>https://github.com/Anime0t4ku/Prospero-Hi-Fi</link>
       <description>A Music Player for hombrew enabled PS5 with lossless audio as the main focus. It's heavily based on my MiSTer Hi-FI project.</description>
-      <pubDate>1.2.0</pubDate>
+      <pubDate>1.3.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Nuvio Max'd</title>
@@ -1982,7 +2000,7 @@
       <title>[ProsperoStore] Snes9x PS5</title>
       <link>https://github.com/MisterTemaki/snes9xPS5</link>
       <description>Snes9x (Super Nintendo) as a native PS5 app.</description>
-      <pubDate>v2.10</pubDate>
+      <pubDate>v2.11</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] FBNeo PS5</title>

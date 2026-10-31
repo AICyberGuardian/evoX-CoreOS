@@ -4,15 +4,15 @@
         {
             "name": "Cyberworld Endless",
             "filename": "CWEN00001.zip",
-            "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.18.0/cyberworld-endless-ps5.zip",
-            "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.18.0/CWEN00001.zip",
+            "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.18.1/cyberworld-endless-ps5.zip",
+            "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.18.1/CWEN00001.zip",
             "description": "A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generated net of battles, loot and guardian Navis.",
-            "version": "0.18.0",
+            "version": "0.18.1",
             "category": "Games",
             "kind": "game",
             "titleid": "CWEN00001",
             "author": "Saschb2b",
-            "checksum": "0a256bb0b153c4c003cf14df1d761bef8aef805e18ad1815563a6a9203da8eb8",
+            "checksum": "fd3fbd616a31cf7d31928eb00ef0bb91a6df589d8dbb560ec99a778f42204c9d",
             "source": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless"
         },
         {
@@ -74,15 +74,15 @@
         {
             "name": "Home5",
             "filename": "PPSA11019.zip",
-            "url": "https://github.com/bornaradusin/Home5/releases/download/1.0.2/PPSA11019.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA11019/1.0.2/PPSA11019.zip",
+            "url": "https://github.com/bornaradusin/Home5/releases/download/1.0.3/PPSA11019.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA11019/1.0.3/PPSA11019.zip",
             "description": "Home Assistant on the PS5: your own rooms of lights, blinds, thermostats, scenes and sensors, with the DualSense. L2/R2 dim lights and the light bar follows them.",
-            "version": "1.0.2",
+            "version": "1.0.3",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA11019",
             "author": "bornaradusin",
-            "checksum": "3b12fddc9495ac2c011a8764e1a116a13a26020c742eb4cf43a8814d5cfa06f5",
+            "checksum": "ac97390d6fb853334f4ed85226842dd24d40ff68edbc605b53047c2158f33a1d",
             "source": "https://github.com/bornaradusin/Home5"
         },
         {
@@ -186,15 +186,15 @@
         {
             "name": "ProsperoSunshine",
             "filename": "PPSA47989.zip",
-            "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.1.1/PPSA47989.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.1.1/PPSA47989.zip",
+            "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.1.3/PPSA47989.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.1.3/PPSA47989.zip",
             "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio and controller input. Tested on firmware 13.00; other versions untested.",
-            "version": "0.1.1",
+            "version": "0.1.3",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA47989",
             "author": "Darkatek7",
-            "checksum": "c6c07aa06029bcdcf483418a97d500eb60b00edd3fc782e1487a47d59c6abd88",
+            "checksum": "56dad410289121c72d97a899c775b4a8eeb5a980c5b17f6e30c5b236a9244c9f",
             "source": "https://github.com/Darkatek7/ProsperoSunshine"
         },
         {
@@ -238,6 +238,20 @@
             "author": "AngelXex",
             "checksum": "96861b81c1fbaac818080d1bf958b575e6b44d2c258684e1931f2940cee2fb43",
             "source": "https://github.com/darkxex/PS5_Celeste"
+        },
+        {
+            "name": "Mediathek",
+            "filename": "PPSA66120.zip",
+            "url": "https://github.com/M0S4YSH3LL0/mediathek-ps5/releases/download/01.000.050/Mediathek-PPSA66120-01.000.050.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA66120/01.000.050/PPSA66120.zip",
+            "description": "A Netflix-style movie library for (jailbroken) PS5 consoles.",
+            "version": "01.000.050",
+            "category": "Apps",
+            "kind": "app",
+            "titleid": "PPSA66120",
+            "author": "m0",
+            "checksum": "64379d2036168631c4b4ca400ecbbbdcedcdd4e30f653af400a0f52497400fbe",
+            "source": "https://github.com/M0S4YSH3LL0/mediathek-ps5"
         },
         {
             "name": "PayLoader",
@@ -476,6 +490,20 @@
             "author": "Darkatek7",
             "checksum": "d9035950e6f593245ada7b886b15f8958cc63e72846451d5f702d58cd9a1bb26",
             "source": "https://github.com/Darkatek7/ProsperoThemes"
+        },
+        {
+            "name": "Savage Wind",
+            "filename": "PPSA90212.zip",
+            "url": "https://github.com/bizkut/SavageWindRecomp/releases/download/ps5-v0.1.0/SavageWind-PS5-ps5-v0.1.0.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA90212/ps5-v0.1.0/PPSA90212.zip",
+            "description": "Native PS5 port of the Savage Wind recompilation with frame generation, FSR 3.1 and HDR. Requires your own game files and keys.",
+            "version": "ps5-v0.1.0",
+            "category": "Games",
+            "kind": "game",
+            "titleid": "PPSA90212",
+            "author": "bizkut",
+            "checksum": "445d09ec6467acd75d97236362012b488cac0a8891af4bfc718ce28867a0b3ba",
+            "source": "https://github.com/bizkut/SavageWindRecomp"
         },
         {
             "name": "SpeedBreaker",
@@ -842,17 +870,31 @@
             "source": "https://github.com/bystritskiy/rePOP-ps5"
         },
         {
+            "name": "reUndr",
+            "filename": "PPSA99025.zip",
+            "url": "https://github.com/bystritskiy/reUndr-ps5/releases/download/01.000.000/PPSA99025-01.000.000.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99025/01.000.000/PPSA99025.zip",
+            "description": "Need for Speed: Underground, the Xbox version recompiled to run natively on PS5, in 4K at up to 60 fps (bring your own USA disc).",
+            "version": "01.000.000",
+            "category": "Games",
+            "kind": "game",
+            "titleid": "PPSA99025",
+            "author": "bystritskiy",
+            "checksum": "7050c94265d7df704aa29639d727d1a5f666d4dc8c0cccf6726237702d88f0e2",
+            "source": "https://github.com/bystritskiy/reUndr-ps5"
+        },
+        {
             "name": "Forever Launcher",
             "filename": "PPSA99030.zip",
-            "url": "https://github.com/bizkut/ps5-forever/releases/download/01.000.021/PPSA99030.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99030/01.000.021/PPSA99030.zip",
+            "url": "https://github.com/bizkut/ps5-forever/releases/download/01.000.023/PPSA99030.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99030/01.000.023/PPSA99030.zip",
             "description": "Battle.net launcher for World of Warcraft (Retail, Classic and Forever) with a built-in add-on manager; press Options for the Forever menu and L3+R3 for the on-screen keyboard.",
-            "version": "01.000.021",
+            "version": "01.000.023",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99030",
             "author": "bizkut",
-            "checksum": "8a64493e56ee667259133b559509eccfcd89c89a856b73550c19993229b4ba34",
+            "checksum": "c2867e71abf7d716f8acd4770448770132a537fdb35895de47f68313257b937d",
             "source": "https://github.com/bizkut/ps5-forever"
         },
         {
@@ -1138,29 +1180,29 @@
         {
             "name": "Crux2",
             "filename": "PPSA99249.zip",
-            "url": "https://github.com/Press5elect/Crux2/releases/download/v1.0.15/Crux2-v1.0.15.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99249/v1.0.15/PPSA99249.zip",
+            "url": "https://github.com/Press5elect/Crux2/releases/download/v1.0.17/Crux2-v1.0.17.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99249/v1.0.17/PPSA99249.zip",
             "description": "PCSX2 (PlayStation 2) as a standalone PS5 title on RADV, with a controller-first Big Picture library, network shares, USB disc drives and RetroAchievements.",
-            "version": "v1.0.15",
+            "version": "v1.0.17",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99249",
             "author": "Press5elect",
-            "checksum": "c7e7415b37a40f9f1e0947a6a1584fe76dcc5260ac1c7760bf9859ce583ca015",
+            "checksum": "dc0dd59ee77a23b8c1baeb7cd1347100d553a6159c319aa8a263887a308a355e",
             "source": "https://github.com/Press5elect/Crux2"
         },
         {
             "name": "Prospero Hi-Fi",
             "filename": "PPSA99287.zip",
-            "url": "https://github.com/Anime0t4ku/Prospero-Hi-Fi/releases/download/v1.2.0/prospero-hifi.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99287/1.2.0/PPSA99287.zip",
+            "url": "https://github.com/Anime0t4ku/Prospero-Hi-Fi/releases/download/v1.3.0/prospero-hifi.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99287/1.3.0/PPSA99287.zip",
             "description": "A Music Player for hombrew enabled PS5 with lossless audio as the main focus. It's heavily based on my MiSTer Hi-FI project.",
-            "version": "1.2.0",
+            "version": "1.3.0",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99287",
             "author": "Anime0t4ku",
-            "checksum": "71d2d6b9ed7c83feee67ce85532e3e43cd6585723e6efc86b7588fab527adc70",
+            "checksum": "9df62d5c1128af0d92aa20957a3d6166fc798a765ac1a4eb26a9b3293957261f",
             "source": "https://github.com/Anime0t4ku/Prospero-Hi-Fi"
         },
         {
@@ -2020,15 +2062,15 @@
         {
             "name": "Snes9x PS5",
             "filename": "PPSA99922.zip",
-            "url": "https://github.com/MisterTemaki/snes9xPS5/releases/download/v2.10/Snes9xPS5-v2.10-PPSA99922.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99922/v2.10/PPSA99922.zip",
+            "url": "https://github.com/MisterTemaki/snes9xPS5/releases/download/v2.11/Snes9xPS5-v2.11-PPSA99922.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99922/v2.11/PPSA99922.zip",
             "description": "Snes9x (Super Nintendo) as a native PS5 app.",
-            "version": "v2.10",
+            "version": "v2.11",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99922",
             "author": "MisterTemaki",
-            "checksum": "8ebb25c608903f8cd5ab90316c751cb9e16aa38fed0e7190777d4f4fd4816341",
+            "checksum": "821495ae35a19d9b522cd546e54dfa2d5d67c29bb249d36fb5b1a1250040a03f",
             "source": "https://github.com/MisterTemaki/snes9xPS5"
         },
         {

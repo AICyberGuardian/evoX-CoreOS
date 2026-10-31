@@ -3,6 +3,42 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA06435",
+      "title": "Like a Dragon Infinite Wealth + DLC",
+      "createdAt": "2026-10-31T13:42:23.061Z",
+      "version": "1.020",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/17c8beee78687faa766b62c894783b2e3e3035bc8280b7aad9b425c049560138",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/56f5c0ab1bca47599f1b9644bbb7976767a7403c1822162c5b487d687c83f328",
+      "description": "Format: LZ4\nEPIC EMOTIONAL DRAMA Two larger-than-life heroes brought together by the hand of fate, or perhaps something more sinister… Ichiban Kasuga, an unstoppable underdog who’s no stranger to crawling up from rock bottom, and Kazuma Kiryu, a broken man facing down his last days. BEST-IN-CLASS RPG ACTION Experience one-of-a-kind combat with dynamic, fast-paced RPG battles where the battlefield becomes your weapon, and anything goes. Adapt your party’s skills to the situation with outlandish jobs and customizations to strategically subdue enemies with over-the-top moves. INFINITE ADVENTURE Live it up in Japan and explore all that Hawaii has to offer in an adventure so big it spans the Pacific. Unforgettable moments await at every step of the journey with a unique mix of quests and activities to enjoy at your leisure. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.\nRegion: USA to EUR Langs\nFirmware: 7.xx+\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-10-31T13:06:08.355Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "LZ4 · Viki",
+          "url": "https://vikingfile.com/f/rENMAUgOpc"
+        }
+      ],
+      "sizeBytes": 67001489818
+    },
+    {
+      "titleId": "PPSA25217",
+      "title": "Super Robot Wars Y",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.0",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/8f93e239b44bd35d6eb39a2bd4e4a5f24fe417fd7a1676218ea048bb7591f5d9",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/e56386b5aece47cca4721b8babd2b6418e5cb77b0ff597539aa0f5ecc8d5de54",
+      "description": "Format: LZ4\nSuper Robot Wars is a grid-based tactical combat RPG that brings units and pilots from a variety of anime together to battle their mutual foes. Place your units strategically and command them to defeat your enemies! Upgrade your units and train your pilots with credits and resources you earn after every mission. Super Robot Wars Y introduces the new Assist Link system, which brings your favorite sidekick characters into action, allowing them to participate in missions and enhance their abilities and effects. Strengthen your heroes to overcome the next challenge! Enjoy the impossible epic battles where units and pilots from all the series clash together! Embark on a journey into lore-rich, new saga of Super Robot Wars! Featured series include: Reideen the Brave COMBATTLER V Aura Battler Dunbine New Story of AURA BATTLER Dunbine Heavy Metal L-Gaim Mobile Suit Z Gundam Mobile Suit Gundam Char's Counterattack M-MSV Mobile Fighter G Gundam Mobile Suit Gundam Wing: Endless Waltz Mobile Suit Gundam SEED Destiny Mobile Suit Gundam the Witch from Mercury Season 1 Mazinkaiser VS the Great General of Darkness Getter Robo Arc Majestic Prince MACROSS Delta Macross Delta: Passionate Walküre Code Geass: Lelouch of the Rebellion III Glorification Code Geass Lelouch of the Re;surrection Godzilla Singular Point SSSS.DYNAZENON *Deluxe Edition and Ultimate Edition products are also available. Be careful of duplicate purchases.\nRegion: USA\nFirmware: 9.xx+\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-10-31T13:04:32.425Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "LZ4 · Viki",
+          "url": "https://vikingfile.com/f/NOYkzrHAwW"
+        }
+      ],
+      "sizeBytes": 17287243366
+    },
+    {
       "titleId": "PPSA02457",
       "title": "Subnautica Below Zero",
       "createdAt": "2026-10-30T23:39:20.425Z",
